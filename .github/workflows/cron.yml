@@ -1,9 +1,7 @@
 name: Trigger CRON to update data
 
 on:
-    workflow_dispatch:
-    schedule:
-        - cron: "*/12 * * * *"
+
 jobs:
     build:
         name: Trigger CRON
