@@ -23,7 +23,6 @@ import { useEffect, useState } from "react";
 import useFavTimeSlots from "../hooks/useFavTimeSlots";
 import VenuesBox from "../components/VenuesBox";
 import TimeSlotsBox from "../components/TimeSlotsBox";
-import fs from "fs";
 import useSWR from "swr";
 import axios from "axios";
 import VenueSlots from "../components/VenueSlots";
@@ -32,8 +31,9 @@ import FieldSizesBox from "../components/FieldSizesBox";
 import { VenueEditor } from "../components/VenueEditor";
 
 const fetcher = (url, body) => axios.post(url, body).then((res) => res.data);
+const getFetcher = (url) => fetch(url).then((res) => res.json());
 
-export default function Home({ venueList }) {
+export default function Home() {
 	const { venues, venueIDs, addVenue, removeVenue } = useFavVenues([
 		{
 			id: "343a53bf-de72-4c70-b41e-d3f378eb3ee1",
@@ -106,6 +106,7 @@ export default function Home({ venueList }) {
 		],
 		fetcher
 	);
+	const venueListAPI = useSWR("/api/venues/all", getFetcher);
 
 	useEffect(() => {
 		console.log(data);
@@ -116,7 +117,7 @@ export default function Home({ venueList }) {
 			<Modal opened={opened} onClose={() => setOpened(false)}>
 				<VenueEditor
 					venues={venues}
-					venueList={venueList}
+					venueList={venueListAPI.data}
 					venueIDs={venueIDs}
 					addVenue={addVenue}
 					removeVenue={removeVenue}
@@ -169,23 +170,4 @@ export default function Home({ venueList }) {
 			</Grid>
 		</AppShellContainer>
 	);
-}
-
-export async function getServerSideProps() {
-	let venueList = JSON.parse(
-		fs.readFileSync("./data/venue_list.json", "utf8")
-	);
-
-	venueList = venueList.map((v) => {
-		return {
-			id: v.id,
-			name: v.name,
-			rating: v.avgRating,
-			area: v.area,
-		};
-	});
-
-	venueList.sort((a, b) => b.rating - a.rating);
-
-	return { props: { venueList } };
 }

@@ -1,12 +1,14 @@
 import fs from "fs";
 import moment from "moment";
+import path from "path";
 
 export default async function handler(req, res) {
 	const { venueIDs, timeSlots, fieldSizes } = req.body;
 	const venueIDsSet = new Set(venueIDs);
 
+	const jsonDirectory = path.join(process.cwd(), "data");
 	let venueList = JSON.parse(
-		fs.readFileSync("./data/venue_list.json", "utf8")
+		fs.readFileSync(jsonDirectory + "/venue_list.json", "utf8")
 	);
 
 	venueList = venueList.filter((venue) => venueIDsSet.has(venue["id"]));

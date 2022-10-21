@@ -1,5 +1,6 @@
 import axios from "axios";
 import fs from "fs";
+import path from "path";
 
 const MAX_DAYS = 2;
 const VENUE_LIST_URL = "https://api.playo.io/venue-public/list";
@@ -32,8 +33,10 @@ export default async function handler(req, res) {
 		if (!page || page == -1) break;
 	}
 
+	const jsonDirectory = path.join(process.cwd(), "data");
+
 	fs.writeFileSync(
-		"./data/venue_list_without_slots.json",
+		jsonDirectory + "/venue_list_without_slots.json",
 		JSON.stringify(venue_list, null, "\t")
 	);
 
@@ -99,7 +102,7 @@ export default async function handler(req, res) {
 	console.log("Final Venues: ", venue_list.length);
 
 	fs.writeFileSync(
-		"./data/venue_list.json",
+		jsonDirectory + "/venue_list.json",
 		JSON.stringify(venue_list, null, "\t")
 	);
 
