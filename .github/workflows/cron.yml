@@ -3,7 +3,7 @@ name: Trigger CRON to update data
 on:
     workflow_dispatch:
     schedule:
-        - cron: "*/12 * * * *"
+        - cron: "0 */6 * * *"
 
 jobs:
     build:
@@ -16,6 +16,6 @@ jobs:
                   node-version: 16
             - name: Run script file
               run: |
-                chmod +x ./scripts/cron.sh
-                ./scripts/cron.sh
+                  chmod +x ./scripts/cron.sh
+                  ./scripts/cron.sh
               shell: bash

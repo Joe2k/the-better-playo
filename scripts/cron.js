@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 
-const MAX_DAYS = 2;
+const MAX_DAYS = 14;
 const VENUE_LIST_URL = "https://api.playo.io/venue-public/list";
 const BOOKING_URL =
 	"https://playo.club/book-api/v5/availability/{{id}}/{{sport_id}}/{{date}}/?userId=8871905885&deviceType=99";
