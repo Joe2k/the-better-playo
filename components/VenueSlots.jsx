@@ -68,7 +68,7 @@ const VenueSlots = ({ venue }) => {
 								radius="xl"
 								onClick={() => setSelectedDate(date)}
 							>
-								{moment(date).format("Do MMM")}
+								{moment(date).format("Do MMM | ddd")}
 							</Button>
 						))}
 				</div>

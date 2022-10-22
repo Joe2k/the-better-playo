@@ -13,6 +13,7 @@ import {
 	NavLink,
 	Button,
 	Anchor,
+	Divider,
 } from "@mantine/core";
 import { IconBrandGithub } from "@tabler/icons";
 import Link from "next/link";
@@ -62,19 +63,18 @@ export default function AppShellContainer({ children }) {
 							Contribute
 						</Button>
 					</Anchor>
-					<Footer height={60} p="md" fixed={false}>
-						<Text align="center">
-							Made with ♡ by{" "}
-							<Anchor
-								variant="gradient"
-								underline
-								target="_blank"
-								href="https://github.com/Joe2k"
-							>
-								Jonathan Samuel
-							</Anchor>
-						</Text>
-					</Footer>
+					<Divider mt={20} />
+					<Text align="center" mt={20} size={20} weight={600}>
+						Made with ♡ by{" "}
+						<Anchor
+							variant="gradient"
+							underline
+							target="_blank"
+							href="https://github.com/Joe2k"
+						>
+							Jonathan Samuel
+						</Anchor>
+					</Text>
 				</Navbar>
 			}
 			header={
