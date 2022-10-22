@@ -4,6 +4,7 @@ import styles from "../styles/Home.module.css";
 import {
 	Accordion,
 	ActionIcon,
+	Alert,
 	Badge,
 	Button,
 	Card,
@@ -169,6 +170,22 @@ export default function Home() {
 							</Grid.Col>
 						</>
 					))}
+				{data && data.length === 0 && (
+					<Grid.Col
+						span={12}
+						style={{
+							paddingLeft: "3vw",
+							paddingRight: "3vw",
+						}}
+					>
+						<Alert color="teal">
+							<Text align="center" weight={600} size="md">
+								Add some of your favorite venues in the top to
+								see the results!
+							</Text>
+						</Alert>
+					</Grid.Col>
+				)}
 				{!data && <VenueSlotsSkeleton />}
 			</Grid>
 		</AppShellContainer>
