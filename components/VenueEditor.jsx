@@ -1,4 +1,12 @@
-import { Button, Divider, Group, ScrollArea, TextInput } from "@mantine/core";
+import {
+	Button,
+	Center,
+	Divider,
+	Group,
+	Loader,
+	ScrollArea,
+	TextInput,
+} from "@mantine/core";
 import React, { useState } from "react";
 import { IconPlus, IconTrash, IconSearch } from "@tabler/icons";
 
@@ -39,32 +47,40 @@ export const VenueEditor = ({
 			/>
 
 			<ScrollArea style={{ height: "30vh" }} type="always">
-				{venueList
-					?.filter((v) => !venueIDs.has(v.id))
-					.filter(
-						(v) =>
-							v.name
-								.toLowerCase()
-								.includes(search.toLowerCase()) ||
-							v.area.toLowerCase().includes(search.toLowerCase())
-					)
-					.map((v) => (
-						<Button
-							key={v.id}
-							variant="light"
-							color="teal"
-							size="xs"
-							radius="xl"
-							fullWidth
-							sx={{ marginBottom: "2vh" }}
-							leftIcon={<IconPlus size={14} />}
-							onClick={() => addVenue(v.id, v.name)}
-						>
-							{v.name.length > 30
-								? v.name.substring(0, 30 - 3) + "..."
-								: v.name}
-						</Button>
-					))}
+				{venueList &&
+					venueList
+						?.filter((v) => !venueIDs.has(v.id))
+						.filter(
+							(v) =>
+								v.name
+									.toLowerCase()
+									.includes(search.toLowerCase()) ||
+								v.area
+									.toLowerCase()
+									.includes(search.toLowerCase())
+						)
+						.map((v) => (
+							<Button
+								key={v.id}
+								variant="light"
+								color="teal"
+								size="xs"
+								radius="xl"
+								fullWidth
+								sx={{ marginBottom: "2vh" }}
+								leftIcon={<IconPlus size={14} />}
+								onClick={() => addVenue(v.id, v.name)}
+							>
+								{v.name.length > 30
+									? v.name.substring(0, 30 - 3) + "..."
+									: v.name}
+							</Button>
+						))}
+				{!venueList && (
+					<Center>
+						<Loader color="teal" />
+					</Center>
+				)}
 			</ScrollArea>
 		</>
 	);

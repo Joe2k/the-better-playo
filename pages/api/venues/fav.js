@@ -4,6 +4,7 @@ import path from "path";
 
 export default async function handler(req, res) {
 	const { venueIDs, timeSlots, fieldSizes } = req.body;
+	console.log("Time Slots", timeSlots);
 	const venueIDsSet = new Set(venueIDs);
 
 	const jsonDirectory = path.join(process.cwd(), "data");
@@ -131,6 +132,7 @@ export default async function handler(req, res) {
 									)
 								) {
 									console.log(
+										venue["name"],
 										court["courtName"],
 										slotStartingTime.format("h:mm A"),
 										slotEndingTime.format("h:mm A"),

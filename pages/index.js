@@ -14,6 +14,7 @@ import {
 	Modal,
 	MultiSelect,
 	ScrollArea,
+	Skeleton,
 	Text,
 	TextInput,
 } from "@mantine/core";
@@ -29,6 +30,7 @@ import VenueSlots from "../components/VenueSlots";
 import useFavFieldSizes from "../hooks/useFavFieldSizes";
 import FieldSizesBox from "../components/FieldSizesBox";
 import { VenueEditor } from "../components/VenueEditor";
+import VenueSlotsSkeleton from "../components/VenueSlotsSkeleton";
 
 const fetcher = (url, body) => axios.post(url, body).then((res) => res.data);
 const getFetcher = (url) => fetch(url).then((res) => res.json());
@@ -77,7 +79,7 @@ export default function Home() {
 		"12PM-3PM": ["12:00:00", "15:00:00"],
 		"3PM-6PM": ["15:00:00", "18:00:00"],
 		"6PM-9PM": ["18:00:00", "21:00:00"],
-		"9PM-12AM": ["21:00:00", "00:00:00"],
+		"9PM-12AM": ["21:00:00", "24:00:00"],
 	};
 
 	const fieldSizeMap = {
@@ -167,6 +169,7 @@ export default function Home() {
 							</Grid.Col>
 						</>
 					))}
+				{!data && <VenueSlotsSkeleton />}
 			</Grid>
 		</AppShellContainer>
 	);
