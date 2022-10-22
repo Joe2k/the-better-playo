@@ -14,5 +14,8 @@ jobs:
             - uses: actions/setup-node@v3
               with:
                   node-version: 16
-            - run: sudo chmod -x scripts/cron.sh
-            - run: scripts/cron.sh
+            - name: Run script file
+            run: |
+              chmod +x ./scripts/cron.sh
+              ./scripts/cron.sh
+            shell: bash
