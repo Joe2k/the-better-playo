@@ -1,6 +1,6 @@
-import axios from "axios";
-import fs from "fs";
-import path from "path";
+const axios = require("axios");
+const fs = require("fs");
+const path = require("path");
 
 const MAX_DAYS = 2;
 const VENUE_LIST_URL = "https://api.playo.io/venue-public/list";
@@ -10,7 +10,6 @@ const BOOKING_URL =
 let page = 0;
 let venue_list = [];
 let date_list = [];
-console.time();
 
 for (let i = 0; i < MAX_DAYS; i++) {
 	let date = new Date();
@@ -18,91 +17,97 @@ for (let i = 0; i < MAX_DAYS; i++) {
 	date_list.push(date.toISOString().slice(0, 10));
 }
 
-while (true) {
-	const resp = await axios.post(VENUE_LIST_URL, {
-		page,
-		lat: 12.9716,
-		lng: 77.5946,
-		sportId: [],
-	});
+const mainFunction = async () => {
+	console.time();
 
-	venue_list.push(...resp.data["list"]);
-	page = resp.data["nextPage"];
+	while (true) {
+		const resp = await axios.post(VENUE_LIST_URL, {
+			page,
+			lat: 12.9716,
+			lng: 77.5946,
+			sportId: [],
+		});
 
-	if (!page || page == -1) break;
-}
+		venue_list.push(...resp.data["list"]);
+		page = resp.data["nextPage"];
 
-const jsonDirectory = path.join(process.cwd(), "data");
+		if (!page || page == -1) break;
+	}
 
-fs.writeFileSync(
-	jsonDirectory + "/venue_list_without_slots.json",
-	JSON.stringify(venue_list, null, "\t")
-);
+	const jsonDirectory = path.join(process.cwd(), "data");
 
-console.log("Total Venues: ", venue_list.length);
-let counter = 1;
+	fs.writeFileSync(
+		jsonDirectory + "/venue_list_without_slots.json",
+		JSON.stringify(venue_list, null, "\t")
+	);
 
-let i = venue_list.length;
-while (i--) {
-	let venue = venue_list[i];
-	let hasFootball = false;
+	console.log("Total Venues: ", venue_list.length);
+	let counter = 1;
 
-	console.log("Fetching for venue: ", counter++);
+	let i = venue_list.length;
+	while (i--) {
+		let venue = venue_list[i];
+		let hasFootball = false;
 
-	const functionDataList = venue["functionData"];
-	const sportsIDs = venue["bookSports"];
+		console.log("Fetching for venue: ", counter++);
 
-	try {
-		for (const functionData of functionDataList) {
-			if (
-				functionData["priority"] === "0" &&
-				functionData["type"] !== 1
-			) {
-				for (const sportID of sportsIDs) {
-					if (sportID === "SP2") {
-						hasFootball = true;
-						for (const date of date_list) {
-							const booking_url = BOOKING_URL.replace(
-								"{{id}}",
-								functionData["content"]
-							)
-								.replace("{{sport_id}}", sportID)
-								.replace("{{date}}", date);
+		const functionDataList = venue["functionData"];
+		const sportsIDs = venue["bookSports"];
 
-							const resp = await axios.get(booking_url, {
-								headers: {
-									Authorization: `b4ee93df154de37b0e38aa6a5dfda071aa751bfa`,
-								},
-							});
+		try {
+			for (const functionData of functionDataList) {
+				if (
+					functionData["priority"] === "0" &&
+					functionData["type"] !== 1
+				) {
+					for (const sportID of sportsIDs) {
+						if (sportID === "SP2") {
+							hasFootball = true;
+							for (const date of date_list) {
+								const booking_url = BOOKING_URL.replace(
+									"{{id}}",
+									functionData["content"]
+								)
+									.replace("{{sport_id}}", sportID)
+									.replace("{{date}}", date);
 
-							if (!("booking_slots" in venue))
-								venue["booking_slots"] = {};
-							if (!(sportID in venue["booking_slots"]))
-								venue["booking_slots"][sportID] = {};
+								const resp = await axios.get(booking_url, {
+									headers: {
+										Authorization: `b4ee93df154de37b0e38aa6a5dfda071aa751bfa`,
+									},
+								});
 
-							venue["booking_slots"][sportID][date] =
-								resp.data["data"];
+								if (!("booking_slots" in venue))
+									venue["booking_slots"] = {};
+								if (!(sportID in venue["booking_slots"]))
+									venue["booking_slots"][sportID] = {};
+
+								venue["booking_slots"][sportID][date] =
+									resp.data["data"];
+							}
 						}
 					}
 				}
 			}
+		} catch (e) {
+			console.error(e);
+			console.log("Error venue: ", venue);
 		}
-	} catch (e) {
-		console.error(e);
-		console.log("Error venue: ", venue);
+		if (hasFootball) {
+			venue_list[i] = venue;
+		} else {
+			venue_list.splice(i, 1);
+		}
 	}
-	if (hasFootball) {
-		venue_list[i] = venue;
-	} else {
-		venue_list.splice(i, 1);
-	}
-}
 
-console.log("Final Venues: ", venue_list.length);
+	console.log("Final Venues: ", venue_list.length);
 
-fs.writeFileSync(
-	jsonDirectory + "/venue_list.json",
-	JSON.stringify(venue_list, null, "\t")
-);
+	fs.writeFileSync(
+		jsonDirectory + "/venue_list.json",
+		JSON.stringify(venue_list, null, "\t")
+	);
 
-console.timeEnd();
+	console.timeEnd();
+};
+
+mainFunction();
