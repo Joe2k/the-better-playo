@@ -15,7 +15,7 @@ jobs:
               with:
                   node-version: 16
             - name: Run script file
-            run: |
-              chmod +x ./scripts/cron.sh
-              ./scripts/cron.sh
-            shell: bash
+              run: |
+                chmod +x ./scripts/cron.sh
+                ./scripts/cron.sh
+              shell: bash
