@@ -25729,7 +25729,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 32,
+		"ratingCount": 33,
 		"bookSports": [
 			"SP5"
 		],
@@ -58916,47 +58916,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "62e3949fc45768436f6f145e",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "- Offer valid on bookings between 10 PM & 12 AM on all days! <br/>\n- Offer valid on adding slots for 2 hours to your cart <br/>",
-				"countryCode": "+91",
-				"createdTS": "2022-07-29T08:04:47.926Z",
-				"offerContent": "000d74fc-eaa3-47bf-8f72-27a71897728c",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/AhSportsStreetExclusivePlayoOfferBookfor1hourPlayofor28atv3vcover1662044001978.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "ah-sport-street-exclusive-playo-offer-book-for-1-hour-play-for-2!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=000d74fc-eaa3-47bf-8f72-27a71897728c",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "AH Sport Street Exclusive Playo Offer - Book for 1 hour & Play for 2!",
-				"id": "55fc6e14-7d77-4422-9fed-8c6bf0d0959c",
-				"offerName": "AH Sport Street Exclusive Playo Offer - Book for 1 hour & Play for 2!",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"shareLink": "https://z34v4.app.goo.gl/KQcC",
-				"deferLink": "https://z34v4.app.goo.gl/s1Ne"
 			}
 		]
 	},
@@ -65675,104 +65634,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/zWFs"
 			}
 		]
-	},
-	{
-		"oldPlayoId": "1d7d1593-d44b-40dd-b26d-0d2e222e2c2e",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-10-31T08:03:46.387Z",
-		"bookType": 0,
-		"ratingCount": 1,
-		"zipCode": "562128",
-		"modTS": "2022-06-07T16:08:59.404Z",
-		"inquiryPhone": "8123431795",
-		"inquiryType": -1,
-		"phone": [
-			"8123431795"
-		],
-		"sponsored": "",
-		"avgRating": 5,
-		"address": "Rasta Cafe, Bangalore Mysore Highway, Ramanagara, SH17, Mayaganahalli, Karnataka - 562128",
-		"active": true,
-		"id": "1d7d1593-d44b-40dd-b26d-0d2e222e2c2e",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "thegame,rasta",
-		"bookSports": [
-			"SP2"
-		],
-		"name": "The Game Changer - Rasta Cafe",
-		"area": "Mysore Road",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"content": "1d7d1593-d44b-40dd-b26d-0d2e222e2c2e",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"timings": "Open 24x7",
-		"sports": [
-			"SP2"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "the-game-changer-rasta-cafe-mysore-road-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=1d7d1593-d44b-40dd-b26d-0d2e222e2c2e",
-		"type": 0,
-		"email": [
-			"campaignmanager@thegamechanger.club"
-		],
-		"s3Folder": "THEGAMECHANGERRASTACAFE20191031080346387298",
-		"shareLink": "https://z34v4.app.goo.gl/YLyz",
-		"deferLink": "https://z34v4.app.goo.gl/njpS",
-		"lat": 12.7661,
-		"lng": 77.331498,
-		"venueId": "1d7d1593-d44b-40dd-b26d-0d2e222e2c2e",
-		"__v": 2,
-		"coverImage": "",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/THEGAMECHANGERRASTACAFE20191031080346387298/TheGameChangerRastaCafe0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THEGAMECHANGERRASTACAFE20191031080346387298/TheGameChangerRastaCafe1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THEGAMECHANGERRASTACAFE20191031080346387298/TheGameChangerRastaCafe2.jpg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "https://playo.imgix.net/THEGAMECHANGERRASTACAFE20191031080346387298/TheGameChangerRastaCafemap1572509454180.png",
-		"remarks": "",
-		"isSafeAndHygiene": true,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2022-10-25T18:30:02.327Z",
-		"distance": 36.58633792322679,
-		"activeKey": "the-game-changer-rasta-cafe-mysore-road-bengaluru",
-		"offers": []
 	},
 	{
 		"inquiryPhone": "9972941555",
