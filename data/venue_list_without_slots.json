@@ -16663,7 +16663,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T16:42:32.004Z",
 		"bookType": 0,
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"zipCode": "560024",
 		"modTS": "2022-04-12T10:38:02.220Z",
 		"inquiryPhone": "7892071953",
@@ -16672,7 +16672,7 @@
 			"7892071953"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "8th Main Rd, Sandyagappa Reddy Layout, Coffee Board Layout",
 		"active": true,
 		"id": "88b05b78-375f-4700-a3c8-0f21d147e819",
@@ -47792,7 +47792,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 541,
+		"ratingCount": 542,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
