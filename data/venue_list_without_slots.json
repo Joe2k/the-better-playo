@@ -11600,7 +11600,7 @@
 		"createdTS": "2017-01-07T17:23:44.037Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-20T11:12:21.448Z",
-		"ratingCount": 66,
+		"ratingCount": 67,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHDAY/Matchday0.JPG"
@@ -18280,7 +18280,7 @@
 				"createdTS": "2022-08-10T18:15:31.649Z",
 				"offerContent": "3b4758ff-55de-403b-b035-19bdfceadad0",
 				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/ISROMatchpointHappyhoursofferlgt2pcover1666077448425.jpg",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/ISROMatchpointHappyhoursoffer20227zksgocover1666945546470.png",
 				"expiry": "2022-11-18T00:00:00.000Z",
 				"multiCity": false,
 				"sports": "SP5",
@@ -18307,8 +18307,8 @@
 				"shareMsg": "ISRO Matchpoint -  Happy hours offer 2022!!",
 				"id": "40528537-16b8-4ae0-9579-57c120d5203b",
 				"offerName": "ISRO Matchpoint -  Happy hours offer 2022!!",
-				"shareLink": "https://z34v4.app.goo.gl/HLzu",
-				"deferLink": "https://z34v4.app.goo.gl/q2mm",
+				"shareLink": "https://z34v4.app.goo.gl/DWnz",
+				"deferLink": "https://z34v4.app.goo.gl/wUhw",
 				"cityLat": 12.9539974,
 				"cityLng": 77.6309395
 			}
@@ -36463,7 +36463,7 @@
 		"phone": [
 			"9902466116"
 		],
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"name": "Feather Touch Sports Arena - Channasandra",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-10T17:12:09.379Z",
@@ -36471,7 +36471,7 @@
 		"createdTS": "2018-04-10T17:12:09.379Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-04T11:02:02.817Z",
-		"ratingCount": 99,
+		"ratingCount": 100,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERTOUCHSPORTS/feathertouchsportsdrivein1596521472307.jpg"
@@ -51794,7 +51794,7 @@
 		"description": "",
 		"createdTS": "2021-06-20T15:14:15.772Z",
 		"bookType": 0,
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"zipCode": "560049",
 		"modTS": "2022-08-06T06:00:14.896Z",
 		"inquiryPhone": "6364834834",
