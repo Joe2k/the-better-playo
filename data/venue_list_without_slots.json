@@ -2584,7 +2584,7 @@
 		"bookType": 0,
 		"ratingCount": 6,
 		"zipCode": "560095",
-		"modTS": "2022-10-28T10:42:37.187Z",
+		"modTS": "2022-10-28T12:25:54.469Z",
 		"inquiryPhone": "9858403939",
 		"inquiryType": -1,
 		"phone": [
@@ -2616,7 +2616,7 @@
 				"type": 3
 			}
 		],
-		"timings": "6 AM -  8 PM",
+		"timings": "Monday to Saturday: 6 AM -  8 PM; Holiday on Sunday",
 		"sports": [
 			"SP2"
 		],
@@ -31898,7 +31898,7 @@
 		"description": "",
 		"createdTS": "2022-06-14T14:24:16.054Z",
 		"bookType": 0,
-		"ratingCount": 36,
+		"ratingCount": 37,
 		"zipCode": "560076",
 		"modTS": "2022-09-13T05:36:40.893Z",
 		"inquiryPhone": "9886073270",
@@ -41178,7 +41178,7 @@
 		"createdTS": "2018-08-30T18:55:41.963Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-23T10:23:00.603Z",
-		"ratingCount": 55,
+		"ratingCount": 56,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLESHOTS/shuttleshots0.jpg"
