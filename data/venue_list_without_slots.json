@@ -2577,6 +2577,111 @@
 		"offers": []
 	},
 	{
+		"oldPlayoId": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2019-10-25T06:22:09.389Z",
+		"bookType": 0,
+		"ratingCount": 6,
+		"zipCode": "560095",
+		"modTS": "2022-10-28T10:42:37.187Z",
+		"inquiryPhone": "9858403939",
+		"inquiryType": -1,
+		"phone": [
+			"9858403939"
+		],
+		"sponsored": "",
+		"avgRating": 4.3,
+		"address": "No 310/8, Guava Garden, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka",
+		"active": true,
+		"id": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "",
+		"bookSports": [
+			"SP2"
+		],
+		"name": "Rapid Sport Fitness",
+		"area": "Koramangala",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"timings": "6 AM -  8 PM",
+		"sports": [
+			"SP2"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Washroom",
+			"Changeroom",
+			"Parking",
+			"Drinking Water",
+			"First Aid"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "rapid-sport-fitness-koramangala-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n- A maximum of 6 members per booking per court is admissible.<br/>\n<br/>\n\n<br/>\n<br/>",
+		"fullLink": "https://playo.co/venue?venueId=fbb87e4b-9c22-45db-a265-eac9b27c68d8",
+		"type": 0,
+		"email": [
+			"info@rapidsportfitness.com"
+		],
+		"s3Folder": "RAPIDSPORTFITNESS20191025062209389292",
+		"__v": 1,
+		"coverImage": "",
+		"deferLink": "https://z34v4.app.goo.gl/zRBh",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness0.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness1.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness2.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness3.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness4.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/Kz89",
+		"lat": 12.934737,
+		"lng": 77.61772,
+		"venueId": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
+		"isSafeAndHygiene": true,
+		"activityCount": 14,
+		"activityCountLastSyncDate": "2022-10-27T18:30:02.029Z",
+		"bnpl": false,
+		"distance": 4.809382931494854,
+		"activeKey": "rapid-sport-fitness-koramangala-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "f700339e-1516-49e5-bab9-83ef01653ab8",
 		"cityCode": 1,
 		"description": "",
@@ -34538,115 +34643,6 @@
 		]
 	},
 	{
-		"inquiryPhone": "9621601165",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "super-sports-park-bellandur-rmz-ecoworld-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/nJXq",
-		"city": "Bengaluru",
-		"area": "RMZ Ecoworld",
-		"oldPlayoId": "587124206d91cf3645ab0802",
-		"functionData": [
-			{
-				"content": "d07b955d-0cc2-41ad-b98e-8d41149836c5",
-				"caption": "Book Hourly",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP2",
-			"SP56"
-		],
-		"priority": 0,
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/BELIVEIT/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"9621601165"
-		],
-		"avgRating": 4.4,
-		"name": "Super Sports Park - Bellandur",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.107Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.107Z",
-		"inquiryType": -1,
-		"modTS": "2022-10-19T14:30:11.845Z",
-		"ratingCount": 14,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035604212.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035607082.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035610082.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035613452.jpeg"
-			}
-		],
-		"id": "c9fa9ad8-1724-4047-bef0-8b4e1322b47d",
-		"description": "",
-		"category": 2,
-		"s3Folder": "BELIVEIT",
-		"state": "Karnataka",
-		"email": [
-			"Shyambalakrishnan@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Super Sports Park, 11th Floor, Active, Building 8A, RMZ Ecoworld, Bellandur, Bengaluru, Karnataka -  560103",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/AxjB",
-		"search": "super park , park , park sports",
-		"fullLink": "https://playo.co/venue/?venueId=c9fa9ad8-1724-4047-bef0-8b4e1322b47d",
-		"country": "India",
-		"timings": "6 AM - 12 AM",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"isSafeAndHygiene": true,
-		"activityCount": 1,
-		"activityCountLastSyncDate": "2022-10-27T18:30:02.029Z",
-		"bookType": 0,
-		"lat": 12.919357246074503,
-		"lng": 77.68462860368696,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "c9fa9ad8-1724-4047-bef0-8b4e1322b47d",
-		"bnpl": false,
-		"bookSports": [
-			"SP2",
-			"SP56"
-		],
-		"__v": 1,
-		"distance": 11.367438662049695,
-		"activeKey": "super-sports-park-bellandur-rmz-ecoworld-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8884001234",
 		"remarks": "",
 		"infoData": [],
@@ -37051,7 +37047,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 925,
+		"ratingCount": 926,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
