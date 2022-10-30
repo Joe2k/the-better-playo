@@ -622,8 +622,8 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 46,
 		"activityCountLastSyncDate": "2022-10-29T18:30:03.003Z",
-		"avgRating": 5,
-		"ratingCount": 7,
+		"avgRating": 4.5,
+		"ratingCount": 8,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T12:29:43.524Z",
@@ -1906,7 +1906,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 67,
+		"ratingCount": 68,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -16164,7 +16164,7 @@
 		"createdTS": "2017-01-07T17:23:44.188Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-20T09:02:48.643Z",
-		"ratingCount": 413,
+		"ratingCount": 414,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BASELINESPORTS/baselinesports1614668155568.jpeg"
@@ -28900,7 +28900,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:59:16.527Z",
-		"ratingCount": 302,
+		"ratingCount": 303,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -50194,7 +50194,7 @@
 		"description": "",
 		"createdTS": "2022-03-17T20:42:58.533Z",
 		"bookType": 0,
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"zipCode": "560097",
 		"modTS": "2022-10-09T15:08:49.148Z",
 		"inquiryPhone": "8035839271",
