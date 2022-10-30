@@ -864,7 +864,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -873,7 +873,7 @@
 			"9980061333"
 		],
 		"sponsored": "",
-		"avgRating": 3.6,
+		"avgRating": 3.5,
 		"address": "Krumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "49df1a9a-0324-4e78-a6b2-805b52c72390",
@@ -1107,7 +1107,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -1116,7 +1116,7 @@
 			"9980061333"
 		],
 		"sponsored": "",
-		"avgRating": 3.6,
+		"avgRating": 3.5,
 		"address": "Krumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "49df1a9a-0324-4e78-a6b2-805b52c72390",
@@ -7187,7 +7187,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-27T15:29:48.385Z",
-		"ratingCount": 142,
+		"ratingCount": 143,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
