@@ -50836,10 +50836,10 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "j-sports-hoodi-bengaluru"
+				"key": "machaxi-j-sports-hoodi-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/cDW3",
+		"shareLink": "https://z34v4.app.goo.gl/1YsK",
 		"city": "Bengaluru",
 		"area": "Hoodi",
 		"oldPlayoId": "5ad8c5a36d91cf1cc1a358a4",
@@ -50870,13 +50870,13 @@
 			"7204735779"
 		],
 		"avgRating": 4.1,
-		"name": "J Sports",
+		"name": "Machaxi - J Sports",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-19T16:36:50.876Z",
 		"coverImage": "",
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
-		"modTS": "2021-08-09T06:36:35.724Z",
+		"modTS": "2022-10-31T20:34:57.244Z",
 		"ratingCount": 161,
 		"images": [
 			{
@@ -50904,16 +50904,16 @@
 		"s3Folder": "JSPORTS",
 		"state": "Karnataka",
 		"email": [
-			"jsports.in@gmail.com"
+			"saikat@machaxi.com"
 		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
 		"sponsored": "",
 		"members": false,
-		"address": "No.105/3, Near Railway Station, Hoodi Kodigehalli Rd, Saketha Nagar, Kodigehalli, Kadugodi, Bengaluru, Karnataka",
+		"address": "No.105/3, Near Railway Station, Hoodi Kodigehalli Road, Saketha Nagar, Kodigehalli, Kadugodi, Bengaluru, Karnataka",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/EtKY",
+		"deferLink": "https://z34v4.app.goo.gl/QfnN",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=59c9e8ea-881e-4998-9c19-49f8c4b03702",
 		"country": "India",
@@ -50932,8 +50932,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 22892,
 		"activityCountLastSyncDate": "2022-10-31T18:30:01.810Z",
+		"bnpl": false,
 		"distance": 14.13513514299546,
-		"activeKey": "j-sports-hoodi-bengaluru",
+		"activeKey": "machaxi-j-sports-hoodi-bengaluru",
 		"offers": []
 	},
 	{
