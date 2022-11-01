@@ -23939,7 +23939,7 @@
 		"createdTS": "2017-01-07T17:23:44.171Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:39:31.632Z",
-		"ratingCount": 229,
+		"ratingCount": 230,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASPORTS/nammasports0.png"
@@ -25200,7 +25200,7 @@
 		"description": "",
 		"createdTS": "2022-06-20T12:12:51.568Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560068",
 		"modTS": "2022-06-30T13:00:54.798Z",
 		"inquiryPhone": "9900591236",
@@ -25209,7 +25209,7 @@
 			"9900591236"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.5,
 		"address": "1st cross, Lakshmi Layout Main Rd, Gowaramma layout, Garvebhavi Palya, Bengaluru, Karnataka",
 		"active": true,
 		"id": "33d466f1-d1ef-4502-8030-b297418c694f",
@@ -50750,7 +50750,7 @@
 		"coverImage": "",
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-01T07:49:41.003Z",
+		"modTS": "2022-11-01T08:31:11.821Z",
 		"ratingCount": 161,
 		"images": [
 			{
@@ -50783,7 +50783,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "No.105/3, Near Railway Station, Hoodi Kodigehalli Road, Saketha Nagar, Kodigehalli, Kadugodi, Bengaluru, Karnataka",
 		"active": true,
