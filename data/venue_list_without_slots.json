@@ -2783,53 +2783,7 @@
 		"bnpl": false,
 		"distance": 4.924607584487134,
 		"activeKey": "smart-cricket-experience-zone-jayanagar-7th-block-bengaluru",
-		"offers": [
-			{
-				"_id": "596e40f46d91cf11e1301496",
-				"countryCode": "+91",
-				"coupon": "PLAYON",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till October 31, 2022",
-						"content": "https://playo.co/venue/?venueId=f700339e-1516-49e5-bab9-83ef01653ab8",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"shareLink": "https://z34v4.app.goo.gl/AFih",
-				"id": "2603509d-7c80-475e-a8dd-018b422c0028",
-				"city": "Bengaluru",
-				"createdTS": "2017-03-01T00:00:00.000Z",
-				"oldPlayoId": "596e40f46d91cf11e1301496",
-				"sports": "SP57",
-				"cityLng": 77.6309395,
-				"offerType": "venue",
-				"shareMsg": "Smart Cricket Experience Zone Exclusive Playo Offer - Flat 20% off on all your bookings!",
-				"offerName": "Smart Cricket Experience Zone Exclusive Playo Offer - Flat 20% off on all your bookings!",
-				"offerContent": "f700339e-1516-49e5-bab9-83ef01653ab8",
-				"cityCode": 1,
-				"oldVenueId": "596cee786d91cf574aa042fa",
-				"expiry": "2022-10-31T00:00:00.000Z",
-				"active": true,
-				"multiCity": false,
-				"deferLink": "https://z34v4.app.goo.gl/fFpc",
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"imageUrl": "https://playo.gumlet.io/OFFERS/SmartCricketExperienceZoneExclusivePlayoOfferFlat20offonallyourbookingsotvnmcover1664347183587.png",
-				"cityLat": 12.9539974,
-				"activeKey": "smart-cricket-experience-zone-exclusive-playo-offer-flat-20-off-on-all-your-bookings!-bengaluru",
-				"__v": 1,
-				"startDate": "2019-01-16T10:08:10.117Z",
-				"terms": ""
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9844100155",
@@ -44779,45 +44733,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "627e28e8c4576827162b2203",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "*Offer Applicable on all slots.\n*Contact venue for any disputes",
-				"countryCode": "+91",
-				"createdTS": "2022-05-13T09:46:16.702Z",
-				"offerContent": "9e158a31-c2b1-4856-9ec9-352819bffaae",
-				"coupon": "VECTORSUMMER",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/VectorBadmintonCentreSummerOfferzeibxcover1652435116934.jpg",
-				"expiry": "2022-10-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "vector-badminton-centre-summer-offer!!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "VECTORSUMMER",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till October 31, 2022",
-						"content": "https://playo.co/venue/?venueId=9e158a31-c2b1-4856-9ec9-352819bffaae",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Vector Badminton Centre Summer Offer!!",
-				"id": "f3183601-b6fa-42dc-88d1-7c630cf74298",
-				"offerName": "Vector Badminton Centre Summer Offer!!",
-				"shareLink": "https://z34v4.app.goo.gl/g5J9",
-				"deferLink": "https://z34v4.app.goo.gl/h8Yp"
 			}
 		]
 	},
