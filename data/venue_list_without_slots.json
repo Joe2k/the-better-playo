@@ -12203,7 +12203,7 @@
 		"coverImage": "https://playo.gumlet.io/FEVERPITCH/TheSportsHabitatFeverPitchcovercover1575655815307.jpeg",
 		"createdTS": "2017-11-13T14:05:38.282Z",
 		"inquiryType": -1,
-		"modTS": "2022-03-01T12:19:41.474Z",
+		"modTS": "2022-11-01T07:03:21.569Z",
 		"ratingCount": 39,
 		"images": [
 			{
@@ -12227,7 +12227,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "FeverPitch, 6/3, Tumkur Main Road, Near Goraguntepalya Metro Station, Yeshwanthpur Industrial Area Phase 1",
 		"active": true,
@@ -12237,7 +12237,7 @@
 		"country": "India",
 		"timings": "5 AM - 2 AM",
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 4,
 		"bookSports": [
 			"SP2",
 			"SP56"
@@ -12251,51 +12251,10 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 4740,
 		"activityCountLastSyncDate": "2022-10-31T18:30:01.810Z",
+		"bnpl": false,
 		"distance": 8.211033955168364,
 		"activeKey": "the-sports-habitat-yeshwanthpur-tumkur-road-bengaluru",
-		"offers": [
-			{
-				"_id": "5cb432ea6d91cf3480ec0340",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-04-15T07:29:46.185Z",
-				"offerContent": "f5f1965b-6718-4679-a115-990fbcedfb64",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/TSHAcharyaExclusiveOfferBook2hoursofFootballorBoxCricketatjust1800zvd1rcover1666173100132.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "tsh-yeshwanthpur-exclusive-offer-book-2-hours-of-football-or-box-cricket-at-just-₹1800!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=f5f1965b-6718-4679-a115-990fbcedfb64",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "TSH Yeshwanthpur Exclusive Offer - Book 2 hours of Football or Box Cricket at just ₹1,800!",
-				"id": "244b3cd7-e753-41f6-a639-51ece215abcf",
-				"offerName": "TSH Yeshwanthpur Exclusive Offer - Book 2 hours of Football or Box Cricket at just ₹1,800!",
-				"shareLink": "https://z34v4.app.goo.gl/UiVp",
-				"deferLink": "https://z34v4.app.goo.gl/3c5o",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "\n- Offer valid only on weekdays. <br/>\n"
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9900581182",
@@ -50745,16 +50704,16 @@
 		]
 	},
 	{
-		"inquiryPhone": "9972944555",
+		"inquiryPhone": "7204735779",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "machaxi-j-sports-hoodi-bengaluru"
+				"key": "machaxi-j-sports-formerly-j-sports-hoodi-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/1YsK",
+		"shareLink": "https://z34v4.app.goo.gl/rc6K",
 		"city": "Bengaluru",
 		"area": "Hoodi",
 		"oldPlayoId": "5ad8c5a36d91cf1cc1a358a4",
@@ -50785,13 +50744,13 @@
 			"7204735779"
 		],
 		"avgRating": 4.1,
-		"name": "Machaxi - J Sports",
+		"name": "Machaxi - J Sports (formerly J Sports)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-19T16:36:50.876Z",
 		"coverImage": "",
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
-		"modTS": "2022-10-31T20:34:57.244Z",
+		"modTS": "2022-11-01T07:49:41.003Z",
 		"ratingCount": 161,
 		"images": [
 			{
@@ -50819,7 +50778,7 @@
 		"s3Folder": "JSPORTS",
 		"state": "Karnataka",
 		"email": [
-			"saikat@machaxi.com"
+			"hello@machaxi.com"
 		],
 		"logoImg": "",
 		"tags": [],
@@ -50828,7 +50787,7 @@
 		"members": false,
 		"address": "No.105/3, Near Railway Station, Hoodi Kodigehalli Road, Saketha Nagar, Kodigehalli, Kadugodi, Bengaluru, Karnataka",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/QfnN",
+		"deferLink": "https://z34v4.app.goo.gl/WgdM",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=59c9e8ea-881e-4998-9c19-49f8c4b03702",
 		"country": "India",
@@ -50849,7 +50808,7 @@
 		"activityCountLastSyncDate": "2022-10-31T18:30:01.810Z",
 		"bnpl": false,
 		"distance": 14.13513514299546,
-		"activeKey": "machaxi-j-sports-hoodi-bengaluru",
+		"activeKey": "machaxi-j-sports-formerly-j-sports-hoodi-bengaluru",
 		"offers": []
 	},
 	{
@@ -57189,13 +57148,13 @@
 		"bookType": 0,
 		"ratingCount": 12,
 		"zipCode": "560107",
-		"modTS": "2022-06-22T05:16:37.641Z",
+		"modTS": "2022-11-01T07:03:01.184Z",
 		"inquiryPhone": "9731091599",
 		"inquiryType": -1,
 		"phone": [
 			"9731091599"
 		],
-		"sponsored": "",
+		"sponsored": "Featured",
 		"avgRating": 4.6,
 		"address": "Opposite Acharya University, #44, Hesaraghatta Main Road, Soldevanahalli, Bengaluru",
 		"active": true,
@@ -57280,6 +57239,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 173,
 		"activityCountLastSyncDate": "2022-10-31T18:30:01.810Z",
+		"bnpl": false,
 		"distance": 17.248183139662398,
 		"activeKey": "the-sports-habitat-acharya-soldevanahalli-bengaluru",
 		"offers": [
@@ -57291,11 +57251,11 @@
 				"createdTS": "2019-09-24T12:06:03.910Z",
 				"offerContent": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
 				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/TSHAcharyaExclusiveOfferBook2hoursofFootballorBoxCricketatjust18007i2l1cover1666173152934.png",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/TSHAcharyaExclusiveOfferFlat50offonbooking2hoursormoreofFootballorBoxCricketizdcpcover1667286430124.jpg",
 				"expiry": "2022-12-31T00:00:00.000Z",
 				"multiCity": false,
 				"sports": "SP2,SP56",
-				"activeKey": "tsh-acharya-exclusive-offer-book-2-hours-of-football-or-box-cricket-at-just-₹1800!-bengaluru",
+				"activeKey": "tsh-acharya-exclusive-offer-flat-50-off-on-booking-2-hours-or-more-of-football-or-box-cricket!-bengaluru",
 				"infoData": [
 					{
 						"coupon": "PLAYON",
@@ -57315,11 +57275,11 @@
 				},
 				"active": true,
 				"offerType": "venue",
-				"shareMsg": "TSH Acharya Exclusive Offer - Book 2 hours of Football or Box Cricket at just ₹1,800!",
+				"shareMsg": "TSH Acharya Exclusive Offer - Flat 50% off on booking 2 hours or more of Football or Box Cricket!",
 				"id": "cadd45e2-6dfa-42c4-88be-95135f787427",
-				"offerName": "TSH Acharya Exclusive Offer - Book 2 hours of Football or Box Cricket at just ₹1,800!",
-				"shareLink": "https://z34v4.app.goo.gl/cJ2d",
-				"deferLink": "https://z34v4.app.goo.gl/kaYQ",
+				"offerName": "TSH Acharya Exclusive Offer - Flat 50% off on booking 2 hours or more of Football or Box Cricket!",
+				"shareLink": "https://z34v4.app.goo.gl/5mkw",
+				"deferLink": "https://z34v4.app.goo.gl/CKVy",
 				"cityLat": 12.9539974,
 				"cityLng": 77.6309395,
 				"terms": "- Offer valid only on weekdays. <br/>\n"
@@ -81692,8 +81652,8 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2022-10-31T18:30:01.810Z",
-		"avgRating": 0,
-		"ratingCount": 0,
+		"avgRating": 1,
+		"ratingCount": 1,
 		"distance": 15.25164490843208,
 		"lat": 12.9871736,
 		"lng": 77.7342896,
