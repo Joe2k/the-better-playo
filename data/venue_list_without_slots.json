@@ -12855,7 +12855,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 263,
+		"ratingCount": 264,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -13687,7 +13687,7 @@
 		"description": "",
 		"createdTS": "2020-08-28T14:11:13.396Z",
 		"bookType": 0,
-		"ratingCount": 46,
+		"ratingCount": 47,
 		"zipCode": "560078",
 		"modTS": "2021-12-17T10:00:18.989Z",
 		"inquiryPhone": "9900784399",
@@ -16425,7 +16425,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 80,
+		"ratingCount": 81,
 		"bookSports": [
 			"SP5"
 		],
@@ -19405,7 +19405,7 @@
 		"description": "",
 		"createdTS": "2019-06-22T13:48:55.209Z",
 		"bookType": 0,
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"zipCode": "560076",
 		"modTS": "2021-12-17T09:58:30.200Z",
 		"inquiryPhone": "8431370366",
@@ -19414,7 +19414,7 @@
 			"9686011999"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"address": "96/3, Venugopal Reddy Layout, IIMB Post, Bannerghatta Road",
 		"active": true,
 		"id": "2ce1d2db-a2cc-4b0a-abc0-dfa239dc11e8",
@@ -25225,7 +25225,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 47,
+		"ratingCount": 48,
 		"bookSports": [
 			"SP5"
 		],
@@ -52713,7 +52713,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 310,
+		"ratingCount": 311,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
