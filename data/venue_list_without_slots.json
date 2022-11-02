@@ -595,7 +595,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-09-20T15:35:35.443Z",
+		"modTS": "2022-11-02T07:09:46.455Z",
 		"shareLink": "https://z34v4.app.goo.gl/XWiq",
 		"deferLink": "https://z34v4.app.goo.gl/T1RD",
 		"fullLink": "https://playo.co/venue/?venueId=f764cfd9-bb51-48df-a501-6b6f1c588fb7",
@@ -610,8 +610,8 @@
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
-		"lat": 12.982802105209458,
-		"lng": 77.6086092121617,
+		"lat": 12.982856338205327,
+		"lng": 77.60853709131446,
 		"search": "",
 		"sponsored": "",
 		"sponsoredRadius": 4,
@@ -635,7 +635,7 @@
 			"SP56",
 			"SP2"
 		],
-		"distance": 1.9658042921828567,
+		"distance": 1.9636096140178751,
 		"activeKey": "sky-arena-commercial-street-bengaluru",
 		"offers": []
 	},
@@ -17227,7 +17227,7 @@
 				"key": "t-square-arena-horamavu-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/FejT",
+		"shareLink": "https://z34v4.app.goo.gl/Jx5p",
 		"city": "Bengaluru",
 		"area": "Horamavu",
 		"oldPlayoId": "5a7c4ac76d91cf0423eceb56",
@@ -17264,14 +17264,14 @@
 		"name": "T-Square Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-02-08T13:04:07.529Z",
-		"coverImage": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/TSquareArenacovercover1664035059581.jpeg",
+		"coverImage": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/TSquareArenacovercover1667375593291.jpeg",
 		"createdTS": "2018-02-08T13:04:07.529Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-24T15:57:48.639Z",
+		"modTS": "2022-11-02T07:53:29.076Z",
 		"ratingCount": 15,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/TSquareArena1664035048151.jpeg"
+				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/TSquareArena1667374034811.jpeg"
 			},
 			{
 				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/tsquarearena1662477635045.jpeg"
@@ -17287,6 +17287,9 @@
 			},
 			{
 				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/tsquarearena1662477651264.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/tsquarearena1664035048151.jpeg"
 			}
 		],
 		"id": "1c5a4e9d-a0d7-4ca4-b375-496c156f1539",
@@ -17304,7 +17307,7 @@
 		"members": false,
 		"address": "4th Floor, Srivari Complex, 10th Main Road, above Soch, next to Udupi Gardenia, Horamavu, Bengaluru, Karnataka - 560043",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/CkiJ",
+		"deferLink": "https://z34v4.app.goo.gl/NN6u",
 		"search": "t , t square , square , tsquare , table , tennis , table tennis , tt , t t",
 		"fullLink": "https://playo.co/venue/?venueId=1c5a4e9d-a0d7-4ca4-b375-496c156f1539",
 		"country": "India",
@@ -17322,7 +17325,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 158,
 		"activityCountLastSyncDate": "2022-11-01T18:30:01.876Z",
-		"__v": 3,
+		"__v": 5,
 		"bnpl": false,
 		"distance": 8.931553269892797,
 		"activeKey": "t-square-arena-horamavu-bengaluru",
@@ -64209,6 +64212,110 @@
 		"activityCountLastSyncDate": "2022-11-01T18:30:01.876Z",
 		"distance": 24.198537266113007,
 		"activeKey": "cric-biz-cricket-academy-hosur-main-road-chandapura-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "8861767302",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "vision-badminton-arena-sarjapur-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/9j1h",
+		"city": "Bengaluru",
+		"area": "Sarjapur",
+		"oldPlayoId": "5a01a9396d91cf278c59372a",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "b1f16c4c-eb22-48f7-82da-af07602c1144",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/TWIG2TREEAKADEMIA/Twig2TreeAkademiamap1510058272931.JPG",
+		"zipCode": "562125",
+		"phone": [
+			"8861767302"
+		],
+		"avgRating": 3.8,
+		"name": "Vision Badminton Arena",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-11-07T12:38:17.129Z",
+		"coverImage": "",
+		"createdTS": "2017-11-07T12:38:17.129Z",
+		"inquiryType": -1,
+		"modTS": "2022-11-02T08:01:11.285Z",
+		"ratingCount": 39,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/TWIG2TREEAKADEMIA/Twig2TreeAkademia33.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TWIG2TREEAKADEMIA/twig2treeakademia0.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TWIG2TREEAKADEMIA/twig2treeakademia1.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TWIG2TREEAKADEMIA/twig2treeakademia2.jpeg"
+			}
+		],
+		"id": "b1f16c4c-eb22-48f7-82da-af07602c1144",
+		"description": "",
+		"category": 2,
+		"s3Folder": "TWIG2TREEAKADEMIA",
+		"state": "Karnataka",
+		"email": [
+			"purshothamsrt511@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "New Oxford School Road, Abhay Circle, Chikkathirupathi Road, Dodda Thimmasandra Road, Sarjapura, Bengaluru, Karnataka - 562125",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/5hZ1",
+		"search": "",
+		"fullLink": "https://playo.co/venue/?venueId=b1f16c4c-eb22-48f7-82da-af07602c1144",
+		"country": "India",
+		"timings": "5 AM - 10 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"lat": 12.860441446266277,
+		"lng": 77.79357287055329,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "b1f16c4c-eb22-48f7-82da-af07602c1144",
+		"__v": 1,
+		"isSafeAndHygiene": true,
+		"activityCount": 107,
+		"activityCountLastSyncDate": "2022-11-01T18:30:01.876Z",
+		"bnpl": false,
+		"distance": 24.883781193462262,
+		"activeKey": "vision-badminton-arena-sarjapur-bengaluru",
 		"offers": []
 	},
 	{
