@@ -1023,8 +1023,7 @@
 			}
 		],
 		"sports": [
-			"SP2",
-			"SP56"
+			"SP2"
 		],
 		"priority": 0,
 		"amenities": [
@@ -1051,7 +1050,7 @@
 		"coverImage": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClubcovercover1642749729494.JPG",
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-14T08:27:33.833Z",
+		"modTS": "2022-11-03T14:16:20.194Z",
 		"ratingCount": 19,
 		"images": [
 			{
@@ -1084,8 +1083,7 @@
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": true,
 		"bookSports": [
-			"SP2",
-			"SP56"
+			"SP2"
 		],
 		"bookType": 0,
 		"lat": 12.98129081526211,
@@ -7883,7 +7881,7 @@
 		"createdTS": "2017-07-17T17:28:26.496Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T10:28:12.455Z",
-		"ratingCount": 147,
+		"ratingCount": 148,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PREMIERBADMINTONACADEMYRAVEESHGOWDACENTER/RGRoyalSportsClub1639909678455.jpg"
@@ -19136,7 +19134,7 @@
 		"createdTS": "2017-01-07T17:23:44.157Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-06T16:13:32.114Z",
-		"ratingCount": 115,
+		"ratingCount": 116,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KICKON/img-20160201-wa0003.jpg"
@@ -56828,7 +56826,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 174,
+		"ratingCount": 175,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
