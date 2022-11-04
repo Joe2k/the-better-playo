@@ -77131,17 +77131,17 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "8028613334",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "best-club-rajarajeshwari-nagar-bangalore"
+				"key": "best-club-rajarajeshwari-nagar-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/yBQ6",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/5pPa",
+		"city": "Bengaluru",
 		"area": "Rajarajeshwari Nagar",
 		"oldPlayoId": "587124206d91cf3645ab07a9",
 		"functionData": [
@@ -77150,10 +77150,18 @@
 				"bookType": 0,
 				"popupText": "",
 				"content": "08028613334",
-				"displayType": "1",
+				"displayType": 1,
 				"sportId": "",
 				"caption": "Call Venue!",
 				"type": 1
+			},
+			{
+				"content": "4c9294f6-c400-4eac-a5a3-a3e640d4533e",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -77189,8 +77197,8 @@
 		"activatedOn": "2017-01-07T17:23:44.007Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.007Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-04T04:27:02.124Z",
 		"ratingCount": 57,
 		"images": [
 			{
@@ -77214,7 +77222,9 @@
 		"category": 1,
 		"s3Folder": "BESTCLUB",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -77222,7 +77232,7 @@
 		"members": false,
 		"address": "Off Bangalore Mysore Express Highway, BEML Layout, Rajarajeshwari Nagar, Bangalore",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/SFgm",
+		"deferLink": "https://z34v4.app.goo.gl/zDFt",
 		"search": "|Tennis|Table Tennis|Badminton|Pool|Swimming|Yoga|Workout|Skates|Cricket|Best Club|Off Bangalore Mysore Express Highway, BEML Layout, Rajarajeshwari Nagar, Bangalore|Rajarajeshwari Nagar|Bangalore|Parking,Conference hall,Restaurant,Bar,Locker||",
 		"fullLink": "https://playo.co/venue/?venueId=4c9294f6-c400-4eac-a5a3-a3e640d4533e",
 		"country": "India",
@@ -77231,10 +77241,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 52,
 		"activityCountLastSyncDate": "2022-11-03T18:30:02.178Z",
-		"distance": 10.35524705853426,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.9127063,
 		"lng": 77.5207171,
-		"activeKey": "best-club-rajarajeshwari-nagar-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "4c9294f6-c400-4eac-a5a3-a3e640d4533e",
+		"distance": 10.35524705853426,
+		"activeKey": "best-club-rajarajeshwari-nagar-bengaluru",
 		"offers": []
 	},
 	{
