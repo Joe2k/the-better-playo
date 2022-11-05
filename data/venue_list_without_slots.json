@@ -8900,8 +8900,8 @@
 		"zipCode": "560078",
 		"activityCount": 454,
 		"activityCountLastSyncDate": "2022-11-04T18:30:02.353Z",
-		"avgRating": 4.4,
-		"ratingCount": 10,
+		"avgRating": 4.5,
+		"ratingCount": 11,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T15:53:14.731Z",
@@ -34594,6 +34594,115 @@
 		]
 	},
 	{
+		"inquiryPhone": "9621601165",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "super-sports-park-bellandur-rmz-ecoworld-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/nJXq",
+		"city": "Bengaluru",
+		"area": "RMZ Ecoworld",
+		"oldPlayoId": "587124206d91cf3645ab0802",
+		"functionData": [
+			{
+				"content": "d07b955d-0cc2-41ad-b98e-8d41149836c5",
+				"caption": "Book Hourly",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2",
+			"SP56"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/BELIVEIT/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"9621601165"
+		],
+		"avgRating": 4.1,
+		"name": "Super Sports Park - Bellandur",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.107Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.107Z",
+		"inquiryType": -1,
+		"modTS": "2022-11-05T06:56:19.170Z",
+		"ratingCount": 15,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035604212.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035607082.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035610082.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035613452.jpeg"
+			}
+		],
+		"id": "c9fa9ad8-1724-4047-bef0-8b4e1322b47d",
+		"description": "",
+		"category": 2,
+		"s3Folder": "BELIVEIT",
+		"state": "Karnataka",
+		"email": [
+			"Shyambalakrishnan@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Super Sports Park, 11th Floor, Active, Building 8A, RMZ Ecoworld, Bellandur, Bengaluru, Karnataka -  560103",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/AxjB",
+		"search": "super park , park , park sports",
+		"fullLink": "https://playo.co/venue/?venueId=c9fa9ad8-1724-4047-bef0-8b4e1322b47d",
+		"country": "India",
+		"timings": "6 AM - 12 AM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"activityCount": 1,
+		"activityCountLastSyncDate": "2022-11-04T18:30:02.353Z",
+		"bookType": 0,
+		"lat": 12.919357246074503,
+		"lng": 77.68462860368696,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "c9fa9ad8-1724-4047-bef0-8b4e1322b47d",
+		"bnpl": false,
+		"bookSports": [
+			"SP2",
+			"SP56"
+		],
+		"__v": 1,
+		"distance": 11.367438662049695,
+		"activeKey": "super-sports-park-bellandur-rmz-ecoworld-bengaluru",
+		"offers": []
+	},
+	{
 		"inquiryPhone": "8884001234",
 		"remarks": "",
 		"infoData": [],
@@ -37683,7 +37792,7 @@
 		"description": "",
 		"createdTS": "2021-10-11T05:54:20.402Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560077",
 		"modTS": "2022-10-19T09:36:53.292Z",
 		"inquiryPhone": "9663851888",
@@ -37692,7 +37801,7 @@
 			"9663851888"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 3.6,
 		"address": "#11/4, Hegemony Global School, Nagareshwara, Nagenahalli to K Narayanapura Main Road, Kothanur, K Narayanapura, Bangalore",
 		"active": true,
 		"id": "dab3fe83-8155-42ca-b631-443d9cc127dc",
