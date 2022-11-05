@@ -4009,7 +4009,7 @@
 		"createdTS": "2018-03-18T12:29:02.088Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T05:57:39.969Z",
-		"ratingCount": 213,
+		"ratingCount": 214,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/INFINITESPORTSARENA/infinitesportsarena1.jpg"
@@ -14572,7 +14572,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T17:20:19.097Z",
 		"bookType": 0,
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"zipCode": "560043",
 		"modTS": "2021-10-25T10:02:19.486Z",
 		"inquiryPhone": "9741014455",
@@ -14716,7 +14716,7 @@
 		"createdTS": "2017-05-10T09:37:45.102Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-12T05:16:27.431Z",
-		"ratingCount": 313,
+		"ratingCount": 314,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BATTLEDOREARENA/battledorearena12.jpeg"
@@ -17659,7 +17659,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T13:54:17.262Z",
 		"bookType": 0,
-		"ratingCount": 87,
+		"ratingCount": 88,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T07:12:07.228Z",
 		"inquiryPhone": "8861619999",
@@ -21427,7 +21427,7 @@
 		"description": "",
 		"createdTS": "2022-07-27T11:22:57.366Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "560037",
 		"modTS": "2022-08-02T06:52:38.978Z",
 		"inquiryPhone": "7349557139",
@@ -22278,7 +22278,47 @@
 		"bnpl": false,
 		"distance": 9.62977772455501,
 		"activeKey": "play365-badminton-vyasa-international-school-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "636636c0b66167eccb33f6c6",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "Flat 10% off on all slots till 30 - Nov - 2022!!",
+				"countryCode": "+91",
+				"createdTS": "2022-11-05T10:11:12.065Z",
+				"offerContent": "a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/Play365BadmintonInauguralOfferNov2022ojv0icover1667643067693.jpg",
+				"expiry": "2022-11-30T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "play365-badminton-inaugural-offer-nov-2022-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till November 30, 2022",
+						"content": "https://playo.co/venue/?venueId=a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play365 Badminton Inaugural Offer - Nov 2022",
+				"id": "be835f3f-dccf-4500-be49-a83b2ab0af5a",
+				"offerName": "Play365 Badminton Inaugural Offer - Nov 2022",
+				"shareLink": "https://z34v4.app.goo.gl/Ktfy",
+				"deferLink": "https://z34v4.app.goo.gl/Jprr"
+			}
+		]
 	},
 	{
 		"oldPlayoId": "ef1aa36f-798c-4388-a55a-11553228ea4d",
@@ -23234,7 +23274,7 @@
 		"createdTS": "2017-09-20T11:28:05.949Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-20T13:51:32.898Z",
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASHSPORTSARENA/SmashSportsArenaIsports1648212122114.PNG"
@@ -33684,7 +33724,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 115,
+		"ratingCount": 116,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -38803,49 +38843,7 @@
 		"activityCountLastSyncDate": "2022-11-04T18:30:02.353Z",
 		"distance": 11.98473032749503,
 		"activeKey": "js-badminton-academy-meenakshi-layout-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9740431611",
