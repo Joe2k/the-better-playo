@@ -7866,7 +7866,7 @@
 		"createdTS": "2017-09-30T06:01:42.197Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T09:07:49.324Z",
-		"ratingCount": 213,
+		"ratingCount": 214,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JPBADMINTON/jpbadmintonsanjaynagar16.jpg"
@@ -12124,7 +12124,7 @@
 		"description": "",
 		"createdTS": "2019-01-24T11:23:49.532Z",
 		"bookType": 0,
-		"ratingCount": 99,
+		"ratingCount": 100,
 		"zipCode": "560072",
 		"modTS": "2020-09-05T15:30:37.203Z",
 		"inquiryPhone": "7760634720",
@@ -12133,7 +12133,7 @@
 			"7760634720"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"address": "Site no 4, 1st Main, Jyothi Nagar Stage 2,  Nagarabhavi Circle",
 		"active": true,
 		"id": "1dea2c14-fb00-42a0-b8ca-8da49cd30ec0",
