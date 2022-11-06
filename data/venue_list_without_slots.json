@@ -8900,8 +8900,8 @@
 		"zipCode": "560078",
 		"activityCount": 463,
 		"activityCountLastSyncDate": "2022-11-05T18:30:02.198Z",
-		"avgRating": 4.5,
-		"ratingCount": 11,
+		"avgRating": 4.2,
+		"ratingCount": 12,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T15:53:14.731Z",
@@ -15173,7 +15173,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 65,
+		"ratingCount": 66,
 		"zipCode": "560016",
 		"modTS": "2022-03-08T11:40:05.474Z",
 		"inquiryPhone": "8050355547",
@@ -19379,7 +19379,7 @@
 		"phone": [
 			"9900488008"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"name": "Sportive Badminton Arena - HSR Layout",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-07-26T12:12:59.459Z",
@@ -19387,7 +19387,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 288,
+		"ratingCount": 289,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -20350,7 +20350,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 223,
+		"ratingCount": 224,
 		"zipCode": "560068",
 		"modTS": "2022-09-15T15:18:46.920Z",
 		"inquiryPhone": "6364444441",
