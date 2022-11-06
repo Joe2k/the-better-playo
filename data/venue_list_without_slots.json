@@ -41730,7 +41730,7 @@
 		"phone": [
 			"9123347676"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.6,
 		"name": "Machaxi Badminton Centre",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-03T05:16:07.494Z",
@@ -41738,7 +41738,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -77590,6 +77590,14 @@
 			},
 			{
 				"content": "4c9294f6-c400-4eac-a5a3-a3e640d4533e",
+				"caption": "Enquire Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"type": 2
+			},
+			{
+				"content": "4c9294f6-c400-4eac-a5a3-a3e640d4533e",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 2,
@@ -77631,7 +77639,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.007Z",
 		"inquiryType": 0,
-		"modTS": "2022-11-04T04:27:02.124Z",
+		"modTS": "2022-11-06T17:44:10.896Z",
 		"ratingCount": 57,
 		"images": [
 			{
