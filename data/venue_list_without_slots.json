@@ -2009,7 +2009,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -44584,7 +44584,7 @@
 		"bookType": 0,
 		"ratingCount": 22,
 		"zipCode": "560036",
-		"modTS": "2022-11-02T11:10:35.757Z",
+		"modTS": "2022-11-06T14:32:26.225Z",
 		"inquiryPhone": "9844613174",
 		"inquiryType": -1,
 		"phone": [
@@ -44601,7 +44601,9 @@
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP5",
-			"SP7"
+			"SP7",
+			"SP89",
+			"SP77"
 		],
 		"name": "Gokul Sports Arena",
 		"area": "KR Puram",
@@ -44621,7 +44623,9 @@
 		"timings": "6:30AM - 10:30PM",
 		"sports": [
 			"SP5",
-			"SP7"
+			"SP7",
+			"SP89",
+			"SP77"
 		],
 		"members": false,
 		"state": "Karnataka",
@@ -44646,7 +44650,7 @@
 			"gsa@gokulsportsarena.com"
 		],
 		"s3Folder": "GOKULSPORTSARENA20220327141833452225",
-		"__v": 2,
+		"__v": 6,
 		"coverImage": "",
 		"deferLink": "https://z34v4.app.goo.gl/UMWm",
 		"googleMapLink": "",
