@@ -2590,7 +2590,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 129,
+		"ratingCount": 130,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -34722,7 +34722,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-05T06:56:19.170Z",
+		"modTS": "2022-11-07T09:39:20.559Z",
 		"ratingCount": 15,
 		"images": [
 			{
