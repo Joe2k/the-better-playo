@@ -17436,7 +17436,45 @@
 		"bnpl": false,
 		"distance": 8.931553269892797,
 		"activeKey": "t-square-arena-horamavu-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "6368b820b66167039b0b41cd",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "Offer only applicable for the time slots between 10AM to 7PM",
+				"countryCode": "+91",
+				"createdTS": "2022-11-07T07:47:44.863Z",
+				"offerContent": "1c5a4e9d-a0d7-4ca4-b375-496c156f1539",
+				"coupon": "",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/TSquareArenaPlayoHappyHoursOffer100offjivuebcover1667807195708.png",
+				"expiry": "2025-08-03T13:17:44.862Z",
+				"multiCity": false,
+				"sports": "SP4",
+				"activeKey": "t-square-arena-playo-happy-hours-offer-₹100-off-bengaluru",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "",
+						"content": "https://playo.co/venue/?venueId=1c5a4e9d-a0d7-4ca4-b375-496c156f1539",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "T-Square Arena Playo Happy Hours Offer - ₹100 off",
+				"id": "5b17e882-98d1-4fc7-a523-2aa1138c38fc",
+				"offerName": "T-Square Arena Playo Happy Hours Offer - ₹100 off"
+			}
+		]
 	},
 	{
 		"inquiryPhone": "8105737766",
