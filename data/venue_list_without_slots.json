@@ -5258,11 +5258,11 @@
 		"bookType": 0,
 		"ratingCount": 30,
 		"zipCode": "560017",
-		"modTS": "2022-06-20T15:22:40.263Z",
-		"inquiryPhone": "7774018096",
+		"modTS": "2022-11-07T12:06:15.045Z",
+		"inquiryPhone": "8884177421",
 		"inquiryType": -1,
 		"phone": [
-			"7774018096"
+			"8884177421"
 		],
 		"sponsored": "",
 		"avgRating": 4.3,
@@ -5354,6 +5354,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 2302,
 		"activityCountLastSyncDate": "2022-11-06T18:30:00.539Z",
+		"bnpl": false,
 		"distance": 6.342141177564712,
 		"activeKey": "rush-arena-old-airport-road-x-hotfut-south-united-gvh-near-embassy-golf-links-business-park-bengaluru",
 		"offers": [
@@ -43799,7 +43800,7 @@
 		"createdTS": "2018-05-29T13:10:32.406Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-21T11:50:24.480Z",
-		"ratingCount": 81,
+		"ratingCount": 82,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LEVELUPBADMINTONACADEMY/LevelUpBadmintonAcademy0.jpg"
