@@ -15585,7 +15585,7 @@
 		"createdTS": "2018-05-31T14:28:35.443Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:13:51.512Z",
-		"ratingCount": 255,
+		"ratingCount": 256,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOVABADMINTONACADEMYAREHALLI/NovaBadmintonAcademyArehalli1639984419582.webp"
@@ -20771,7 +20771,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T05:58:04.371Z",
 		"bookType": 0,
-		"ratingCount": 162,
+		"ratingCount": 163,
 		"zipCode": "560037",
 		"modTS": "2022-09-18T10:10:49.686Z",
 		"inquiryPhone": "9606751111",
@@ -20780,7 +20780,7 @@
 			"9606751111"
 		],
 		"sponsored": "Featured",
-		"avgRating": 3.7,
+		"avgRating": 3.6,
 		"address": "No. 73/5 L Narayana Reddy Main Road, Near Jain Heights Parade, Doddanakundi",
 		"active": true,
 		"id": "38398a78-3ad1-4fa6-849b-040850b5b08b",
@@ -50188,6 +50188,102 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"oldPlayoId": "2196b021-d91e-48b2-8edd-67d006e72ca9",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2022-01-03T11:46:06.139Z",
+		"bookType": 0,
+		"ratingCount": 6,
+		"zipCode": "560035",
+		"modTS": "2022-11-08T16:09:42.103Z",
+		"inquiryPhone": "9738433530",
+		"inquiryType": -1,
+		"phone": [
+			"9738433530"
+		],
+		"sponsored": "",
+		"avgRating": 5,
+		"address": "Gunjur Road, Opposite Karunalayam Hospital, Carmelaram, Chikkabellandur, Bengaluru, Karnataka - 560035",
+		"active": true,
+		"id": "2196b021-d91e-48b2-8edd-67d006e72ca9",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP57"
+		],
+		"name": "Axi's Aran Sports Academy",
+		"area": "Chikkabellandur",
+		"sponsoredRadius": 5,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "2196b021-d91e-48b2-8edd-67d006e72ca9",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"timings": "6 AM - 11 PM",
+		"sports": [
+			"SP57"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "axis-aran-sports-academy-chikkabellandur-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "",
+		"fullLink": "https://playo.co/venue?venueId=2196b021-d91e-48b2-8edd-67d006e72ca9",
+		"type": 0,
+		"email": [
+			"arunku31@gmail.com"
+		],
+		"s3Folder": "TESTBADMINTONARENA20220103114606139672",
+		"__v": 3,
+		"coverImage": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/TestBadmintonArenacovercover1641210331616.jpg",
+		"deferLink": "https://z34v4.app.goo.gl/MFLT",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/AransSportsClub1641798659135.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/AransSportsClub1641798662804.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/yY1c",
+		"lat": 12.912094126190194,
+		"lng": 77.70565980151888,
+		"venueId": "2196b021-d91e-48b2-8edd-67d006e72ca9",
+		"activityCount": 47,
+		"activityCountLastSyncDate": "2022-11-07T18:30:02.027Z",
+		"bnpl": false,
+		"distance": 13.749816210598292,
+		"activeKey": "axis-aran-sports-academy-chikkabellandur-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "3bfd1da5-307e-4ca1-bd7e-a45f6458632e",
