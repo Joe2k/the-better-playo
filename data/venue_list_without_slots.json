@@ -14829,7 +14829,7 @@
 		"createdTS": "2018-08-31T19:52:02.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-14T09:11:35.664Z",
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSDROME/sportsdrome10.jpeg"
@@ -21570,7 +21570,7 @@
 		"bookType": 0,
 		"ratingCount": 59,
 		"zipCode": "560045",
-		"modTS": "2020-10-05T08:09:57.050Z",
+		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
 		"inquiryType": -1,
 		"phone": [
@@ -21587,7 +21587,7 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Footwork Sports",
+		"name": "Footwork Sports Badminton Center",
 		"area": "Near Manyata Tech Park",
 		"sponsoredRadius": 4,
 		"country": "India",
@@ -21618,7 +21618,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "footwork-sports-near-manyata-tech-park-bengaluru"
+				"key": "footwork-sports-badminton-center-near-manyata-tech-park-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -21630,8 +21630,8 @@
 			"rajanku@gmail.com"
 		],
 		"s3Folder": "FOOTWORKSPORTS20200131124032810103",
-		"shareLink": "https://z34v4.app.goo.gl/Gk3A",
-		"deferLink": "https://z34v4.app.goo.gl/jXND",
+		"shareLink": "https://z34v4.app.goo.gl/igwH",
+		"deferLink": "https://z34v4.app.goo.gl/vCvv",
 		"__v": 6,
 		"coverImage": "https://playo.gumlet.io/FOOTWORKSPORTS20200131124032810103/FootworkSports10.JPG",
 		"googleMapLink": "",
@@ -21662,8 +21662,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 7905,
 		"activityCountLastSyncDate": "2022-11-07T18:30:02.027Z",
+		"bnpl": false,
 		"distance": 9.551858607209056,
-		"activeKey": "footwork-sports-near-manyata-tech-park-bengaluru",
+		"activeKey": "footwork-sports-badminton-center-near-manyata-tech-park-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
