@@ -18084,7 +18084,7 @@
 		"phone": [
 			"9844135386"
 		],
-		"avgRating": 3.7,
+		"avgRating": 3.4,
 		"name": "Skyfinch Sports Center - JP Nagar",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-08-04T11:03:15.569Z",
@@ -18092,7 +18092,7 @@
 		"createdTS": "2017-08-04T11:03:15.569Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:39:53.772Z",
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYFINCHSPORTSCENTERJPNAGAR/skyfinchsportscenterjpnagar11.jpg"
@@ -23798,6 +23798,108 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"inquiryPhone": "9632776666",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "hawks-sports-arena-bellandur-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/QXv2",
+		"city": "Bengaluru",
+		"area": "Bellandur",
+		"oldPlayoId": "587124206d91cf3645ab082c",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "437de73d-ced7-4a85-af8d-84e46f5cd84f",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"Washroom",
+			"First Aid"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/SUHAASFOOTBALLARENA/HawkSportsArena-map.png",
+		"zipCode": "560103",
+		"phone": [
+			"9632776666"
+		],
+		"avgRating": 3.8,
+		"name": "Hawks Sports Arena",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.156Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.156Z",
+		"inquiryType": -1,
+		"modTS": "2022-11-08T07:00:04.715Z",
+		"ratingCount": 58,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena10.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena7.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena8.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena9.jpg"
+			}
+		],
+		"id": "437de73d-ced7-4a85-af8d-84e46f5cd84f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "HAWKSPORTSARENA",
+		"state": "Karnataka",
+		"email": [
+			"hawksportsarena@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Bellandur Lake Rd, next to BDA site office, next to BDA Site office, Kariyammana Agrahara, Bellandur, Bengaluru, Karnataka",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/ao6J",
+		"search": "Football|Hawk Sports Arena|Bellandur Lake road, Near Yemlur Bridge, Bellandur|Bellandur|Bangalore|Parking,Washroom||null",
+		"fullLink": "https://playo.co/venue/?venueId=437de73d-ced7-4a85-af8d-84e46f5cd84f",
+		"country": "India",
+		"timings": "4 AM - 1 AM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP2"
+		],
+		"bookType": 0,
+		"lat": 12.937043,
+		"lng": 77.677468,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "437de73d-ced7-4a85-af8d-84e46f5cd84f",
+		"__v": 1,
+		"isSafeAndHygiene": true,
+		"activityCount": 1078,
+		"activityCountLastSyncDate": "2022-11-07T18:30:02.027Z",
+		"bnpl": false,
+		"distance": 9.778453818430853,
+		"activeKey": "hawks-sports-arena-bellandur-bengaluru",
+		"offers": []
 	},
 	{
 		"inquiryPhone": "8546956340",
