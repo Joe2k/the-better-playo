@@ -41095,7 +41095,7 @@
 		"createdTS": "2018-07-13T13:13:54.449Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:42:18.995Z",
-		"ratingCount": 105,
+		"ratingCount": 106,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYLINESPORTSACADEMY/skylinesportsacademy0.jpg"
@@ -60492,7 +60492,7 @@
 		"bookType": 0,
 		"ratingCount": 0,
 		"zipCode": "560087",
-		"modTS": "2022-02-15T11:06:11.974Z",
+		"modTS": "2022-11-08T12:38:04.097Z",
 		"inquiryPhone": "8973850032",
 		"inquiryType": -1,
 		"phone": [
@@ -60510,7 +60510,7 @@
 		"bookSports": [
 			"SP57"
 		],
-		"name": "Kreeda Kshetra",
+		"name": "Kreeda Kshetra Cricket Academy",
 		"area": "Hegondanahalli",
 		"sponsoredRadius": 4,
 		"country": "India",
@@ -60541,7 +60541,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "kreeda-kshetra-hegondanahalli-bengaluru"
+				"key": "kreeda-kshetra-cricket-academy-hegondanahalli-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -60555,7 +60555,7 @@
 		"s3Folder": "KREEDAKSHETRA20210821035042480243",
 		"__v": 2,
 		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/VihM",
+		"deferLink": "https://z34v4.app.goo.gl/bLkm",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -60578,14 +60578,15 @@
 		"logoImg": "",
 		"mapImage": "",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/TFW4",
+		"shareLink": "https://z34v4.app.goo.gl/79qz",
 		"lat": 12.905036,
 		"lng": 77.751992,
 		"venueId": "37568055-5ec9-4414-9c16-20d1c3731325",
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2022-11-07T18:30:02.027Z",
+		"bnpl": false,
 		"distance": 18.614268382921917,
-		"activeKey": "kreeda-kshetra-hegondanahalli-bengaluru",
+		"activeKey": "kreeda-kshetra-cricket-academy-hegondanahalli-bengaluru",
 		"offers": []
 	},
 	{
