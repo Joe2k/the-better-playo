@@ -2010,7 +2010,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 70,
+		"ratingCount": 71,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -7868,7 +7868,7 @@
 		"createdTS": "2017-09-30T06:01:42.197Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T09:07:49.324Z",
-		"ratingCount": 214,
+		"ratingCount": 215,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JPBADMINTON/jpbadmintonsanjaynagar16.jpg"
@@ -12126,7 +12126,7 @@
 		"description": "",
 		"createdTS": "2019-01-24T11:23:49.532Z",
 		"bookType": 0,
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"zipCode": "560072",
 		"modTS": "2020-09-05T15:30:37.203Z",
 		"inquiryPhone": "7760634720",
@@ -48546,7 +48546,7 @@
 		"coverImage": "https://playo.gumlet.io/SIMBASPORTS/SimbaSportscovercover1568369481851.png",
 		"createdTS": "2017-04-29T08:01:03.182Z",
 		"inquiryType": -1,
-		"modTS": "2022-08-17T08:47:01.998Z",
+		"modTS": "2022-11-10T14:54:20.783Z",
 		"ratingCount": 95,
 		"images": [
 			{
@@ -48578,7 +48578,7 @@
 		"address": "Marathahalli - Sarjapur Road, Janatha Colony, Doddakannelli, Bengaluru, Karnataka",
 		"active": true,
 		"deferLink": "https://z34v4.app.goo.gl/XZHr",
-		"search": "",
+		"search": "simba , sports , turf",
 		"fullLink": "https://playo.co/venue/?venueId=064d481d-e4b7-4944-afb9-57675f76bc99",
 		"country": "India",
 		"timings": "5 AM - 11 PM",
@@ -48597,6 +48597,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 1868,
 		"activityCountLastSyncDate": "2022-11-09T18:30:02.500Z",
+		"bnpl": false,
 		"distance": 13.48745001966307,
 		"activeKey": "fortress-arena-sarjapur-road-bengaluru",
 		"offers": [
@@ -57539,7 +57540,7 @@
 		"bookType": 0,
 		"ratingCount": 12,
 		"zipCode": "560107",
-		"modTS": "2022-11-01T07:03:01.184Z",
+		"modTS": "2022-11-10T14:29:30.969Z",
 		"inquiryPhone": "9731091599",
 		"inquiryType": -1,
 		"phone": [
@@ -57601,26 +57602,29 @@
 			"thesportshabitat@gmail.com"
 		],
 		"s3Folder": "THESPORTSHABITAT8THMILE20200207180151288574",
-		"shareLink": "https://z34v4.app.goo.gl/Xnn6",
-		"deferLink": "https://z34v4.app.goo.gl/TFBv",
+		"shareLink": "https://z34v4.app.goo.gl/Wewv",
+		"deferLink": "https://z34v4.app.goo.gl/rVuz",
 		"lat": 13.081228,
 		"lng": 77.482212,
 		"venueId": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
-		"__v": 2,
-		"coverImage": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitat8thMilecovercover1581098668619.jpeg",
+		"__v": 4,
+		"coverImage": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharyacovercover1668090540789.jpeg",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitat8thMile0.jpeg"
+				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090517502.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitat8thMile1.jpeg"
+				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090521493.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitat8thMile2.jpeg"
+				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090524412.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitat8thMile3.jpeg"
+				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090526963.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090529828.jpeg"
 			}
 		],
 		"infoData": [],
