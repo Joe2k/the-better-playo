@@ -17269,7 +17269,7 @@
 		"createdTS": "2018-08-28T16:10:53.870Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-09T14:19:04.364Z",
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AJSPORTS/ajsports0.jpeg"
@@ -25868,7 +25868,7 @@
 		"bookType": 0,
 		"ratingCount": 23,
 		"zipCode": "560056",
-		"modTS": "2021-12-19T11:31:43.359Z",
+		"modTS": "2022-11-10T08:42:58.632Z",
 		"inquiryPhone": "9448376651",
 		"inquiryType": -1,
 		"phone": [
@@ -25885,8 +25885,8 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Sri Sai Badminton Academy",
-		"area": "Mallathahalli",
+		"name": "Sri Sai Badminton Academy - Mallathahalli",
+		"area": "Near Kengunte Circle",
 		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
@@ -25917,7 +25917,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "sri-sai-badminton-academy-mallathahalli-bengaluru"
+				"key": "sri-sai-badminton-academy-mallathahalli-near-kengunte-circle-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -25931,7 +25931,7 @@
 		"s3Folder": "SRISAIBADMINTONACADEMY20191025070145706721",
 		"__v": 4,
 		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/tLu5",
+		"deferLink": "https://z34v4.app.goo.gl/5Rt7",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -25945,15 +25945,16 @@
 		"logoImg": "",
 		"mapImage": "https://playo.imgix.net/SRISAIBADMINTONACADEMY20191025070145706721/SriSaiBadmintonAcademymap.JPG",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/Sg1k",
+		"shareLink": "https://z34v4.app.goo.gl/cgHr",
 		"lat": 12.960366,
 		"lng": 77.502776,
 		"venueId": "7363c548-fe37-47a7-888e-ed9b16f59973",
 		"isSafeAndHygiene": true,
 		"activityCount": 1665,
 		"activityCountLastSyncDate": "2022-11-09T18:30:02.500Z",
+		"bnpl": false,
 		"distance": 10.039315183491343,
-		"activeKey": "sri-sai-badminton-academy-mallathahalli-bengaluru",
+		"activeKey": "sri-sai-badminton-academy-mallathahalli-near-kengunte-circle-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -34115,7 +34116,7 @@
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-06T07:21:04.884Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademy1658827316673.jpg"
@@ -34440,151 +34441,6 @@
 		"activityCountLastSyncDate": "2022-11-09T18:30:02.500Z",
 		"distance": 11.311808977970813,
 		"activeKey": "vk-match-point-91-sporting-company-ullal-jnana-ganga-nagar-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
-	},
-	{
-		"oldPlayoId": "eeb4e47f-b49a-485b-9cbc-b01e919745b1",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2020-05-21T12:43:09.998Z",
-		"bookType": 0,
-		"ratingCount": 6,
-		"zipCode": "560068",
-		"modTS": "2021-01-09T07:39:52.215Z",
-		"inquiryPhone": "7483339421",
-		"inquiryType": -1,
-		"phone": [
-			"7483339421"
-		],
-		"sponsored": "",
-		"avgRating": 5,
-		"address": "No. 16,17, 3rd cross, 60 feet road, Opp. Ajanta meadows apartments, Akshayanagar, near DLF new town, off Bannerghatta Road Bangalore",
-		"active": true,
-		"id": "eeb4e47f-b49a-485b-9cbc-b01e919745b1",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "",
-		"isSafeAndHygiene": true,
-		"bookSports": [
-			"SP2"
-		],
-		"name": "360 Football Arena",
-		"area": "Akshayanagar",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "eeb4e47f-b49a-485b-9cbc-b01e919745b1",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"timings": "5:30 AM - 11:00 PM",
-		"sports": [
-			"SP2"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"First Aid",
-			"Change Room",
-			"Parking"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "360-football-arena-akshayanagar-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=eeb4e47f-b49a-485b-9cbc-b01e919745b1",
-		"type": 0,
-		"email": [
-			"akshay.kukke@outlook.com"
-		],
-		"s3Folder": "360FOOTBALLARENA20200521124309998180",
-		"__v": 1,
-		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/MQ5P",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/360FOOTBALLARENA20200521124309998180/360footballarena1590064705948.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/360FOOTBALLARENA20200521124309998180/360footballarena1590064725254.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/360FOOTBALLARENA20200521124309998180/360footballarena1590064737149.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/360FOOTBALLARENA20200521124309998180/360footballarena1590064748170.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/360FOOTBALLARENA20200521124309998180/360footballarena1590064919706.jpg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/yHc6",
-		"lat": 12.871859,
-		"lng": 77.615578,
-		"venueId": "eeb4e47f-b49a-485b-9cbc-b01e919745b1",
-		"activityCount": 3109,
-		"activityCountLastSyncDate": "2022-11-09T18:30:02.500Z",
-		"distance": 11.333951624364037,
-		"activeKey": "360-football-arena-akshayanagar-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
