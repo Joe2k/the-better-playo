@@ -21282,7 +21282,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.154Z",
 		"inquiryType": -1,
-		"modTS": "2022-07-07T16:09:36.811Z",
+		"modTS": "2022-11-12T13:56:30.734Z",
 		"ratingCount": 259,
 		"images": [
 			{
@@ -21296,12 +21296,12 @@
 			}
 		],
 		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "1. Non- marking shoes compulsory for synthetic badminton courts.<br/>\n2. Badminton Racquets and Non-marking shoes available for rent.<br/>\n3. All rates given above are rates for 1 court & 1 hour only. <br/>\n4. Timings to be maintained by facility users; extra usage is chargeable.<br/>\n5. Proper & relevant sports gear to be used. <br/>",
+		"description": "",
 		"category": 2,
 		"s3Folder": "DHISPORTS",
 		"state": "Karnataka",
 		"email": [
-			"info@dhiinnovations.com"
+			"info@dhisports.com"
 		],
 		"logoImg": "",
 		"tags": [],
@@ -21315,7 +21315,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
 		"country": "India",
 		"timings": "6 AM - 9 PM",
-		"addInfo": "-Non- marking shoes compulsory for synthetic badminton courts.<br/>\n-Badminton Racquets and Non-marking shoes available for rent.<br/>\n-All rates given above are rates for 1 court & 1 hour only. <br/>\n-Timings to be maintained by facility users; extra usage is chargeable.<br/>\n-Proper & relevant sports gear to be used. <br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"__v": 5,
 		"bookSports": [
 			"SP5"
@@ -21331,6 +21331,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 2442,
 		"activityCountLastSyncDate": "2022-11-11T18:30:02.671Z",
+		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
@@ -21338,12 +21339,12 @@
 	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
-		"description": "1. Largest Multisports Facility with 16 Play Areas!  7+Sports! to Play at Dhi Sports Center. 2. Located at Bannerghatta Road, Arekere, Bangalore. 3. All rates given above are rates for 1 court & 1 hour only.  4. Timings to be maintained by facility users; extra usage is chargeable. 5. Proper & relevant sports gear to be used.",
+		"description": "",
 		"createdTS": "2021-03-21T11:33:54.484Z",
 		"bookType": 0,
 		"ratingCount": 13,
 		"zipCode": "560076",
-		"modTS": "2022-07-07T16:09:50.267Z",
+		"modTS": "2022-11-12T13:57:00.449Z",
 		"inquiryPhone": "9742220232",
 		"inquiryType": -1,
 		"phone": [
@@ -21404,11 +21405,11 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "-All rates given above are rates for 1 court & 1 hour only. <br/>\n-Timings to be maintained by facility users; extra usage is chargeable.<br/>\n-Proper & relevant sports gear to be used. <br/>",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"type": 0,
 		"email": [
-			"info@dhiinnovations.com"
+			"info@dhisports.com"
 		],
 		"s3Folder": "DHISPORTSCENTER20210321113354484403",
 		"__v": 3,
@@ -21457,6 +21458,7 @@
 		"venueId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"activityCount": 999,
 		"activityCountLastSyncDate": "2022-11-11T18:30:02.671Z",
+		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
 		"offers": []
@@ -31648,7 +31650,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-11T19:14:56.695Z",
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -33006,7 +33008,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 40,
+		"ratingCount": 41,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -34527,7 +34529,7 @@
 		"phone": [
 			"9742351424"
 		],
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"name": "White Feather Badminton Centre - AECS Layout",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-10-11T07:15:01.485Z",
@@ -34535,7 +34537,7 @@
 		"createdTS": "2018-10-11T07:15:01.485Z",
 		"inquiryType": -1,
 		"modTS": "2020-12-29T05:31:22.029Z",
-		"ratingCount": 55,
+		"ratingCount": 56,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERBADMINTONCENTRE/WhiteFeatherBadmintonCentreAECSLayout3.jpeg"
@@ -36426,7 +36428,7 @@
 		"createdTS": "2018-02-23T13:43:06.871Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-25T12:40:57.340Z",
-		"ratingCount": 136,
+		"ratingCount": 137,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KUDLUBADMINTONCENTRE/kudlubadmintoncentre0.jpg"
@@ -41329,7 +41331,7 @@
 		"phone": [
 			"8296614999"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"name": "Shuttle Shots",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-08-30T18:55:41.963Z",
@@ -41337,7 +41339,7 @@
 		"createdTS": "2018-08-30T18:55:41.963Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-23T10:23:00.603Z",
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLESHOTS/shuttleshots0.jpg"
@@ -47912,7 +47914,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 543,
+		"ratingCount": 544,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
