@@ -51146,7 +51146,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 161,
+		"ratingCount": 162,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
@@ -57335,7 +57335,7 @@
 		"description": "",
 		"createdTS": "2019-06-06T11:51:41.091Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560067",
 		"modTS": "2022-08-19T11:10:44.303Z",
 		"inquiryPhone": "6363514121",
@@ -57344,7 +57344,7 @@
 			"6363514121"
 		],
 		"sponsored": "",
-		"avgRating": 3.7,
+		"avgRating": 3,
 		"address": "Golden Fins, Whitefield Main Road, Kumbena Agrahara, Krishnarajapura, Bengaluru, Karnataka - 560067",
 		"active": true,
 		"id": "93f8ea62-f0c0-4de2-9bd5-a66820543740",
