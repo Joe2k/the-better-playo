@@ -5407,7 +5407,7 @@
 		"description": "",
 		"createdTS": "2019-04-02T11:43:43.164Z",
 		"bookType": 0,
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"zipCode": "560085",
 		"modTS": "2020-07-10T14:42:55.443Z",
 		"inquiryPhone": "9945024838",
@@ -5416,7 +5416,7 @@
 			"9945024838"
 		],
 		"sponsored": "",
-		"avgRating": 3.5,
+		"avgRating": 3.6,
 		"address": "Girinagar, opposite Vinayaka hospital, Vishweshwaraiah Road",
 		"active": true,
 		"id": "417864cc-ca3e-4364-b783-9e592ff7149d",
@@ -25050,7 +25050,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T08:17:11.913Z",
 		"bookType": 0,
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"zipCode": "560037",
 		"modTS": "2022-06-04T12:02:38.188Z",
 		"inquiryPhone": "8747827777",
@@ -31452,7 +31452,7 @@
 		"description": "",
 		"createdTS": "2019-10-04T08:51:28.364Z",
 		"bookType": 0,
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"zipCode": "560061",
 		"modTS": "2022-06-03T16:24:32.451Z",
 		"inquiryPhone": "9606238092",
@@ -44740,7 +44740,7 @@
 		"createdTS": "2017-06-21T10:33:06.970Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-14T16:07:20.825Z",
-		"ratingCount": 83,
+		"ratingCount": 84,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PKSPORTS/pksports1.jpg"
@@ -54745,7 +54745,7 @@
 		"createdTS": "2017-11-22T10:22:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-24T05:11:05.743Z",
-		"ratingCount": 138,
+		"ratingCount": 139,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYONSPORTSARENA/PlayOnSportsArena62.PNG"
