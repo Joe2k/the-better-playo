@@ -20676,11 +20676,11 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
-		"modTS": "2022-05-17T20:13:46.248Z",
+		"modTS": "2022-11-13T14:04:28.998Z",
 		"ratingCount": 402,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/nammashuttlehsrlayoutsector21639733509197.jpg"
+				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
 			},
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/nammashuttlehsrlayoutsector21639733511937.jpg"
@@ -20718,9 +20718,10 @@
 		"type": 0,
 		"venueId": "623e304a-89f9-413b-a48f-fa598737281d",
 		"isSafeAndHygiene": true,
-		"__v": 2,
+		"__v": 3,
 		"activityCount": 32387,
 		"activityCountLastSyncDate": "2022-11-12T18:30:02.363Z",
+		"bnpl": false,
 		"distance": 9.485448159470451,
 		"activeKey": "namma-shuttle-hsr-layout-sector-2-near-nagarjuna-greenridge-apartments-bengaluru",
 		"offers": [
@@ -47915,7 +47916,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 544,
+		"ratingCount": 545,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
