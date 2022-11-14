@@ -44120,109 +44120,6 @@
 		]
 	},
 	{
-		"oldPlayoId": "4296b4fd-4066-4b14-9279-788b3522e7a5",
-		"cityCode": 1,
-		"createdTS": "2019-01-12T11:38:02.103Z",
-		"bookType": 0,
-		"ratingCount": 32,
-		"zipCode": "560036",
-		"modTS": "2022-07-23T10:51:30.408Z",
-		"inquiryPhone": "9986921124",
-		"inquiryType": -1,
-		"phone": [
-			"9986921124"
-		],
-		"sponsored": "",
-		"avgRating": 4.6,
-		"address": "1st cross, Opposite Indira Canteen, TC Palya Main Road, Sunshine Layout, Battarahalli, Bengaluru, Karnataka",
-		"active": true,
-		"id": "4296b4fd-4066-4b14-9279-788b3522e7a5",
-		"description": "",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "Badminton",
-		"bookSports": [
-			"SP5"
-		],
-		"name": "Joy Sports Academy - Fusion Sports",
-		"area": "KR Puram",
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "4296b4fd-4066-4b14-9279-788b3522e7a5",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"placeId": "",
-		"timings": "5 AM - 11 PM",
-		"sports": [
-			"SP5"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Parking",
-			"Restrooms",
-			"Refreshments",
-			"Drinking Water"
-		],
-		"dateLimit": 14,
-		"keywords": [
-			{
-				"active": true,
-				"key": "joy-sports-academy-fusion-sports-kr-puram-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Users have to bring their own equipments.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=4296b4fd-4066-4b14-9279-788b3522e7a5",
-		"type": 0,
-		"email": [
-			"melvynjoy44@gmail.com"
-		],
-		"s3Folder": "JOYSPORTSACADEMY",
-		"__v": 3,
-		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/X3PU",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/JOYSPORTSACADEMY/JoySportsAcademyFusionSports18c65d6d3ace47ada9f4270f9b5decd4.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/JOYSPORTSACADEMY/joysportsacademy0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JOYSPORTSACADEMY/joysportsacademy1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JOYSPORTSACADEMY/joysportsacademy2.jpg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "https://playo.imgix.net/JOYSPORTSACADEMY/JoySportsAcademymap1547292922433.png",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/dn2A",
-		"lat": 13.0232225,
-		"lng": 77.6981845,
-		"venueId": "4296b4fd-4066-4b14-9279-788b3522e7a5",
-		"priority": 0,
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 7065,
-		"activityCountLastSyncDate": "2022-11-13T18:30:02.264Z",
-		"distance": 12.619789628269686,
-		"activeKey": "joy-sports-academy-fusion-sports-kr-puram-bengaluru",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "0e7247b3-5388-41a8-a64c-039ca22e03a3",
 		"cityCode": 1,
 		"description": "",
@@ -76861,29 +76758,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "7947155250",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "bulldog-tennis-academy-kanakapura-road-bangalore"
+				"key": "bulldog-tennis-academy-kanakapura-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/rmxw",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/QMBn",
+		"city": "Bengaluru",
 		"area": "Kanakapura Road",
 		"oldPlayoId": "587124206d91cf3645ab07c1",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "08cbe421-1859-4955-b1b1-27946189dc1c",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9900095604",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Inquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -76910,8 +76805,8 @@
 		"activatedOn": "2017-01-07T17:23:44.033Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.033Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 1,
+		"modTS": "2022-11-14T05:22:56.200Z",
 		"ratingCount": 19,
 		"images": [
 			{
@@ -76926,7 +76821,9 @@
 		"category": 1,
 		"s3Folder": "BULLDOGTENNIS",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -76934,7 +76831,7 @@
 		"members": false,
 		"address": "4/5, Vasanthpura Main Road,Off Kanakapura Road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/TLNG",
+		"deferLink": "https://z34v4.app.goo.gl/4buo",
 		"search": "|Tennis|Bulldog Tennis Academy|4/5, Vasanthpura Main Road,Off Kanakapura Road|Kanakapura Road|Bangalore|Washroom, Equipments, Parking, First-Aid, Beverages|5 Tennis Clay Courts|",
 		"fullLink": "https://playo.co/venue/?venueId=08cbe421-1859-4955-b1b1-27946189dc1c",
 		"country": "India",
@@ -76943,10 +76840,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 4,
 		"activityCountLastSyncDate": "2022-11-13T18:30:02.264Z",
-		"distance": 9.550456400246226,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.893682,
 		"lng": 77.557758,
-		"activeKey": "bulldog-tennis-academy-kanakapura-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "08cbe421-1859-4955-b1b1-27946189dc1c",
+		"distance": 9.550456400246226,
+		"activeKey": "bulldog-tennis-academy-kanakapura-road-bengaluru",
 		"offers": []
 	},
 	{
