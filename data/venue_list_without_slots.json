@@ -23000,7 +23000,7 @@
 		"createdTS": "2017-01-07T17:23:44.176Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:54:21.133Z",
-		"ratingCount": 183,
+		"ratingCount": 184,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ALTISARENA/altisarena1.jpg"
@@ -61342,6 +61342,119 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"inquiryPhone": "7204108494",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "mean-machine-football-arena-whitefield-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP2"
+		],
+		"area": "Whitefield",
+		"oldPlayoId": "08171ba4-2d0b-4e38-bffd-9124955e824b",
+		"functionData": [
+			{
+				"content": "08171ba4-2d0b-4e38-bffd-9124955e824b",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2"
+		],
+		"amenities": [
+			"Parking",
+			"Sitting Area",
+			"Washroom"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560067",
+		"phone": [
+			"7204108494"
+		],
+		"avgRating": 5,
+		"name": "Mean Machine Football Arena",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2022-11-15T15:53:50.524Z",
+		"inquiryType": -1,
+		"modTS": "2022-11-15T15:54:44.750Z",
+		"ratingCount": 1,
+		"id": "08171ba4-2d0b-4e38-bffd-9124955e824b",
+		"category": 2,
+		"s3Folder": "MEANMACHINEFOOTBALLARENA20221115155350524723",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"meanmachinefootballarena@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "No: 81/2, VINAYAKA TEMPLE OPP ROAD, NEAR WHITE HOUSE, CHANNASANDRA, BANGALORE-560067",
+		"active": true,
+		"search": "mean,machine,football",
+		"fullLink": "https://playo.co/venue?venueId=08171ba4-2d0b-4e38-bffd-9124955e824b",
+		"country": "India",
+		"timings": "3AM - 11PM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"__v": 1,
+		"coverImage": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArenacovercover1668527619675.jpeg",
+		"deferLink": "https://z34v4.app.goo.gl/MGwi",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527525461.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527536164.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527544894.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527554446.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527563286.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527574781.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527583096.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527591339.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MEANMACHINEFOOTBALLARENA20221115155350524723/MeanMachineFootballArena1668527599613.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/yKxm",
+		"lat": 12.97787014104902,
+		"lng": 77.77235351349015,
+		"venueId": "08171ba4-2d0b-4e38-bffd-9124955e824b",
+		"distance": 19.294757576494412,
+		"activeKey": "mean-machine-football-arena-whitefield-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "3895d1e8-c3ba-4b61-83d4-5d72eb1939a3",
