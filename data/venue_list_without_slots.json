@@ -30278,7 +30278,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 92,
+		"ratingCount": 93,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -51755,13 +51755,13 @@
 			"SP4"
 		],
 		"__v": 7,
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"coverImage": "https://playo.gumlet.io/SOLSPORTSACADEMY/DDSportsArena1614187716113.jpeg",
 		"createdTS": "2021-01-22T09:46:05.135Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 36,
+		"ratingCount": 37,
 		"activityCount": 4181,
 		"activityCountLastSyncDate": "2022-11-14T18:30:02.341Z",
 		"bnpl": false,
