@@ -19992,7 +19992,7 @@
 		"description": "",
 		"createdTS": "2021-09-08T08:43:37.516Z",
 		"bookType": 0,
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"zipCode": "560016",
 		"modTS": "2022-07-26T09:09:57.670Z",
 		"inquiryPhone": "9980155559",
@@ -20001,7 +20001,7 @@
 			"9980155559"
 		],
 		"sponsored": "",
-		"avgRating": 2.9,
+		"avgRating": 2.7,
 		"address": "73, E Main Road, Vishweshwaraiah Layout, Akash Nagar, B Narayanapura, Mahadevapura, Bengaluru, Karnataka - 560016",
 		"active": true,
 		"id": "0cbef809-97d9-442a-90de-42b8d41ff11d",
@@ -20887,166 +20887,6 @@
 		"bnpl": false,
 		"distance": 9.510671585311691,
 		"activeKey": "gamers-multisport-arena-vignan-nagar-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
-	},
-	{
-		"inquiryPhone": "9677892797",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bellandur-cricket-academy-green-glen-layout-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/1D7r",
-		"city": "Bengaluru",
-		"area": "Green Glen Layout",
-		"oldPlayoId": "5a36963d6d91cf46079f9763",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "6064ed4f-0b71-43fa-aeaa-85356e2313f4",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP57",
-			"SP56"
-		],
-		"priority": 0,
-		"amenities": [
-			"Parking",
-			"Fitness Equipments",
-			"Restroom",
-			"Refreshments",
-			"Shower Room",
-			"Change Room"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/BELLANDURCRICKETACADEMY/BellandurCricketAcademymap1513526822503.JPG",
-		"zipCode": "560103",
-		"phone": [
-			"9677892797"
-		],
-		"avgRating": 4.1,
-		"name": "Bellandur Cricket Academy",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-12-17T16:07:25.164Z",
-		"coverImage": "",
-		"createdTS": "2017-12-17T16:07:25.164Z",
-		"inquiryType": -1,
-		"modTS": "2022-10-31T06:42:18.717Z",
-		"ratingCount": 47,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/BellandurCricketAcademy1639924104734.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/bellandurcricketacademy0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/bellandurcricketacademy1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/bellandurcricketacademy14.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/bellandurcricketacademy15.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/bellandurcricketacademy2.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/bellandurcricketacademy3.jpg"
-			}
-		],
-		"id": "6064ed4f-0b71-43fa-aeaa-85356e2313f4",
-		"description": "",
-		"category": 2,
-		"s3Folder": "BELLANDURCRICKETACADEMY",
-		"state": "Karnataka",
-		"email": [
-			"bellandurcricketacademy@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "96/7, Margosa Avenue, Green Glen Layout",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/QxPN",
-		"search": "",
-		"fullLink": "https://playo.co/venue/?venueId=6064ed4f-0b71-43fa-aeaa-85356e2313f4",
-		"country": "India",
-		"timings": "6 AM - 10 PM",
-		"addInfo": "",
-		"bookSports": [
-			"SP57",
-			"SP56"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.928802,
-		"lng": 77.670475,
-		"placeId": "",
-		"type": 0,
-		"venueId": "6064ed4f-0b71-43fa-aeaa-85356e2313f4",
-		"sponsoredRadius": 4,
-		"__v": 2,
-		"isSafeAndHygiene": true,
-		"activityCount": 4150,
-		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"bnpl": false,
-		"distance": 9.510794146135815,
-		"activeKey": "bellandur-cricket-academy-green-glen-layout-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
