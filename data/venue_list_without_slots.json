@@ -9867,7 +9867,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 49,
+		"ratingCount": 50,
 		"bookSports": [
 			"SP5"
 		],
@@ -26420,15 +26420,9 @@
 		"coverImage": "https://playo.gumlet.io/AHALYASPORTSARENA/AhalyaSportsArena37.png",
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-18T18:19:34.511Z",
+		"modTS": "2022-11-16T08:11:31.212Z",
 		"ratingCount": 244,
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/AhalyaSportsArena1639851554337.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/AhalyaSportsArena1639851566331.jpg"
-			},
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
 			},
@@ -26487,11 +26481,12 @@
 		"placeId": "",
 		"type": 0,
 		"venueId": "ed0560e5-b899-4a11-8e06-daf0e6d0d5a6",
-		"__v": 8,
+		"__v": 9,
 		"sponsoredRadius": 2,
 		"isSafeAndHygiene": true,
 		"activityCount": 35750,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
 		"distance": 10.108300031928035,
 		"activeKey": "ahalya-sports-arena-near-manyata-tech-park-bengaluru",
 		"offers": []
@@ -66711,29 +66706,27 @@
 		]
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "8022213397",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "sree-kanteerava-stadium-cubbon-park-bangalore"
+				"key": "sree-kanteerava-stadium-cubbon-park-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/0MJX",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/vLnD",
+		"city": "Bengaluru",
 		"area": "Cubbon Park",
 		"oldPlayoId": "587124206d91cf3645ab07e0",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "47da7d9e-1f44-4190-8abf-5380a02e47ec",
 				"bookType": 0,
-				"popupText": "",
-				"content": "08022213397",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -66759,8 +66752,8 @@
 		"activatedOn": "2017-01-07T17:23:44.066Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.066Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:19:59.547Z",
 		"ratingCount": 25,
 		"images": [],
 		"id": "47da7d9e-1f44-4190-8abf-5380a02e47ec",
@@ -66768,7 +66761,9 @@
 		"category": 1,
 		"s3Folder": "SREEKANTEERAVASTADIUM",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -66776,7 +66771,7 @@
 		"members": false,
 		"address": "Near Corporation Circle, Kasturba Rd, Sampangi Rama Nagar",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/93pD",
+		"deferLink": "https://z34v4.app.goo.gl/dG9K",
 		"search": "Basketball|Football|Running|Sree Kanteerava Stadium|Near Corporation Circle, Kasturba Rd, Sampangi Rama Nagar|Cubbon Park|Bangalore|Parking, Washroom||null",
 		"fullLink": "https://playo.co/venue/?venueId=47da7d9e-1f44-4190-8abf-5380a02e47ec",
 		"country": "India",
@@ -66785,36 +66780,39 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 48,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 0.2761335792715626,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.9695931,
 		"lng": 77.5931039,
-		"activeKey": "sree-kanteerava-stadium-cubbon-park-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "47da7d9e-1f44-4190-8abf-5380a02e47ec",
+		"distance": 0.2761335792715626,
+		"activeKey": "sree-kanteerava-stadium-cubbon-park-bengaluru",
 		"offers": []
 	},
 	{
-		"inquiryPhone": "08022869797",
+		"inquiryPhone": "8022869797",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "karnataka-state-lawn-tennis-association-cubbon-park-bangalore"
+				"key": "karnataka-state-lawn-tennis-association-cubbon-park-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/T9TQ",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/1TmZ",
+		"city": "Bengaluru",
 		"area": "Cubbon Park",
 		"oldPlayoId": "587124206d91cf3645ab07e1",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "685e8aff-cc34-4f07-8677-6fa093076d4f",
 				"bookType": 0,
-				"popupText": "",
-				"content": "08022869797",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -66837,8 +66835,8 @@
 		"activatedOn": "2017-01-07T17:23:44.067Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.067Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:22:00.110Z",
 		"ratingCount": 17,
 		"images": [
 			{
@@ -66853,7 +66851,9 @@
 		"category": 1,
 		"s3Folder": "KSLTACUBBON",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -66861,7 +66861,7 @@
 		"members": false,
 		"address": "Karnataka State Lawn Tennis Association, Cyween Park, Cubbon Road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/AUNh",
+		"deferLink": "https://z34v4.app.goo.gl/Q3aQ",
 		"search": "Tennis|Karnataka State Lawn Tennis Association|Karnataka State Lawn Tennis Association, Cyween Park, Cubbon Road|Cubbon Park|Bangalore|Parking||null",
 		"fullLink": "https://playo.co/venue/?venueId=685e8aff-cc34-4f07-8677-6fa093076d4f",
 		"country": "India",
@@ -66870,10 +66870,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 35,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 0.40534148895830574,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.9752382,
 		"lng": 77.5944467,
-		"activeKey": "karnataka-state-lawn-tennis-association-cubbon-park-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "685e8aff-cc34-4f07-8677-6fa093076d4f",
+		"distance": 0.40534148895830574,
+		"activeKey": "karnataka-state-lawn-tennis-association-cubbon-park-bengaluru",
 		"offers": []
 	},
 	{
@@ -67380,29 +67385,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "9845284423",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "kims-tennis-academy-cox-town-bangalore"
+				"key": "kims-tennis-academy-cox-town-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/8AK2",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/kV9Y",
+		"city": "Bengaluru",
 		"area": "Cox Town",
 		"oldPlayoId": "587124206d91cf3645ab0842",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "606dae8b-b25f-4ab5-88a1-606ac42c2bb3",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9845284423",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -67427,8 +67430,8 @@
 		"activatedOn": "2017-01-07T17:23:44.184Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.184Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T08:05:38.306Z",
 		"ratingCount": 15,
 		"images": [
 			{
@@ -67443,7 +67446,9 @@
 		"category": 1,
 		"s3Folder": "KIMTENN",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -67451,7 +67456,7 @@
 		"members": false,
 		"address": "MM Road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/iPSf",
+		"deferLink": "https://z34v4.app.goo.gl/6Lvs",
 		"search": "Tennis|Kim's Tennis Academy|MM Road|Cox Town|Bangalore|Parking, Washroom, First-Aid|Two synthetic tennis courts|null",
 		"fullLink": "https://playo.co/venue/?venueId=606dae8b-b25f-4ab5-88a1-606ac42c2bb3",
 		"country": "India",
@@ -67460,10 +67465,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 142,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 4.080931446005666,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.99859,
 		"lng": 77.62006,
-		"activeKey": "kims-tennis-academy-cox-town-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "606dae8b-b25f-4ab5-88a1-606ac42c2bb3",
+		"distance": 4.080931446005666,
+		"activeKey": "kims-tennis-academy-cox-town-bengaluru",
 		"offers": []
 	},
 	{
@@ -68007,29 +68017,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "8088886696",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "dasashrama-multipurpose-sports-ground-rajajinagar-bangalore"
+				"key": "dasashrama-multipurpose-sports-ground-rajajinagar-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/BPPd",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/oYtW",
+		"city": "Bengaluru",
 		"area": "Rajajinagar",
 		"oldPlayoId": "587124206d91cf3645ab07ce",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "e1b43d02-7a88-4be2-8180-8fe2bf350425",
 				"bookType": 0,
-				"popupText": "",
-				"content": "08088886696",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -68053,8 +68061,8 @@
 		"activatedOn": "2017-01-07T17:23:44.048Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.048Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:09:27.380Z",
 		"ratingCount": 10,
 		"images": [
 			{
@@ -68069,7 +68077,9 @@
 		"category": 1,
 		"s3Folder": "DASHARAM",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -68077,7 +68087,7 @@
 		"members": false,
 		"address": "Near Manjunatha Temple, Dr Rajkumar Road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/6zKC",
+		"deferLink": "https://z34v4.app.goo.gl/ZSHU",
 		"search": "Cricket|Football|Dasashrama Multipurpose Sports Ground|Near Manjunatha Temple, Dr Rajkumar Road|Rajajinagar|Bangalore|Parking|Public Ground|null",
 		"fullLink": "https://playo.co/venue/?venueId=e1b43d02-7a88-4be2-8180-8fe2bf350425",
 		"country": "India",
@@ -68086,10 +68096,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 4.394302521759305,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.98014,
 		"lng": 77.55505,
-		"activeKey": "dasashrama-multipurpose-sports-ground-rajajinagar-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "e1b43d02-7a88-4be2-8180-8fe2bf350425",
+		"distance": 4.394302521759305,
+		"activeKey": "dasashrama-multipurpose-sports-ground-rajajinagar-bengaluru",
 		"offers": []
 	},
 	{
@@ -68593,14 +68608,12 @@
 		"oldPlayoId": "587124206d91cf3645ab081d",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "170809a8-0103-42ce-baac-dbd8924611c0",
 				"bookType": 0,
-				"popupText": "",
-				"content": "+9108025702247",
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -68630,7 +68643,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.138Z",
 		"inquiryType": 0,
-		"modTS": "2020-11-14T08:20:24.217Z",
+		"modTS": "2022-11-16T07:36:29.565Z",
 		"ratingCount": 52,
 		"images": [
 			{
@@ -68674,7 +68687,7 @@
 		"timings": "6:00 AM - 9:00 AM; 5:00 PM - 7:00 PM",
 		"addInfo": "",
 		"isSafeAndHygiene": false,
-		"bookType": 2,
+		"bookType": 0,
 		"lat": 12.941844,
 		"lng": 77.625552,
 		"sponsoredRadius": 4,
@@ -68682,6 +68695,7 @@
 		"venueId": "170809a8-0103-42ce-baac-dbd8924611c0",
 		"activityCount": 161,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
 		"distance": 4.716667035208889,
 		"activeKey": "builders-national-games-village-club-koramangala-bengaluru",
 		"offers": []
@@ -69561,29 +69575,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "8088886696",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "vajpayee-indoor-badminton-club-rajajinagar-bangalore"
+				"key": "vajpayee-indoor-badminton-club-rajajinagar-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/IG9b",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/gepw",
+		"city": "Bengaluru",
 		"area": "Rajajinagar",
 		"oldPlayoId": "587124206d91cf3645ab0833",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "f92eb96b-306b-4f14-a85c-342b8c5272d9",
 				"bookType": 0,
-				"popupText": "",
-				"content": "08088886696",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -69608,8 +69620,8 @@
 		"activatedOn": "2017-01-07T17:23:44.165Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.165Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:58:18.081Z",
 		"ratingCount": 40,
 		"images": [
 			{
@@ -69624,7 +69636,9 @@
 		"category": 1,
 		"s3Folder": "VAJBADCLUB",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -69632,7 +69646,7 @@
 		"members": false,
 		"address": "Mariappanapalya",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/wTyu",
+		"deferLink": "https://z34v4.app.goo.gl/K2Gp",
 		"search": "|Badminton|Vajpayee Indoor Badminton Club|Mariappanapalya|Rajajinagar|Bangalore|Parking, Washroom, Coaching||",
 		"fullLink": "https://playo.co/venue/?venueId=f92eb96b-306b-4f14-a85c-342b8c5272d9",
 		"country": "India",
@@ -69641,10 +69655,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 26,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 5.205903882377609,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.997527,
 		"lng": 77.554658,
-		"activeKey": "vajpayee-indoor-badminton-club-rajajinagar-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "f92eb96b-306b-4f14-a85c-342b8c5272d9",
+		"distance": 5.205903882377609,
+		"activeKey": "vajpayee-indoor-badminton-club-rajajinagar-bengaluru",
 		"offers": []
 	},
 	{
@@ -71379,27 +71398,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "8095514666",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "tmc-badminton-court-devasandra-layout-bangalore"
+				"key": "tmc-badminton-court-devasandra-layout-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/pkd8",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/BYXY",
+		"city": "Bengaluru",
 		"area": "Devasandra Layout",
 		"oldPlayoId": "58fd8dee6d91cf4852c3e3ff",
 		"functionData": [
 			{
-				"priority": "0",
-				"displayType": "1",
+				"content": "99be67d8-32d8-42be-a452-a91bf20fc855",
 				"bookType": 0,
-				"content": "08095514666",
-				"caption": "Call Venue!",
-				"type": "1"
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -71422,8 +71441,8 @@
 		"activatedOn": "2017-04-24T05:32:30.224Z",
 		"coverImage": "",
 		"createdTS": "2017-04-24T05:32:30.224Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-10T17:01:48.900Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T08:12:51.434Z",
 		"ratingCount": 25,
 		"images": [
 			{
@@ -71442,7 +71461,7 @@
 		"tags": [
 			{
 				"tagId": " ",
-				"expiry": "2022-12-31T00:00:00.000Z"
+				"expiry": "2025-12-31T00:00:00.000Z"
 			}
 		],
 		"googleMapLink": "",
@@ -71450,13 +71469,13 @@
 		"members": false,
 		"address": "Devasandra Layout",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/O1Zj",
+		"deferLink": "https://z34v4.app.goo.gl/ncae",
 		"search": " ",
 		"fullLink": "https://playo.co/venue/?venueId=99be67d8-32d8-42be-a452-a91bf20fc855",
 		"country": "India",
 		"timings": "NA",
 		"addInfo": "",
-		"bookType": 1,
+		"bookType": 0,
 		"dateLimit": 14,
 		"lat": 13.0171006,
 		"lng": 77.5640689,
@@ -71466,8 +71485,10 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 1,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
+		"sponsoredRadius": 4,
 		"distance": 6.05161373900034,
-		"activeKey": "tmc-badminton-court-devasandra-layout-bangalore",
+		"activeKey": "tmc-badminton-court-devasandra-layout-bengaluru",
 		"offers": []
 	},
 	{
@@ -74742,29 +74763,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "7353751236",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "embassy-sports-zone-hebbal-outer-ring-road-bangalore"
+				"key": "embassy-sports-zone-hebbal-outer-ring-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/d1kN",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/WxAe",
+		"city": "Bengaluru",
 		"area": "Hebbal, Outer Ring Road",
 		"oldPlayoId": "587124206d91cf3645ab0856",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "04c353c7-4012-4fff-b0f0-fb750c7be872",
 				"bookType": 0,
-				"popupText": "",
-				"content": "7353751236",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -74795,8 +74814,8 @@
 		"activatedOn": "2017-01-07T17:23:44.208Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.208Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T08:07:24.725Z",
 		"ratingCount": 71,
 		"images": [
 			{
@@ -74820,16 +74839,18 @@
 		"category": 1,
 		"s3Folder": "MANYATA",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [
 			{
 				"tagId": "Inside Manyata",
-				"expiry": "2022-12-31T00:00:00.000Z"
+				"expiry": "2025-12-31T00:00:00.000Z"
 			},
 			{
 				"tagId": " Outsiders Allowed",
-				"expiry": "2022-12-31T00:00:00.000Z"
+				"expiry": "2025-12-31T00:00:00.000Z"
 			}
 		],
 		"googleMapLink": "",
@@ -74837,7 +74858,7 @@
 		"members": false,
 		"address": "Manayata Tech Park, Nagavara",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/rI2D",
+		"deferLink": "https://z34v4.app.goo.gl/mxPR",
 		"search": "|Football|Cricket|Basketball|Volleyball|Embassy Sports Zone|Manayata Tech Park, Nagavara|Hebbal, Outer Ring Road|Bangalore|Locker, Washroom, Equipments, Parking, First-aid, Beverage|Cricket users - Only Stumps provided by the facility and other play equipments like Cricket Ball & Bat need to be carried by the user.|Inside Manyata, Outsiders Allowed",
 		"fullLink": "https://playo.co/venue/?venueId=04c353c7-4012-4fff-b0f0-fb750c7be872",
 		"country": "India",
@@ -74846,10 +74867,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 222,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 8.560017208357987,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 13.045659,
 		"lng": 77.615841,
-		"activeKey": "embassy-sports-zone-hebbal-outer-ring-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "04c353c7-4012-4fff-b0f0-fb750c7be872",
+		"distance": 8.560017208357987,
+		"activeKey": "embassy-sports-zone-hebbal-outer-ring-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -75467,12 +75493,12 @@
 		"oldPlayoId": "587124206d91cf3645ab082a",
 		"functionData": [
 			{
-				"content": "9008999902",
-				"caption": "Call Venue!",
+				"content": "35263f9e-9d08-4241-8a0e-2280dd53e081",
 				"bookType": 0,
-				"priority": "1",
-				"displayType": 1,
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -75497,8 +75523,8 @@
 		"activatedOn": "2017-01-07T17:23:44.153Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.153Z",
-		"inquiryType": 2,
-		"modTS": "2021-12-06T11:11:19.188Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:40:25.750Z",
 		"ratingCount": 47,
 		"images": [
 			{
@@ -75551,6 +75577,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 64,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
 		"distance": 8.849535640091252,
 		"activeKey": "the-game-changer-msr-mathikere-bengaluru",
 		"offers": []
@@ -75783,29 +75810,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "9916955108",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "decathlon-whitefield-whitefield-bangalore"
+				"key": "decathlon-whitefield-whitefield-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/EDoK",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/EgBj",
+		"city": "Bengaluru",
 		"area": "Whitefield",
 		"oldPlayoId": "587124206d91cf3645ab07db",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "3fcd1831-a006-4165-8006-d7fb3a7468ab",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9916955108",
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -75829,8 +75854,8 @@
 		"activatedOn": "2017-01-07T17:23:44.061Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.061Z",
-		"inquiryType": -1,
-		"modTS": "2019-02-02T06:38:30.683Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:18:21.574Z",
 		"ratingCount": 11,
 		"images": [
 			{
@@ -75855,13 +75880,13 @@
 		"members": false,
 		"address": "ITPL Main Rd, Kaveri Nagar, Mahadevapura",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/tJ5E",
+		"deferLink": "https://z34v4.app.goo.gl/u2VG",
 		"search": "Football|Decathlon Whitefield|ITPL Main Rd, Kaveri Nagar, Mahadevapura|Whitefield|Bangalore|Parking, First-Aid||null",
 		"fullLink": "https://playo.co/venue/?venueId=3fcd1831-a006-4165-8006-d7fb3a7468ab",
 		"country": "India",
 		"timings": "8:00 AM to 10:00 PM",
 		"addInfo": "",
-		"bookType": 2,
+		"bookType": 0,
 		"dateLimit": 14,
 		"lat": 12.9916738,
 		"lng": 77.6763356,
@@ -75871,8 +75896,10 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 23,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
+		"sponsoredRadius": 4,
 		"distance": 9.143431974074907,
-		"activeKey": "decathlon-whitefield-whitefield-bangalore",
+		"activeKey": "decathlon-whitefield-whitefield-bengaluru",
 		"offers": []
 	},
 	{
@@ -76704,29 +76731,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "08028600665",
+		"inquiryPhone": "8028600665",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "the-club-nayandahalli-bangalore"
+				"key": "the-club-nayandahalli-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/8GkD",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/Zpjo",
+		"city": "Bengaluru",
 		"area": "Nayandahalli",
 		"oldPlayoId": "587124206d91cf3645ab081e",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "58b8095b-338d-47e8-9837-dd882ed3751d",
 				"bookType": 0,
-				"popupText": "",
-				"content": "08028600665",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -76757,8 +76782,8 @@
 		"activatedOn": "2017-01-07T17:23:44.139Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.139Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:38:17.270Z",
 		"ratingCount": 45,
 		"images": [
 			{
@@ -76776,7 +76801,9 @@
 		"category": 1,
 		"s3Folder": "THECLUB",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -76784,7 +76811,7 @@
 		"members": false,
 		"address": "Mysore Road, Nayandahalli, Bangalore",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/wxAZ",
+		"deferLink": "https://z34v4.app.goo.gl/CqGv",
 		"search": "Tennis|Swimming|Badminton|Squash|Pool|Workout|The Club|Mysore Road, Nayandahalli, Bangalore|Nayandahalli|Bangalore|Parking,Restaurant,Conference hall||null",
 		"fullLink": "https://playo.co/venue/?venueId=58b8095b-338d-47e8-9837-dd882ed3751d",
 		"country": "India",
@@ -76793,10 +76820,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 14,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 9.470153221723983,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.9369089,
 		"lng": 77.5148937,
-		"activeKey": "the-club-nayandahalli-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "58b8095b-338d-47e8-9837-dd882ed3751d",
+		"distance": 9.470153221723983,
+		"activeKey": "the-club-nayandahalli-bengaluru",
 		"offers": []
 	},
 	{
@@ -77084,29 +77116,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "9538712550",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "decathlon-sarjapur-sarjapur-road-bangalore"
+				"key": "decathlon-sarjapur-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/SwtU",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/Pu1w",
+		"city": "Bengaluru",
 		"area": "Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab07da",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "92a9b8ab-def7-439d-8d97-79c9b38bfc88",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9538712550",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -77130,8 +77160,8 @@
 		"activatedOn": "2017-01-07T17:23:44.060Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.060Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:16:59.079Z",
 		"ratingCount": 21,
 		"images": [
 			{
@@ -77146,7 +77176,9 @@
 		"category": 1,
 		"s3Folder": "DECATSAR",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -77154,7 +77186,7 @@
 		"members": false,
 		"address": "Survey 96/1, Sarjapur Road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Wilu",
+		"deferLink": "https://z34v4.app.goo.gl/bJKw",
 		"search": "Football|Decathlon Sarjapur|Survey 96/1, Sarjapur Road|Sarjapur Road|Bangalore|Parking, First-Aid||null",
 		"fullLink": "https://playo.co/venue/?venueId=92a9b8ab-def7-439d-8d97-79c9b38bfc88",
 		"country": "India",
@@ -77163,10 +77195,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 71,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 9.939596651668099,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.9180653,
 		"lng": 77.6679242,
-		"activeKey": "decathlon-sarjapur-sarjapur-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "92a9b8ab-def7-439d-8d97-79c9b38bfc88",
+		"distance": 9.939596651668099,
+		"activeKey": "decathlon-sarjapur-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -77599,14 +77636,12 @@
 		"oldPlayoId": "587124206d91cf3645ab07c3",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "7628dedd-5654-4347-9ba9-e86e1a3a4f95",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9886062456",
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -77634,7 +77669,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.036Z",
 		"inquiryType": -1,
-		"modTS": "2021-11-02T13:02:27.373Z",
+		"modTS": "2022-11-16T06:19:36.901Z",
 		"ratingCount": 75,
 		"images": [
 			{
@@ -77680,6 +77715,7 @@
 		"venueId": "7628dedd-5654-4347-9ba9-e86e1a3a4f95",
 		"activityCount": 1375,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
 		"distance": 10.330185977888055,
 		"activeKey": "kicks-on-grass-bellandur-bengaluru",
 		"offers": []
@@ -78775,29 +78811,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "+919886638283",
+		"inquiryPhone": "9886638283",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "ant-academy-|-performance-tennis-jakur-bangalore"
+				"key": "ant-academy-|-performance-tennis-jakur-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/Sje6",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/UuEV",
+		"city": "Bengaluru",
 		"area": "Jakur",
 		"oldPlayoId": "587124206d91cf3645ab07ea",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "eda9d602-c80d-454a-99dd-4c8d47314bb9",
 				"bookType": 0,
-				"popupText": "",
-				"content": "+919886638283",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -78823,8 +78857,8 @@
 		"activatedOn": "2017-01-07T17:23:44.080Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.080Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:29:34.325Z",
 		"ratingCount": 16,
 		"images": [
 			{
@@ -78836,7 +78870,9 @@
 		"category": 1,
 		"s3Folder": "ANTACADEMYPERFORMANCETENNIS",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -78844,7 +78880,7 @@
 		"members": false,
 		"address": "Amruthahalli Main Rd, Jakkuru Layout",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/YyTd",
+		"deferLink": "https://z34v4.app.goo.gl/3WMU",
 		"search": "Tennis|ANT academy | Performance tennis| Amruthahalli Main Rd, Jakkuru Layout|Jakur|Bangalore|Gym,Washroom,Parking,|Only non marking tennis shoes are allowed,Racquets on rent are available at the venue|null",
 		"fullLink": "https://playo.co/venue/?venueId=eda9d602-c80d-454a-99dd-4c8d47314bb9",
 		"country": "India",
@@ -78853,10 +78889,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 3,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 11.17966511116254,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 13.0716194,
 		"lng": 77.6039028,
-		"activeKey": "ant-academy-|-performance-tennis-jakur-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "eda9d602-c80d-454a-99dd-4c8d47314bb9",
+		"distance": 11.17966511116254,
+		"activeKey": "ant-academy-|-performance-tennis-jakur-bengaluru",
 		"offers": []
 	},
 	{
@@ -80209,23 +80250,21 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "glow-tennis-academy-maratahalli-bangalore"
+				"key": "glow-tennis-academy-maratahalli-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/4UxO",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/gfj8",
+		"city": "Bengaluru",
 		"area": "Maratahalli",
 		"oldPlayoId": "587124206d91cf3645ab07d9",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "e23a303f-11aa-4cf3-b0b8-38506650e4f0",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9611530001",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -80249,8 +80288,8 @@
 		"activatedOn": "2017-01-07T17:23:44.059Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.059Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:14:43.785Z",
 		"ratingCount": 15,
 		"images": [
 			{
@@ -80265,7 +80304,9 @@
 		"category": 1,
 		"s3Folder": "GLOWTENN",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -80273,7 +80314,7 @@
 		"members": false,
 		"address": "22 Mahalakshmi forum, AECS Layout Chinnapanahalli, Marathahalli",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/jjxU",
+		"deferLink": "https://z34v4.app.goo.gl/hYEb",
 		"search": "Tennis|Glow Tennis Academy|22 Mahalakshmi forum, AECS Layout Chinnapanahalli, Marathahalli|Maratahalli|Bangalore|Parking, First-Aid||null",
 		"fullLink": "https://playo.co/venue/?venueId=e23a303f-11aa-4cf3-b0b8-38506650e4f0",
 		"country": "India",
@@ -80282,10 +80323,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 17,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 12.184934847640095,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.962614,
 		"lng": 77.706545,
-		"activeKey": "glow-tennis-academy-maratahalli-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "e23a303f-11aa-4cf3-b0b8-38506650e4f0",
+		"distance": 12.184934847640095,
+		"activeKey": "glow-tennis-academy-maratahalli-bengaluru",
 		"offers": []
 	},
 	{
@@ -80640,29 +80686,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "7760825069",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bangalore"
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/v10U",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
 		"area": "Off Marthahalli-Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab07e5",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
 				"bookType": 0,
-				"popupText": "",
-				"content": "7760825069",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -80686,8 +80730,8 @@
 		"activatedOn": "2017-01-07T17:23:44.072Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
 		"ratingCount": 13,
 		"images": [],
 		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
@@ -80695,7 +80739,9 @@
 		"category": 1,
 		"s3Folder": "BUBBLESTRIKEBENGALURU",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -80703,7 +80749,7 @@
 		"members": false,
 		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/0V9F",
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
 		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
 		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
 		"country": "India",
@@ -80712,36 +80758,39 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 12.546616529780627,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.939621,
 		"lng": 77.7055,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "astro-arena-off-marthahalli-sarjapur-road-bangalore"
+				"key": "astro-arena-off-marthahalli-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/Ehmh",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/MXzh",
+		"city": "Bengaluru",
 		"area": "Off Marthahalli-Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab07e2",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "239ff06f-29c8-4acf-a366-44978caca649",
 				"bookType": 0,
-				"popupText": "",
-				"content": "8970921113",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -80766,8 +80815,8 @@
 		"activatedOn": "2017-01-07T17:23:44.068Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.068Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:23:44.538Z",
 		"ratingCount": 34,
 		"images": [
 			{
@@ -80782,7 +80831,9 @@
 		"category": 1,
 		"s3Folder": "ASTROARENA",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -80790,7 +80841,7 @@
 		"members": false,
 		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/TOuN",
+		"deferLink": "https://z34v4.app.goo.gl/4Fus",
 		"search": "Football|Astro Arena|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Parking, Washroom, Restroom||null",
 		"fullLink": "https://playo.co/venue/?venueId=239ff06f-29c8-4acf-a366-44978caca649",
 		"country": "India",
@@ -80799,10 +80850,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 323,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 12.546616529780627,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.939621,
 		"lng": 77.7055,
-		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
+		"distance": 12.546616529780627,
+		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -84444,23 +84500,21 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "red-riders-sports-sarjapur-road-bangalore"
+				"key": "red-riders-sports-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/vtCr",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/weqT",
+		"city": "Bengaluru",
 		"area": "Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab0801",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "0873b5dc-6154-4d01-bdd0-ec194135b060",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9916185050",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -84486,8 +84540,8 @@
 		"activatedOn": "2017-01-07T17:23:44.106Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.106Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:35:07.508Z",
 		"ratingCount": 15,
 		"images": [
 			{
@@ -84583,7 +84637,9 @@
 		"category": 1,
 		"s3Folder": "REDRIDERS",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -84591,7 +84647,7 @@
 		"members": false,
 		"address": "34/3 Sulikunte village, Carmelaram Post, Near Delhi public school east, Sarjapur main road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Ru74",
+		"deferLink": "https://z34v4.app.goo.gl/cDbZ",
 		"search": "Motor Sports|Target Sports|Target Sports|Red Riders Sports|34/3 Sulikunte village, Carmelaram Post, Near Delhi public school east, Sarjapur main road|Sarjapur Road|Bangalore|Parking, Washroom, First-Aid||null",
 		"fullLink": "https://playo.co/venue/?venueId=0873b5dc-6154-4d01-bdd0-ec194135b060",
 		"country": "India",
@@ -84600,10 +84656,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 3,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 17.733664526180316,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.87799,
 		"lng": 77.726851,
-		"activeKey": "red-riders-sports-sarjapur-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "0873b5dc-6154-4d01-bdd0-ec194135b060",
+		"distance": 17.733664526180316,
+		"activeKey": "red-riders-sports-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -85434,23 +85495,21 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "abr-sports-sarjapur-road-bangalore"
+				"key": "abr-sports-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/X1Li",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/RFDp",
+		"city": "Bengaluru",
 		"area": "Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab07e3",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "0f6253f3-1711-4de1-8787-8dc5206cb08b",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9845124386",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -85478,8 +85537,8 @@
 		"activatedOn": "2017-01-07T17:23:44.070Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.070Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:25:09.246Z",
 		"ratingCount": 9,
 		"images": [
 			{
@@ -85497,7 +85556,9 @@
 		"category": 1,
 		"s3Folder": "ABRSPORTS",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -85505,7 +85566,7 @@
 		"members": false,
 		"address": "Dommasandra",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/qb5w",
+		"deferLink": "https://z34v4.app.goo.gl/y7GR",
 		"search": "Cricket|ABR Sports|Dommasandra|Sarjapur Road|Bangalore|Parking, Washroom, Restroom, Canteen, First-Aid, Beverages|11 A-side leather ball ground and a 11 A-side tennis ball cricket ground. Volleyball, Throwball and Football available too.|null",
 		"fullLink": "https://playo.co/venue/?venueId=0f6253f3-1711-4de1-8787-8dc5206cb08b",
 		"country": "India",
@@ -85514,10 +85575,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 13,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 18.661112753965735,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.87948,
 		"lng": 77.738298,
-		"activeKey": "abr-sports-sarjapur-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "0f6253f3-1711-4de1-8787-8dc5206cb08b",
+		"distance": 18.661112753965735,
+		"activeKey": "abr-sports-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -86091,29 +86157,27 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "",
+		"inquiryPhone": "9901594854",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "raceway-motor-sports-kanakpura-road-bangalore"
+				"key": "raceway-motor-sports-kanakpura-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/jUoO",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/674c",
+		"city": "Bengaluru",
 		"area": "Kanakpura Road",
 		"oldPlayoId": "587124206d91cf3645ab07d8",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "3df2b0f5-e112-4149-b90f-170e101c8404",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9901594854",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -86138,8 +86202,8 @@
 		"activatedOn": "2017-01-07T17:23:44.058Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.058Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:13:09.525Z",
 		"ratingCount": 13,
 		"images": [],
 		"id": "3df2b0f5-e112-4149-b90f-170e101c8404",
@@ -86147,7 +86211,9 @@
 		"category": 1,
 		"s3Folder": "RACEWAYMOTORSPORTS",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -86155,7 +86221,7 @@
 		"members": false,
 		"address": "Kanakapura Road, Pattareddypalya",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/4fK6",
+		"deferLink": "https://z34v4.app.goo.gl/nPDX",
 		"search": "Motor Sports|Raceway Motor Sports|Kanakapura Road, Pattareddypalya|Kanakpura Road|Bangalore|Parking, Washroom, First-Aid||null",
 		"fullLink": "https://playo.co/venue/?venueId=3df2b0f5-e112-4149-b90f-170e101c8404",
 		"country": "India",
@@ -86164,10 +86230,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 21.448762843266028,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.797802,
 		"lng": 77.509269,
-		"activeKey": "raceway-motor-sports-kanakpura-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "3df2b0f5-e112-4149-b90f-170e101c8404",
+		"distance": 21.448762843266028,
+		"activeKey": "raceway-motor-sports-kanakpura-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -86177,21 +86248,21 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "padukone-dravid-centre-for-sports-excellence-jala-hobli-bangalore"
+				"key": "padukone-dravid-centre-for-sports-excellence-jala-hobli-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/Z1uc",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/KcX2",
+		"city": "Bengaluru",
 		"area": "Jala Hobli,",
 		"oldPlayoId": "587dff4a6d91cf2acb0a33c7",
 		"functionData": [
 			{
-				"content": "7353173000",
-				"caption": "Call Venue!",
+				"content": "f13b9e5b-e314-44b4-95a1-57fd67d54148",
 				"bookType": 0,
 				"priority": "0",
-				"displayType": 1,
-				"type": 1
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -86223,8 +86294,8 @@
 		"activatedOn": "2017-01-17T11:26:02.939Z",
 		"coverImage": "",
 		"createdTS": "2017-01-17T11:26:02.939Z",
-		"inquiryType": -1,
-		"modTS": "2019-10-29T11:10:39.999Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T08:10:51.218Z",
 		"ratingCount": 26,
 		"images": [
 			{
@@ -86264,7 +86335,7 @@
 		"members": false,
 		"address": "Tarahunise Post,",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Rdy4",
+		"deferLink": "https://z34v4.app.goo.gl/u795",
 		"search": "CSE",
 		"fullLink": "https://playo.co/venue/?venueId=f13b9e5b-e314-44b4-95a1-57fd67d54148",
 		"country": "India",
@@ -86274,7 +86345,7 @@
 		"bookSports": [
 			"SP2"
 		],
-		"bookType": 1,
+		"bookType": 0,
 		"lat": 13.167427,
 		"lng": 77.596777,
 		"type": 0,
@@ -86282,8 +86353,9 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 42,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
+		"bnpl": false,
 		"distance": 21.80051358999527,
-		"activeKey": "padukone-dravid-centre-for-sports-excellence-jala-hobli-bangalore",
+		"activeKey": "padukone-dravid-centre-for-sports-excellence-jala-hobli-bengaluru",
 		"offers": []
 	},
 	{
@@ -86293,23 +86365,21 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "abhi-hamsa-cricket-grounds-whitefield-bangalore"
+				"key": "abhi-hamsa-cricket-grounds-whitefield-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/32fe",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/pZRu",
+		"city": "Bengaluru",
 		"area": "Whitefield",
 		"oldPlayoId": "587124206d91cf3645ab07cb",
 		"functionData": [
 			{
-				"priority": 0,
+				"content": "474c9a6f-3fb1-4f3e-b334-c39ddc832caa",
 				"bookType": 0,
-				"popupText": "",
-				"content": "9000085544",
-				"displayType": "1",
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -86334,8 +86404,8 @@
 		"activatedOn": "2017-01-07T17:23:44.044Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.044Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T06:24:19.100Z",
 		"ratingCount": 15,
 		"images": [
 			{
@@ -86350,16 +86420,18 @@
 		"category": 1,
 		"s3Folder": "ABHIHAMSACRICKETGROUNDS",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [
 			{
 				"tagId": "60 yard boundary",
-				"expiry": "2022-12-31T00:00:00.000Z"
+				"expiry": "2025-12-31T00:00:00.000Z"
 			},
 			{
 				"tagId": "Groundsmen",
-				"expiry": "2022-12-31T00:00:00.000Z"
+				"expiry": "2025-12-31T00:00:00.000Z"
 			}
 		],
 		"googleMapLink": "",
@@ -86367,7 +86439,7 @@
 		"members": false,
 		"address": "Thirumalashettyhally, Koralur",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/iAmB",
+		"deferLink": "https://z34v4.app.goo.gl/3c6G",
 		"search": "|Cricket|Abhi Hamsa cricket grounds|Thirumalashettyhally, Koralur|Whitefield|Bangalore|Refreshments,Groundsmen,Parking|Big ground with lavish green outfield.Turf and matting wicket available.Catering is also available if mentioned in advance|60 yard boundary,Groundsmen",
 		"fullLink": "https://playo.co/venue/?venueId=474c9a6f-3fb1-4f3e-b334-c39ddc832caa",
 		"country": "India",
@@ -86376,10 +86448,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 8,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 22.028118497963572,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 12.991322,
 		"lng": 77.796662,
-		"activeKey": "abhi-hamsa-cricket-grounds-whitefield-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "474c9a6f-3fb1-4f3e-b334-c39ddc832caa",
+		"distance": 22.028118497963572,
+		"activeKey": "abhi-hamsa-cricket-grounds-whitefield-bengaluru",
 		"offers": []
 	},
 	{
@@ -86389,23 +86466,21 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "decathlon-anubhava-new-airport-road-bangalore"
+				"key": "decathlon-anubhava-new-airport-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/cPV3",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/VvxQ",
+		"city": "Bengaluru",
 		"area": "New Airport Road",
 		"oldPlayoId": "587124206d91cf3645ab0863",
 		"functionData": [
 			{
-				"content": "8884419976",
+				"content": "da6941c4-2127-44aa-9450-b30f261a822a",
 				"bookType": 0,
-				"popupText": "",
-				"priority": 0,
-				"caption": "Call Venue!",
-				"sportId": "",
-				"type": 1,
-				"displayType": "1"
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"sports": [
@@ -86435,8 +86510,8 @@
 		"activatedOn": "2017-01-07T17:23:44.223Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.223Z",
-		"inquiryType": -1,
-		"modTS": "2019-01-08T09:14:00.000Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T08:08:53.219Z",
 		"ratingCount": 62,
 		"images": [
 			{
@@ -86454,7 +86529,9 @@
 		"category": 1,
 		"s3Folder": "DECATHLONANUBHAVA",
 		"state": "Karnataka",
-		"email": [],
+		"email": [
+			""
+		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
@@ -86462,7 +86539,7 @@
 		"members": false,
 		"address": "Survey Number- 78/10, A2 Bellary Road, Chikkajala Village, Chikkajala",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/kREA",
+		"deferLink": "https://z34v4.app.goo.gl/8jEz",
 		"search": "|Football|Cricket|Basketball|Volleyball|Hockey|Sporty Birthday|Decathlon Anubhava|Survey Number- 78/10, A2 Bellary Road, Chikkajala Village, Chikkajala|New Airport Road|Bangalore|Washroom,Refreshments,Parking|NO EQUIPMENT WILL BE PROVIDED TO USERS. Football, cricket bat, ball, etc will have to be brought in order to play.All grounds cannot be booked for more than 3 hours at a time.NO STUDS allowed, Decathlon reserves the right to disallow people wearing studs from playing.|New Facility,Rs300 an hour,No equipment",
 		"fullLink": "https://playo.co/venue/?venueId=da6941c4-2127-44aa-9450-b30f261a822a",
 		"country": "India",
@@ -86471,10 +86548,15 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 34,
 		"activityCountLastSyncDate": "2022-11-15T18:30:02.405Z",
-		"distance": 22.30704871885956,
+		"bnpl": false,
+		"bookType": 0,
 		"lat": 13.168592,
 		"lng": 77.632317,
-		"activeKey": "decathlon-anubhava-new-airport-road-bangalore",
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "da6941c4-2127-44aa-9450-b30f261a822a",
+		"distance": 22.30704871885956,
+		"activeKey": "decathlon-anubhava-new-airport-road-bengaluru",
 		"offers": []
 	}
 ]
