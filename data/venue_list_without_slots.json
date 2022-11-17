@@ -12106,7 +12106,7 @@
 		"activityCount": 3632,
 		"activityCountLastSyncDate": "2022-11-16T18:30:02.692Z",
 		"avgRating": 4.7,
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"__v": 3,
 		"coverImage": "https://playo.gumlet.io/SPORTSALLEYSAMPANGIRAMNAGAR/Sports1BadmintonAcademySapthagiriNagarcovercover1651589898004.jpeg",
 		"createdTS": "2022-05-03T14:58:14.482Z",
@@ -69152,34 +69152,34 @@
 		"googleMapLink": "https://www.google.co.in/maps/place/Indiranagar+Basketball+Club+-+INDIRANAGAR,+BANGALORE/@12.9809718,77.6374184,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae16bad401566b:0xdf2759e3d4851c85!8m2!3d12.9809666!4d77.6396071",
 		"googlePlusCode": "XJJQ+9R Bengaluru, Karnataka",
 		"website": "mycity4kids.com",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
 		"phone": [
-			"95351 10609"
+			"9535110609"
 		],
 		"functionData": [
 			{
-				"content": "95351 10609",
+				"content": "bdb7fbb3-5d09-4efd-bcbf-0c1b853b4925",
 				"bookType": 0,
-				"popupText": "",
-				"priority": 0,
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Inquire Now!",
+				"type": 2
 			}
 		],
-		"city": "Bangalore",
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "",
+		"timings": "24hrs",
 		"cityCode": 1,
 		"id": "bdb7fbb3-5d09-4efd-bcbf-0c1b853b4925",
 		"oldPlayoId": "bdb7fbb3-5d09-4efd-bcbf-0c1b853b4925",
 		"category": 1,
-		"inquiryPhone": "95351 10609",
+		"inquiryPhone": "9535110609",
 		"s3Folder": "INDIRANAGARBASKETBALLCLUBINDIRANAGARBANGALORE",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -69194,8 +69194,8 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Indiranagar-Basketball-Club-INDIRANAGAR-BANGALORE-Indiranagar-bangalore",
-				"active": true
+				"active": true,
+				"key": "indiranagar-basketball-club-indiranagar-bangalore-indiranagar-bengaluru"
 			}
 		],
 		"images": [
@@ -69213,11 +69213,13 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2019-05-01T10:06:43.549Z",
-		"shareLink": "https://playo.page.link/ENrkn",
-		"deferLink": "https://playo.page.link/oirhX",
+		"modTS": "2022-11-17T11:11:54.396Z",
+		"shareLink": "https://z34v4.app.goo.gl/DAs9",
+		"deferLink": "https://z34v4.app.goo.gl/Kn4M",
 		"fullLink": "https://playo.co/venue/?venueId=bdb7fbb3-5d09-4efd-bcbf-0c1b853b4925",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"avgRating": 4.5,
 		"ratingCount": 2,
@@ -69225,10 +69227,22 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 9,
 		"activityCountLastSyncDate": "2022-11-16T18:30:02.692Z",
-		"distance": 4.9922947906862705,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.9809666,
 		"lng": 77.6396071,
-		"activeKey": "Indiranagar-Basketball-Club-INDIRANAGAR-BANGALORE-Indiranagar-bangalore",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "bdb7fbb3-5d09-4efd-bcbf-0c1b853b4925",
+		"zipCode": "560008",
+		"distance": 4.9922947906862705,
+		"activeKey": "indiranagar-basketball-club-indiranagar-bangalore-indiranagar-bengaluru",
 		"offers": []
 	},
 	{
@@ -76993,21 +77007,34 @@
 		"googleMapLink": "https://www.google.co.in/maps/place/Lowry+College+Basketball+Court/@12.999451,77.6765216,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1115d7fc08a7:0x522aa7e42cace4cf!8m2!3d12.9994458!4d77.6787103",
 		"googlePlusCode": "XMXH+QF Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "5ed12ed2-75dd-45c0-9d79-10d923dd5bf7",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Inquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "",
+		"timings": "24hrs",
 		"cityCode": 1,
 		"id": "5ed12ed2-75dd-45c0-9d79-10d923dd5bf7",
 		"oldPlayoId": "5ed12ed2-75dd-45c0-9d79-10d923dd5bf7",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "LOWRYCOLLEGEBASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -77022,16 +77049,18 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Lowry-College-Basketball-Court-Mahadevapura-bangalore",
-				"active": true
+				"active": true,
+				"key": "lowry-college-basketball-court-mahadevapura-bengaluru"
 			}
 		],
 		"images": [],
 		"rating": 0,
-		"shareLink": "https://playo.page.link/PyNYR",
-		"deferLink": "https://playo.page.link/YBCAi",
+		"shareLink": "https://z34v4.app.goo.gl/Gnr1",
+		"deferLink": "https://z34v4.app.goo.gl/PB24",
 		"fullLink": "https://playo.co/venue/?venueId=5ed12ed2-75dd-45c0-9d79-10d923dd5bf7",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -77039,10 +77068,23 @@
 		"activityCountLastSyncDate": "2022-11-16T18:30:02.692Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 9.635815564982716,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.9994458,
 		"lng": 77.6787103,
-		"activeKey": "Lowry-College-Basketball-Court-Mahadevapura-bangalore",
+		"modTS": "2022-11-17T10:31:03.139Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "5ed12ed2-75dd-45c0-9d79-10d923dd5bf7",
+		"zipCode": "560016",
+		"distance": 9.635815564982716,
+		"activeKey": "lowry-college-basketball-court-mahadevapura-bengaluru",
 		"offers": []
 	},
 	{
