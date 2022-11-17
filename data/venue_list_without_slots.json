@@ -14292,7 +14292,7 @@
 		"bookType": 0,
 		"ratingCount": 74,
 		"zipCode": "560094",
-		"modTS": "2020-12-24T10:33:46.215Z",
+		"modTS": "2022-11-17T12:35:23.856Z",
 		"inquiryPhone": "9901915776",
 		"inquiryType": -1,
 		"phone": [
@@ -14309,7 +14309,7 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Serve & Smash",
+		"name": "Serve & Smash Badminton",
 		"area": "Dollars Colony",
 		"sponsoredRadius": 4,
 		"country": "India",
@@ -14339,7 +14339,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "serve-smash-dollars-colony-bengaluru"
+				"key": "serve-smash-badminton-dollars-colony-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -14351,8 +14351,8 @@
 			"serveitsmashit@gmail.com"
 		],
 		"s3Folder": "SERVESMASH20191003055000886885",
-		"shareLink": "https://z34v4.app.goo.gl/rNvF",
-		"deferLink": "https://z34v4.app.goo.gl/TnY2",
+		"shareLink": "https://z34v4.app.goo.gl/r9cR",
+		"deferLink": "https://z34v4.app.goo.gl/3k9a",
 		"lat": 13.045735,
 		"lng": 77.572929,
 		"venueId": "a0c6ceb4-d09b-4fcf-bafd-6c949a55590c",
@@ -14377,8 +14377,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 10445,
 		"activityCountLastSyncDate": "2022-11-16T18:30:02.692Z",
+		"bnpl": false,
 		"distance": 8.580823429542221,
-		"activeKey": "serve-smash-dollars-colony-bengaluru",
+		"activeKey": "serve-smash-badminton-dollars-colony-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -32912,7 +32913,7 @@
 		"bookType": 0,
 		"ratingCount": 69,
 		"zipCode": "560064",
-		"modTS": "2022-11-16T08:23:49.487Z",
+		"modTS": "2022-11-17T12:25:15.487Z",
 		"inquiryPhone": "9108125251",
 		"inquiryType": -1,
 		"phone": [
@@ -32920,7 +32921,7 @@
 		],
 		"sponsored": "",
 		"avgRating": 4.5,
-		"address": "No. 267/3/2, 1st A Cross, Telecom Layout, Opp. Muneshwara Temple, Jakkur",
+		"address": "No. 267/3/2, 1st A Cross, Telecom Layout, Opposite Munneshwara Temple Road, Srirampura, Thanisandra, Jakkur, Bengaluru, Karnataka - 560064",
 		"active": true,
 		"id": "32dfc96e-6d9f-4dee-bc7f-77c5c7532f34",
 		"category": 2,
@@ -32929,8 +32930,8 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "JP Badminton Academy - Srirampura",
-		"area": "Thanisandra",
+		"name": "JP Badminton Academy - Thanisandra",
+		"area": "Jakkur",
 		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
@@ -32959,7 +32960,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "jp-badminton-academy-srirampura-thanisandra-bengaluru"
+				"key": "jp-badminton-academy-thanisandra-jakkur-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -32971,8 +32972,8 @@
 			"jpacademysrirampura@gmail.com"
 		],
 		"s3Folder": "JPBADMINTONACADEMYSRIRAMPURA20190705153336112668",
-		"shareLink": "https://z34v4.app.goo.gl/3ahB",
-		"deferLink": "https://z34v4.app.goo.gl/oVqT",
+		"shareLink": "https://z34v4.app.goo.gl/zLT1",
+		"deferLink": "https://z34v4.app.goo.gl/YiND",
 		"lat": 13.067935,
 		"lng": 77.619629,
 		"venueId": "32dfc96e-6d9f-4dee-bc7f-77c5c7532f34",
@@ -33000,8 +33001,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 17269,
 		"activityCountLastSyncDate": "2022-11-16T18:30:02.692Z",
+		"bnpl": false,
 		"distance": 11.06214061936111,
-		"activeKey": "jp-badminton-academy-srirampura-thanisandra-bengaluru",
+		"activeKey": "jp-badminton-academy-thanisandra-jakkur-bengaluru",
 		"offers": []
 	},
 	{
