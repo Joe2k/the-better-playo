@@ -32,7 +32,6 @@
 		"amenities": [
 			"First Aid",
 			"Change Room",
-			"Shower",
 			"Drinking Water"
 		],
 		"type": 0,
@@ -48,7 +47,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-09-19T09:17:05.834Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-03T06:10:09.157Z",
+		"modTS": "2022-11-17T17:15:07.729Z",
 		"ratingCount": 1,
 		"id": "c7463e9b-08b4-4c3f-9894-ed9cfc79efc9",
 		"category": 2,
@@ -31869,7 +31868,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 181,
+		"ratingCount": 182,
 		"zipCode": "560068",
 		"modTS": "2022-06-15T06:34:00.798Z",
 		"inquiryPhone": "8095514666",
@@ -47825,7 +47824,7 @@
 		"createdTS": "2017-01-07T17:23:44.212Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T08:41:14.138Z",
-		"ratingCount": 245,
+		"ratingCount": 246,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PHOENIXSPORTSC0EA4804C31C/PhoenixSports1658911237551.jpeg"
@@ -49363,7 +49362,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
 		"active": true,
 		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
