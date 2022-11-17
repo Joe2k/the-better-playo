@@ -38985,7 +38985,7 @@
 		"description": "",
 		"createdTS": "2019-05-31T12:11:34.473Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560062",
 		"modTS": "2022-04-12T10:23:00.352Z",
 		"inquiryPhone": "9731643999",
@@ -59607,7 +59607,7 @@
 		"phone": [
 			"9448241714"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4,
 		"name": "Nova Sports - Electronic City",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.140Z",
@@ -59615,7 +59615,7 @@
 		"createdTS": "2017-01-07T17:23:44.140Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T06:16:50.042Z",
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPRYNOX/NovaSportsElectronicCity1649225797468.jpg"
