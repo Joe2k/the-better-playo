@@ -34083,7 +34083,7 @@
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-06T07:21:04.884Z",
-		"ratingCount": 32,
+		"ratingCount": 33,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademy1658827316673.jpg"
@@ -49415,7 +49415,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 123,
+		"ratingCount": 124,
 		"zipCode": "560066",
 		"modTS": "2022-04-06T15:01:53.771Z",
 		"inquiryPhone": "9448060589",
@@ -51904,11 +51904,11 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "karnataka-lions-cricket-academy-electronic-city-phase-1-bangalore"
+				"key": "karnataka-lions-cricket-academy-valiant-sports-club-electronic-city-phase-1-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/fpQ5",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/St9a",
+		"city": "Bengaluru",
 		"area": "Electronic City Phase 1",
 		"oldPlayoId": "5add952c6d91cf72fe6ae053",
 		"functionData": [
@@ -51926,7 +51926,10 @@
 		],
 		"priority": 0,
 		"amenities": [
-			"Parking"
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Drinking Water"
 		],
 		"website": "",
 		"cityCode": 1,
@@ -51936,13 +51939,13 @@
 			"8861698019"
 		],
 		"avgRating": 4.3,
-		"name": "Karnataka Lions Cricket Academy",
+		"name": "Karnataka Lions Cricket Academy - Valiant Sports Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-23T08:11:23.012Z",
 		"coverImage": "",
 		"createdTS": "2018-04-23T08:11:23.012Z",
 		"inquiryType": -1,
-		"modTS": "2019-10-29T11:54:07.471Z",
+		"modTS": "2022-11-18T15:57:50.409Z",
 		"ratingCount": 6,
 		"images": [
 			{
@@ -51970,20 +51973,20 @@
 		"s3Folder": "KARNATAKALIONSCRICKETACADEMY",
 		"state": "Karnataka",
 		"email": [
-			"jlokesh2015@gmail.com"
+			"klcacoaching2017@gmail.com"
 		],
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
 		"sponsored": "",
 		"members": false,
-		"address": "Konapana Agarahara, Sri Lakshmi Narasimha Swamy Temple,Doddathoguru",
+		"address": "Konapana Agarahara, Sri Lakshmi Narasimha Swamy Temple, Doddathoguru, Green house Layout, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka - 560100",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Nu6q",
+		"deferLink": "https://z34v4.app.goo.gl/3bRR",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=5b5d2783-3e6e-405d-82ef-80662a62e939",
 		"country": "India",
-		"timings": "7:00 AM-9:00 AM & 4:00 PM-6:00 PM",
+		"timings": "7:30 AM - 6:30 PM",
 		"addInfo": "",
 		"bookSports": [
 			"SP57"
@@ -51994,11 +51997,12 @@
 		"sponsoredRadius": 4,
 		"type": 0,
 		"venueId": "5b5d2783-3e6e-405d-82ef-80662a62e939",
-		"isSafeAndHygiene": false,
+		"isSafeAndHygiene": true,
 		"activityCount": 15,
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
+		"bnpl": false,
 		"distance": 14.654363346749665,
-		"activeKey": "karnataka-lions-cricket-academy-electronic-city-phase-1-bangalore",
+		"activeKey": "karnataka-lions-cricket-academy-valiant-sports-club-electronic-city-phase-1-bengaluru",
 		"offers": []
 	},
 	{
