@@ -5875,7 +5875,7 @@
 		"description": "",
 		"createdTS": "2019-03-12T16:57:18.518Z",
 		"bookType": 0,
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"zipCode": "560032",
 		"modTS": "2021-12-17T09:27:22.575Z",
 		"inquiryPhone": "9449257507",
@@ -20390,7 +20390,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 226,
+		"ratingCount": 227,
 		"zipCode": "560068",
 		"modTS": "2022-09-15T15:18:46.920Z",
 		"inquiryPhone": "6364444441",
@@ -28475,7 +28475,7 @@
 		"createdTS": "2017-01-07T17:23:44.192Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-12T07:49:37.753Z",
-		"ratingCount": 382,
+		"ratingCount": 383,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSCENTRAL/SWYNGBadmintonFireStnSarjapurRoad1640544263592.jpeg"
@@ -56963,7 +56963,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 175,
+		"ratingCount": 176,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
@@ -69284,21 +69284,34 @@
 		"googleMapLink": "https://www.google.co.in/maps/place/Yuva+Vikas+Basketball+Court/@12.9278245,77.60359,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ab6482e631:0x7cd183adea95c67b!8m2!3d12.9278193!4d77.6057787",
 		"googlePlusCode": "WJH4+48 Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "9305c56a-043f-4bc5-9728-c075cdf06091",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "",
+		"timings": "24hrs",
 		"cityCode": 1,
 		"id": "9305c56a-043f-4bc5-9728-c075cdf06091",
 		"oldPlayoId": "9305c56a-043f-4bc5-9728-c075cdf06091",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "YUVAVIKASBASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -69313,16 +69326,18 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Yuva-Vikas-Basketball-Court-Suddagunte-Palya-bangalore",
-				"active": true
+				"active": true,
+				"key": "yuva-vikas-basketball-court-suddagunte-palya-bengaluru"
 			}
 		],
 		"images": [],
 		"rating": 0,
-		"shareLink": "https://playo.page.link/yduaC",
-		"deferLink": "https://playo.page.link/G3vgT",
+		"shareLink": "https://z34v4.app.goo.gl/uQNu",
+		"deferLink": "https://z34v4.app.goo.gl/tkuq",
 		"fullLink": "https://playo.co/venue/?venueId=9305c56a-043f-4bc5-9728-c075cdf06091",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -69330,10 +69345,23 @@
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 5.022241325474286,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.9278193,
 		"lng": 77.6057787,
-		"activeKey": "Yuva-Vikas-Basketball-Court-Suddagunte-Palya-bangalore",
+		"modTS": "2022-11-18T06:41:48.094Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "9305c56a-043f-4bc5-9728-c075cdf06091",
+		"zipCode": "560029",
+		"distance": 5.022241325474286,
+		"activeKey": "yuva-vikas-basketball-court-suddagunte-palya-bengaluru",
 		"offers": []
 	},
 	{
@@ -70675,25 +70703,38 @@
 	{
 		"name": "St. John's Hospital Basketball Court",
 		"area": "Koramangala",
-		"address": "John Nagar, Koramangala, Bengaluru, Karnataka 560034",
+		"address": "John Nagar, Koramangala, Bengaluru, Karnataka",
 		"googleMapLink": "https://www.google.co.in/maps/place/St.+John's+Hospital+Basketball+Court/@12.9282117,77.6186238,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae14598c491773:0xb6c973895193f0ee!8m2!3d12.9282065!4d77.6208125",
 		"googlePlusCode": "WJHC+78 Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "8aed3c02-b44b-437e-ace4-97a610f3945d",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "Mon-Sun:7AM–5PM ",
+		"timings": "Mon-Sun:7AM–5PM",
 		"cityCode": 1,
 		"id": "8aed3c02-b44b-437e-ace4-97a610f3945d",
 		"oldPlayoId": "8aed3c02-b44b-437e-ace4-97a610f3945d",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "STJOHNSHOSPITALBASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -70708,8 +70749,8 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "St-John-s-Hospital-Basketball-Court-Koramangala-bangalore",
-				"active": true
+				"active": true,
+				"key": "st-johns-hospital-basketball-court-koramangala-bengaluru"
 			}
 		],
 		"images": [
@@ -70721,22 +70762,36 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2019-05-01T10:06:43.548Z",
-		"shareLink": "https://playo.page.link/vHpGv",
-		"deferLink": "https://playo.page.link/H8Ky1",
+		"modTS": "2022-11-18T06:34:07.746Z",
+		"shareLink": "https://z34v4.app.goo.gl/bocJ",
+		"deferLink": "https://z34v4.app.goo.gl/mtkw",
 		"fullLink": "https://playo.co/venue/?venueId=8aed3c02-b44b-437e-ace4-97a610f3945d",
 		"avgRating": 5,
 		"ratingCount": 1,
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
 		"activityCount": 5,
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
-		"distance": 5.605414858610767,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.9282065,
 		"lng": 77.6208125,
-		"activeKey": "St-John-s-Hospital-Basketball-Court-Koramangala-bangalore",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "8aed3c02-b44b-437e-ace4-97a610f3945d",
+		"zipCode": "560034",
+		"distance": 5.605414858610767,
+		"activeKey": "st-johns-hospital-basketball-court-koramangala-bengaluru",
 		"offers": []
 	},
 	{
@@ -77974,34 +78029,34 @@
 		"googleMapLink": "https://www.google.co.in/maps/place/Ferns+Habitat+BasketBall+Court/@12.9790599,77.6908251,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae117bdd484c35:0xb9f01df90e438c8!8m2!3d12.9790547!4d77.6930138",
 		"googlePlusCode": "XMHV+J6 Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
 		"phone": [
-			"73374 43891"
+			"8095514666"
 		],
 		"functionData": [
 			{
-				"content": "73374 43891",
+				"content": "56aa8677-148c-46c8-8880-6b5864570543",
 				"bookType": 0,
-				"popupText": "",
-				"priority": 0,
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
-		"city": "Bangalore",
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "",
+		"timings": "24hrs",
 		"cityCode": 1,
 		"id": "56aa8677-148c-46c8-8880-6b5864570543",
 		"oldPlayoId": "56aa8677-148c-46c8-8880-6b5864570543",
 		"category": 1,
-		"inquiryPhone": "73374 43891",
+		"inquiryPhone": "8095514666",
 		"s3Folder": "FERNSHABITATBASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -78016,16 +78071,18 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Ferns-Habitat-BasketBall-Court-Mahadevapura-bangalore",
-				"active": true
+				"active": true,
+				"key": "ferns-habitat-basketball-court-mahadevapura-bengaluru"
 			}
 		],
 		"images": [],
 		"rating": 0,
-		"shareLink": "https://playo.page.link/AmBWE",
-		"deferLink": "https://playo.page.link/auoiB",
+		"shareLink": "https://z34v4.app.goo.gl/ytru",
+		"deferLink": "https://z34v4.app.goo.gl/MjH8",
 		"fullLink": "https://playo.co/venue/?venueId=56aa8677-148c-46c8-8880-6b5864570543",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -78033,10 +78090,23 @@
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 10.707791666036872,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.9790547,
 		"lng": 77.6930138,
-		"activeKey": "Ferns-Habitat-BasketBall-Court-Mahadevapura-bangalore",
+		"modTS": "2022-11-18T06:44:36.528Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "56aa8677-148c-46c8-8880-6b5864570543",
+		"zipCode": "560037",
+		"distance": 10.707791666036872,
+		"activeKey": "ferns-habitat-basketball-court-mahadevapura-bengaluru",
 		"offers": []
 	},
 	{
@@ -80178,25 +80248,38 @@
 	{
 		"name": "Amrita Basketball Court",
 		"area": "Kasavanahalli",
-		"address": "26 & 27, Central Jail Rd, Junnasandra, Habitat Celeste, Hosa Rd, Junnasandra, Habitat Celeste, Kasavanahalli, Bengaluru, Karnataka 560035",
+		"address": "26 & 27, Central Jail Rd, Junnasandra, Habitat Celeste, Hosa Rd, Junnasandra, Habitat Celeste, Kasavanahalli, Bengaluru, Karnataka",
 		"googleMapLink": "https://www.google.co.in/maps/place/Amrita+Basketball+Court/@12.8967267,77.6739896,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1347597cb4f3:0xdb5abacd38b9631c!8m2!3d12.8967215!4d77.6761783",
 		"googlePlusCode": "VMWG+MF Bengaluru, Karnataka",
 		"website": "amrita.edu",
-		"email": "campus@am.amrita.edu",
+		"email": [
+			"campus@am.amrita.edu"
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "dd780e68-27bd-49d9-b54b-1d7624383b83",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "Mon-Sun:Open 24 hours ",
+		"timings": "Mon-Sun:Open 24 hours",
 		"cityCode": 1,
 		"id": "dd780e68-27bd-49d9-b54b-1d7624383b83",
 		"oldPlayoId": "dd780e68-27bd-49d9-b54b-1d7624383b83",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "AMRITABASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -80211,16 +80294,18 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Amrita-Basketball-Court-Kasavanahalli-bangalore",
-				"active": true
+				"active": true,
+				"key": "amrita-basketball-court-kasavanahalli-bengaluru"
 			}
 		],
 		"images": [],
 		"rating": 0,
-		"shareLink": "https://playo.page.link/MqEiF",
-		"deferLink": "https://playo.page.link/Wo3tL",
+		"shareLink": "https://z34v4.app.goo.gl/qbi1",
+		"deferLink": "https://z34v4.app.goo.gl/73BS",
 		"fullLink": "https://playo.co/venue/?venueId=dd780e68-27bd-49d9-b54b-1d7624383b83",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"avgRating": 4,
 		"ratingCount": 2,
@@ -80228,10 +80313,23 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 2,
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
-		"distance": 12.157928294195061,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.8967215,
 		"lng": 77.6761783,
-		"activeKey": "Amrita-Basketball-Court-Kasavanahalli-bangalore",
+		"modTS": "2022-11-18T06:28:07.447Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "dd780e68-27bd-49d9-b54b-1d7624383b83",
+		"zipCode": "560035",
+		"distance": 12.157928294195061,
+		"activeKey": "amrita-basketball-court-kasavanahalli-bengaluru",
 		"offers": []
 	},
 	{
@@ -82935,25 +83033,38 @@
 	{
 		"name": "Basketball Court - Concorde Cuppertino",
 		"area": "Electronic City",
-		"address": "560100, Karuna Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100",
+		"address": "560100, Karuna Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka",
 		"googleMapLink": "https://www.google.co.in/maps/place/Basketball+Court+-+Concorde+Cuppertino/@12.8424758,77.6504626,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae6b7d9b9163af:0xaa1cd60666b9052d!8m2!3d12.8424706!4d77.6526513",
 		"googlePlusCode": "RMR3+X3 Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "74f0a669-9d5f-40d5-9213-28294b8b7264",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "Mon-Sun:Open 24 hours ",
+		"timings": "Mon-Sun:Open 24 hours",
 		"cityCode": 1,
 		"id": "74f0a669-9d5f-40d5-9213-28294b8b7264",
 		"oldPlayoId": "74f0a669-9d5f-40d5-9213-28294b8b7264",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "BASKETBALLCOURTCONCORDECUPPERTINO",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -82968,16 +83079,18 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Basketball-Court-Concorde-Cuppertino-Electronic-City-bangalore",
-				"active": true
+				"active": true,
+				"key": "basketball-court-concorde-cuppertino-electronic-city-bengaluru"
 			}
 		],
 		"images": [],
 		"rating": 0,
-		"shareLink": "https://playo.page.link/o3dA7",
-		"deferLink": "https://playo.page.link/eaLNf",
+		"shareLink": "https://z34v4.app.goo.gl/Kt9u",
+		"deferLink": "https://z34v4.app.goo.gl/SfkB",
 		"fullLink": "https://playo.co/venue/?venueId=74f0a669-9d5f-40d5-9213-28294b8b7264",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -82985,10 +83098,23 @@
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 15.694067417712533,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.8424706,
 		"lng": 77.6526513,
-		"activeKey": "Basketball-Court-Concorde-Cuppertino-Electronic-City-bangalore",
+		"modTS": "2022-11-18T06:51:23.978Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "74f0a669-9d5f-40d5-9213-28294b8b7264",
+		"zipCode": "560100",
+		"distance": 15.694067417712533,
+		"activeKey": "basketball-court-concorde-cuppertino-electronic-city-bengaluru",
 		"offers": []
 	},
 	{
@@ -83576,21 +83702,34 @@
 		"googleMapLink": "https://www.google.co.in/maps/place/NTTF+NEC+Basket+Ball+Court/@12.8469434,77.6669156,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae6c91dc410103:0xd0075350e26043d1!8m2!3d12.8469382!4d77.6691043",
 		"googlePlusCode": "RMW9+QJ Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "5b2f881c-38f4-48d8-bfe1-9730a785d181",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "",
+		"timings": "24hrs",
 		"cityCode": 1,
 		"id": "5b2f881c-38f4-48d8-bfe1-9730a785d181",
 		"oldPlayoId": "5b2f881c-38f4-48d8-bfe1-9730a785d181",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "NTTFNECBASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -83605,16 +83744,18 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "NTTF-NEC-Basket-Ball-Court-Electronic-City-bangalore",
-				"active": true
+				"active": true,
+				"key": "nttf-nec-basket-ball-court-electronic-city-bengaluru"
 			}
 		],
 		"images": [],
 		"rating": 0,
-		"shareLink": "https://playo.page.link/Khuj1",
-		"deferLink": "https://playo.page.link/EPTZd",
+		"shareLink": "https://z34v4.app.goo.gl/adAg",
+		"deferLink": "https://z34v4.app.goo.gl/DGWw",
 		"fullLink": "https://playo.co/venue/?venueId=5b2f881c-38f4-48d8-bfe1-9730a785d181",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -83622,47 +83763,60 @@
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 16.060189282250224,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.8469382,
 		"lng": 77.6691043,
-		"activeKey": "NTTF-NEC-Basket-Ball-Court-Electronic-City-bangalore",
+		"modTS": "2022-11-18T06:47:05.899Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "5b2f881c-38f4-48d8-bfe1-9730a785d181",
+		"zipCode": "560100",
+		"distance": 16.060189282250224,
+		"activeKey": "nttf-nec-basket-ball-court-electronic-city-bengaluru",
 		"offers": []
 	},
 	{
 		"name": "TechMahindra Basketball Court",
 		"area": "Electronic City",
-		"address": "TechMahindra, KIADB Industrial Area, Plot 45, 47, Electronic City Phase II, Electronic City, Bengaluru, Karnataka 560100",
+		"address": "TechMahindra, KIADB Industrial Area, Plot 45, 47, Electronic City Phase II, Electronic City, Bengaluru, Karnataka",
 		"googleMapLink": "https://www.google.co.in/maps/place/TechMahindra+Basketball+Court/@12.851993,77.6756596,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae6ceca2ebb9bf:0x951db1e19118120a!8m2!3d12.8519878!4d77.6778483",
 		"googlePlusCode": "VM2H+Q4 Bengaluru, Karnataka",
 		"website": "techmahindra.com",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
 		"phone": [
-			"80678 07777"
+			"8067807777"
 		],
 		"functionData": [
 			{
-				"content": "80678 07777",
+				"content": "c2616391-a693-4199-a438-09418c9f8654",
 				"bookType": 0,
-				"popupText": "",
-				"priority": 0,
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
-		"city": "Bangalore",
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "Mon-Fri:6–8AM, 3:30–9:30PM Sat:6AM–12:30PM Sun:Closed ",
+		"timings": "Mon-Fri:6–8AM, 3:30–9:30PM Sat:6AM–12:30PM Sun:Closed",
 		"cityCode": 1,
 		"id": "c2616391-a693-4199-a438-09418c9f8654",
 		"oldPlayoId": "c2616391-a693-4199-a438-09418c9f8654",
 		"category": 1,
-		"inquiryPhone": "80678 07777",
+		"inquiryPhone": "8067807777",
 		"s3Folder": "TECHMAHINDRABASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -83677,8 +83831,8 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "TechMahindra-Basketball-Court-Electronic-City-bangalore",
-				"active": true
+				"active": true,
+				"key": "techmahindra-basketball-court-electronic-city-bengaluru"
 			}
 		],
 		"images": [
@@ -83693,11 +83847,13 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2019-05-01T10:06:43.534Z",
-		"shareLink": "https://playo.page.link/xQBu5",
-		"deferLink": "https://playo.page.link/twUZP",
+		"modTS": "2022-11-18T06:23:13.101Z",
+		"shareLink": "https://z34v4.app.goo.gl/2j6o",
+		"deferLink": "https://z34v4.app.goo.gl/dzb6",
 		"fullLink": "https://playo.co/venue/?venueId=c2616391-a693-4199-a438-09418c9f8654",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -83705,10 +83861,22 @@
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 16.089838281810454,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.8519878,
 		"lng": 77.6778483,
-		"activeKey": "TechMahindra-Basketball-Court-Electronic-City-bangalore",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "c2616391-a693-4199-a438-09418c9f8654",
+		"zipCode": "560100",
+		"distance": 16.089838281810454,
+		"activeKey": "techmahindra-basketball-court-electronic-city-bengaluru",
 		"offers": []
 	},
 	{
@@ -83868,21 +84036,34 @@
 		"googleMapLink": "https://www.google.co.in/maps/place/Wipro+Basketball+court/@12.8366921,77.6563312,17z/data=!4m8!1m2!2m1!1sWipro+Basketball+court!3m4!1s0x3bae6c80c53c4ec7:0x23b1ca07e6f3eecb!8m2!3d12.8366921!4d77.6585199",
 		"googlePlusCode": "RMP5+MC Bengaluru, Karnataka",
 		"website": "",
-		"email": "",
+		"email": [
+			""
+		],
 		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
+		"phone": [
+			"8095514666"
+		],
+		"functionData": [
+			{
+				"content": "b0aa62f0-a0a8-41bc-93e1-13548e1ffa66",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
 			"SP1"
 		],
-		"timings": "",
+		"timings": "24hrs",
 		"cityCode": 1,
 		"id": "b0aa62f0-a0a8-41bc-93e1-13548e1ffa66",
 		"oldPlayoId": "b0aa62f0-a0a8-41bc-93e1-13548e1ffa66",
 		"category": 1,
-		"inquiryPhone": null,
+		"inquiryPhone": "8095514666",
 		"s3Folder": "WIPROBASKETBALLCOURT",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -83897,8 +84078,8 @@
 		"active": true,
 		"keywords": [
 			{
-				"key": "Wipro-Basketball-court-Electronic-City-bangalore",
-				"active": true
+				"active": true,
+				"key": "wipro-basketball-court-electronic-city-bengaluru"
 			}
 		],
 		"images": [
@@ -83907,11 +84088,13 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2019-05-01T10:06:43.592Z",
-		"shareLink": "https://playo.page.link/qoory",
-		"deferLink": "https://playo.page.link/BdH3c",
+		"modTS": "2022-11-18T06:54:15.760Z",
+		"shareLink": "https://z34v4.app.goo.gl/xEFK",
+		"deferLink": "https://z34v4.app.goo.gl/kUMc",
 		"fullLink": "https://playo.co/venue/?venueId=b0aa62f0-a0a8-41bc-93e1-13548e1ffa66",
-		"amenities": [],
+		"amenities": [
+			"Washroom"
+		],
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
@@ -83919,10 +84102,22 @@
 		"activityCountLastSyncDate": "2022-11-17T18:30:02.845Z",
 		"avgRating": 0,
 		"ratingCount": 0,
-		"distance": 16.542043234182106,
+		"addInfo": "",
+		"bnpl": false,
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 0,
 		"lat": 12.8366921,
 		"lng": 77.6585199,
-		"activeKey": "Wipro-Basketball-court-Electronic-City-bangalore",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "b0aa62f0-a0a8-41bc-93e1-13548e1ffa66",
+		"zipCode": "560100",
+		"distance": 16.542043234182106,
+		"activeKey": "wipro-basketball-court-electronic-city-bengaluru",
 		"offers": []
 	},
 	{
