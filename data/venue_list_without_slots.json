@@ -44096,7 +44096,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -51872,7 +51872,8 @@
 			}
 		],
 		"sports": [
-			"SP57"
+			"SP57",
+			"SP0"
 		],
 		"priority": 0,
 		"amenities": [
@@ -51895,26 +51896,29 @@
 		"coverImage": "",
 		"createdTS": "2018-04-23T08:11:23.012Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-18T15:57:50.409Z",
+		"modTS": "2022-11-19T15:51:04.899Z",
 		"ratingCount": 6,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademy0.jpg"
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872956982.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademy1.jpg"
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872960637.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademy2.jpg"
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872964322.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademy3.jpg"
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872968673.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademy4.jpg"
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872972497.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademy5.jpg"
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872975554.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872979774.jpg"
 			}
 		],
 		"id": "5b5d2783-3e6e-405d-82ef-80662a62e939",
@@ -51939,7 +51943,8 @@
 		"timings": "7:30 AM - 6:30 PM",
 		"addInfo": "",
 		"bookSports": [
-			"SP57"
+			"SP57",
+			"SP0"
 		],
 		"bookType": 0,
 		"lat": 12.85093,
@@ -51951,6 +51956,7 @@
 		"activityCount": 15,
 		"activityCountLastSyncDate": "2022-11-18T18:30:02.759Z",
 		"bnpl": false,
+		"__v": 1,
 		"distance": 14.654363346749665,
 		"activeKey": "karnataka-lions-cricket-academy-valiant-sports-club-electronic-city-phase-1-bengaluru",
 		"offers": []
@@ -64476,6 +64482,124 @@
 		"bnpl": false,
 		"distance": 24.883781193462262,
 		"activeKey": "vision-badminton-arena-sarjapur-bengaluru",
+		"offers": []
+	},
+	{
+		"oldPlayoId": "648f7e19-1f8f-42d6-a639-3a0bd97d1cae",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2021-02-07T02:15:41.947Z",
+		"bookType": 0,
+		"ratingCount": 0,
+		"zipCode": "562107",
+		"modTS": "2022-11-19T15:53:15.362Z",
+		"inquiryPhone": "6364342222",
+		"inquiryType": -1,
+		"phone": [
+			"6364342222"
+		],
+		"sponsored": "",
+		"avgRating": 0,
+		"address": "41/1, Guddati Road, Opposite Heritage Factory, Attibele, Bengaluru, Karnataka - 562107",
+		"active": true,
+		"id": "648f7e19-1f8f-42d6-a639-3a0bd97d1cae",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "11 a side Cricket Ground",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP57",
+			"SP0"
+		],
+		"name": "Wing Cricket Academy",
+		"area": "Attibele",
+		"sponsoredRadius": 10,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "4064434d-acc4-4c35-8fd3-bfadb01fd0f9",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"timings": "6:30 AM - 5:30 PM",
+		"sports": [
+			"SP57",
+			"SP0"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "wing-cricket-academy-attibele-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "",
+		"fullLink": "https://playo.co/venue?venueId=648f7e19-1f8f-42d6-a639-3a0bd97d1cae",
+		"type": 0,
+		"email": [
+			"pavan.ns222@gmail.com"
+		],
+		"s3Folder": "INDOORSTUMPS20210207021541947925",
+		"lat": 12.795377969622876,
+		"lng": 77.73858159012478,
+		"venueId": "648f7e19-1f8f-42d6-a639-3a0bd97d1cae",
+		"deferLink": "https://z34v4.app.goo.gl/c8kU",
+		"shareLink": "https://z34v4.app.goo.gl/3wvn",
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2022-11-18T18:30:02.759Z",
+		"bnpl": false,
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872557104.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872561999.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872567273.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872574370.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872578431.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872583313.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872588521.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872591339.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210207021541947925/WingCricketAcademy1668872594376.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"distance": 25.078693385726044,
+		"activeKey": "wing-cricket-academy-attibele-bengaluru",
 		"offers": []
 	},
 	{
