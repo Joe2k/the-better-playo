@@ -5216,7 +5216,7 @@
 		"description": "",
 		"createdTS": "2019-10-07T08:15:10.938Z",
 		"bookType": 0,
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"zipCode": "560017",
 		"modTS": "2022-11-07T12:06:15.045Z",
 		"inquiryPhone": "8884177421",
@@ -18479,47 +18479,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "62f3f5c3c45768429e92a4a1",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "Offer valid upto 18th NOV 2022!!",
-				"countryCode": "+91",
-				"createdTS": "2022-08-10T18:15:31.649Z",
-				"offerContent": "3b4758ff-55de-403b-b035-19bdfceadad0",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/ISROMatchpointHappyhoursoffer20227zksgocover1666945546470.png",
-				"expiry": "2022-11-18T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "isro-matchpoint-happy-hours-offer-2022!!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till November 18, 2022",
-						"content": "https://playo.co/venue/?venueId=3b4758ff-55de-403b-b035-19bdfceadad0",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "ISRO Matchpoint -  Happy hours offer 2022!!",
-				"id": "40528537-16b8-4ae0-9579-57c120d5203b",
-				"offerName": "ISRO Matchpoint -  Happy hours offer 2022!!",
-				"shareLink": "https://z34v4.app.goo.gl/DWnz",
-				"deferLink": "https://z34v4.app.goo.gl/wUhw",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
 			}
 		]
 	},
