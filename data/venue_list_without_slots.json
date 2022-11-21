@@ -42192,7 +42192,7 @@
 		"description": "",
 		"createdTS": "2019-08-03T15:52:43.808Z",
 		"bookType": 0,
-		"ratingCount": 34,
+		"ratingCount": 35,
 		"zipCode": "560060",
 		"modTS": "2022-02-24T09:20:01.890Z",
 		"inquiryPhone": "8904484132",
@@ -43185,13 +43185,13 @@
 		"venueId": "8597906e-3134-40cd-a8cb-93f86ea8c211",
 		"zipCode": "560056",
 		"__v": 2,
-		"avgRating": 4.9,
+		"avgRating": 4.7,
 		"coverImage": "",
 		"createdTS": "2021-12-04T16:19:33.089Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"bookSports": [
 			"SP5"
 		],
@@ -61011,7 +61011,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 152,
+		"ratingCount": 153,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
