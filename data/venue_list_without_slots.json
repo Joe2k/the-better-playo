@@ -4038,7 +4038,7 @@
 		"bookType": 0,
 		"ratingCount": 61,
 		"zipCode": "560032",
-		"modTS": "2021-12-19T13:48:34.403Z",
+		"modTS": "2022-11-21T07:06:56.501Z",
 		"inquiryPhone": "8073761989",
 		"inquiryType": -1,
 		"phone": [
@@ -4096,7 +4096,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "2021 Offer: Book courts including weekdays and weekends for the entire year at just INR 25000 with unlimited slots<br/>\nBadminton: <br/>\n- Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\nSwimming <br/>\n- Swimming cap & costume are compulsory.\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\nSwimming <br/>\n- Swimming cap & costume are compulsory.\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=bb261e65-b1b6-4591-8733-a323f6ce3711",
 		"type": 0,
 		"email": [
@@ -4137,6 +4137,7 @@
 		"venueId": "bb261e65-b1b6-4591-8733-a323f6ce3711",
 		"activityCount": 11454,
 		"activityCountLastSyncDate": "2022-11-20T18:30:00.440Z",
+		"bnpl": false,
 		"distance": 5.974444292050529,
 		"activeKey": "aries-sports-arena-rt-nagar-bengaluru",
 		"offers": [
@@ -7208,7 +7209,7 @@
 		"coverImage": "https://playo.gumlet.io/THETURFPARK/CooluluTurfParkKoramangalacovercover1645283607421.png",
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-27T15:29:48.385Z",
+		"modTS": "2022-11-21T07:21:23.107Z",
 		"ratingCount": 146,
 		"images": [
 			{
@@ -7259,7 +7260,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=54abb9e9-7d8c-42e0-a342-78b1710ac12c",
 		"country": "India",
 		"timings": "5 AM - 2 AM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n- Outside coaches aren’t allowed at the premises. <br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Access only on same day of payment. No carrying forward if client does not attend.<br/>\n- Swimsuit (Nylon or Lycra material) mandatory and cap in case of long hair.<br/>\n- No individual lanes will be given. Pool lanes will be shared by 5 people per lane. <br/>\n- Access is from start of hour. If client comes late time slot will not be extended.<br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Badminton Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n- Outside coaches aren’t allowed at the premises. <br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Access only on same day of payment. No carrying forward if client does not attend.<br/>\n- Swimsuit (Nylon or Lycra material) mandatory and cap in case of long hair.<br/>\n- No individual lanes will be given. Pool lanes will be shared by 5 people per lane. <br/>\n- Access is from start of hour. If client comes late time slot will not be extended.<br/>\n<br/>\n<br/>",
 		"bookSports": [
 			"SP5",
 			"SP2",
@@ -26579,7 +26580,6 @@
 			"Parking",
 			"First Aid",
 			"Change Room",
-			"Shower",
 			"Drinking Water"
 		],
 		"website": "",
@@ -26596,7 +26596,7 @@
 		"coverImage": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherishcovercover1668957185251.jpeg",
 		"createdTS": "2017-01-07T17:23:44.201Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-20T15:13:13.322Z",
+		"modTS": "2022-11-21T07:21:33.990Z",
 		"ratingCount": 85,
 		"images": [
 			{
@@ -55752,7 +55752,7 @@
 		"bookType": 0,
 		"ratingCount": 3,
 		"zipCode": "560100",
-		"modTS": "2022-05-20T08:23:59.743Z",
+		"modTS": "2022-11-21T07:30:03.559Z",
 		"inquiryPhone": "7349674629",
 		"inquiryType": -1,
 		"phone": [
@@ -55770,7 +55770,8 @@
 			"SP2",
 			"SP56",
 			"SP49",
-			"SP8"
+			"SP8",
+			"SP34"
 		],
 		"name": "El Mundo Arena",
 		"area": "Electronic City",
@@ -55792,14 +55793,15 @@
 			"SP2",
 			"SP56",
 			"SP49",
-			"SP8"
+			"SP8",
+			"SP34"
 		],
 		"state": "Karnataka",
 		"amenities": [
-			"Washroom",
 			"Parking",
-			"First-aid",
-			"Equipments"
+			"First Aid",
+			"Change Room",
+			"Drinking Water"
 		],
 		"keywords": [
 			{
@@ -55855,6 +55857,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 1484,
 		"activityCountLastSyncDate": "2022-11-20T18:30:00.440Z",
+		"bnpl": false,
 		"distance": 16.354251795070592,
 		"activeKey": "el-mundo-arena-electronic-city-bengaluru",
 		"offers": [
@@ -60900,7 +60903,7 @@
 		"createdTS": "2017-12-06T13:20:19.572Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T08:27:50.092Z",
-		"ratingCount": 94,
+		"ratingCount": 95,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub17.png"
