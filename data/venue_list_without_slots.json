@@ -26333,7 +26333,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-16T08:11:31.212Z",
-		"ratingCount": 244,
+		"ratingCount": 245,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
@@ -61358,7 +61358,82 @@
 		"activityCount": 1,
 		"distance": 19.294757576494412,
 		"activeKey": "mean-machine-football-arena-whitefield-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "637c8f20b66167f725e9fb69",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "Offer valid on weekends",
+				"countryCode": "+91",
+				"createdTS": "2022-11-22T08:58:08.185Z",
+				"offerContent": "08171ba4-2d0b-4e38-bffd-9124955e824b",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/MeanMachineInauguralOffer100offjv4rhmcover1669107407698.png",
+				"expiry": "2022-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP2",
+				"activeKey": "mean-machine-inaugural-offer-₹100-off-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till December 31, 2022",
+						"content": "https://playo.co/venue/?venueId=08171ba4-2d0b-4e38-bffd-9124955e824b",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Mean Machine Inaugural Offer - ₹100 off",
+				"id": "34fa62a1-1f97-4602-b973-dff738726a87",
+				"offerName": "Mean Machine Inaugural Offer - ₹100 off"
+			},
+			{
+				"_id": "637c8f20b66167f7270ffd37",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "Offer valid on weekends",
+				"countryCode": "+91",
+				"createdTS": "2022-11-22T08:58:08.190Z",
+				"offerContent": "08171ba4-2d0b-4e38-bffd-9124955e824b",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/MeanMachineInauguralOffer100offjv4rhmcover1669107407698.png",
+				"expiry": "2022-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP2",
+				"activeKey": "mean-machine-inaugural-offer-₹100-off-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till December 31, 2022",
+						"content": "https://playo.co/venue/?venueId=08171ba4-2d0b-4e38-bffd-9124955e824b",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Mean Machine Inaugural Offer - ₹100 off",
+				"id": "a56fed10-d32a-41f1-b074-7590a2ebbc8f",
+				"offerName": "Mean Machine Inaugural Offer - ₹100 off"
+			}
+		]
 	},
 	{
 		"oldPlayoId": "3895d1e8-c3ba-4b61-83d4-5d72eb1939a3",
