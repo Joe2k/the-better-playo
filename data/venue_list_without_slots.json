@@ -2469,7 +2469,7 @@
 		"phone": [
 			"9620645445"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"name": "The Bull Ring Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.185Z",
@@ -2477,7 +2477,7 @@
 		"createdTS": "2017-01-07T17:23:44.185Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-24T15:18:49.265Z",
-		"ratingCount": 112,
+		"ratingCount": 113,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEBULLRING/3.png"
@@ -26569,11 +26569,11 @@
 			}
 		],
 		"sports": [
-			"SP1",
+			"SP2",
 			"SP56",
+			"SP1",
 			"SP12",
-			"SP83",
-			"SP2"
+			"SP83"
 		],
 		"priority": 0,
 		"amenities": [
@@ -26596,65 +26596,23 @@
 		"coverImage": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherishcovercover1668957185251.jpeg",
 		"createdTS": "2017-01-07T17:23:44.201Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-21T07:21:33.990Z",
+		"modTS": "2022-11-22T14:03:23.869Z",
 		"ratingCount": 86,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957120488.jpeg"
+				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125780020.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957126199.jpeg"
+				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125783728.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957130870.jpeg"
+				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125787124.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957134448.jpeg"
+				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125790384.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957138852.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957143609.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957146998.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957150180.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1668957153010.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish11.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish17.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish2.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish3.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish4.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish5.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish6.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish7.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish8.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/achieveandcherish9.jpg"
+				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125793427.jpeg"
 			}
 		],
 		"id": "d5615be3-2551-4daa-a221-4f140eab2670",
@@ -26679,11 +26637,11 @@
 		"timings": "6 AM - 10 PM",
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"bookSports": [
-			"SP1",
+			"SP2",
 			"SP56",
+			"SP1",
 			"SP12",
-			"SP83",
-			"SP2"
+			"SP83"
 		],
 		"bookType": 0,
 		"lat": 12.881394,
@@ -26695,7 +26653,7 @@
 		"activityCount": 240,
 		"activityCountLastSyncDate": "2022-11-21T18:30:02.366Z",
 		"bnpl": false,
-		"__v": 2,
+		"__v": 3,
 		"distance": 10.200873718793163,
 		"activeKey": "achieve-cherish-hulimavu-bengaluru",
 		"offers": [
