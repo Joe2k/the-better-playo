@@ -42534,7 +42534,7 @@
 		"bookType": 0,
 		"ratingCount": 17,
 		"zipCode": "560083",
-		"modTS": "2022-05-30T07:31:00.941Z",
+		"modTS": "2022-11-23T09:31:42.650Z",
 		"inquiryPhone": "9538451451",
 		"inquiryType": -1,
 		"phone": [
@@ -42609,20 +42609,11 @@
 			"vineeth@pvvschool.com"
 		],
 		"s3Folder": "PLAYSMARTPERFORMANCECENTER20201027054448907541",
-		"__v": 4,
+		"__v": 5,
 		"coverImage": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/PlaySmartMultiSportArenacovercover1607068296572.jpg",
 		"deferLink": "https://z34v4.app.goo.gl/1Y1u",
 		"googleMapLink": "",
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/PlaySmartMultiSportArena1639737518409.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/PlaySmartMultiSportArena1639737583922.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/PlaySmartMultiSportArena1639737601515.jpg"
-			},
 			{
 				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/playsmartmultisportarena1630774062621.jpg"
 			},
@@ -42634,6 +42625,12 @@
 			},
 			{
 				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/playsmartmultisportarena1630774143051.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/playsmartmultisportarena1639737518409.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/playsmartmultisportarena1639737583922.jpg"
 			},
 			{
 				"url": "https://playo.gumlet.io/PLAYSMARTPERFORMANCECENTER20201027054448907541/playsmartperformancecenter1603777432883.jpg"
@@ -42655,6 +42652,7 @@
 		"venueId": "f293c673-1017-46bd-95fb-331a72c373cc",
 		"activityCount": 3291,
 		"activityCountLastSyncDate": "2022-11-22T18:30:02.337Z",
+		"bnpl": false,
 		"distance": 12.447688406073555,
 		"activeKey": "play-smart-multi-sport-arena-jp-nagar-8th-phase-bengaluru",
 		"offers": [
@@ -44770,7 +44768,7 @@
 		"description": "",
 		"createdTS": "2019-05-29T01:53:07.188Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560048",
 		"modTS": "2021-12-17T10:24:27.302Z",
 		"inquiryPhone": "9945035999",
@@ -64589,7 +64587,7 @@
 		"description": "",
 		"createdTS": "2021-02-07T02:15:41.947Z",
 		"bookType": 0,
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"zipCode": "562107",
 		"modTS": "2022-11-19T15:53:15.362Z",
 		"inquiryPhone": "6364342222",
@@ -64598,7 +64596,7 @@
 			"6364342222"
 		],
 		"sponsored": "",
-		"avgRating": 0,
+		"avgRating": 5,
 		"address": "41/1, Guddati Road, Opposite Heritage Factory, Attibele, Bengaluru, Karnataka - 562107",
 		"active": true,
 		"id": "648f7e19-1f8f-42d6-a639-3a0bd97d1cae",
