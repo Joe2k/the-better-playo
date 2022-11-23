@@ -9844,7 +9844,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T09:23:57.381Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T08:44:29.787Z",
 		"inquiryPhone": "8123678770",
@@ -9853,7 +9853,7 @@
 			"8123678770"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.3,
 		"address": "3rd C Cross, 5th Main Road, Papaya Layout, East of NGEF Layout",
 		"active": true,
 		"id": "0188b8ed-0439-4c1a-815b-b2abb6d99451",
@@ -9987,7 +9987,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 231,
+		"ratingCount": 232,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -14427,7 +14427,7 @@
 		"createdTS": "2017-09-23T13:33:38.799Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T08:00:24.332Z",
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OFFSIDETRAP/OffsideTrap0.jpg"
@@ -25963,7 +25963,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 254,
+		"ratingCount": 255,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -52815,7 +52815,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 311,
+		"ratingCount": 312,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
