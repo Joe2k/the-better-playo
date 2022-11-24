@@ -17794,7 +17794,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 256,
+		"ratingCount": 257,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -43542,7 +43542,7 @@
 		"createdTS": "2018-05-29T13:10:32.406Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-21T11:50:24.480Z",
-		"ratingCount": 82,
+		"ratingCount": 83,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LEVELUPBADMINTONACADEMY/LevelUpBadmintonAcademy0.jpg"
