@@ -28954,109 +28954,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "7829240379",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "spark-sports-jp-nagar-8th-phase-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/hDtX",
-		"city": "Bengaluru",
-		"area": "JP Nagar 8th Phase",
-		"oldPlayoId": "59c222196d91cf247d240db2",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "d8487622-92a1-45aa-9d3f-a63ed759bcb3",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Parking",
-			"Drinking Water",
-			"First Aid",
-			"Shower",
-			"Change Room",
-			"Viewing Gallery"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/SPARKSPORTS/SparkSportsmap1505894895750.JPG",
-		"zipCode": "560076",
-		"phone": [
-			"7829240379"
-		],
-		"avgRating": 3.8,
-		"name": "Spark Sports",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-09-20T08:08:56.841Z",
-		"coverImage": "https://playo.gumlet.io/SPARKSPORTS/SporthoodBadmintonArenaJPNagarcovercover1602316029946.png",
-		"createdTS": "2017-09-20T08:08:56.841Z",
-		"inquiryType": -1,
-		"modTS": "2021-12-19T08:17:26.153Z",
-		"ratingCount": 361,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/SPARKSPORTS/sparksports3.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/SPARKSPORTS/sparksports4.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/SPARKSPORTS/sparksports97.png"
-			}
-		],
-		"id": "d8487622-92a1-45aa-9d3f-a63ed759bcb3",
-		"description": "",
-		"category": 2,
-		"s3Folder": "SPARKSPORTS",
-		"state": "Karnataka",
-		"email": [
-			"4sparksports@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "3rd Main Road, SGS Layout, Kothanur Main Road, 8th Phase, JP Nagar",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Lcju",
-		"search": "",
-		"fullLink": "https://playo.co/venue/?venueId=d8487622-92a1-45aa-9d3f-a63ed759bcb3",
-		"country": "India",
-		"timings": "5:30 AM - 10:30 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.87749,
-		"lng": 77.581024,
-		"placeId": "",
-		"type": 0,
-		"venueId": "d8487622-92a1-45aa-9d3f-a63ed759bcb3",
-		"sponsoredRadius": 7,
-		"__v": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 8579,
-		"activityCountLastSyncDate": "2022-11-25T18:30:02.848Z",
-		"distance": 10.579261518515743,
-		"activeKey": "spark-sports-jp-nagar-8th-phase-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8722077999",
 		"remarks": "",
 		"infoData": [],
@@ -33805,7 +33702,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 117,
+		"ratingCount": 118,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -49383,7 +49280,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 124,
+		"ratingCount": 125,
 		"zipCode": "560066",
 		"modTS": "2022-04-06T15:01:53.771Z",
 		"inquiryPhone": "9448060589",
@@ -52815,7 +52712,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 312,
+		"ratingCount": 313,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
