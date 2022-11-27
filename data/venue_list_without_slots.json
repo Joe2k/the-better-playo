@@ -19445,7 +19445,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-14T09:41:20.029Z",
-		"ratingCount": 289,
+		"ratingCount": 290,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -77302,6 +77302,70 @@
 		"lat": 12.9919562,
 		"lng": 77.6839919,
 		"activeKey": "Swimming-Pool-Mahadevapura-bangalore",
+		"offers": []
+	},
+	{
+		"name": "Shantiniketan Shuttle Court",
+		"area": "Arekere",
+		"address": "Shantiniketan Layout, Arekere, Bengaluru, Karnataka 560076",
+		"googleMapLink": "https://www.google.com/maps/place/Shantiniketan+Shuttle+Court/@12.8823472,77.6026123,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae152bd2ecfae9:0x4bf88711fc481a3e!8m2!3d12.882342!4d77.604801",
+		"googlePlusCode": "VJJ3+WW Bengaluru, Karnataka",
+		"website": "",
+		"email": "",
+		"remarks": "",
+		"phone": [],
+		"functionData": [],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP5"
+		],
+		"timings": "Mon-Sun:5:30AM–9:30PM ",
+		"cityCode": 1,
+		"id": "daa65538-63f0-42b8-9299-abdbcfb1bfe7",
+		"oldPlayoId": "daa65538-63f0-42b8-9299-abdbcfb1bfe7",
+		"category": 1,
+		"inquiryPhone": null,
+		"s3Folder": "SHANTINIKETANSHUTTLECOURT",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "5:30AM–9:30PM",
+			"Tue": "5:30AM–9:30PM",
+			"Wed": "5:30AM–9:30PM",
+			"Thu": "5:30AM–9:30PM",
+			"Fri": "5:30AM–9:30PM",
+			"Sat": "5:30AM–9:30PM",
+			"Sun": "5:30AM–9:30PM"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "Shantiniketan-Shuttle-Court-Arekere-bangalore",
+				"active": true
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/SHANTINIKETANSHUTTLECOURT/1.PNG"
+			}
+		],
+		"rating": 0,
+		"modTS": "2019-05-01T10:06:43.776Z",
+		"shareLink": "https://playo.page.link/f5coE",
+		"deferLink": "https://playo.page.link/BCDWK",
+		"fullLink": "https://playo.co/venue/?venueId=daa65538-63f0-42b8-9299-abdbcfb1bfe7",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2022-11-26T18:30:02.566Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 9.997549851203539,
+		"lat": 12.882342,
+		"lng": 77.604801,
+		"activeKey": "Shantiniketan-Shuttle-Court-Arekere-bangalore",
 		"offers": []
 	},
 	{
