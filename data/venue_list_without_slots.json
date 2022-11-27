@@ -8736,8 +8736,8 @@
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": true,
-		"avgRating": 4.4,
-		"ratingCount": 5,
+		"avgRating": 4.5,
+		"ratingCount": 6,
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Please carry your own equipment. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
@@ -29108,7 +29108,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:59:16.527Z",
-		"ratingCount": 303,
+		"ratingCount": 304,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -32107,7 +32107,7 @@
 		"description": "",
 		"createdTS": "2022-06-14T14:24:16.054Z",
 		"bookType": 0,
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"zipCode": "560076",
 		"modTS": "2022-09-13T05:36:40.893Z",
 		"inquiryPhone": "9886073270",
@@ -32116,7 +32116,7 @@
 			"9886073270"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "11/10, Yelanahalli Main Road, Behind Safari Mart, Near DLF Circle Bangalore",
 		"active": true,
 		"id": "91246b9d-cd42-4bd8-ab23-dedab4a3f58e",
