@@ -8888,7 +8888,7 @@
 		"bookType": 0,
 		"ratingCount": 4,
 		"zipCode": "560078",
-		"modTS": "2022-06-24T15:32:04.373Z",
+		"modTS": "2022-11-28T15:46:36.078Z",
 		"inquiryPhone": "9606830581",
 		"inquiryType": -1,
 		"phone": [
@@ -8950,7 +8950,7 @@
 		"fullLink": "https://playo.co/venue?venueId=3b1ee9ed-44b8-4d68-8bdb-a6ccfc371264",
 		"type": 0,
 		"email": [
-			"vs4790658@gmail.com"
+			"bangaloresnookerclub9555@gmail.com"
 		],
 		"s3Folder": "BANGALORESNOOKERCLUB20220517120606424172",
 		"shareLink": "https://z34v4.app.goo.gl/VwsE",
@@ -8993,6 +8993,7 @@
 		"remarks": "",
 		"activityCountLastSyncDate": "2022-11-27T18:30:02.328Z",
 		"activityCount": 3,
+		"bnpl": false,
 		"distance": 7.447431968110745,
 		"activeKey": "bangalore-snooker-club-kumaraswamy-layout-bengaluru",
 		"offers": []
@@ -14242,7 +14243,7 @@
 		"description": "",
 		"createdTS": "2019-10-03T05:50:00.886Z",
 		"bookType": 0,
-		"ratingCount": 74,
+		"ratingCount": 75,
 		"zipCode": "560094",
 		"modTS": "2022-11-17T12:35:23.856Z",
 		"inquiryPhone": "9901915776",
@@ -22072,7 +22073,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 317,
+		"ratingCount": 318,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -27103,7 +27104,7 @@
 		"coverImage": "https://playo.gumlet.io/SHUTTLERSALLEY/ShuttlersAlleycovercover1629554989468.jpeg",
 		"createdTS": "2017-09-01T11:01:03.935Z",
 		"inquiryType": -1,
-		"modTS": "2022-05-30T07:24:49.918Z",
+		"modTS": "2022-11-28T15:28:46.835Z",
 		"ratingCount": 444,
 		"images": [
 			{
@@ -27147,11 +27148,12 @@
 		"placeId": "",
 		"type": 0,
 		"venueId": "4a528a91-3fd6-4c7b-87a9-a7e816e391fa",
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 2,
 		"__v": 4,
 		"isSafeAndHygiene": true,
 		"activityCount": 14779,
 		"activityCountLastSyncDate": "2022-11-27T18:30:02.328Z",
+		"bnpl": false,
 		"distance": 10.317625517436658,
 		"activeKey": "shuttlers-alley-jp-nagar-7th-phase-bengaluru",
 		"offers": []
@@ -48228,7 +48230,7 @@
 		"coverImage": "https://playo.gumlet.io/SIMBASPORTS/SimbaSportscovercover1568369481851.png",
 		"createdTS": "2017-04-29T08:01:03.182Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-10T14:54:20.783Z",
+		"modTS": "2022-11-28T15:27:33.722Z",
 		"ratingCount": 95,
 		"images": [
 			{
@@ -48255,7 +48257,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "Marathahalli - Sarjapur Road, Janatha Colony, Doddakannelli, Bengaluru, Karnataka",
 		"active": true,
@@ -48272,7 +48274,7 @@
 		"bookType": 0,
 		"lat": 12.906182,
 		"lng": 77.699239,
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 3,
 		"type": 0,
 		"venueId": "064d481d-e4b7-4944-afb9-57675f76bc99",
 		"__v": 1,
@@ -82896,7 +82898,7 @@
 		"createdTS": "2018-03-05T08:53:36.101Z",
 		"inquiryType": 0,
 		"modTS": "2022-11-16T08:24:39.244Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ATHENASPORTS/AthenaSports0.JPG"
