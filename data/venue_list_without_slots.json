@@ -18622,7 +18622,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -20684,7 +20684,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T05:58:04.371Z",
 		"bookType": 0,
-		"ratingCount": 163,
+		"ratingCount": 164,
 		"zipCode": "560037",
 		"modTS": "2022-09-18T10:10:49.686Z",
 		"inquiryPhone": "9606751111",
@@ -51217,7 +51217,8 @@
 		"sports": [
 			"SP5",
 			"SP2",
-			"SP4"
+			"SP4",
+			"SP56"
 		],
 		"priority": 0,
 		"amenities": [
@@ -51241,7 +51242,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.119Z",
 		"inquiryType": -1,
-		"modTS": "2022-08-01T14:21:14.533Z",
+		"modTS": "2022-11-28T07:32:10.805Z",
 		"ratingCount": 58,
 		"images": [
 			{
@@ -51283,12 +51284,13 @@
 		"fullLink": "https://playo.co/venue/?venueId=4e69705f-76c1-4618-9a9d-49c3da7b0625",
 		"country": "India",
 		"timings": "6 AM - 11 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\nBox Cricket: <br/>\n- Spiked shoes are strictly not allowed on the turf.<br/>\n- No equipment will be provided by the venue, all equipment have to be brought by the users.<br/>\n<br/>\n<br/>",
 		"sponsoredRadius": 2,
 		"bookSports": [
 			"SP5",
 			"SP2",
-			"SP4"
+			"SP4",
+			"SP56"
 		],
 		"bookType": 0,
 		"lat": 13.097634,
@@ -51298,6 +51300,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 4022,
 		"activityCountLastSyncDate": "2022-11-27T18:30:02.328Z",
+		"bnpl": false,
 		"distance": 14.257240131287924,
 		"activeKey": "super-park-sports-yelahanka-bengaluru",
 		"offers": []
