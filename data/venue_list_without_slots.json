@@ -4885,12 +4885,9 @@
 		"coverImage": "",
 		"createdTS": "2018-09-17T17:00:36.420Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-19T06:18:14.288Z",
+		"modTS": "2022-11-29T08:02:21.798Z",
 		"ratingCount": 29,
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/RM2TABLETENNISACADEMY/RMSquareTableTennisAcademy1639894689053.png"
-			},
 			{
 				"url": "https://playo.gumlet.io/RM2TABLETENNISACADEMY/rm2tabletennisacademy0.jpg"
 			}
@@ -4926,9 +4923,10 @@
 		"type": 0,
 		"venueId": "12af94ab-f917-4a64-8eb5-9a03d6b4db0b",
 		"isSafeAndHygiene": true,
-		"__v": 1,
+		"__v": 2,
 		"activityCount": 1102,
 		"activityCountLastSyncDate": "2022-11-28T18:30:02.503Z",
+		"bnpl": false,
 		"distance": 6.24776555292659,
 		"activeKey": "rm-square-table-tennis-academy-chord-road-residents-association-bengaluru",
 		"offers": [
@@ -34385,7 +34383,7 @@
 		"bookType": 0,
 		"ratingCount": 52,
 		"zipCode": "560056",
-		"modTS": "2022-05-15T03:14:47.459Z",
+		"modTS": "2022-11-29T08:03:31.509Z",
 		"inquiryPhone": "7676078196",
 		"inquiryType": -1,
 		"phone": [
@@ -34443,14 +34441,11 @@
 			"info@91sportingco.in"
 		],
 		"s3Folder": "VKMATCHPOINT",
-		"__v": 8,
+		"__v": 9,
 		"coverImage": "https://playo.gumlet.io/VKMATCHPOINT/VKMatchPointUllalcovercover1586262283613.jpg",
 		"deferLink": "https://z34v4.app.goo.gl/NxbZ",
 		"googleMapLink": "",
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/VKMATCHPOINT/VKMatchPointUllal1639919915865.jpg"
-			},
 			{
 				"url": "https://playo.gumlet.io/VKMATCHPOINT/vkmatchpoint2.jpg"
 			},
@@ -34484,6 +34479,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 2910,
 		"activityCountLastSyncDate": "2022-11-28T18:30:02.503Z",
+		"bnpl": false,
 		"distance": 11.311808977970813,
 		"activeKey": "vk-match-point-91-sporting-company-ullal-jnana-ganga-nagar-bengaluru",
 		"offers": [
@@ -37136,15 +37132,9 @@
 		"coverImage": "",
 		"createdTS": "2018-09-21T11:31:10.761Z",
 		"inquiryType": -1,
-		"modTS": "2022-05-06T16:44:53.390Z",
+		"modTS": "2022-11-29T08:02:03.559Z",
 		"ratingCount": 89,
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/VISIONSPORTSCLUB/VisionSportsClub1639919595108.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/VISIONSPORTSCLUB/VisionSportsClub1639919606128.jpg"
-			},
 			{
 				"url": "https://playo.gumlet.io/VISIONSPORTSCLUB/visionsportsclub0.jpg"
 			},
@@ -37191,9 +37181,10 @@
 		"type": 0,
 		"venueId": "db2cdc1d-a635-4b43-bde6-23121e994908",
 		"isSafeAndHygiene": true,
-		"__v": 2,
+		"__v": 3,
 		"activityCount": 5169,
 		"activityCountLastSyncDate": "2022-11-28T18:30:02.503Z",
+		"bnpl": false,
 		"distance": 11.729643363631084,
 		"activeKey": "vision-sports-club-kanakapura-road-bengaluru",
 		"offers": [
@@ -42643,7 +42634,7 @@
 		"bookType": 0,
 		"ratingCount": 18,
 		"zipCode": "560083",
-		"modTS": "2022-11-23T09:31:42.650Z",
+		"modTS": "2022-11-29T08:08:35.478Z",
 		"inquiryPhone": "9538451451",
 		"inquiryType": -1,
 		"phone": [
@@ -42656,7 +42647,7 @@
 		"id": "f293c673-1017-46bd-95fb-331a72c373cc",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "",
+		"search": "playsmart , play , smart , PlaySmart , plays smart",
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP5",
@@ -42686,7 +42677,7 @@
 				"type": 3
 			}
 		],
-		"timings": "24 Hours",
+		"timings": "Open 24x7",
 		"sports": [
 			"SP5",
 			"SP2",
@@ -43222,9 +43213,9 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2021-12-17T07:23:46.142Z",
-		"shareLink": "https://z34v4.app.goo.gl/C4kH",
-		"deferLink": "https://z34v4.app.goo.gl/y3jt",
+		"modTS": "2022-11-29T08:07:38.088Z",
+		"shareLink": "https://z34v4.app.goo.gl/y6yC",
+		"deferLink": "https://z34v4.app.goo.gl/e4hZ",
 		"fullLink": "https://playo.co/venue/?venueId=8597906e-3134-40cd-a8cb-93f86ea8c211",
 		"amenities": [
 			"Parking",
@@ -43262,6 +43253,7 @@
 		],
 		"activityCount": 3723,
 		"activityCountLastSyncDate": "2022-11-28T18:30:02.503Z",
+		"bnpl": false,
 		"distance": 12.517241197205793,
 		"activeKey": "golden-feathers-badminton-academy-kengeri-nagadevanahalli-bengaluru",
 		"offers": [
