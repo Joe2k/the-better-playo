@@ -6818,7 +6818,7 @@
 		"coverImage": "https://playo.gumlet.io/SPORTS1BADMINTONACADEMY/Sports1BadmintonAcademyGirinagarcovercover1641822257290.jpeg",
 		"createdTS": "2018-05-25T12:27:02.505Z",
 		"inquiryType": -1,
-		"modTS": "2022-06-07T09:05:15.209Z",
+		"modTS": "2022-12-01T08:14:59.016Z",
 		"ratingCount": 88,
 		"images": [
 			{
@@ -6842,7 +6842,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "Featured",
+		"sponsored": "",
 		"members": false,
 		"address": "#449/B, 11th Cross, Behind Vijaya Bharathi Vidyalaya, Girinagar 2nd Phase, Bengaluru",
 		"active": true,
@@ -6865,6 +6865,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 6406,
 		"activityCountLastSyncDate": "2022-11-30T18:30:02.764Z",
+		"bnpl": false,
 		"distance": 6.680576922430721,
 		"activeKey": "sports1-badminton-academy-girinagar-behind-vijaya-bharathi-vidyalaya-bengaluru",
 		"offers": [
@@ -58197,7 +58198,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-01T06:19:02.779Z",
+		"modTS": "2022-12-01T09:10:30.762Z",
 		"ratingCount": 0,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
@@ -58224,10 +58225,16 @@
 		"lat": 12.888712351053082,
 		"lng": 77.73290898464798,
 		"venueId": "52a84160-1596-4f06-8129-e93b5c9db88b",
-		"__v": 2,
+		"__v": 3,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
+			{
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1669885789349.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1669885810758.jpg"
+			},
 			{
 				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1667992654106.jpeg"
 			}
