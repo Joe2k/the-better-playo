@@ -30025,13 +30025,13 @@
 		"bookType": 0,
 		"ratingCount": 27,
 		"zipCode": "560064",
-		"modTS": "2022-08-17T18:33:28.158Z",
+		"modTS": "2022-12-01T08:06:11.215Z",
 		"inquiryPhone": "9611564830",
 		"inquiryType": -1,
 		"phone": [
 			"9611564830"
 		],
-		"sponsored": "Featured",
+		"sponsored": "",
 		"avgRating": 4.9,
 		"address": "No. 278/30/1, 18th Cross, Amruthahalli, Jakkur Main Road, Bengaluru, Karnataka - 560064",
 		"active": true,
@@ -30130,6 +30130,7 @@
 		"venueId": "58144486-697f-4a97-ab70-1cabfb11868d",
 		"activityCountLastSyncDate": "2022-11-30T18:30:02.764Z",
 		"activityCount": 1589,
+		"bnpl": false,
 		"distance": 10.796392875361096,
 		"activeKey": "taurus-sports-fitness-arena-amruthahalli-bengaluru",
 		"offers": []
@@ -31001,7 +31002,7 @@
 		"phone": [
 			"9902566027"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"name": "Match Point Sports Arena - Uttarahalli",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-03-20T07:50:24.267Z",
@@ -31009,7 +31010,7 @@
 		"createdTS": "2018-03-20T07:50:24.267Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T09:22:57.961Z",
-		"ratingCount": 133,
+		"ratingCount": 134,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHPOINTSPORTSARENA/MatchPointSportsArenaUttarahalli1639732957496.jpg"
@@ -47327,7 +47328,7 @@
 		"createdTS": "2017-01-18T13:25:10.025Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-12T10:22:37.648Z",
-		"ratingCount": 201,
+		"ratingCount": 202,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENRACQUETS/goldenracquets1617020187805.jpeg"
@@ -58196,7 +58197,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-30T11:18:00.194Z",
+		"modTS": "2022-12-01T06:19:02.779Z",
 		"ratingCount": 0,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
@@ -58215,7 +58216,7 @@
 		"search": "",
 		"fullLink": "https://playo.co/venue?venueId=52a84160-1596-4f06-8129-e93b5c9db88b",
 		"country": "India",
-		"timings": "6AM - 11PM",
+		"timings": "6AM - 9PM",
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": false,
 		"shareLink": "https://z34v4.app.goo.gl/H6sw",
@@ -58223,18 +58224,12 @@
 		"lat": 12.888712351053082,
 		"lng": 77.73290898464798,
 		"venueId": "52a84160-1596-4f06-8129-e93b5c9db88b",
-		"__v": 1,
+		"__v": 2,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1667992646899.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1667992650439.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1667992654106.jpeg"
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1667992654106.jpeg"
 			}
 		],
 		"infoData": [],
