@@ -11401,7 +11401,7 @@
 		"createdTS": "2018-05-24T11:47:24.440Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-11T16:15:42.609Z",
-		"ratingCount": 179,
+		"ratingCount": 180,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASHOSTATIONSOS/SmashOStationSOS1639900290696.jpg"
@@ -29066,7 +29066,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:59:16.527Z",
-		"ratingCount": 306,
+		"ratingCount": 307,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -46983,7 +46983,7 @@
 		"description": "",
 		"createdTS": "2022-06-22T19:23:10.085Z",
 		"bookType": 0,
-		"ratingCount": 42,
+		"ratingCount": 43,
 		"zipCode": "560064",
 		"modTS": "2022-08-31T08:23:10.887Z",
 		"inquiryPhone": "9740579762",
@@ -58171,14 +58171,14 @@
 		"phone": [
 			"8069031500"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Lakshyan Academy of Sports",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-01T09:10:30.762Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
 		"s3Folder": "LAKSHYANACADEMYOFSPORTS20221109111107648729",
