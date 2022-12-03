@@ -7454,7 +7454,7 @@
 		"createdTS": "2017-01-07T17:23:44.179Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T06:14:17.735Z",
-		"ratingCount": 130,
+		"ratingCount": 131,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FOOTBALLALLEY/footballalley1.jpg"
@@ -17773,7 +17773,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 259,
+		"ratingCount": 260,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -28572,7 +28572,7 @@
 		"bookType": 0,
 		"ratingCount": 42,
 		"zipCode": "560048",
-		"modTS": "2022-09-19T16:04:25.178Z",
+		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
 		"inquiryType": -1,
 		"phone": [
@@ -28589,8 +28589,7 @@
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP5",
-			"SP77",
-			"SP4"
+			"SP77"
 		],
 		"name": "Leo Sports",
 		"area": "Mahadevapura",
@@ -28610,8 +28609,7 @@
 		"timings": "4 AM - 11 PM",
 		"sports": [
 			"SP5",
-			"SP77",
-			"SP4"
+			"SP77"
 		],
 		"members": false,
 		"state": "Karnataka",
