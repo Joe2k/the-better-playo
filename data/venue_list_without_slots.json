@@ -11401,7 +11401,7 @@
 		"createdTS": "2018-05-24T11:47:24.440Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-11T16:15:42.609Z",
-		"ratingCount": 178,
+		"ratingCount": 179,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASHOSTATIONSOS/SmashOStationSOS1639900290696.jpg"
@@ -22122,7 +22122,7 @@
 		"description": "",
 		"createdTS": "2022-04-25T05:03:38.694Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560097",
 		"modTS": "2022-11-05T16:33:23.540Z",
 		"inquiryPhone": "7660010620",
@@ -22131,7 +22131,7 @@
 			"7660010620"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.5,
 		"address": "2nd Floor, Vyasa International School, Sy.101/2, BEL North Gate, Vidyaranyapura, Bangalore – 560097",
 		"active": true,
 		"id": "a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
@@ -34683,7 +34683,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 16,
+		"ratingCount": 17,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -56877,7 +56877,7 @@
 		"createdTS": "2018-02-11T06:46:38.718Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-20T09:53:20.487Z",
-		"ratingCount": 260,
+		"ratingCount": 261,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSHUTTLERS/FeatherShuttlers1586172701791.png"
