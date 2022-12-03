@@ -4483,13 +4483,13 @@
 		"members": false,
 		"isSafeAndHygiene": true,
 		"__v": 2,
-		"avgRating": 4.4,
+		"avgRating": 3.9,
 		"coverImage": "",
 		"createdTS": "2021-02-12T05:47:15.003Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 12,
+		"ratingCount": 14,
 		"bookSports": [
 			"SP5",
 			"SP4"
@@ -47644,7 +47644,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 547,
+		"ratingCount": 548,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
