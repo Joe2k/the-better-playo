@@ -1065,7 +1065,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -1074,7 +1074,7 @@
 			"9980061333"
 		],
 		"sponsored": "",
-		"avgRating": 3.5,
+		"avgRating": 3.4,
 		"address": "Krumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "49df1a9a-0324-4e78-a6b2-805b52c72390",
@@ -1949,7 +1949,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 72,
+		"ratingCount": 73,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -22221,7 +22221,7 @@
 		"description": "",
 		"createdTS": "2019-08-05T17:59:15.867Z",
 		"bookType": 0,
-		"ratingCount": 84,
+		"ratingCount": 85,
 		"zipCode": "560078",
 		"modTS": "2022-02-28T14:59:55.604Z",
 		"inquiryPhone": "7795635133",
@@ -24902,7 +24902,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T08:17:11.913Z",
 		"bookType": 0,
-		"ratingCount": 112,
+		"ratingCount": 113,
 		"zipCode": "560037",
 		"modTS": "2022-06-04T12:02:38.188Z",
 		"inquiryPhone": "8747827777",
