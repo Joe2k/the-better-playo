@@ -35880,7 +35880,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 55,
+		"ratingCount": 56,
 		"zipCode": "560037",
 		"modTS": "2021-12-19T13:45:23.731Z",
 		"inquiryPhone": "9920601966",
@@ -54004,6 +54004,100 @@
 		]
 	},
 	{
+		"inquiryPhone": "8050315656",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "yn-cricket-academy-varthur-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP57",
+			"SP66"
+		],
+		"area": "Varthur",
+		"oldPlayoId": "24eb3546-6fd4-4cc2-9806-1c0460750f27",
+		"functionData": [],
+		"sports": [
+			"SP57",
+			"SP66"
+		],
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560087",
+		"phone": [
+			"8050315656"
+		],
+		"avgRating": 0,
+		"name": "YN Cricket Academy",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2022-11-28T11:23:03.074Z",
+		"inquiryType": -1,
+		"modTS": "2022-12-04T03:34:01.582Z",
+		"ratingCount": 0,
+		"id": "24eb3546-6fd4-4cc2-9806-1c0460750f27",
+		"category": 2,
+		"s3Folder": "YNCRICKETACADEMY20221128112303074063",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"jeyabalp@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Survey Number 13, 3, Balagere Rd, Devasthanagalu, Varthur, Bengaluru, Karnataka 560087",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=24eb3546-6fd4-4cc2-9806-1c0460750f27",
+		"country": "India",
+		"timings": "6AM-11PM",
+		"addInfo": "",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/zAK5",
+		"deferLink": "https://z34v4.app.goo.gl/YaYg",
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/YNCRICKETACADEMY20221128112303074063/YNCricketAcademy1669635395793.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/YNCRICKETACADEMY20221128112303074063/YNCricketAcademy1669635401158.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/YNCRICKETACADEMY20221128112303074063/YNCricketAcademy1669635406095.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/YNCRICKETACADEMY20221128112303074063/YNCricketAcademy1669635409940.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"activityCountLastSyncDate": "2022-12-03T18:30:02.531Z",
+		"lat": 12.940181892868972,
+		"lng": 77.73417535236338,
+		"venueId": "24eb3546-6fd4-4cc2-9806-1c0460750f27",
+		"distance": 15.540497060363688,
+		"activeKey": "yn-cricket-academy-varthur-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "35320ce0-6e6c-4b3b-810a-2e32732bc076",
 		"cityCode": 1,
 		"description": "",
@@ -56959,7 +57053,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 177,
+		"ratingCount": 180,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
