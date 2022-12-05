@@ -42596,10 +42596,10 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "ekam-sports-arena-marathahalli-bengaluru"
+				"key": "ekam-sports-academy-marathahalli-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/wqN1",
+		"shareLink": "https://z34v4.app.goo.gl/Ufg6",
 		"city": "Bengaluru",
 		"area": "Marathahalli",
 		"oldPlayoId": "587124206d91cf3645ab085d",
@@ -42637,13 +42637,13 @@
 			"9900023177"
 		],
 		"avgRating": 3.3,
-		"name": "Ekam Sports Arena",
+		"name": "Ekam Sports Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.216Z",
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.216Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-28T12:48:19.074Z",
+		"modTS": "2022-12-05T09:53:01.774Z",
 		"ratingCount": 93,
 		"images": [
 			{
@@ -42680,7 +42680,7 @@
 		"members": false,
 		"address": "11/5, Near Government School, Munnekolala, Rajasree Layout, Munnekollal",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/xea4",
+		"deferLink": "https://z34v4.app.goo.gl/39JC",
 		"search": "|Volleyball|Basketball|Football|Cricket|Tennis|Badminton|Table Tennis|Ekam Sports Arena|11/5, Near Government School, Munnekolala, Rajasree Layout, Munnekollal|Marathahalli|Bangalore|Parking,Refreshments,First Aid,Restroom|Appropriate footwear has to be worn for the respective sports.(eg. Tennis shoes for tennis, badminton shoes for badminton, etc)|New,equipment on rent",
 		"fullLink": "https://playo.co/venue/?venueId=fae14f4e-9764-4dfa-95e5-4426f11be608",
 		"country": "India",
@@ -42707,7 +42707,7 @@
 		"activityCountLastSyncDate": "2022-12-04T18:30:02.414Z",
 		"bnpl": false,
 		"distance": 12.432206718467421,
-		"activeKey": "ekam-sports-arena-marathahalli-bengaluru",
+		"activeKey": "ekam-sports-academy-marathahalli-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -63019,6 +63019,102 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"inquiryPhone": "9538655505",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "sportonix-school-of-badminton-kannamangala-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Kannamangala",
+		"oldPlayoId": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
+		"functionData": [
+			{
+				"content": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"parking",
+			"restroom",
+			"changing room",
+			"power backup"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560067",
+		"phone": [
+			"9538655505"
+		],
+		"avgRating": 0,
+		"name": "Sportonix School of Badminton",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2022-12-05T09:42:01.927Z",
+		"inquiryType": -1,
+		"modTS": "2022-12-05T09:43:18.810Z",
+		"ratingCount": 0,
+		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
+		"category": 2,
+		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"sportonixsob22@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Sy No 30/3, Kannamangala Village, Kanmangala Post, Near Safal Market, Bangalore 560067",
+		"active": true,
+		"search": "sportonix,badminton,school",
+		"fullLink": "https://playo.co/venue?venueId=0736d2b3-4dd9-4d9c-b281-f788851130a7",
+		"country": "India",
+		"timings": "6AM - 10PM",
+		"addInfo": "Badminton: <br/>\n- Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible. <br/>",
+		"isSafeAndHygiene": true,
+		"__v": 1,
+		"coverImage": "",
+		"deferLink": "https://z34v4.app.goo.gl/HnuG",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/SPORTONIXSCHOOLOFBADMINTON20221205094201927030/SportonixSchoolofBadminton1670233302974.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SPORTONIXSCHOOLOFBADMINTON20221205094201927030/SportonixSchoolofBadminton1670233307634.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SPORTONIXSCHOOLOFBADMINTON20221205094201927030/SportonixSchoolofBadminton1670233313001.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/Ryc4",
+		"lat": 13.02646890764612,
+		"lng": 77.7732737,
+		"venueId": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
+		"distance": 20.319777359091724,
+		"activeKey": "sportonix-school-of-badminton-kannamangala-bengaluru",
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9845806735",
