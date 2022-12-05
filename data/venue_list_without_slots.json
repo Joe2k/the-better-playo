@@ -35713,7 +35713,7 @@
 		"bookType": 0,
 		"ratingCount": 48,
 		"zipCode": "560108",
-		"modTS": "2022-07-18T04:55:57.505Z",
+		"modTS": "2022-12-05T14:32:52.917Z",
 		"inquiryPhone": "8095514666",
 		"inquiryType": -1,
 		"phone": [
@@ -35777,7 +35777,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "No tournaments/events are to be conducted by the general public without the consent of the management as the pricing will be different for tournaments/events. Rates will be over and above normal booking rates for all the activities. <br/>\n\nBadminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the badminton court.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "No tournaments/events are to be conducted by the general public without the consent of the management as the pricing will be different for tournaments/events. Rates will be over and above normal booking rates for all the activities. <br/>\n\nBadminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the badminton court.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n- Shuttles are available for sale.\n- Shoes and racquets for rent; Subject to availability.\n<br/>\n<br/>\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
 		"type": 0,
 		"email": [
@@ -35813,6 +35813,7 @@
 		"remarks": "",
 		"activityCount": 13453,
 		"activityCountLastSyncDate": "2022-12-04T18:30:02.414Z",
+		"bnpl": false,
 		"distance": 11.498065302964351,
 		"activeKey": "fettle-fitness-sports-studio-jp-nagar-9th-phase-bengaluru",
 		"offers": [
@@ -63058,14 +63059,14 @@
 		"phone": [
 			"9538655505"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Sportonix School of Badminton",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T09:42:01.927Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T09:43:18.810Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
 		"category": 2,
 		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
