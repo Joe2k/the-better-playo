@@ -29136,7 +29136,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:59:16.527Z",
-		"ratingCount": 307,
+		"ratingCount": 308,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -61901,7 +61901,7 @@
 		"description": "",
 		"createdTS": "2021-04-19T16:01:44.918Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560067",
 		"modTS": "2022-09-19T14:30:46.760Z",
 		"inquiryPhone": "6364307888",
@@ -61910,7 +61910,7 @@
 			"6364307888"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.2,
 		"address": "opposite Bharath Petrol Bunk, ITPL - Chikkathirupathi Main Road, Channasandra, Whitefield, Bengaluru - 560067",
 		"active": true,
 		"id": "6bc47a2a-169c-439e-aed6-db61b11e8d52",
