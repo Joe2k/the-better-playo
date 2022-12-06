@@ -27319,7 +27319,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -29135,7 +29135,7 @@
 		"coverImage": "",
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-17T07:59:16.527Z",
+		"modTS": "2022-12-06T14:07:38.218Z",
 		"ratingCount": 309,
 		"images": [
 			{
@@ -29179,7 +29179,7 @@
 		"googleMapLink": "",
 		"sponsored": "",
 		"members": false,
-		"address": "Pragathi Layout",
+		"address": "XMFR+WR4, Unnamed Road, Pragathi Layout, Doddanekundi, Doddanekkundi, Bengaluru, Karnataka - 560037",
 		"active": true,
 		"deferLink": "https://z34v4.app.goo.gl/4WG8",
 		"search": "orchid",
@@ -29203,6 +29203,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 48721,
 		"activityCountLastSyncDate": "2022-12-05T18:30:02.355Z",
+		"bnpl": false,
 		"distance": 10.581152776641131,
 		"activeKey": "lakeview-sports-arena-doddanekundi-bengaluru",
 		"offers": []
@@ -46709,23 +46710,14 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.207Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-15T08:55:08.788Z",
+		"modTS": "2022-12-06T14:00:53.079Z",
 		"ratingCount": 217,
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/AccoladesBadmintonSportsAcademy1639558445175.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/AccoladesBadmintonSportsAcademy1639558500437.jpg"
-			},
 			{
 				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy10.png"
 			},
 			{
 				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy11.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy12.png"
 			},
 			{
 				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy13.png"
@@ -46761,10 +46753,11 @@
 		"sponsoredRadius": 4,
 		"type": 0,
 		"venueId": "32a60c97-1d93-4de8-bc75-99c4c4eda30c",
-		"__v": 3,
+		"__v": 4,
 		"isSafeAndHygiene": true,
 		"activityCount": 21224,
 		"activityCountLastSyncDate": "2022-12-05T18:30:02.355Z",
+		"bnpl": false,
 		"distance": 13.118465233300709,
 		"activeKey": "accolades-badminton-sports-academy-peenya-bengaluru",
 		"offers": []
