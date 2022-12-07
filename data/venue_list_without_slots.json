@@ -21060,12 +21060,12 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "divine-sports-managed-by-pj-sports-kr-puram-bengaluru"
+				"key": "divine-sports-managed-by-pj-sports-a-narayanpura-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/Uc2Q",
+		"shareLink": "https://z34v4.app.goo.gl/Tigz",
 		"city": "Bengaluru",
-		"area": "KR Puram",
+		"area": "A Narayanpura",
 		"oldPlayoId": "593bf1456d91cf3e4ecf5561",
 		"functionData": [
 			{
@@ -21101,7 +21101,7 @@
 		"coverImage": "",
 		"createdTS": "2017-06-10T13:16:53.639Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-19T07:00:17.637Z",
+		"modTS": "2022-12-07T06:12:46.247Z",
 		"ratingCount": 130,
 		"images": [
 			{
@@ -21132,7 +21132,7 @@
 		"members": false,
 		"address": "St Ignatious JSO Church, 2nd Main Road, VSR Layout, Narayanapura, KR Puram",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/9W8o",
+		"deferLink": "https://z34v4.app.goo.gl/yC3m",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=baa592f8-420c-4159-8201-a1f2367b8484",
 		"country": "India",
@@ -21151,8 +21151,9 @@
 		"__v": 1,
 		"activityCount": 4726,
 		"activityCountLastSyncDate": "2022-12-06T18:30:02.364Z",
+		"bnpl": false,
 		"distance": 9.519218974910666,
-		"activeKey": "divine-sports-managed-by-pj-sports-kr-puram-bengaluru",
+		"activeKey": "divine-sports-managed-by-pj-sports-a-narayanpura-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
