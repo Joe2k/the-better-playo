@@ -621,8 +621,8 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 94,
 		"activityCountLastSyncDate": "2022-12-06T18:30:02.364Z",
-		"avgRating": 4.5,
-		"ratingCount": 8,
+		"avgRating": 4.2,
+		"ratingCount": 9,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T12:29:43.524Z",
@@ -35304,7 +35304,7 @@
 		"description": "",
 		"createdTS": "2022-06-15T09:12:29.254Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560064",
 		"modTS": "2022-07-02T06:47:47.226Z",
 		"inquiryPhone": "9008709117",
@@ -35313,7 +35313,7 @@
 			"9008709117"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.8,
+		"avgRating": 4.9,
 		"address": "KV Jairam Rd, Jakkur, Bengaluru, Karnataka 560064",
 		"active": true,
 		"id": "0b920d5b-c204-42ad-b10f-180835896ebf",
@@ -61646,43 +61646,6 @@
 		"distance": 19.294757576494412,
 		"activeKey": "mean-machine-football-arena-whitefield-bengaluru",
 		"offers": [
-			{
-				"_id": "637c8f20b66167f725e9fb69",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "Offer valid on weekends",
-				"countryCode": "+91",
-				"createdTS": "2022-11-22T08:58:08.185Z",
-				"offerContent": "08171ba4-2d0b-4e38-bffd-9124955e824b",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/MeanMachineInauguralOffer100offjv4rhmcover1669107407698.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2",
-				"activeKey": "mean-machine-inaugural-offer-₹100-off-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=08171ba4-2d0b-4e38-bffd-9124955e824b",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Mean Machine Inaugural Offer - ₹100 off",
-				"id": "34fa62a1-1f97-4602-b973-dff738726a87",
-				"offerName": "Mean Machine Inaugural Offer - ₹100 off"
-			},
 			{
 				"_id": "637c8f20b66167f7270ffd37",
 				"city": "Bengaluru",
