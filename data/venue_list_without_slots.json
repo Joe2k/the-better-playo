@@ -910,7 +910,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-18T10:39:40.368Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -1011,7 +1011,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-18T10:39:40.368Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -7046,7 +7046,7 @@
 		"createdTS": "2018-09-03T14:47:26.103Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-05T07:21:18.713Z",
-		"ratingCount": 80,
+		"ratingCount": 81,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BMTSPORTS/BMTSports3.jpeg"
@@ -11236,7 +11236,7 @@
 		"description": "",
 		"createdTS": "2022-07-21T09:22:10.201Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 29,
 		"zipCode": "560040",
 		"modTS": "2022-11-19T09:39:29.326Z",
 		"inquiryPhone": "8660374210",
@@ -11245,7 +11245,7 @@
 			"8660374210"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"address": "4th Main Rd, Govindaraja Nagar Ward, Panchasheel Nagar, Vijayanagar, Bengaluru, Karnataka 560040",
 		"active": true,
 		"id": "627ef7d2-e95e-44ef-ad34-ad8dc04c5e64",
@@ -20352,7 +20352,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 227,
+		"ratingCount": 228,
 		"zipCode": "560068",
 		"modTS": "2022-09-15T15:18:46.920Z",
 		"inquiryPhone": "6364444441",
@@ -30077,7 +30077,7 @@
 		"bookType": 0,
 		"ratingCount": 27,
 		"zipCode": "560064",
-		"modTS": "2022-12-01T08:06:11.215Z",
+		"modTS": "2022-12-08T07:30:28.486Z",
 		"inquiryPhone": "9611564830",
 		"inquiryType": -1,
 		"phone": [
@@ -30100,7 +30100,7 @@
 		],
 		"name": "Taurus Sports & Fitness Arena",
 		"area": "Amruthahalli",
-		"sponsoredRadius": 3,
+		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
 		"functionData": [
@@ -41505,7 +41505,7 @@
 		"createdTS": "2018-08-30T18:55:41.963Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-23T10:23:00.603Z",
-		"ratingCount": 58,
+		"ratingCount": 60,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLESHOTS/shuttleshots0.jpg"
@@ -43165,7 +43165,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 382,
+		"ratingCount": 383,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -51461,7 +51461,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.119Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-28T07:32:10.805Z",
+		"modTS": "2022-12-08T07:13:10.006Z",
 		"ratingCount": 58,
 		"images": [
 			{
@@ -51494,7 +51494,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "63, Kogilu Agrahara Main Road Opposite Apurva Meadows, Yelahanka, Bengaluru, Karnataka",
 		"active": true,
@@ -51504,7 +51504,7 @@
 		"country": "India",
 		"timings": "6 AM - 11 PM",
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\nBox Cricket: <br/>\n- Spiked shoes are strictly not allowed on the turf.<br/>\n- No equipment will be provided by the venue, all equipment have to be brought by the users.<br/>\n<br/>\n<br/>",
-		"sponsoredRadius": 2,
+		"sponsoredRadius": 5,
 		"bookSports": [
 			"SP5",
 			"SP2",
@@ -53395,7 +53395,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T15:51:01.050Z",
-		"ratingCount": 146,
+		"ratingCount": 147,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
@@ -54818,7 +54818,7 @@
 		"createdTS": "2017-11-22T10:22:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-24T05:11:05.743Z",
-		"ratingCount": 139,
+		"ratingCount": 140,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYONSPORTSARENA/PlayOnSportsArena62.PNG"
@@ -54937,7 +54937,7 @@
 		"description": "",
 		"createdTS": "2021-09-17T13:51:55.496Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560100",
 		"modTS": "2022-10-12T04:44:56.785Z",
 		"inquiryPhone": "8951240183",
