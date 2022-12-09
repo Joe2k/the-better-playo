@@ -9453,7 +9453,7 @@
 		"description": "",
 		"createdTS": "2019-07-03T07:59:14.093Z",
 		"bookType": 0,
-		"ratingCount": 34,
+		"ratingCount": 35,
 		"zipCode": "560032",
 		"modTS": "2022-01-05T12:51:53.189Z",
 		"inquiryPhone": "9342320036",
@@ -9462,7 +9462,7 @@
 			"9342320036"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"address": "15, (Cauvery Nagar) KHB Main Road opp 12th cross,near Railway crossing, R.T.Nagar Post",
 		"active": true,
 		"id": "f3f5b1bf-e982-4be8-99d1-d0fea15578e3",
@@ -11809,7 +11809,7 @@
 		"createdTS": "2017-01-07T17:23:44.037Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-20T11:12:21.448Z",
-		"ratingCount": 67,
+		"ratingCount": 68,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHDAY/Matchday0.JPG"
@@ -33898,7 +33898,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T08:15:47.379Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560077",
 		"modTS": "2021-11-01T07:48:51.056Z",
 		"inquiryPhone": "6360920962",
@@ -33907,7 +33907,7 @@
 			"8884039442"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.2,
 		"address": "Off Cross Road post, Opp Kristhu Jayanthi College, 399, K Narayanapura Main Rd",
 		"active": true,
 		"id": "b33a579f-a960-4941-8ac5-85e6bf8e21e8",
@@ -35304,7 +35304,7 @@
 		"description": "",
 		"createdTS": "2022-06-15T09:12:29.254Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560064",
 		"modTS": "2022-07-02T06:47:47.226Z",
 		"inquiryPhone": "9008709117",
@@ -35313,7 +35313,7 @@
 			"9008709117"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.9,
+		"avgRating": 4.5,
 		"address": "KV Jairam Rd, Jakkur, Bengaluru, Karnataka 560064",
 		"active": true,
 		"id": "0b920d5b-c204-42ad-b10f-180835896ebf",
