@@ -14764,7 +14764,7 @@
 		"createdTS": "2018-08-31T19:52:02.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-14T09:11:35.664Z",
-		"ratingCount": 103,
+		"ratingCount": 104,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSDROME/sportsdrome10.jpeg"
@@ -15520,7 +15520,7 @@
 		"createdTS": "2018-05-31T14:28:35.443Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:13:51.512Z",
-		"ratingCount": 256,
+		"ratingCount": 257,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOVABADMINTONACADEMYAREHALLI/NovaBadmintonAcademyArehalli1639984419582.webp"
@@ -42675,26 +42675,32 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.216Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-05T10:41:13.071Z",
+		"modTS": "2022-12-10T08:32:43.293Z",
 		"ratingCount": 93,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsArena1646652813645.jpg"
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661095521.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsArena1646652819509.jpg"
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661103030.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/ekamsportsarena0.jpg"
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661110470.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/ekamsportsarena1.jpg"
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661115474.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/ekamsportsarena57.jpg"
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661121072.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/ekamsportsarena58.jpg"
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661128731.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661140148.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661145832.jpeg"
 			}
 		],
 		"id": "fae14f4e-9764-4dfa-95e5-4426f11be608",
@@ -42718,7 +42724,7 @@
 		"country": "India",
 		"timings": "6 AM - 11 PM",
 		"addInfo": "Tennis: <br/>\n- Non-Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility. <br/>\n- Sports equipment available on rent: Rackets, Shoes. <br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible. <br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\nNote: <br/>\n- Volleyball and Tennis are clay courts and Football has natural turf/grass. <br/>\n- The biggest advantage of a clay court and natural turf is the soft and comfortable feeling it gives players \nunderfoot, reducing impact on joints and preventing injuries during training and game play",
-		"__v": 6,
+		"__v": 7,
 		"bookSports": [
 			"SP8",
 			"SP1",
