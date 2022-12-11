@@ -1624,7 +1624,7 @@
 			"Shower",
 			"Drinking Water"
 		],
-		"type": 1,
+		"type": 0,
 		"cityCode": 1,
 		"bookType": 0,
 		"zipCode": "560004",
@@ -1637,7 +1637,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-29T11:13:38.751Z",
+		"modTS": "2022-12-11T15:41:06.592Z",
 		"ratingCount": 3,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
@@ -1645,7 +1645,7 @@
 		"restricted": 0,
 		"state": "Karnataka",
 		"email": [
-			"ranjithbs@svsproducts.com"
+			"maracana.blr@gmail.com"
 		],
 		"description": "",
 		"tags": [],
@@ -1656,7 +1656,7 @@
 		"search": "",
 		"fullLink": "https://playo.co/venue?venueId=dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"country": "India",
-		"timings": "6AM - 10:30PM",
+		"timings": "6:00 AM - 10:30 PM",
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": true,
 		"shareLink": "https://z34v4.app.goo.gl/Xs4e",
@@ -55095,7 +55095,7 @@
 		"createdTS": "2017-11-22T10:22:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-24T05:11:05.743Z",
-		"ratingCount": 140,
+		"ratingCount": 141,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYONSPORTSARENA/PlayOnSportsArena62.PNG"
