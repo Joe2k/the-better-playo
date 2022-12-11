@@ -29630,7 +29630,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 93,
+		"ratingCount": 94,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -30758,7 +30758,7 @@
 		"phone": [
 			"9108069991"
 		],
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"name": "Iqra Games Village (IGV)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-12-28T05:50:28.166Z",
@@ -30766,7 +30766,7 @@
 		"createdTS": "2018-12-28T05:50:28.166Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-18T10:14:50.773Z",
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IQRAGAMESVILLAGE/1.png"
@@ -43400,13 +43400,13 @@
 		"venueId": "8597906e-3134-40cd-a8cb-93f86ea8c211",
 		"zipCode": "560056",
 		"__v": 3,
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"coverImage": "",
 		"createdTS": "2021-12-04T16:19:33.089Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"bookSports": [
 			"SP5"
 		],
@@ -50454,7 +50454,7 @@
 		"description": "",
 		"createdTS": "2021-02-12T12:48:30.083Z",
 		"bookType": 0,
-		"ratingCount": 41,
+		"ratingCount": 42,
 		"zipCode": "560090",
 		"modTS": "2021-12-17T07:09:50.493Z",
 		"inquiryPhone": "7022187999",
