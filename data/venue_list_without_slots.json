@@ -7922,7 +7922,7 @@
 		"description": "",
 		"createdTS": "2021-07-10T09:47:13.994Z",
 		"bookType": 0,
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"zipCode": "560076",
 		"modTS": "2022-07-23T15:05:38.506Z",
 		"inquiryPhone": "9930888120",
@@ -7931,7 +7931,7 @@
 			"9930888120"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"address": "#3, 2nd Cross, 3rd A main road, NS Palya, Dollar's colony, Behind Vega City Mall, BTM layout, Banerghatta road, Bengaluru - 560076",
 		"active": true,
 		"id": "d41c6b1b-4cca-45e6-bc52-687c860b9362",
@@ -12370,7 +12370,7 @@
 		"phone": [
 			"9900581182"
 		],
-		"avgRating": 4.8,
+		"avgRating": 4.6,
 		"name": "Jnana Soudha Badminton Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.195Z",
@@ -12378,7 +12378,7 @@
 		"createdTS": "2017-01-07T17:23:44.195Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:36:26.221Z",
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTON/jnanasoudhabadmintonclub1616230278901.jpeg"
