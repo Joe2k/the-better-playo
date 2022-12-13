@@ -12126,14 +12126,14 @@
 		"phone": [
 			"9152625262"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "ActFit Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-13T07:14:22.446Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
