@@ -24214,7 +24214,7 @@
 		"phone": [
 			"7676669966"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"name": "Infinity Badminton Arena - Bellandur",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-11-06T07:25:37.252Z",
@@ -24222,7 +24222,7 @@
 		"createdTS": "2017-11-06T07:25:37.252Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T11:01:44.784Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GAMESQUARE/InfinityBadmintonArenaBellandur1658257375391.jpg"
@@ -24997,7 +24997,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T08:17:11.913Z",
 		"bookType": 0,
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"zipCode": "560037",
 		"modTS": "2022-06-04T12:02:38.188Z",
 		"inquiryPhone": "8747827777",
@@ -25623,7 +25623,7 @@
 		"bookType": 0,
 		"ratingCount": 9,
 		"zipCode": "560068",
-		"modTS": "2022-06-30T13:00:54.798Z",
+		"modTS": "2022-12-13T17:36:07.008Z",
 		"inquiryPhone": "9900591236",
 		"inquiryType": -1,
 		"phone": [
@@ -25639,7 +25639,10 @@
 		"search": "",
 		"isSafeAndHygiene": true,
 		"bookSports": [
-			"SP7"
+			"SP7",
+			"SP4",
+			"SP6",
+			"SP77"
 		],
 		"name": "Milan Sports",
 		"area": "GB Palya",
@@ -25658,7 +25661,10 @@
 		],
 		"timings": "6:30AM - 7:00PM",
 		"sports": [
-			"SP7"
+			"SP7",
+			"SP4",
+			"SP6",
+			"SP77"
 		],
 		"members": false,
 		"state": "Karnataka",
@@ -25682,22 +25688,28 @@
 			"pramodshivanna@hotmail.com"
 		],
 		"s3Folder": "MILANSPORTS20220620121251568608",
-		"__v": 1,
+		"__v": 2,
 		"coverImage": "",
 		"deferLink": "https://z34v4.app.goo.gl/H8Cn",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/MilanSports1655727151813.jpeg"
+				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/MilanSports1670952954960.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/MilanSports1655727156794.jpeg"
+				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/MilanSports1670952961111.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/MilanSports1655727160622.jpeg"
+				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/milansports1655727151813.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/MilanSports1655727164483.jpeg"
+				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/milansports1655727156794.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/milansports1655727160622.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILANSPORTS20220620121251568608/milansports1655727164483.jpeg"
 			}
 		],
 		"infoData": [],
@@ -25710,6 +25722,7 @@
 		"venueId": "33d466f1-d1ef-4502-8030-b297418c694f",
 		"activityCountLastSyncDate": "2022-12-12T18:30:02.380Z",
 		"activityCount": 46,
+		"bnpl": false,
 		"distance": 9.976891404419268,
 		"activeKey": "milan-sports-gb-palya-bengaluru",
 		"offers": []
@@ -43300,7 +43313,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 383,
+		"ratingCount": 384,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
