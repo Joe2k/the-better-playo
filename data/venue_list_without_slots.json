@@ -10841,7 +10841,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 302,
+		"ratingCount": 303,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -13448,7 +13448,7 @@
 		"description": "",
 		"createdTS": "2020-09-25T03:07:47.222Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560075",
 		"modTS": "2022-06-15T16:26:46.431Z",
 		"inquiryPhone": "9880756004",
@@ -13457,7 +13457,7 @@
 			"9880756004"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.6,
 		"address": "No 76/134, Muniramaya Ground, Near Global City International School, Malleshpalya, Kaggadasapura, Bengaluru, Karnataka",
 		"active": true,
 		"id": "28a20530-76f8-4e95-bcd4-3e72f995ef6a",
