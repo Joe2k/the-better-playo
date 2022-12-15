@@ -55066,7 +55066,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T17:31:05.409Z",
 		"bookType": 0,
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"zipCode": "560067",
 		"modTS": "2022-07-03T10:21:42.378Z",
 		"inquiryPhone": "9742575356",
@@ -55075,7 +55075,7 @@
 			"9742575356"
 		],
 		"sponsored": "",
-		"avgRating": 0,
+		"avgRating": 5,
 		"address": "#9 & 10, 1st cross Shree, Kodigehalli Main Road, Shakti Layout, Kodigehalli, Krishnarajapura, Bengaluru, Karnataka - 560067",
 		"active": true,
 		"id": "7e3acf04-d315-4218-8315-7ae3d094ec7f",
