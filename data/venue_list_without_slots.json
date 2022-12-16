@@ -12133,7 +12133,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-13T07:14:22.446Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -50661,7 +50661,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "560060",
 		"modTS": "2022-12-09T19:54:14.632Z",
 		"inquiryPhone": "7090085007",
@@ -64586,7 +64586,7 @@
 		"bookType": 0,
 		"ratingCount": 1,
 		"zipCode": "562125",
-		"modTS": "2019-10-29T12:18:38.925Z",
+		"modTS": "2022-12-16T08:25:10.409Z",
 		"inquiryPhone": "8210211090",
 		"inquiryType": -1,
 		"phone": [
@@ -64594,11 +64594,11 @@
 		],
 		"sponsored": "",
 		"avgRating": 5,
-		"address": "Kada Agrahara Road",
+		"address": "RQW2+QWM, Kada Agrahara Road, Gopasandra, Hosahalli, Karnataka - 562125",
 		"active": true,
 		"id": "e4c906a3-62c4-420d-bc71-8e2324938e4a",
 		"category": 2,
-		"city": "Bangalore",
+		"city": "Bengaluru",
 		"search": "",
 		"bookSports": [
 			"SP0"
@@ -64611,14 +64611,14 @@
 		"functionData": [
 			{
 				"content": "8210211090",
+				"caption": "Call Venue",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 1,
-				"caption": "Call Venue",
 				"type": 1
 			}
 		],
-		"timings": "7AM to 6PM",
+		"timings": "7 AM - 6 PM",
 		"sports": [
 			"SP0"
 		],
@@ -64631,7 +64631,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "shaanz-cricket-grounds-hosahalli-bangalore"
+				"key": "shaanz-cricket-grounds-hosahalli-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -64645,7 +64645,7 @@
 		"s3Folder": "SHAANZCRICKETGROUNDS20190422103027670556",
 		"__v": 1,
 		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/o4Us",
+		"deferLink": "https://z34v4.app.goo.gl/h1rS",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -64665,15 +64665,126 @@
 		"logoImg": "",
 		"mapImage": "https://playo.imgix.net/SHAANZCRICKETGROUNDS20190422103027670556/ShaanzCricketGroundsmap1555928819573.PNG",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/EuCn",
+		"shareLink": "https://z34v4.app.goo.gl/Gq4T",
 		"lat": 12.850299,
 		"lng": 77.751269,
 		"venueId": "e4c906a3-62c4-420d-bc71-8e2324938e4a",
-		"isSafeAndHygiene": false,
+		"isSafeAndHygiene": true,
 		"activityCount": 35,
 		"activityCountLastSyncDate": "2022-12-15T18:30:03.006Z",
+		"bnpl": false,
 		"distance": 21.70966029510434,
-		"activeKey": "shaanz-cricket-grounds-hosahalli-bangalore",
+		"activeKey": "shaanz-cricket-grounds-hosahalli-bengaluru",
+		"offers": []
+	},
+	{
+		"oldPlayoId": "3413e870-5249-4384-9b60-bf3674a00371",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2019-04-04T13:50:01.500Z",
+		"bookType": 0,
+		"ratingCount": 3,
+		"zipCode": "562125",
+		"modTS": "2022-12-16T08:22:06.191Z",
+		"inquiryPhone": "9972083064",
+		"inquiryType": -1,
+		"phone": [
+			"9972083064"
+		],
+		"sponsored": "",
+		"avgRating": 5,
+		"address": "Gopasandra, Bengaluru, Karnataka - 562125",
+		"active": true,
+		"id": "3413e870-5249-4384-9b60-bf3674a00371",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "",
+		"bookSports": [
+			"SP0",
+			"SP47"
+		],
+		"name": "Shaanz 2 Cricket Ground",
+		"area": "Gopasandra",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "3413e870-5249-4384-9b60-bf3674a00371",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"timings": "6:30 AM - 6:00 PM",
+		"sports": [
+			"SP0",
+			"SP47"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "shaanz-2-cricket-ground-gopasandra-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "",
+		"fullLink": "https://playo.co/venue?venueId=3413e870-5249-4384-9b60-bf3674a00371",
+		"type": 0,
+		"email": [
+			"pranaymessiah@gmail.com"
+		],
+		"s3Folder": "MILLENNIUMKINGDOM20190404135001500278",
+		"__v": 2,
+		"coverImage": "",
+		"deferLink": "https://z34v4.app.goo.gl/XmZP",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/MILLENNIUMKINGDOM20190404135001500278/Shaanz2CricketGround1671178896615.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILLENNIUMKINGDOM20190404135001500278/Shaanz2CricketGround1671178901315.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILLENNIUMKINGDOM20190404135001500278/Shaanz2CricketGround1671178905115.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILLENNIUMKINGDOM20190404135001500278/Shaanz2CricketGround1671178908595.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILLENNIUMKINGDOM20190404135001500278/Shaanz2CricketGround1671178912456.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MILLENNIUMKINGDOM20190404135001500278/Shaanz2CricketGround1671178916706.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "https://playo.imgix.net/MILLENNIUMKINGDOM20190404135001500278/MillenniumKingdommap1554385776103.PNG",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/6b1s",
+		"lat": 12.84471223394926,
+		"lng": 77.75092023054472,
+		"venueId": "3413e870-5249-4384-9b60-bf3674a00371",
+		"isSafeAndHygiene": true,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2022-12-15T18:30:03.006Z",
+		"bnpl": false,
+		"distance": 22.072898267884433,
+		"activeKey": "shaanz-2-cricket-ground-gopasandra-bengaluru",
 		"offers": []
 	},
 	{
