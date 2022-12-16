@@ -12988,7 +12988,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 268,
+		"ratingCount": 269,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -12997,7 +12997,7 @@
 			"9880770202"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "LANDMARK: Near Bangalore International Public School; FULL ADDRESS: 255E/D/1, 4th Main, Ankappa layout, Uttarahalli, Subramanyapura Post",
 		"active": true,
 		"id": "ae068218-2f88-482d-bdf1-4e197811b9ba",
@@ -27716,16 +27716,7 @@
 		"city": "Bengaluru",
 		"area": "Sahakar Nagar",
 		"oldPlayoId": "5ab9f1d16d91cf07bf1a4dc4",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "b60e5212-62fe-4f1f-9e05-c99c46660140",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
+		"functionData": [],
 		"sports": [
 			"SP2",
 			"SP75",
@@ -27754,7 +27745,7 @@
 		"coverImage": "",
 		"createdTS": "2018-03-27T07:25:04.380Z",
 		"inquiryType": -1,
-		"modTS": "2022-02-14T14:58:42.495Z",
+		"modTS": "2022-12-16T07:46:00.642Z",
 		"ratingCount": 33,
 		"images": [
 			{
@@ -27814,6 +27805,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 369,
 		"activityCountLastSyncDate": "2022-12-15T18:30:03.006Z",
+		"bnpl": false,
 		"distance": 10.428913975207278,
 		"activeKey": "soccer-village-sahakar-nagar-bengaluru",
 		"offers": []
@@ -36783,7 +36775,7 @@
 		"createdTS": "2018-04-10T17:12:09.379Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-04T11:02:02.817Z",
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERTOUCHSPORTS/feathertouchsportsdrivein1596521472307.jpg"
