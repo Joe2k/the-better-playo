@@ -6079,7 +6079,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T05:10:01.147Z",
 		"bookType": 0,
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"zipCode": "560094",
 		"modTS": "2022-01-19T07:45:18.168Z",
 		"inquiryPhone": "9880373773",
@@ -15716,7 +15716,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-18T06:42:16.945Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560093",
 		"modTS": "2022-10-10T09:35:55.970Z",
 		"inquiryPhone": "6363777194",
@@ -21331,7 +21331,7 @@
 		"description": "",
 		"createdTS": "2021-03-21T11:33:54.484Z",
 		"bookType": 0,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"zipCode": "560076",
 		"modTS": "2022-11-12T13:57:00.449Z",
 		"inquiryPhone": "9742220232",
@@ -21340,7 +21340,7 @@
 			"9742220232"
 		],
 		"sponsored": "",
-		"avgRating": 3.4,
+		"avgRating": 3.3,
 		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
 		"active": true,
 		"id": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
@@ -47949,7 +47949,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 548,
+		"ratingCount": 549,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
