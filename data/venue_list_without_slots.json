@@ -1637,7 +1637,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-11T15:41:06.592Z",
+		"modTS": "2022-12-18T06:42:58.963Z",
 		"ratingCount": 4,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
@@ -1664,21 +1664,24 @@
 		"lat": 12.94195194537362,
 		"lng": 77.57419830159428,
 		"venueId": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
-		"__v": 1,
+		"__v": 2,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/MaracanaSportsArena1667462599319.jpg"
+				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/MaracanaSportsArena1671345757374.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/MaracanaSportsArena1667462611535.jpg"
+				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/maracanasportsarena1667462599319.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/MaracanaSportsArena1667462626168.jpg"
+				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/maracanasportsarena1667462611535.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/MaracanaSportsArena1667462635364.jpg"
+				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/maracanasportsarena1667462626168.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/MARACANASPORTSARENA20221103080210366511/maracanasportsarena1667462635364.jpg"
 			}
 		],
 		"infoData": [],
@@ -26461,7 +26464,7 @@
 		"bookType": 0,
 		"ratingCount": 14,
 		"zipCode": "560048",
-		"modTS": "2022-12-10T04:32:24.544Z",
+		"modTS": "2022-12-18T06:40:39.142Z",
 		"inquiryPhone": "8247245277",
 		"inquiryType": -1,
 		"phone": [
@@ -26514,7 +26517,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Users to bring their own equipments..<br/>\n- Socks are compulsory for shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=bc6fd65c-75d3-4789-9dd1-6b2c623e19b6",
 		"type": 0,
 		"email": [
@@ -54363,49 +54366,7 @@
 		"bnpl": false,
 		"distance": 15.479643877014091,
 		"activeKey": "skvm-active-orbit-opposite-prestige-whispering-winds-enclave-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "8050315656",
