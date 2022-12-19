@@ -2871,7 +2871,7 @@
 		"bookType": 0,
 		"ratingCount": 66,
 		"zipCode": "560008",
-		"modTS": "2022-09-28T08:07:18.451Z",
+		"modTS": "2022-12-19T06:37:12.045Z",
 		"inquiryPhone": "8431203734",
 		"inquiryType": -1,
 		"phone": [
@@ -2934,19 +2934,10 @@
 		"lat": 12.963795,
 		"lng": 77.641721,
 		"venueId": "245e015a-adbf-4b5b-8dfa-772f34cfb051",
-		"__v": 3,
+		"__v": 4,
 		"coverImage": "https://playo.gumlet.io/GAMETHEORYINDRANAGAR20190617031819777622/GameTheoryIndiranagar1614571442660.jpeg",
 		"googleMapLink": "",
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/GAMETHEORYINDRANAGAR20190617031819777622/GameTheoryIndiranagar1614571442660.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/GAMETHEORYINDRANAGAR20190617031819777622/GameTheoryIndiranagar1614571449006.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/GAMETHEORYINDRANAGAR20190617031819777622/GameTheoryIndiranagar1614571455495.jpeg"
-			},
 			{
 				"url": "https://playo.gumlet.io/GAMETHEORYINDRANAGAR20190617031819777622/gametheoryindranagar3.jpg"
 			},
@@ -9843,7 +9834,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"bookSports": [
 			"SP5"
 		],
