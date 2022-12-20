@@ -40717,7 +40717,7 @@
 		"description": "",
 		"createdTS": "2020-12-24T14:05:38.677Z",
 		"bookType": 0,
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"zipCode": "560076",
 		"modTS": "2022-08-12T07:26:15.605Z",
 		"inquiryPhone": "8050306037",
@@ -50658,7 +50658,7 @@
 		"bookType": 0,
 		"ratingCount": 3,
 		"zipCode": "560060",
-		"modTS": "2022-12-09T19:54:14.632Z",
+		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
 		"inquiryType": -1,
 		"phone": [
@@ -50718,9 +50718,9 @@
 			"ganeshu4@gmail.com"
 		],
 		"s3Folder": "SUPERVCRICKETCLUB20200128114946880766",
-		"__v": 2,
-		"coverImage": "https://playo.gumlet.io/SUPERVCRICKETCLUB20200128114946880766/SuperVCricketClubcovercover1580212065383.png",
-		"deferLink": "https://z34v4.app.goo.gl/Uz9Z",
+		"__v": 3,
+		"coverImage": "https://playo.gumlet.io/SUPERVCRICKETCLUB20200128114946880766/ArjunaBadmintonClubcovercover1671521598305.jpg",
+		"deferLink": "https://z34v4.app.goo.gl/cBvm",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -50737,7 +50737,7 @@
 		"logoImg": "",
 		"mapImage": "",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/HQW2",
+		"shareLink": "https://z34v4.app.goo.gl/zEEA",
 		"lat": 12.902164,
 		"lng": 77.487571,
 		"venueId": "6f78edc6-8c04-414e-a756-6012c478d504",
@@ -61715,6 +61715,114 @@
 		]
 	},
 	{
+		"oldPlayoId": "febc89d1-73db-478f-9326-0613342dd644",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2019-04-05T05:15:05.218Z",
+		"bookType": 0,
+		"ratingCount": 0,
+		"zipCode": "562125",
+		"modTS": "2022-12-20T07:51:07.973Z",
+		"inquiryPhone": "8210211090",
+		"inquiryType": -1,
+		"phone": [
+			"8217307917"
+		],
+		"sponsored": "",
+		"avgRating": 0,
+		"address": "Dommasandra, Bengaluru, Karnataka - 562125",
+		"active": true,
+		"id": "febc89d1-73db-478f-9326-0613342dd644",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "",
+		"bookSports": [
+			"SP0",
+			"SP47"
+		],
+		"name": "Nightwatchman Ground",
+		"area": "Dommasandra",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "febc89d1-73db-478f-9326-0613342dd644",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			},
+			{
+				"content": "febc89d1-73db-478f-9326-0613342dd644",
+				"caption": "Inquire Now!",
+				"bookType": 0,
+				"priority": "1",
+				"displayType": 2,
+				"type": 2
+			}
+		],
+		"timings": "6:30 AM - 6:00 PM",
+		"sports": [
+			"SP0",
+			"SP47"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "nightwatchman-ground-dommasandra-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "",
+		"fullLink": "https://playo.co/venue?venueId=febc89d1-73db-478f-9326-0613342dd644",
+		"type": 0,
+		"email": [
+			"pranaymessiah@gmail.com"
+		],
+		"s3Folder": "ROUTE2420190405051505218813",
+		"__v": 2,
+		"coverImage": "",
+		"deferLink": "https://z34v4.app.goo.gl/xc41",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/ROUTE2420190405051505218813/NightwatchmanGround1671521936328.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ROUTE2420190405051505218813/NightwatchmanGround1671521944709.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ROUTE2420190405051505218813/NightwatchmanGround1671521948349.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "https://playo.imgix.net/ROUTE2420190405051505218813/ROUTE24map1554440970536.PNG",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/Ru9A",
+		"lat": 12.878100203807762,
+		"lng": 77.74354150282757,
+		"venueId": "febc89d1-73db-478f-9326-0613342dd644",
+		"isSafeAndHygiene": true,
+		"activityCount": 5,
+		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
+		"bnpl": false,
+		"distance": 19.221751873055393,
+		"activeKey": "nightwatchman-ground-dommasandra-bengaluru",
+		"offers": []
+	},
+	{
 		"inquiryPhone": "7204108494",
 		"bnpl": false,
 		"keywords": [
@@ -62197,6 +62305,14 @@
 				"priority": "0",
 				"displayType": 3,
 				"type": 3
+			},
+			{
+				"content": "adcbd89e-9ed6-4cfa-97c4-9257808ab3e7",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"city": "Bengaluru",
@@ -62211,7 +62327,7 @@
 		"id": "adcbd89e-9ed6-4cfa-97c4-9257808ab3e7",
 		"oldPlayoId": "adcbd89e-9ed6-4cfa-97c4-9257808ab3e7",
 		"category": 2,
-		"inquiryPhone": "8217307917",
+		"inquiryPhone": "8210211090",
 		"s3Folder": "ASRSHUTTLECLUB",
 		"source": "uttam",
 		"everyDayTimings": {
@@ -62251,7 +62367,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-12-14T06:57:49.827Z",
+		"modTS": "2022-12-20T07:52:36.436Z",
 		"shareLink": "https://z34v4.app.goo.gl/m9Sr",
 		"deferLink": "https://z34v4.app.goo.gl/uGpk",
 		"fullLink": "https://playo.co/venue/?venueId=adcbd89e-9ed6-4cfa-97c4-9257808ab3e7",
@@ -64638,8 +64754,8 @@
 		"bookType": 0,
 		"ratingCount": 3,
 		"zipCode": "562125",
-		"modTS": "2022-12-16T08:22:06.191Z",
-		"inquiryPhone": "9972083064",
+		"modTS": "2022-12-20T07:53:00.740Z",
+		"inquiryPhone": "8210211090",
 		"inquiryType": -1,
 		"phone": [
 			"9972083064"
@@ -64664,11 +64780,19 @@
 		"functionData": [
 			{
 				"content": "3413e870-5249-4384-9b60-bf3674a00371",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
+			},
+			{
+				"content": "3413e870-5249-4384-9b60-bf3674a00371",
+				"bookType": 0,
+				"priority": "1",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
 			}
 		],
 		"timings": "6:30 AM - 6:00 PM",
@@ -86743,116 +86867,6 @@
 		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
 		"distance": 18.411680377263675,
 		"activeKey": "united-sports-and-entertainment-sulikunte-village-bangalore",
-		"offers": []
-	},
-	{
-		"oldPlayoId": "fb8b5d0b-07dc-495e-8856-0e38cd1b82ab",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-05-17T06:26:47.792Z",
-		"bookType": 0,
-		"ratingCount": 1,
-		"zipCode": "560035",
-		"modTS": "2019-05-17T07:06:24.472Z",
-		"inquiryPhone": "8210211090",
-		"inquiryType": 0,
-		"phone": [
-			"8210211090"
-		],
-		"sponsored": "",
-		"avgRating": 5,
-		"address": "Off Sarjapur Rd, Kasavanahalli, Bengaluru, Karnataka",
-		"active": true,
-		"id": "fb8b5d0b-07dc-495e-8856-0e38cd1b82ab",
-		"category": 1,
-		"city": "Bangalore",
-		"search": "one,dream",
-		"name": "Onedream Sports Ground (TDR)",
-		"area": "Sarjapur Road",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 1,
-				"bookType": 0,
-				"content": "8210211090",
-				"caption": "Call Venue!",
-				"type": 1
-			}
-		],
-		"timings": "8 AM - 6 PM",
-		"sports": [
-			"SP47",
-			"SP0"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"Changeroom",
-			"Parking",
-			"Drinking Water",
-			"Refreshments",
-			"Umpire",
-			"Scorer"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "onedream-sports-ground-tdr-sarjapur-road-bangalore"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "- Umpires & Scorers will be provided.",
-		"fullLink": "https://playo.co/venue?venueId=fb8b5d0b-07dc-495e-8856-0e38cd1b82ab",
-		"type": 0,
-		"email": [
-			"sanjeev@playo.co"
-		],
-		"s3Folder": "ONEDREAMSPORTSGROUNDTDR20190517062647792355",
-		"shareLink": "https://z34v4.app.goo.gl/rraS",
-		"deferLink": "https://z34v4.app.goo.gl/jWFZ",
-		"lat": 12.890437,
-		"lng": 77.742611,
-		"venueId": "fb8b5d0b-07dc-495e-8856-0e38cd1b82ab",
-		"__v": 1,
-		"coverImage": "",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR0.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR1.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR2.PNG"
-			},
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR3.PNG"
-			},
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR4.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR5.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/ONEDREAMSPORTSGROUNDTDR20190517062647792355/OnedreamSportsGroundTDR6.PNG"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"isSafeAndHygiene": false,
-		"activityCount": 6,
-		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
-		"distance": 18.425755815142526,
-		"activeKey": "onedream-sports-ground-tdr-sarjapur-road-bangalore",
 		"offers": []
 	},
 	{
