@@ -2470,10 +2470,10 @@
 		"functionData": [
 			{
 				"content": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
 			}
 		],
@@ -2502,7 +2502,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-20T10:05:07.502Z",
+		"modTS": "2022-12-20T10:10:04.324Z",
 		"ratingCount": 0,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
@@ -2514,7 +2514,7 @@
 		],
 		"description": "",
 		"tags": [],
-		"sponsored": "",
+		"sponsored": "Featured!",
 		"members": false,
 		"address": "4/1, Bannerghatta Main Rd, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029",
 		"active": true,
@@ -2529,6 +2529,24 @@
 		"lat": 12.932795170805665,
 		"lng": 77.60344483320864,
 		"venueId": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/TIGER5SPORTSDAIRYCIRCLE20221220100139092493/Tiger5SportsDairyCircle1671530923082.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TIGER5SPORTSDAIRYCIRCLE20221220100139092493/Tiger5SportsDairyCircle1671530929346.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TIGER5SPORTSDAIRYCIRCLE20221220100139092493/Tiger5SportsDairyCircle1671530934213.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
 		"distance": 4.424998550501495,
 		"activeKey": "tiger-5-sports-dairy-circle-bannerghatta-main-rd-bengaluru",
 		"offers": []
@@ -34921,6 +34939,99 @@
 		]
 	},
 	{
+		"oldPlayoId": "8088c5a6-9ff0-4377-8c52-4fe43efccd22",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2019-12-31T12:30:49.379Z",
+		"bookType": 0,
+		"ratingCount": 8,
+		"zipCode": "560035",
+		"modTS": "2022-12-20T11:29:23.191Z",
+		"inquiryPhone": "8094078777",
+		"inquiryType": -1,
+		"phone": [
+			"8094078777"
+		],
+		"sponsored": "",
+		"avgRating": 4.3,
+		"address": "SWYNG, Sarjapur - Marathahalli Road, Bengaluru, Karnataka - 560035",
+		"active": true,
+		"id": "8088c5a6-9ff0-4377-8c52-4fe43efccd22",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "TAOBALL Table Tennis and Fitness Club , tao , taoball , ball , table , tennis , tt",
+		"bookSports": [
+			"SP4"
+		],
+		"name": "TaoBall",
+		"area": "Near Jain Heights Altura",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "8088c5a6-9ff0-4377-8c52-4fe43efccd22",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"timings": "5 AM - 10 PM",
+		"sports": [
+			"SP4"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "taoball-near-jain-heights-altura-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "Table Tennis: <br/>\n- Non Marking Shoes compulsory for Table Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Balls.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per TT Table is admissible.<br/>\n- Willful damage to the club’s equipment, or the facility, will not be tolerated.<br/>\n- Offensive language, or obscene gestures, will not be tolerated.<br/>\n- Unsolicited criticism, disruptive behavior, or poor sportsmanship, will not be tolerated.<br/>\n- Failure to follow the above rules could result in suspension, or termination, of the player’s privilege to play, at the discretion of the venue.<br/>\n<br/>\n<br/>",
+		"fullLink": "https://playo.co/venue?venueId=8088c5a6-9ff0-4377-8c52-4fe43efccd22",
+		"type": 0,
+		"email": [
+			"ankit@taoball.in"
+		],
+		"s3Folder": "SHUTTLEBEEZBADMINTONACADEMYMADURAI20191231123049379364",
+		"shareLink": "https://z34v4.app.goo.gl/k7u6",
+		"deferLink": "https://z34v4.app.goo.gl/te71",
+		"lat": 12.913338248470483,
+		"lng": 77.68061357486617,
+		"venueId": "8088c5a6-9ff0-4377-8c52-4fe43efccd22",
+		"__v": 2,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/SHUTTLEBEEZBADMINTONACADEMYMADURAI20191231123049379364/TaoBall1671535382151.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"isSafeAndHygiene": true,
+		"activityCount": 18,
+		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
+		"bnpl": false,
+		"distance": 11.364142844601695,
+		"activeKey": "taoball-near-jain-heights-altura-bengaluru",
+		"offers": []
+	},
+	{
 		"inquiryPhone": "9621601165",
 		"remarks": "",
 		"infoData": [],
@@ -38773,7 +38884,7 @@
 		"createdTS": "2017-10-16T05:54:47.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T14:37:01.209Z",
-		"ratingCount": 155,
+		"ratingCount": 156,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZFITNESSCLUB-PANATHURB66B8E6F3332/iBlitzFitnessClubPanathur1663166185819.jpeg"
@@ -46277,22 +46388,40 @@
 		]
 	},
 	{
-		"inquiryPhone": "8618868841",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "fiton-sports-gottigere-bengaluru"
-			}
+		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2021-02-08T06:23:31.160Z",
+		"bookType": 0,
+		"ratingCount": 3,
+		"zipCode": "560083",
+		"modTS": "2022-08-19T11:10:08.417Z",
+		"inquiryPhone": "7760593869",
+		"inquiryType": -1,
+		"phone": [
+			"8939548947"
 		],
-		"shareLink": "https://z34v4.app.goo.gl/2jXN",
+		"sponsored": "",
+		"avgRating": 3,
+		"address": "Fiton Sports, No 10, opposite HIM Sree Bayalu Anjaneya Swamy Temple, 5, Kembathalli Main Rd, South Avenue, Gottigere, Bengaluru, Karnataka - 560083",
+		"active": true,
+		"id": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"category": 2,
 		"city": "Bengaluru",
+		"search": "",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP5",
+			"SP7"
+		],
+		"name": "Fitso Bannerghatta Road Fiton",
 		"area": "Gottigere",
-		"oldPlayoId": "5bcd75d06d91cf5241398dfa",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
 		"functionData": [
 			{
-				"content": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+				"content": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
 				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
@@ -46300,132 +46429,72 @@
 				"type": 3
 			}
 		],
+		"timings": "11 AM - 3 PM",
 		"sports": [
-			"SP2",
-			"SP0"
+			"SP5",
+			"SP7"
 		],
-		"priority": 0,
+		"members": false,
+		"state": "Karnataka",
 		"amenities": [
 			"Parking",
-			"Restrooms",
-			"Power Backup",
-			"Lockers",
-			"Changing Rooms",
-			"Showers",
-			"Viewing Gallery"
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
 		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/FITONSPORTS/FitonSportsmap1540191660098.png",
-		"zipCode": "560083",
-		"phone": [
-			"8618868841"
+		"keywords": [
+			{
+				"active": true,
+				"key": "fitso-bannerghatta-road-fiton-gottigere-bengaluru"
+			}
 		],
-		"avgRating": 4.1,
-		"name": "Fiton Sports",
-		"sponsoredExpiry": null,
-		"activatedOn": "2018-10-22T07:01:35.951Z",
-		"coverImage": "https://playo.gumlet.io/FITONSPORTS/FitonSports69.jpg",
-		"createdTS": "2018-10-22T07:01:35.951Z",
-		"inquiryType": -1,
-		"modTS": "2022-05-06T16:47:13.139Z",
-		"ratingCount": 71,
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- No cancellation or rescheduling allowed. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n\nSwimming - All Weather Pools:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Age restriction: 15+ mandatory. <br/>\n- Diving is not allowed. <br/>\n- All instructions at the pool has to be followed. <br/>\n- No coaching will be provided during the session. <br/>\n- Facility reserves the right to deny entry to the user. <br/>",
+		"fullLink": "https://playo.co/venue?venueId=9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"type": 0,
+		"email": [
+			"mohammed.chuna@getfitso.com"
+		],
+		"s3Folder": "INDOORSTUMPS20210208062331160145",
+		"__v": 5,
+		"coverImage": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/IndoorStumpscovercover1612583857938.jpeg",
+		"deferLink": "https://z34v4.app.goo.gl/8PPn",
+		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974594839.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports13.jpg"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974598457.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports71.jpg"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974616598.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports72.png"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541058400.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541069470.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541072809.jpg"
 			}
 		],
-		"id": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"description": "",
-		"category": 2,
-		"s3Folder": "FITONSPORTS",
-		"state": "Karnataka",
-		"email": [
-			"fitonsports@gmail.com"
-		],
+		"infoData": [],
 		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "#10/5, Kembathalli Road, Opp Bayalu Anjaneya Temple, Gottigere",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/dz4z",
-		"search": "Swimming, Badminton, Gottigere, football",
-		"fullLink": "https://playo.co/venue/?venueId=62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"country": "India",
-		"timings": "Open 24x7",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"bookSports": [
-			"SP2",
-			"SP0"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/vXcj",
 		"lat": 12.855017,
 		"lng": 77.582608,
-		"placeId": "",
-		"type": 0,
-		"venueId": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"__v": 18,
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 7959,
+		"venueId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"activityCount": 57,
 		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
 		"distance": 13.04295021100815,
-		"activeKey": "fiton-sports-gottigere-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "fitso-bannerghatta-road-fiton-gottigere-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
@@ -61807,7 +61876,7 @@
 		"bookType": 0,
 		"ratingCount": 0,
 		"zipCode": "562125",
-		"modTS": "2022-12-20T07:51:07.973Z",
+		"modTS": "2022-12-20T12:00:58.168Z",
 		"inquiryPhone": "8210211090",
 		"inquiryType": -1,
 		"phone": [
@@ -61820,12 +61889,12 @@
 		"id": "febc89d1-73db-478f-9326-0613342dd644",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "",
+		"search": "Nightwatchman , Cricket , Ground , 11 a side , full ground",
 		"bookSports": [
 			"SP0",
 			"SP47"
 		],
-		"name": "Nightwatchman Ground",
+		"name": "Night Watchman Cricket Ground",
 		"area": "Dommasandra",
 		"sponsoredRadius": 4,
 		"country": "India",
@@ -61864,7 +61933,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "nightwatchman-ground-dommasandra-bengaluru"
+				"key": "night-watchman-cricket-ground-dommasandra-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -61878,7 +61947,7 @@
 		"s3Folder": "ROUTE2420190405051505218813",
 		"__v": 2,
 		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/xc41",
+		"deferLink": "https://z34v4.app.goo.gl/LSqz",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -61895,7 +61964,7 @@
 		"logoImg": "",
 		"mapImage": "https://playo.imgix.net/ROUTE2420190405051505218813/ROUTE24map1554440970536.PNG",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/Ru9A",
+		"shareLink": "https://z34v4.app.goo.gl/WXxU",
 		"lat": 12.878100203807762,
 		"lng": 77.74354150282757,
 		"venueId": "febc89d1-73db-478f-9326-0613342dd644",
@@ -61904,7 +61973,7 @@
 		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
 		"bnpl": false,
 		"distance": 19.221751873055393,
-		"activeKey": "nightwatchman-ground-dommasandra-bengaluru",
+		"activeKey": "night-watchman-cricket-ground-dommasandra-bengaluru",
 		"offers": []
 	},
 	{
@@ -82128,90 +82197,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "7760825069",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/H3VF",
-		"city": "Bengaluru",
-		"area": "Off Marthahalli-Sarjapur Road",
-		"oldPlayoId": "587124206d91cf3645ab07e5",
-		"functionData": [
-			{
-				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 2,
-				"caption": "Enquire Now!",
-				"type": 2
-			}
-		],
-		"sports": [
-			"SP27"
-		],
-		"priority": 0,
-		"amenities": [
-			"Cafe",
-			"Washroom"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"7760825069"
-		],
-		"avgRating": 3.8,
-		"name": "Bubble Strike Bengaluru",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.072Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": 0,
-		"modTS": "2022-11-16T07:27:52.826Z",
-		"ratingCount": 13,
-		"images": [],
-		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"category": 1,
-		"s3Folder": "BUBBLESTRIKEBENGALURU",
-		"state": "Karnataka",
-		"email": [
-			""
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/s7xB",
-		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
-		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"country": "India",
-		"timings": "6:00 AM - 10:00 PM",
-		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.939621,
-		"lng": 77.7055,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"distance": 12.546616529780627,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
@@ -82301,6 +82286,90 @@
 		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
 		"distance": 12.546616529780627,
 		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "7760825069",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
+		"area": "Off Marthahalli-Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab07e5",
+		"functionData": [
+			{
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP27"
+		],
+		"priority": 0,
+		"amenities": [
+			"Cafe",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"7760825069"
+		],
+		"avgRating": 3.8,
+		"name": "Bubble Strike Bengaluru",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.072Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.072Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
+		"ratingCount": 13,
+		"images": [],
+		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"category": 1,
+		"s3Folder": "BUBBLESTRIKEBENGALURU",
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
+		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
+		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"country": "India",
+		"timings": "6:00 AM - 10:00 PM",
+		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.939621,
+		"lng": 77.7055,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -87389,104 +87458,6 @@
 		"lat": 12.8239877,
 		"lng": 77.6858226,
 		"activeKey": "Jayaprakash-Narayan-Ground-Bommasandra-bangalore",
-		"offers": []
-	},
-	{
-		"oldPlayoId": "727d7a8d-69c8-4141-8a9f-ec0f16709742",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-05-17T06:20:57.676Z",
-		"bookType": 0,
-		"ratingCount": 1,
-		"zipCode": "562125",
-		"modTS": "2019-05-17T06:34:05.559Z",
-		"inquiryPhone": "8210211090",
-		"inquiryType": 0,
-		"phone": [
-			"8210211090"
-		],
-		"sponsored": "",
-		"avgRating": 5,
-		"address": "Kommasandra, Bengaluru, Karnataka",
-		"active": true,
-		"id": "727d7a8d-69c8-4141-8a9f-ec0f16709742",
-		"category": 1,
-		"city": "Bangalore",
-		"search": "",
-		"name": "Night Watchman Cricket Ground",
-		"area": "Kommasandra",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 1,
-				"bookType": 0,
-				"content": "8210211090",
-				"caption": "Call Venue!",
-				"type": 1
-			}
-		],
-		"timings": "8 AM - 6 PM",
-		"sports": [
-			"SP0",
-			"SP47"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"Changeroom",
-			"Parking",
-			"Drinking Water",
-			"Refreshments",
-			"Umpires",
-			"Scorers"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "night-watchman-cricket-ground-kommasandra-bangalore"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "- Umpires & Scorers will be provided.",
-		"fullLink": "https://playo.co/venue?venueId=727d7a8d-69c8-4141-8a9f-ec0f16709742",
-		"type": 0,
-		"email": [
-			"sanjeev@playo.co"
-		],
-		"s3Folder": "NIGHTWATCHMANCRICKETGROUND20190517062057676048",
-		"__v": 1,
-		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/ZbP8",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/NIGHTWATCHMANCRICKETGROUND20190517062057676048/NightWatchmanCricketGround0.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NIGHTWATCHMANCRICKETGROUND20190517062057676048/NightWatchmanCricketGround1.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NIGHTWATCHMANCRICKETGROUND20190517062057676048/NightWatchmanCricketGround2.jpeg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/339h",
-		"lat": 12.878255,
-		"lng": 77.743503,
-		"venueId": "727d7a8d-69c8-4141-8a9f-ec0f16709742",
-		"isSafeAndHygiene": false,
-		"activityCount": 12,
-		"activityCountLastSyncDate": "2022-12-19T18:30:02.438Z",
-		"distance": 19.208908765821512,
-		"activeKey": "night-watchman-cricket-ground-kommasandra-bangalore",
 		"offers": []
 	},
 	{
