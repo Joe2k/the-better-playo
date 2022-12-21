@@ -24324,7 +24324,7 @@
 		"createdTS": "2017-11-06T07:25:37.252Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T11:01:44.784Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GAMESQUARE/InfinityBadmintonArenaBellandur1658257375391.jpg"
@@ -29837,7 +29837,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 94,
+		"ratingCount": 95,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -34948,7 +34948,7 @@
 		"bookType": 0,
 		"ratingCount": 8,
 		"zipCode": "560035",
-		"modTS": "2022-12-20T11:29:23.191Z",
+		"modTS": "2022-12-21T11:32:36.568Z",
 		"inquiryPhone": "8094078777",
 		"inquiryType": -1,
 		"phone": [
@@ -34966,7 +34966,7 @@
 			"SP4"
 		],
 		"name": "TaoBall",
-		"area": "Near Jain Heights Altura",
+		"area": "Sarjapur Road",
 		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
@@ -34996,7 +34996,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "taoball-near-jain-heights-altura-bengaluru"
+				"key": "taoball-sarjapur-road-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -35008,8 +35008,8 @@
 			"ankit@taoball.in"
 		],
 		"s3Folder": "SHUTTLEBEEZBADMINTONACADEMYMADURAI20191231123049379364",
-		"shareLink": "https://z34v4.app.goo.gl/k7u6",
-		"deferLink": "https://z34v4.app.goo.gl/te71",
+		"shareLink": "https://z34v4.app.goo.gl/oqoH",
+		"deferLink": "https://z34v4.app.goo.gl/2wwM",
 		"lat": 12.913338248470483,
 		"lng": 77.68061357486617,
 		"venueId": "8088c5a6-9ff0-4377-8c52-4fe43efccd22",
@@ -35030,7 +35030,7 @@
 		"activityCountLastSyncDate": "2022-12-20T18:30:02.557Z",
 		"bnpl": false,
 		"distance": 11.364142844601695,
-		"activeKey": "taoball-near-jain-heights-altura-bengaluru",
+		"activeKey": "taoball-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -58531,6 +58531,118 @@
 		"offers": []
 	},
 	{
+		"oldPlayoId": "11c9ea77-af6c-4f16-9937-9813f3b02200",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2021-01-19T10:07:48.556Z",
+		"bookType": 0,
+		"ratingCount": 2,
+		"zipCode": "560099",
+		"modTS": "2022-12-21T11:17:34.369Z",
+		"inquiryPhone": "8210211090",
+		"inquiryType": -1,
+		"phone": [
+			"8217307917"
+		],
+		"sponsored": "",
+		"avgRating": 4.5,
+		"address": "Chokkasandra, Bengaluru, Karnataka - 560099",
+		"active": true,
+		"id": "11c9ea77-af6c-4f16-9937-9813f3b02200",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP0",
+			"SP47"
+		],
+		"name": "Eminent Sports Ground",
+		"area": "Chokkasandra",
+		"sponsoredRadius": 10,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "11c9ea77-af6c-4f16-9937-9813f3b02200",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			},
+			{
+				"content": "11c9ea77-af6c-4f16-9937-9813f3b02200",
+				"caption": "Enquire Now!",
+				"bookType": 0,
+				"priority": "1",
+				"displayType": 2,
+				"type": 2
+			}
+		],
+		"timings": "6:30 AM - 6:00 PM",
+		"sports": [
+			"SP0",
+			"SP47"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "eminent-sports-ground-chokkasandra-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "",
+		"fullLink": "https://playo.co/venue?venueId=11c9ea77-af6c-4f16-9937-9813f3b02200",
+		"type": 0,
+		"email": [
+			"pranaymessiah@gmail.com"
+		],
+		"s3Folder": "UNIBREAKERSBADMINTONACADEMY20210119100748556601",
+		"__v": 3,
+		"coverImage": "https://playo.gumlet.io/UNIBREAKERSBADMINTONACADEMY20210119100748556601/UnibreakersBadmintonAcademycovercover1611051529393.jpeg",
+		"deferLink": "https://z34v4.app.goo.gl/YvFD",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/UNIBREAKERSBADMINTONACADEMY20210119100748556601/EminentSportsGround1671621272578.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/UNIBREAKERSBADMINTONACADEMY20210119100748556601/EminentSportsGround1671621275998.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/UNIBREAKERSBADMINTONACADEMY20210119100748556601/EminentSportsGround1671621279708.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/UNIBREAKERSBADMINTONACADEMY20210119100748556601/EminentSportsGround1671621282717.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/sYYn",
+		"lat": 12.875869270471638,
+		"lng": 77.7222395355906,
+		"venueId": "11c9ea77-af6c-4f16-9937-9813f3b02200",
+		"activityCount": 2,
+		"activityCountLastSyncDate": "2022-12-20T18:30:02.557Z",
+		"bnpl": false,
+		"distance": 17.474322789423464,
+		"activeKey": "eminent-sports-ground-chokkasandra-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "99f780d2-93b4-43f9-b1be-3de1b59feb1a",
 		"cityCode": 1,
 		"description": "",
@@ -59894,6 +60006,125 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"inquiryPhone": "8210211090",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "pn-sports-arena-thippasandra-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/qqP6",
+		"city": "Bengaluru",
+		"area": "Thippasandra",
+		"oldPlayoId": "5be9bcdb6d91cf08f5a2657c",
+		"functionData": [
+			{
+				"content": "e8a6e5c4-0e50-440c-9e79-923d55daa6e1",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			},
+			{
+				"content": "e8a6e5c4-0e50-440c-9e79-923d55daa6e1",
+				"caption": "Enquire Now!",
+				"bookType": 0,
+				"priority": "1",
+				"displayType": 2,
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP0",
+			"SP47",
+			"SP2"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/SARVODAYASHOOTINGACADEMY/SarvodayaShootingAcademymap1542046087400.PNG",
+		"zipCode": "560087",
+		"phone": [
+			"8217307917"
+		],
+		"avgRating": 4.8,
+		"name": "PN Sports Arena",
+		"sponsoredExpiry": null,
+		"activatedOn": "2018-11-12T17:48:11.022Z",
+		"coverImage": "",
+		"createdTS": "2018-11-12T17:48:11.022Z",
+		"inquiryType": -1,
+		"modTS": "2022-12-21T11:49:07.630Z",
+		"ratingCount": 4,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/SARVODAYASHOOTINGACADEMY/PNSportsArena1671623315826.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SARVODAYASHOOTINGACADEMY/PNSportsArena1671623321376.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SARVODAYASHOOTINGACADEMY/PNSportsArena1671623324816.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SARVODAYASHOOTINGACADEMY/PNSportsArena1671623327816.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SARVODAYASHOOTINGACADEMY/PNSportsArena1671623330517.jpg"
+			}
+		],
+		"id": "e8a6e5c4-0e50-440c-9e79-923d55daa6e1",
+		"description": "",
+		"category": 2,
+		"s3Folder": "SARVODAYASHOOTINGACADEMY",
+		"state": "Karnataka",
+		"email": [
+			"pranaymessiah@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Thippasandra, Bengaluru, Karnataka - 560087",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3AUU",
+		"search": "",
+		"fullLink": "https://playo.co/venue/?venueId=e8a6e5c4-0e50-440c-9e79-923d55daa6e1",
+		"country": "India",
+		"timings": "6:30 AM - 6:00 PM",
+		"addInfo": "",
+		"bookSports": [
+			"SP0",
+			"SP47",
+			"SP2"
+		],
+		"bookType": 0,
+		"lat": 12.917749453581031,
+		"lng": 77.75455510000091,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "e8a6e5c4-0e50-440c-9e79-923d55daa6e1",
+		"__v": 2,
+		"isSafeAndHygiene": true,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2022-12-20T18:30:02.557Z",
+		"bnpl": false,
+		"distance": 18.359718287624876,
+		"activeKey": "pn-sports-arena-thippasandra-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "fa746cdd-22b8-4045-a49f-f84ba1384139",
@@ -84570,65 +84801,6 @@
 		"offers": []
 	},
 	{
-		"name": "Badminton Courts",
-		"area": "Whitefield",
-		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
-		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
-		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
-		"website": "palmmeadowsclub.com",
-		"email": "room@palmmeadowsclub.com",
-		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP5"
-		],
-		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
-		"cityCode": 1,
-		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"category": 1,
-		"inquiryPhone": null,
-		"s3Folder": "BADMINTONCOURTS",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "6–8PM",
-			"Tue": "6–8PM",
-			"Wed": "6–8PM",
-			"Thu": "6–8PM",
-			"Fri": "6–8PM",
-			"Sat": "Closed",
-			"Sun": "Closed"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "Badminton-Courts-Whitefield-bangalore",
-				"active": true
-			}
-		],
-		"images": [],
-		"rating": 0,
-		"shareLink": "https://playo.page.link/pkg39",
-		"deferLink": "https://playo.page.link/cMF9F",
-		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"amenities": [],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2022-12-20T18:30:02.557Z",
-		"avgRating": 0,
-		"ratingCount": 0,
-		"distance": 15.708227871680338,
-		"lat": 12.9639825,
-		"lng": 77.7391921,
-		"activeKey": "Badminton-Courts-Whitefield-bangalore",
-		"offers": []
-	},
-	{
 		"name": "Badminton Courts2",
 		"area": "Whitefield",
 		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
@@ -84690,6 +84862,65 @@
 		"lat": 12.9639825,
 		"lng": 77.7391921,
 		"activeKey": "Badminton-Courts2-Whitefield-bangalore",
+		"offers": []
+	},
+	{
+		"name": "Badminton Courts",
+		"area": "Whitefield",
+		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
+		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
+		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
+		"website": "palmmeadowsclub.com",
+		"email": "room@palmmeadowsclub.com",
+		"remarks": "",
+		"phone": [],
+		"functionData": [],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP5"
+		],
+		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
+		"cityCode": 1,
+		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"category": 1,
+		"inquiryPhone": null,
+		"s3Folder": "BADMINTONCOURTS",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "6–8PM",
+			"Tue": "6–8PM",
+			"Wed": "6–8PM",
+			"Thu": "6–8PM",
+			"Fri": "6–8PM",
+			"Sat": "Closed",
+			"Sun": "Closed"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "Badminton-Courts-Whitefield-bangalore",
+				"active": true
+			}
+		],
+		"images": [],
+		"rating": 0,
+		"shareLink": "https://playo.page.link/pkg39",
+		"deferLink": "https://playo.page.link/cMF9F",
+		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2022-12-20T18:30:02.557Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 15.708227871680338,
+		"lat": 12.9639825,
+		"lng": 77.7391921,
+		"activeKey": "Badminton-Courts-Whitefield-bangalore",
 		"offers": []
 	},
 	{
