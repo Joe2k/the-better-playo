@@ -3970,7 +3970,7 @@
 		"createdTS": "2018-03-18T12:29:02.088Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T05:57:39.969Z",
-		"ratingCount": 214,
+		"ratingCount": 215,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/INFINITESPORTSARENA/infinitesportsarena1.jpg"
@@ -10098,7 +10098,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 233,
+		"ratingCount": 234,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -22247,7 +22247,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 320,
+		"ratingCount": 321,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -24324,7 +24324,7 @@
 		"createdTS": "2017-11-06T07:25:37.252Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T11:01:44.784Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GAMESQUARE/InfinityBadmintonArenaBellandur1658257375391.jpg"
@@ -29373,7 +29373,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 309,
+		"ratingCount": 310,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -58760,7 +58760,8 @@
 		"city": "Bengaluru",
 		"bookSports": [
 			"SP14",
-			"SP4"
+			"SP4",
+			"SP2"
 		],
 		"area": "Sarjapur Road",
 		"oldPlayoId": "52a84160-1596-4f06-8129-e93b5c9db88b",
@@ -58776,7 +58777,8 @@
 		],
 		"sports": [
 			"SP14",
-			"SP4"
+			"SP4",
+			"SP2"
 		],
 		"amenities": [
 			"Parking",
@@ -58798,7 +58800,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-01T09:10:30.762Z",
+		"modTS": "2022-12-21T13:14:07.447Z",
 		"ratingCount": 2,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
