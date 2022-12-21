@@ -19035,14 +19035,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T05:55:08.980Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
