@@ -19016,7 +19016,16 @@
 		],
 		"area": "Rajarajeshwari nagar",
 		"oldPlayoId": "aabe19ff-249b-437b-961f-40ce9c41df18",
-		"functionData": [],
+		"functionData": [
+			{
+				"content": "aabe19ff-249b-437b-961f-40ce9c41df18",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
 		"sports": [
 			"SP5"
 		],
@@ -19041,7 +19050,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-05T05:55:08.980Z",
+		"modTS": "2022-12-22T17:39:59.029Z",
 		"ratingCount": 2,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
@@ -19067,9 +19076,43 @@
 		"deferLink": "https://z34v4.app.goo.gl/DbRv",
 		"activityCountLastSyncDate": "2022-12-21T18:30:02.504Z",
 		"activityCount": 3,
-		"distance": 9.216757828477329,
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730626980.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730632904.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730639464.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730645648.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730681914.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730691326.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730700049.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1671730738929.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
 		"lat": 12.930499551437382,
 		"lng": 77.52084948679003,
+		"venueId": "aabe19ff-249b-437b-961f-40ce9c41df18",
+		"distance": 9.216757828477329,
 		"activeKey": "sky-sports-arena-rajarajeshwari-nagar-bengaluru",
 		"offers": []
 	},
@@ -58801,7 +58844,7 @@
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-21T13:14:07.447Z",
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
 		"s3Folder": "LAKSHYANACADEMYOFSPORTS20221109111107648729",
@@ -60523,7 +60566,7 @@
 		"description": "",
 		"createdTS": "2019-08-24T15:01:03.027Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "562149",
 		"modTS": "2022-03-27T15:31:34.092Z",
 		"inquiryPhone": "9341636267",
@@ -60532,7 +60575,7 @@
 			"9341636267"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.6,
 		"address": "Survey #17,18 & 19, Sathanur, Bagalur Main Road, Yelahanka, Bengaluru, Karnataka, India",
 		"active": true,
 		"id": "163248bc-f38c-4a8e-9002-4c4bec9500c7",
