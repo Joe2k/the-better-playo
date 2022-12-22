@@ -2498,11 +2498,11 @@
 		],
 		"avgRating": 5,
 		"name": "Tiger 5 Sports - Dairy Circle",
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 2,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-20T10:10:04.324Z",
+		"modTS": "2022-12-22T04:51:04.378Z",
 		"ratingCount": 1,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
@@ -53425,7 +53425,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 314,
+		"ratingCount": 315,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
