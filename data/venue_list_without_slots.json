@@ -58580,7 +58580,7 @@
 		"description": "",
 		"createdTS": "2021-01-19T10:07:48.556Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "560099",
 		"modTS": "2022-12-21T11:17:34.369Z",
 		"inquiryPhone": "8210211090",
@@ -58589,7 +58589,7 @@
 			"8217307917"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.7,
 		"address": "Chokkasandra, Bengaluru, Karnataka - 560099",
 		"active": true,
 		"id": "11c9ea77-af6c-4f16-9937-9813f3b02200",
@@ -60113,7 +60113,7 @@
 		"createdTS": "2018-11-12T17:48:11.022Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-21T11:49:07.630Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SARVODAYASHOOTINGACADEMY/PNSportsArena1671623315826.jpg"
@@ -62153,7 +62153,7 @@
 		"description": "",
 		"createdTS": "2019-04-05T05:15:05.218Z",
 		"bookType": 0,
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"zipCode": "562125",
 		"modTS": "2022-12-20T12:00:58.168Z",
 		"inquiryPhone": "8210211090",
@@ -62162,7 +62162,7 @@
 			"8217307917"
 		],
 		"sponsored": "",
-		"avgRating": 0,
+		"avgRating": 5,
 		"address": "Dommasandra, Bengaluru, Karnataka - 562125",
 		"active": true,
 		"id": "febc89d1-73db-478f-9326-0613342dd644",
