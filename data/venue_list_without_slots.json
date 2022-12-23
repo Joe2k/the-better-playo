@@ -14183,7 +14183,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T08:50:22.305Z",
 		"bookType": 0,
-		"ratingCount": 98,
+		"ratingCount": 99,
 		"zipCode": "560061",
 		"modTS": "2021-12-19T11:57:24.840Z",
 		"inquiryPhone": "7899498419",
@@ -19044,14 +19044,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -53825,7 +53825,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T15:51:01.050Z",
-		"ratingCount": 147,
+		"ratingCount": 148,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
