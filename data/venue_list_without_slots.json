@@ -9776,7 +9776,7 @@
 		"phone": [
 			"9740063132"
 		],
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"name": "Flying Birdie Badminton Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-07-15T17:56:46.344Z",
@@ -9784,7 +9784,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 214,
+		"ratingCount": 215,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -17593,7 +17593,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 215,
+		"ratingCount": 216,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -50244,7 +50244,7 @@
 		"bookType": 0,
 		"ratingCount": 6,
 		"zipCode": "560035",
-		"modTS": "2022-11-08T16:09:42.103Z",
+		"modTS": "2022-12-23T12:12:21.015Z",
 		"inquiryPhone": "9738433530",
 		"inquiryType": -1,
 		"phone": [
@@ -50260,7 +50260,8 @@
 		"search": "",
 		"isSafeAndHygiene": true,
 		"bookSports": [
-			"SP57"
+			"SP57",
+			"SP66"
 		],
 		"name": "Axi's Aran Sports Academy",
 		"area": "Chikkabellandur",
@@ -50279,7 +50280,8 @@
 		],
 		"timings": "6 AM - 11 PM",
 		"sports": [
-			"SP57"
+			"SP57",
+			"SP66"
 		],
 		"members": false,
 		"state": "Karnataka",
