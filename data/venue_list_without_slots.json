@@ -41105,16 +41105,7 @@
 		"city": "Bengaluru",
 		"area": "Hegde Nagar",
 		"oldPlayoId": "5b768fa86d91cf08c008c1b0",
-		"functionData": [
-			{
-				"content": "d30b08d1-e2f0-4f2a-a6a0-33bb95fba01d",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
+		"functionData": [],
 		"sports": [
 			"SP5"
 		],
@@ -41140,7 +41131,7 @@
 		"coverImage": "",
 		"createdTS": "2018-08-17T09:04:39.652Z",
 		"inquiryType": -1,
-		"modTS": "2020-10-04T07:36:53.847Z",
+		"modTS": "2022-12-24T20:15:13.754Z",
 		"ratingCount": 57,
 		"images": [
 			{
@@ -41203,6 +41194,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 4127,
 		"activityCountLastSyncDate": "2022-12-24T18:30:02.369Z",
+		"bnpl": false,
 		"distance": 12.234144275449577,
 		"activeKey": "synergy-badminton-club-hegde-nagar-bengaluru",
 		"offers": []
