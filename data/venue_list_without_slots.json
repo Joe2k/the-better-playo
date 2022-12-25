@@ -34478,7 +34478,7 @@
 		"bookType": 0,
 		"ratingCount": 5,
 		"zipCode": "560091",
-		"modTS": "2022-12-12T08:32:54.835Z",
+		"modTS": "2022-12-25T15:48:08.734Z",
 		"inquiryPhone": "8904247968",
 		"inquiryType": -1,
 		"phone": [
@@ -34496,7 +34496,7 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Nagarbhavi Sports Arena",
+		"name": "Nagarabhavi Sports Arena",
 		"area": "Kuvempu Road",
 		"sponsoredRadius": 6,
 		"country": "India",
@@ -34527,7 +34527,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "nagarbhavi-sports-arena-kuvempu-road-bengaluru"
+				"key": "nagarabhavi-sports-arena-kuvempu-road-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -34539,8 +34539,8 @@
 			"nagarbhavisportsarena@gmail.com"
 		],
 		"s3Folder": "GCBADMINTONACADEMY20200820093346776541",
-		"shareLink": "https://z34v4.app.goo.gl/EDGF",
-		"deferLink": "https://z34v4.app.goo.gl/zK4E",
+		"shareLink": "https://z34v4.app.goo.gl/8x7A",
+		"deferLink": "https://z34v4.app.goo.gl/6fUM",
 		"__v": 3,
 		"coverImage": "",
 		"googleMapLink": "",
@@ -34572,7 +34572,7 @@
 		"activityCountLastSyncDate": "2022-12-24T18:30:02.369Z",
 		"bnpl": false,
 		"distance": 11.284837799942114,
-		"activeKey": "nagarbhavi-sports-arena-kuvempu-road-bengaluru",
+		"activeKey": "nagarabhavi-sports-arena-kuvempu-road-bengaluru",
 		"offers": []
 	},
 	{
