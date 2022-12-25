@@ -3295,7 +3295,7 @@
 		"createdTS": "2017-01-07T17:23:44.115Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-06T08:00:09.908Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSINDIRANAGAR/SnookerRoom1652349575145.jpeg"
@@ -58838,7 +58838,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-21T13:14:07.447Z",
+		"modTS": "2022-12-25T06:45:14.578Z",
 		"ratingCount": 3,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
@@ -58865,18 +58865,21 @@
 		"lat": 12.888712351053082,
 		"lng": 77.73290898464798,
 		"venueId": "52a84160-1596-4f06-8129-e93b5c9db88b",
-		"__v": 3,
+		"__v": 5,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1669885789349.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1669885810758.jpg"
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1671950347679.jpg"
 			},
 			{
 				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1667992654106.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1669885789349.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1669885810758.jpg"
 			}
 		],
 		"infoData": [],
