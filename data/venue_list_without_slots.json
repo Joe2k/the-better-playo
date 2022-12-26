@@ -4710,8 +4710,7 @@
 			}
 		],
 		"sports": [
-			"SP5",
-			"SP6"
+			"SP5"
 		],
 		"priority": 0,
 		"amenities": [
@@ -4737,7 +4736,7 @@
 		"coverImage": "https://playo.gumlet.io/RAISINGVENUSBADMINTONACADEMY/LegacySportsAcademyMonotypecovercover1628676929051.jpeg",
 		"createdTS": "2018-03-12T10:56:35.194Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-17T08:00:56.371Z",
+		"modTS": "2022-12-26T13:58:50.268Z",
 		"ratingCount": 128,
 		"images": [
 			{
@@ -4778,8 +4777,7 @@
 		"timings": "4:30 AM - 12:30 AM",
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookSports": [
-			"SP5",
-			"SP6"
+			"SP5"
 		],
 		"bookType": 0,
 		"dateLimit": 14,
@@ -4793,6 +4791,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 5135,
 		"activityCountLastSyncDate": "2022-12-25T18:30:02.147Z",
+		"bnpl": false,
 		"distance": 6.2018809740430925,
 		"activeKey": "legacy-sports-academy-monotype-banashankari-stage-ii-bengaluru",
 		"offers": [
@@ -55192,7 +55191,7 @@
 		"phone": [
 			"8197335007"
 		],
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"name": "PlayOn Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-11-22T10:22:36.404Z",
@@ -55200,7 +55199,7 @@
 		"createdTS": "2017-11-22T10:22:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-24T05:11:05.743Z",
-		"ratingCount": 141,
+		"ratingCount": 142,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYONSPORTSARENA/PlayOnSportsArena62.PNG"
