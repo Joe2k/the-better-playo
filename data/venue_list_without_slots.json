@@ -765,7 +765,8 @@
 			}
 		],
 		"sports": [
-			"SP2"
+			"SP2",
+			"SP56"
 		],
 		"priority": 0,
 		"amenities": [
@@ -792,7 +793,7 @@
 		"coverImage": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClubcovercover1642749729494.JPG",
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-18T10:39:40.368Z",
+		"modTS": "2022-12-27T08:41:09.425Z",
 		"ratingCount": 21,
 		"images": [
 			{
@@ -825,7 +826,8 @@
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": true,
 		"bookSports": [
-			"SP2"
+			"SP2",
+			"SP56"
 		],
 		"bookType": 0,
 		"lat": 12.98129081526211,
@@ -3397,7 +3399,9 @@
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP95"
+			"SP95",
+			"SP126",
+			"SP127"
 		],
 		"timings": "8AM - 6PM",
 		"cityCode": 1,
@@ -3438,7 +3442,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-10-03T09:31:01.856Z",
+		"modTS": "2022-12-27T08:38:43.209Z",
 		"shareLink": "https://z34v4.app.goo.gl/61Wz",
 		"deferLink": "https://z34v4.app.goo.gl/gNe3",
 		"fullLink": "https://playo.co/venue/?venueId=81bd286d-77b5-4fc2-adf0-26bd159ab965",
@@ -3477,7 +3481,9 @@
 		"mapImage": "",
 		"bnpl": false,
 		"bookSports": [
-			"SP95"
+			"SP95",
+			"SP126",
+			"SP127"
 		],
 		"distance": 5.409012532321027,
 		"activeKey": "33intact-clinics-indiranagar-off-cmh-road-bengaluru",
