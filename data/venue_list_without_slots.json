@@ -844,144 +844,212 @@
 		"offers": []
 	},
 	{
-		"oldPlayoId": "49df1a9a-0324-4e78-a6b2-805b52c72390",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2020-09-08T08:20:14.863Z",
-		"bookType": 0,
-		"ratingCount": 21,
-		"zipCode": "560004",
-		"modTS": "2021-03-23T05:44:49.515Z",
-		"inquiryPhone": "9980061333",
-		"inquiryType": -1,
-		"phone": [
-			"9980061333"
-		],
-		"sponsored": "",
-		"avgRating": 3.4,
-		"address": "Krumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka",
-		"active": true,
-		"id": "49df1a9a-0324-4e78-a6b2-805b52c72390",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "",
-		"isSafeAndHygiene": true,
-		"bookSports": [
-			"SP5"
-		],
-		"name": "Shri Kempegowda Indoor Stadium - Legacy Sports Academy",
-		"area": "Near Lalbagh Main Gate",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "49df1a9a-0324-4e78-a6b2-805b52c72390",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"timings": "Weekends: 5 AM - 11 PM; Venue is not open for bookings on weekdays",
-		"sports": [
-			"SP5"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"Change Room",
-			"Parking",
-			"Drinking Water",
-			"First AId"
-		],
+		"inquiryPhone": "9902084643",
+		"bnpl": false,
 		"keywords": [
 			{
 				"active": true,
-				"key": "shri-kempegowda-indoor-stadium-legacy-sports-academy-near-lalbagh-main-gate-bengaluru"
+				"key": "16-feather-badminton-academy-chickpet-bengaluru"
 			}
 		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment not available on rent.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=49df1a9a-0324-4e78-a6b2-805b52c72390",
-		"type": 0,
-		"email": [
-			"srmagadi@gmail.com"
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
 		],
-		"s3Folder": "SHRIKEMPEGOWDAINDOORSTADIUM20200908082014863294",
-		"shareLink": "https://z34v4.app.goo.gl/9b1C",
-		"deferLink": "https://z34v4.app.goo.gl/F89s",
-		"lat": 12.951859,
-		"lng": 77.583016,
-		"venueId": "49df1a9a-0324-4e78-a6b2-805b52c72390",
+		"area": "Chickpet",
+		"oldPlayoId": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"functionData": [
+			{
+				"content": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Washroom",
+			" Drinking Water",
+			" Parking"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560053",
+		"phone": [
+			"9902084643"
+		],
+		"avgRating": 0,
+		"name": "16 Feather Badminton Academy",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2022-12-27T12:24:15.918Z",
+		"inquiryType": -1,
+		"modTS": "2022-12-27T12:38:59.312Z",
+		"ratingCount": 0,
+		"id": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"category": 2,
+		"s3Folder": "16FEATHERBADMINTONACADEMY20221227122415918727",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"arvindbabu2000@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Lokmanya Tilak Park, Tulasi Thota Rd, Upparpete, Chickpet, Bengaluru, Karnataka 560053",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"country": "India",
+		"timings": "10AM - 4PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes & Shuttles.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/9PqB",
+		"deferLink": "https://z34v4.app.goo.gl/FLBB",
 		"__v": 1,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/SHRIKEMPEGOWDAINDOORSTADIUM20200908082014863294/ShriKempegowdaIndoorStadium1600235479922.jpeg"
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672143979291.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/SHRIKEMPEGOWDAINDOORSTADIUM20200908082014863294/ShriKempegowdaIndoorStadium1600235482973.jpeg"
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672143990913.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/SHRIKEMPEGOWDAINDOORSTADIUM20200908082014863294/ShriKempegowdaIndoorStadium1600235486125.jpeg"
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672143998881.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672144007578.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672144017497.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672144022410.jpeg"
 			}
 		],
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
 		"remarks": "",
-		"activityCount": 2487,
-		"activityCountLastSyncDate": "2022-12-26T18:30:02.170Z",
-		"distance": 2.53148209480782,
-		"activeKey": "shri-kempegowda-indoor-stadium-legacy-sports-academy-near-lalbagh-main-gate-bengaluru",
-		"offers": [
+		"lat": 12.974088468683956,
+		"lng": 77.57251945379645,
+		"venueId": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"distance": 2.4112100949519633,
+		"activeKey": "16-feather-badminton-academy-chickpet-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "9902084643",
+		"bnpl": false,
+		"keywords": [
 			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
 				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
+				"key": "16-feather-badminton-academy-chickpet-bengaluru"
 			}
-		]
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Chickpet",
+		"oldPlayoId": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"functionData": [
+			{
+				"content": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Washroom",
+			" Drinking Water",
+			" Parking"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560053",
+		"phone": [
+			"9902084643"
+		],
+		"avgRating": 0,
+		"name": "16 Feather Badminton Academy",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2022-12-27T12:24:15.918Z",
+		"inquiryType": -1,
+		"modTS": "2022-12-27T12:38:59.312Z",
+		"ratingCount": 0,
+		"id": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"category": 2,
+		"s3Folder": "16FEATHERBADMINTONACADEMY20221227122415918727",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"arvindbabu2000@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Lokmanya Tilak Park, Tulasi Thota Rd, Upparpete, Chickpet, Bengaluru, Karnataka 560053",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"country": "India",
+		"timings": "10AM - 4PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes & Shuttles.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/9PqB",
+		"deferLink": "https://z34v4.app.goo.gl/FLBB",
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672143979291.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672143990913.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672143998881.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672144007578.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672144017497.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/16FEATHERBADMINTONACADEMY20221227122415918727/16FeatherBadmintonAcademy1672144022410.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"lat": 12.974088468683956,
+		"lng": 77.57251945379645,
+		"venueId": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
+		"distance": 2.4112100949519633,
+		"activeKey": "16-feather-badminton-academy-chickpet-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "49df1a9a-0324-4e78-a6b2-805b52c72390",
@@ -2504,7 +2572,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-22T04:51:04.378Z",
+		"modTS": "2022-12-27T12:38:34.052Z",
 		"ratingCount": 2,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
@@ -2516,7 +2584,7 @@
 		],
 		"description": "",
 		"tags": [],
-		"sponsored": "Featured!",
+		"sponsored": "",
 		"members": false,
 		"address": "4/1, Bannerghatta Main Rd, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029",
 		"active": true,
@@ -13399,7 +13467,7 @@
 		"description": "",
 		"createdTS": "2019-08-24T22:40:47.617Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560017",
 		"modTS": "2020-09-20T13:46:08.013Z",
 		"inquiryPhone": "8210211090",
@@ -46432,40 +46500,22 @@
 		]
 	},
 	{
-		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2021-02-08T06:23:31.160Z",
-		"bookType": 0,
-		"ratingCount": 3,
-		"zipCode": "560083",
-		"modTS": "2022-08-19T11:10:08.417Z",
-		"inquiryPhone": "7760593869",
-		"inquiryType": -1,
-		"phone": [
-			"8939548947"
+		"inquiryPhone": "8618868841",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "fiton-sports-gottigere-bengaluru"
+			}
 		],
-		"sponsored": "",
-		"avgRating": 3,
-		"address": "Fiton Sports, No 10, opposite HIM Sree Bayalu Anjaneya Swamy Temple, 5, Kembathalli Main Rd, South Avenue, Gottigere, Bengaluru, Karnataka - 560083",
-		"active": true,
-		"id": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"category": 2,
+		"shareLink": "https://z34v4.app.goo.gl/2jXN",
 		"city": "Bengaluru",
-		"search": "",
-		"isSafeAndHygiene": true,
-		"bookSports": [
-			"SP5",
-			"SP7"
-		],
-		"name": "Fitso Bannerghatta Road Fiton",
 		"area": "Gottigere",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
+		"oldPlayoId": "5bcd75d06d91cf5241398dfa",
 		"functionData": [
 			{
-				"content": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+				"content": "62196bb1-7a31-4be9-85d1-b020fdf30934",
 				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
@@ -46473,72 +46523,132 @@
 				"type": 3
 			}
 		],
-		"timings": "11 AM - 3 PM",
 		"sports": [
-			"SP5",
-			"SP7"
+			"SP2",
+			"SP0"
 		],
-		"members": false,
-		"state": "Karnataka",
+		"priority": 0,
 		"amenities": [
 			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
+			"Restrooms",
+			"Power Backup",
+			"Lockers",
+			"Changing Rooms",
+			"Showers",
+			"Viewing Gallery"
 		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "fitso-bannerghatta-road-fiton-gottigere-bengaluru"
-			}
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/FITONSPORTS/FitonSportsmap1540191660098.png",
+		"zipCode": "560083",
+		"phone": [
+			"8618868841"
 		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- No cancellation or rescheduling allowed. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n\nSwimming - All Weather Pools:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Age restriction: 15+ mandatory. <br/>\n- Diving is not allowed. <br/>\n- All instructions at the pool has to be followed. <br/>\n- No coaching will be provided during the session. <br/>\n- Facility reserves the right to deny entry to the user. <br/>",
-		"fullLink": "https://playo.co/venue?venueId=9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"type": 0,
-		"email": [
-			"mohammed.chuna@getfitso.com"
-		],
-		"s3Folder": "INDOORSTUMPS20210208062331160145",
-		"__v": 5,
-		"coverImage": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/IndoorStumpscovercover1612583857938.jpeg",
-		"deferLink": "https://z34v4.app.goo.gl/8PPn",
-		"googleMapLink": "",
+		"avgRating": 4.1,
+		"name": "Fiton Sports",
+		"sponsoredExpiry": null,
+		"activatedOn": "2018-10-22T07:01:35.951Z",
+		"coverImage": "https://playo.gumlet.io/FITONSPORTS/FitonSports69.jpg",
+		"createdTS": "2018-10-22T07:01:35.951Z",
+		"inquiryType": -1,
+		"modTS": "2022-05-06T16:47:13.139Z",
+		"ratingCount": 71,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974594839.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974598457.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports13.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974616598.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports71.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541058400.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541069470.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541072809.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports72.png"
 			}
 		],
-		"infoData": [],
+		"id": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"description": "",
+		"category": 2,
+		"s3Folder": "FITONSPORTS",
+		"state": "Karnataka",
+		"email": [
+			"fitonsports@gmail.com"
+		],
 		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/vXcj",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#10/5, Kembathalli Road, Opp Bayalu Anjaneya Temple, Gottigere",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/dz4z",
+		"search": "Swimming, Badminton, Gottigere, football",
+		"fullLink": "https://playo.co/venue/?venueId=62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"country": "India",
+		"timings": "Open 24x7",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP2",
+			"SP0"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
 		"lat": 12.855017,
 		"lng": 77.582608,
-		"venueId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"activityCount": 59,
+		"placeId": "",
+		"type": 0,
+		"venueId": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"__v": 18,
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 7968,
 		"activityCountLastSyncDate": "2022-12-26T18:30:02.170Z",
 		"distance": 13.04295021100815,
-		"activeKey": "fitso-bannerghatta-road-fiton-gottigere-bengaluru",
-		"offers": []
+		"activeKey": "fiton-sports-gottigere-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "Play more, Pay less: Upto 25% off",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
 	},
 	{
 		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
