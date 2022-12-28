@@ -1383,7 +1383,7 @@
 		"createdTS": "2018-11-04T02:37:55.531Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-29T08:36:04.438Z",
-		"ratingCount": 42,
+		"ratingCount": 43,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RUSHARENA/TackleJayanagar1669710924721.jpg"
@@ -1703,14 +1703,14 @@
 		"phone": [
 			"9606973105"
 		],
-		"avgRating": 3.4,
+		"avgRating": 3,
 		"name": "Maracana Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-18T06:42:58.963Z",
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
 		"s3Folder": "MARACANASPORTSARENA20221103080210366511",
@@ -11015,7 +11015,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 303,
+		"ratingCount": 304,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -32074,7 +32074,7 @@
 		"createdTS": "2018-04-24T05:31:16.009Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T08:17:11.163Z",
-		"ratingCount": 276,
+		"ratingCount": 277,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HIGHLINESPORTSINDOORBADMINTONACADEMY/highlinesportsindoorbadmintonacademy0.jpg"
