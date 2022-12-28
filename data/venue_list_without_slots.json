@@ -4651,7 +4651,7 @@
 		"createdTS": "2018-05-07T12:16:36.958Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T11:49:39.771Z",
-		"ratingCount": 147,
+		"ratingCount": 148,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SAIFOOTBALLACADEMY/EeshaBadmintonAcademy1640720192662.jpeg"
@@ -10224,157 +10224,6 @@
 		"distance": 7.783910971222419,
 		"activeKey": "play-zone-kasturinagar-near-shriram-temple-bengaluru",
 		"offers": []
-	},
-	{
-		"inquiryPhone": "9606667755",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "adroit-tennis-academy-rt-nagar-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/ZrSe",
-		"city": "Bengaluru",
-		"area": "RT Nagar",
-		"oldPlayoId": "587124206d91cf3645ab0832",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP3"
-		],
-		"priority": 0,
-		"amenities": [
-			"Locker",
-			"Washroom",
-			"Parking",
-			"First Aid",
-			"Drinking Water"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/PLAY-ARENA/map.png",
-		"zipCode": "560032",
-		"phone": [
-			"9606667755"
-		],
-		"avgRating": 5,
-		"name": "Adroit Tennis Academy",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.163Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.163Z",
-		"inquiryType": -1,
-		"modTS": "2022-03-16T16:34:01.255Z",
-		"ratingCount": 2,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448425562.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448429141.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448432032.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448434831.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAY-ARENA/adroittennisacademy1609347411812.jfif"
-			},
-			{
-				"url": "https://playo.gumlet.io/PLAY-ARENA/adroittennisacademy1609347415124.jfif"
-			}
-		],
-		"id": "da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
-		"description": "",
-		"category": 2,
-		"s3Folder": "PLAY-ARENA",
-		"state": "Karnataka",
-		"email": [
-			"dhanush@adroittennis.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "#25, 3, 1st Main Rd, R. T. Nagar, V Nagenahalli, post, Bengaluru, Karnataka",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/kjRV",
-		"search": "",
-		"fullLink": "https://playo.co/venue/?venueId=da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
-		"country": "India",
-		"timings": "10 AM - 6 PM",
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
-		"isSafeAndHygiene": true,
-		"bookType": 0,
-		"lat": 13.040536504291763,
-		"lng": 77.60730490675887,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
-		"__v": 4,
-		"bookSports": [
-			"SP3"
-		],
-		"activityCount": 159,
-		"activityCountLastSyncDate": "2022-12-27T18:30:02.238Z",
-		"distance": 7.796675828089159,
-		"activeKey": "adroit-tennis-academy-rt-nagar-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
 	},
 	{
 		"inquiryPhone": "9964072395",
@@ -36511,7 +36360,7 @@
 		"bookType": 0,
 		"ratingCount": 57,
 		"zipCode": "560037",
-		"modTS": "2021-12-19T13:45:23.731Z",
+		"modTS": "2022-12-28T13:35:34.598Z",
 		"inquiryPhone": "9920601966",
 		"inquiryType": -1,
 		"phone": [
@@ -36529,8 +36378,8 @@
 			"SP2",
 			"SP5"
 		],
-		"name": "Whitefield United - Cap Life",
-		"area": "Doddanekundi",
+		"name": "Whitefield United",
+		"area": "Doddanekkundi",
 		"sponsoredRadius": 5,
 		"country": "India",
 		"tags": [],
@@ -36561,7 +36410,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "whitefield-united-cap-life-doddanekundi-bengaluru"
+				"key": "whitefield-united-doddanekkundi-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -36575,7 +36424,7 @@
 		"s3Folder": "WHITEFIELDUNITED20200121180218296612",
 		"__v": 6,
 		"coverImage": "https://playo.gumlet.io/WHITEFIELDUNITED20200121180218296612/WhitefieldUnited1603219568424.jpg",
-		"deferLink": "https://z34v4.app.goo.gl/nhxs",
+		"deferLink": "https://z34v4.app.goo.gl/Ykrs",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -36598,15 +36447,16 @@
 		"logoImg": "",
 		"mapImage": "",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/BM9A",
+		"shareLink": "https://z34v4.app.goo.gl/sEmd",
 		"lat": 12.972492,
 		"lng": 77.701149,
 		"venueId": "78d1272e-0e01-41b0-bc7d-ce30d1fb6631",
 		"isSafeAndHygiene": true,
 		"activityCount": 10282,
 		"activityCountLastSyncDate": "2022-12-27T18:30:02.238Z",
+		"bnpl": false,
 		"distance": 11.558644030614698,
-		"activeKey": "whitefield-united-cap-life-doddanekundi-bengaluru",
+		"activeKey": "whitefield-united-doddanekkundi-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -46502,22 +46352,40 @@
 		]
 	},
 	{
-		"inquiryPhone": "8618868841",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "fiton-sports-gottigere-bengaluru"
-			}
+		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2021-02-08T06:23:31.160Z",
+		"bookType": 0,
+		"ratingCount": 3,
+		"zipCode": "560083",
+		"modTS": "2022-08-19T11:10:08.417Z",
+		"inquiryPhone": "7760593869",
+		"inquiryType": -1,
+		"phone": [
+			"8939548947"
 		],
-		"shareLink": "https://z34v4.app.goo.gl/2jXN",
+		"sponsored": "",
+		"avgRating": 3,
+		"address": "Fiton Sports, No 10, opposite HIM Sree Bayalu Anjaneya Swamy Temple, 5, Kembathalli Main Rd, South Avenue, Gottigere, Bengaluru, Karnataka - 560083",
+		"active": true,
+		"id": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"category": 2,
 		"city": "Bengaluru",
+		"search": "",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP5",
+			"SP7"
+		],
+		"name": "Fitso Bannerghatta Road Fiton",
 		"area": "Gottigere",
-		"oldPlayoId": "5bcd75d06d91cf5241398dfa",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
 		"functionData": [
 			{
-				"content": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+				"content": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
 				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
@@ -46525,132 +46393,72 @@
 				"type": 3
 			}
 		],
+		"timings": "11 AM - 3 PM",
 		"sports": [
-			"SP2",
-			"SP0"
+			"SP5",
+			"SP7"
 		],
-		"priority": 0,
+		"members": false,
+		"state": "Karnataka",
 		"amenities": [
 			"Parking",
-			"Restrooms",
-			"Power Backup",
-			"Lockers",
-			"Changing Rooms",
-			"Showers",
-			"Viewing Gallery"
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
 		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/FITONSPORTS/FitonSportsmap1540191660098.png",
-		"zipCode": "560083",
-		"phone": [
-			"8618868841"
+		"keywords": [
+			{
+				"active": true,
+				"key": "fitso-bannerghatta-road-fiton-gottigere-bengaluru"
+			}
 		],
-		"avgRating": 4.1,
-		"name": "Fiton Sports",
-		"sponsoredExpiry": null,
-		"activatedOn": "2018-10-22T07:01:35.951Z",
-		"coverImage": "https://playo.gumlet.io/FITONSPORTS/FitonSports69.jpg",
-		"createdTS": "2018-10-22T07:01:35.951Z",
-		"inquiryType": -1,
-		"modTS": "2022-05-06T16:47:13.139Z",
-		"ratingCount": 71,
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- No cancellation or rescheduling allowed. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n\nSwimming - All Weather Pools:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Age restriction: 15+ mandatory. <br/>\n- Diving is not allowed. <br/>\n- All instructions at the pool has to be followed. <br/>\n- No coaching will be provided during the session. <br/>\n- Facility reserves the right to deny entry to the user. <br/>",
+		"fullLink": "https://playo.co/venue?venueId=9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"type": 0,
+		"email": [
+			"mohammed.chuna@getfitso.com"
+		],
+		"s3Folder": "INDOORSTUMPS20210208062331160145",
+		"__v": 5,
+		"coverImage": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/IndoorStumpscovercover1612583857938.jpeg",
+		"deferLink": "https://z34v4.app.goo.gl/8PPn",
+		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974594839.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports13.jpg"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974598457.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports71.jpg"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974616598.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports72.png"
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541058400.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541069470.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541072809.jpg"
 			}
 		],
-		"id": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"description": "",
-		"category": 2,
-		"s3Folder": "FITONSPORTS",
-		"state": "Karnataka",
-		"email": [
-			"fitonsports@gmail.com"
-		],
+		"infoData": [],
 		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "#10/5, Kembathalli Road, Opp Bayalu Anjaneya Temple, Gottigere",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/dz4z",
-		"search": "Swimming, Badminton, Gottigere, football",
-		"fullLink": "https://playo.co/venue/?venueId=62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"country": "India",
-		"timings": "Open 24x7",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"bookSports": [
-			"SP2",
-			"SP0"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/vXcj",
 		"lat": 12.855017,
 		"lng": 77.582608,
-		"placeId": "",
-		"type": 0,
-		"venueId": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"__v": 18,
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 7969,
+		"venueId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+		"activityCount": 59,
 		"activityCountLastSyncDate": "2022-12-27T18:30:02.238Z",
 		"distance": 13.04295021100815,
-		"activeKey": "fiton-sports-gottigere-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "Play more, Pay less: Upto 25% off",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "fitso-bannerghatta-road-fiton-gottigere-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
