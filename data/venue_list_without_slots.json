@@ -841,7 +841,49 @@
 		"bnpl": false,
 		"distance": 2.3949773480772905,
 		"activeKey": "south-united-football-club-rbanms-ground-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "63adfa3db66167ace9178187",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "<br/>\n* Offer valid only once per user. <br/>\n* Offer valid on all slot only on 01/01/2023. <br/>\n* Venue reserves the right to change or discontinue the offer at any point. <br/>\n<br/>",
+				"countryCode": "+91",
+				"createdTS": "2022-12-29T20:36:13.707Z",
+				"offerContent": "343a53bf-de72-4c70-b41e-d3f378eb3ee1",
+				"coupon": "FITFORFUN",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/SouthUnitedFootballClubNewYearOffer202325offonallbookingson01012023e6xpccover1672346061125.jpg",
+				"expiry": "2023-01-01T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP2",
+				"activeKey": "south-united-football-club-new-year-offer-2023-25-off-on-all-bookings-on-01/01/2023!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "FITFORFUN",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till January 01, 2023",
+						"content": "https://playo.co/venue/?venueId=343a53bf-de72-4c70-b41e-d3f378eb3ee1",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "South United Football Club New Year Offer 2023 - 25% off on all bookings on 01/01/2023!",
+				"id": "cf675938-0f0c-4642-9c54-0df2fa00a570",
+				"offerName": "South United Football Club New Year Offer 2023 - 25% off on all bookings on 01/01/2023!",
+				"shareLink": "https://z34v4.app.goo.gl/3MP8",
+				"deferLink": "https://z34v4.app.goo.gl/AdBA",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395
+			}
+		]
 	},
 	{
 		"inquiryPhone": "9902084643",
