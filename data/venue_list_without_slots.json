@@ -9042,8 +9042,8 @@
 		"zipCode": "560078",
 		"activityCount": 990,
 		"activityCountLastSyncDate": "2022-12-28T18:30:02.569Z",
-		"avgRating": 4.1,
-		"ratingCount": 14,
+		"avgRating": 4,
+		"ratingCount": 15,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T15:53:14.731Z",
@@ -36360,7 +36360,7 @@
 		"bookType": 0,
 		"ratingCount": 57,
 		"zipCode": "560037",
-		"modTS": "2022-12-28T13:35:34.598Z",
+		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
 		"inquiryType": -1,
 		"phone": [
@@ -36415,7 +36415,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. <br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\nPrakash Nanjappa Shooting Academy:<br/>\nRifle Shooting & Air Pistol Range - Learn the Olympic Sport at the Olympian’s Academy <br/>\nOperational Timings: 9:30 AM - 8:00 PM<br/>\n<br/>\nAvailable sports: 10m air rifle and 10m air pistol<br/>\n<br/>\nAbout Range:<br/>\n<br/>\n- Olympian Trained coaches<br/>\n- Referral offers available <br/>\n- 24x7 CCTV monitored<br/>\n- Indian and Imported Professional Air Rifles and Pistols<br/>\n- Rs.500  for basic introduction to the sport and unlimited shooting for 1 hour.<br/>",
+		"addInfo": "Badminton: <br/>\n- Non-Marking Shoes compulsory for Badminton. <br/>\n- Sports equipment available on rent: Rackets, Shoes. <br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible. <br/>\n<br/>\n<br/>\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\nAsthra Shooting Academy:<br/>\n- Professional 10 Meter Air Rifle & Pistol Training Academy. <br/>\n- Recreational, hobby, amateur and professional shooters are all welcome at our range.",
 		"fullLink": "https://playo.co/venue?venueId=78d1272e-0e01-41b0-bc7d-ce30d1fb6631",
 		"type": 0,
 		"email": [
@@ -52327,7 +52327,7 @@
 		"description": "",
 		"createdTS": "2021-06-20T15:14:15.772Z",
 		"bookType": 0,
-		"ratingCount": 40,
+		"ratingCount": 41,
 		"zipCode": "560049",
 		"modTS": "2022-11-03T05:50:06.429Z",
 		"inquiryPhone": "6364834834",
@@ -52336,7 +52336,7 @@
 			"6364834834"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "37/4, Lecaprio Road, Near OM Residency Layout, Kodigehalli, K R Puram Bangalore 560049",
 		"active": true,
 		"id": "34d63da6-f0ea-4f2f-8877-eeb056f1c6bc",
@@ -71074,7 +71074,7 @@
 		"phone": [
 			"08088886696"
 		],
-		"avgRating": 3.6,
+		"avgRating": 3.7,
 		"name": "Vajpayee Indoor Badminton Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.165Z",
@@ -71082,7 +71082,7 @@
 		"createdTS": "2017-01-07T17:23:44.165Z",
 		"inquiryType": 0,
 		"modTS": "2022-11-16T07:58:18.081Z",
-		"ratingCount": 40,
+		"ratingCount": 41,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VAJBADCLUB/vaj-1.jpg"
