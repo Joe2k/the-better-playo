@@ -2673,7 +2673,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 135,
+		"ratingCount": 136,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -49523,7 +49523,7 @@
 		"phone": [
 			"9901111217"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"name": "iBlitz Sports Club - Hoodi",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.198Z",
@@ -49531,7 +49531,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-09T09:00:03.863Z",
-		"ratingCount": 272,
+		"ratingCount": 273,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi0.jpg"
@@ -57582,7 +57582,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 181,
+		"ratingCount": 182,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
