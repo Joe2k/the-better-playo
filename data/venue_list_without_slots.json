@@ -25253,10 +25253,10 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "letz-play-nagarbhavi-papareddipalya-bengaluru"
+				"key": "letz-playashoka-sports-arena-nagarbhavi-papareddipalya-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/zdjR",
+		"shareLink": "https://z34v4.app.goo.gl/Jm2v",
 		"city": "Bengaluru",
 		"area": "Papareddipalya",
 		"oldPlayoId": "5acb368a6d91cf1567b51a3f",
@@ -25289,13 +25289,13 @@
 			"9986189582"
 		],
 		"avgRating": 3.8,
-		"name": "Letz Play - Nagarbhavi",
+		"name": "Letz Play(Ashoka Sports Arena) - Nagarbhavi",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
 		"coverImage": "",
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-17T08:04:50.734Z",
+		"modTS": "2022-12-31T05:46:07.502Z",
 		"ratingCount": 134,
 		"images": [
 			{
@@ -25326,7 +25326,7 @@
 		"members": false,
 		"address": "Nagarbhavi 2nd stage, Papareddipalya, D-Group Layout, Srigandada Kaval, Annapurneshwari Nagar",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/B5fU",
+		"deferLink": "https://z34v4.app.goo.gl/xGqu",
 		"search": "letz play,lets play,let's",
 		"fullLink": "https://playo.co/venue/?venueId=26b1fc72-5a2e-4ab9-9582-6b659fb808d3",
 		"country": "India",
@@ -25346,8 +25346,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 12899,
 		"activityCountLastSyncDate": "2022-12-30T18:30:02.402Z",
+		"bnpl": false,
 		"distance": 9.944274889632105,
-		"activeKey": "letz-play-nagarbhavi-papareddipalya-bengaluru",
+		"activeKey": "letz-playashoka-sports-arena-nagarbhavi-papareddipalya-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -46960,7 +46961,7 @@
 		"createdTS": "2018-04-22T05:06:27.813Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-20T09:33:57.712Z",
-		"ratingCount": 61,
+		"ratingCount": 62,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEBULLRINGHABITAT/HabitatEdenHeights1663666386453.jpeg"
