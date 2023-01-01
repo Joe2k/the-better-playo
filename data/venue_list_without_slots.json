@@ -7759,49 +7759,7 @@
 		"activityCountLastSyncDate": "2022-12-31T18:30:02.293Z",
 		"distance": 6.929942771769892,
 		"activeKey": "coolulu-cricket-academy-koramangala-bengaluru",
-		"offers": [
-			{
-				"_id": "5e4b69d8c457687ccbca1dc4",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "\n",
-				"countryCode": "+91",
-				"createdTS": "2020-02-18T04:36:40.615Z",
-				"offerContent": "e0e67f1f-c550-4fd0-a9ce-4609a3b1b138",
-				"coupon": "PLAYON",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/CooluluCricketAcademyExclusivePlayoOfferFlat10offonallbookingsahtxnscover1645777841741.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP57,SP66",
-				"activeKey": "coolulu-cricket-academy-exclusive-playo-offer-flat-10-off-on-all-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=e0e67f1f-c550-4fd0-a9ce-4609a3b1b138",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Coolulu Cricket Academy Exclusive Playo Offer - Flat 10% off on all bookings!",
-				"id": "2c927bcd-e7fd-4524-9c9b-957dfb419e51",
-				"offerName": "Coolulu Cricket Academy Exclusive Playo Offer - Flat 10% off on all bookings!",
-				"shareLink": "https://z34v4.app.goo.gl/5uFa",
-				"deferLink": "https://z34v4.app.goo.gl/kU1e",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "dcf752b1-87e8-43de-9137-9e14a9ab7b83",
@@ -9698,49 +9656,7 @@
 		"activityCountLastSyncDate": "2022-12-31T18:30:02.293Z",
 		"distance": 7.507804797030706,
 		"activeKey": "kixpress-football-rt-nagar-bengaluru",
-		"offers": [
-			{
-				"_id": "5dcbbdabc4576870d1fad63e",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-11-13T08:24:11.629Z",
-				"offerContent": "f3f5b1bf-e982-4be8-99d1-d0fea15578e3",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/KixpressFootballHappyHoursOffert76q1cover1646307126436.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "kixpress-football-happy-hours-offer!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=f3f5b1bf-e982-4be8-99d1-d0fea15578e3",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Kixpress Football Happy Hours Offer!",
-				"id": "42be6c4c-5e7c-4076-8c1b-ad63c6d79fd3",
-				"offerName": "Kixpress Football Happy Hours Offer!",
-				"shareLink": "https://z34v4.app.goo.gl/uNaz",
-				"deferLink": "https://z34v4.app.goo.gl/yj71",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "Book slots between 11 AM - 4 PM at just ₹500 per hour on weekdays & ₹700 per hour on weekends and holidays!"
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9886439227",
@@ -11175,49 +11091,7 @@
 		"activityCountLastSyncDate": "2022-12-31T18:30:02.293Z",
 		"distance": 7.9688961930476685,
 		"activeKey": "breakpoint-pool-snooker-lounge-kumaraswamy-layout-bengaluru",
-		"offers": [
-			{
-				"_id": "5e560ec3c4576803b14bae50",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "Flat 10% off on all bookings above ₹200!",
-				"countryCode": "+91",
-				"createdTS": "2020-02-26T06:22:59.312Z",
-				"offerContent": "c796004f-9c82-485e-b6eb-4b459e11c11a",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/BreakPointPoolSnookerLoungeOfferFlat10offonallbookingsc6byc1cover1647964112506.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP6,SP77",
-				"activeKey": "breakpoint-pool-snooker-lounge-offer-flat-10-off-on-all-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=c796004f-9c82-485e-b6eb-4b459e11c11a",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "BreakPoint Pool & Snooker Lounge Offer - Flat 10% off on all bookings!",
-				"id": "51c0885d-faef-44a5-b170-4bdf751d57e1",
-				"offerName": "BreakPoint Pool & Snooker Lounge Offer - Flat 10% off on all bookings!",
-				"shareLink": "https://z34v4.app.goo.gl/zaUG",
-				"deferLink": "https://z34v4.app.goo.gl/BF4v",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "627ef7d2-e95e-44ef-ad34-ad8dc04c5e64",
@@ -11607,49 +11481,7 @@
 		"bnpl": false,
 		"distance": 8.09027684305115,
 		"activeKey": "sri-vision-sports-club-ittamadu-bengaluru",
-		"offers": [
-			{
-				"_id": "5f34b864c457681e3aba5de4",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "Sri Vision Sports Club Club Offer - Flat 30% off on all Football and Box Cricket bookings!!!",
-				"countryCode": "+91",
-				"createdTS": "2020-08-13T03:49:56.379Z",
-				"offerContent": "088adf83-6067-42f7-8b3b-7a9caf64e68b",
-				"coupon": "PLAYNOW",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/SriVisionSportsClubOfferFlat30offonallFootballandBoxCricketbookings6rg198cover1661324968606.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "sri-vision-sports-club-offer-flat-30-off-on-all-football-and-box-cricket-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYNOW",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=088adf83-6067-42f7-8b3b-7a9caf64e68b",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Sri Vision Sports Club Offer - Flat 30% off on all Football and Box Cricket bookings!",
-				"id": "af95f28e-b3f1-469e-994f-ea5cbb8683a9",
-				"offerName": "Sri Vision Sports Club Offer - Flat 30% off on all Football and Box Cricket bookings!",
-				"shareLink": "https://z34v4.app.goo.gl/u5uC",
-				"deferLink": "https://z34v4.app.goo.gl/vJ63",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "fe689ca2-4d6b-4be1-adff-3ecbdbc2d9e2",
@@ -13166,49 +12998,7 @@
 		"activityCountLastSyncDate": "2022-12-31T18:30:02.293Z",
 		"distance": 8.326545422858636,
 		"activeKey": "aptha-badminton-academy-uttarahalli-bengaluru",
-		"offers": [
-			{
-				"_id": "614f2899c4576857abfda4f1",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "- Get 10% off on booking multiple slots at Aptha Badminton Academy between 10 AM & 3 PM on weekdays! <br/>\n",
-				"countryCode": "+91",
-				"createdTS": "2021-09-25T13:48:09.818Z",
-				"offerContent": "ae068218-2f88-482d-bdf1-4e197811b9ba",
-				"coupon": "PLAYMORE",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/ApthaBadmintonAcademyHappyHoursOfferGetupto25offonbookingmultipleslotsxcvifmcover1652262270756.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "aptha-badminton-academy-happy-hours-offer-get-up-to-25-off-on-booking-multiple-slots!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYMORE",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=ae068218-2f88-482d-bdf1-4e197811b9ba",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Aptha Badminton Academy Happy Hours Offer - Get up to 25% off on booking multiple slots!",
-				"id": "439f5481-9681-4b02-bdc6-63376f585d57",
-				"offerName": "Aptha Badminton Academy Happy Hours Offer - Get up to 25% off on booking multiple slots!",
-				"shareLink": "https://z34v4.app.goo.gl/6pRR",
-				"deferLink": "https://z34v4.app.goo.gl/kejf",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "399612e7-93de-4d91-8baf-831bfe618192",
@@ -18886,47 +18676,6 @@
 		"activeKey": "twin-bee-sports-arena-nagarbhavi-bengaluru",
 		"offers": [
 			{
-				"_id": "5c41a65d6d91cf69a9cf4626",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-01-18T10:11:41.824Z",
-				"offerContent": "e4af2ebe-fbfa-49c7-9274-97fa0469e511",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/TwinBeeSportsArenaExclusivePlayoOfferFlat25offonyourfirst3bookingsyxo21qcover1654875479977.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "twin-bee-sports-arena-exclusive-playo-offer-flat-₹25-off-on-your-first-3-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=e4af2ebe-fbfa-49c7-9274-97fa0469e511",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Twin Bee Sports Arena Exclusive Playo Offer - Flat ₹25 off on your first 3 bookings!",
-				"id": "x0e2wol3-9841-xips-4m0z-sn99l3jzw8gk",
-				"offerName": "Twin Bee Sports Arena Exclusive Playo Offer - Flat ₹25 off on your first 3 bookings!",
-				"shareLink": "https://z34v4.app.goo.gl/5z1A",
-				"deferLink": "https://z34v4.app.goo.gl/CGRQ",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "- Offer valid only for new users at Twin Bee Sports Arena. <br/>\n- Offer valid thrice per user only.\n"
-			},
-			{
 				"_id": "61dbb403c4576876d8a4b8de",
 				"city": "Hyderabad",
 				"cityCode": 4,
@@ -24072,47 +23821,6 @@
 		"activeKey": "kings-court-badminton-academy-nagarabhavi-bengaluru",
 		"offers": [
 			{
-				"_id": "5c58216b6d91cf22e98f0d63",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-02-04T11:26:35.344Z",
-				"offerContent": "888ff4fb-ef00-42b3-a79f-e4ffb0a503dd",
-				"coupon": "PLAYNOW",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/KingsCourtBadmintonAcademyOfferFlat10offonallPlayoBookings5dgf8cover1653038049429.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "kings-court-badminton-academy-offer-flat-10-off-on-all-playo-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYNOW",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=888ff4fb-ef00-42b3-a79f-e4ffb0a503dd",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Kings Court Badminton Academy Offer - Flat 10% off on all Playo Bookings!",
-				"id": "b9cab40b-30b2-401c-848a-77e43ee107a4",
-				"offerName": "Kings Court Badminton Academy Offer - Flat 10% off on all Playo Bookings!",
-				"shareLink": "https://z34v4.app.goo.gl/nRPZ",
-				"deferLink": "https://z34v4.app.goo.gl/AQvk",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": ""
-			},
-			{
 				"_id": "61dbb403c4576876d8a4b8de",
 				"city": "Hyderabad",
 				"cityCode": 4,
@@ -24632,49 +24340,7 @@
 		"activityCountLastSyncDate": "2022-12-31T18:30:02.293Z",
 		"distance": 9.915025642160401,
 		"activeKey": "sportexx-hebbal-kempapura-bengaluru",
-		"offers": [
-			{
-				"_id": "5da582a5c45768517d75ecfc",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-10-15T08:26:13.903Z",
-				"offerContent": "9eb74740-7d7d-49b5-91b5-0a7c380a9d35",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/SportexxInauguralOfferUpto500offrwb0wcover1647964192298.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5,SP7",
-				"activeKey": "sportexx-inaugural-offer-up-to-₹500-off!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=9eb74740-7d7d-49b5-91b5-0a7c380a9d35",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Sportexx - Inaugural Offer - Up to ₹500 off!",
-				"id": "0ab6399f-24d1-4b5c-8c65-4ca77d1d173f",
-				"offerName": "Sportexx - Inaugural Offer - Up to ₹500 off!",
-				"shareLink": "https://z34v4.app.goo.gl/GF88",
-				"deferLink": "https://z34v4.app.goo.gl/aDCy",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "Flat 5% off on all sports up to ₹500! "
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9686824694",
@@ -26924,49 +26590,7 @@
 		"__v": 3,
 		"distance": 10.200873718793163,
 		"activeKey": "achieve-cherish-hulimavu-bengaluru",
-		"offers": [
-			{
-				"_id": "60e809e1c4576873860c2be4",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "- Offer valid on all slots & on all days. <br/>\n- Offer valid for a limited time.",
-				"countryCode": "+91",
-				"createdTS": "2021-07-09T08:33:37.927Z",
-				"offerContent": "d5615be3-2551-4daa-a221-4f140eab2670",
-				"coupon": "",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/AchieveCherishFootballInauguralOfferBookyourfootballcourtatjust599perhour6zrwiocover1669188120181.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2",
-				"activeKey": "achieve-cherish-football-inaugural-offer-book-your-football-court-at-just-₹599-per-hour!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=d5615be3-2551-4daa-a221-4f140eab2670",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Achieve & Cherish Football Inaugural Offer - Book your football court at just ₹599 per hour!",
-				"id": "e715bf44-e1dd-4d14-bf65-29cf6ea81107",
-				"offerName": "Achieve & Cherish Football Inaugural Offer - Book your football court at just ₹599 per hour!",
-				"shareLink": "https://z34v4.app.goo.gl/28q7",
-				"deferLink": "https://z34v4.app.goo.gl/d1Hs",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "eb5f100e-3f6d-4adf-8f65-2ebec86bf017",
@@ -34392,54 +34016,7 @@
 		"bnpl": false,
 		"distance": 11.266669498530508,
 		"activeKey": "star-badminton-academy-harlur-near-zonasha-vista-bengaluru",
-		"offers": [
-			{
-				"_id": "5a6717186d91cf2643c2a2c8",
-				"countryCode": "+91",
-				"coupon": "",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=7e6ff9aa-8df4-423e-8b1a-3a14fc846e26",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"id": "f2d37727-19ec-4ed7-8f52-64e7d52e7d57",
-				"city": "Bengaluru",
-				"createdTS": "2018-01-23T11:06:00.367Z",
-				"oldPlayoId": "5a6717186d91cf2643c2a2c8",
-				"sports": "SP5",
-				"cityLng": 77.6309395,
-				"offerType": "venue",
-				"shareMsg": "Star Badminton Academy Offer - Book one hour of badminton and get 1 hour free gym access for 4! ",
-				"offerName": "Star Badminton Academy Offer - Book one hour of badminton and get 1 hour free gym access for 4! ",
-				"offerContent": "7e6ff9aa-8df4-423e-8b1a-3a14fc846e26",
-				"cityCode": 1,
-				"oldVenueId": "599afdd56d91cf5aabaec2b3",
-				"citylat": 12.9539974,
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"active": true,
-				"multiCity": false,
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"imageUrl": "https://playo.gumlet.io/OFFERS/StarBadmintonAcademyOfferBookonehourofbadmintonandget1hourfreegymaccessfor45x41vrcover1656865144653.jpg",
-				"cityLat": 12.9539974,
-				"activeKey": "star-badminton-academy-offer-book-one-hour-of-badminton-and-get-1-hour-free-gym-access-for-4!-bengaluru",
-				"__v": 1,
-				"deferLink": "https://z34v4.app.goo.gl/JJkf",
-				"shareLink": "https://z34v4.app.goo.gl/yDsU",
-				"startDate": "2019-01-16T10:08:10.120Z",
-				"terms": ""
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "53436775-e552-49f8-ba0b-7509b47b18c4",
@@ -36203,84 +35780,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "61f7e0dcc457682c51393484",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-31T13:15:08.536Z",
-				"offerContent": "ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FettleSportsandSportsStudioFlat5offonallbookingsduringPeakHoursjuma0ccover1643634882894.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5,SP1,SP66,SP56,SP0,SP57,SP2,SP46,SP4",
-				"activeKey": "fettle-sports-and-sports-studio-flat-5-off-on-all-bookings-during-peak-hours!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Fettle Sports and Sports Studio - Flat 5% off on all bookings during Peak Hours!",
-				"id": "caaabffe-1073-4acc-8090-9542df509b8b",
-				"offerName": "Fettle Sports and Sports Studio - Flat 5% off on all bookings during Peak Hours!",
-				"shareLink": "https://z34v4.app.goo.gl/BPfB",
-				"deferLink": "https://z34v4.app.goo.gl/nrLq"
-			},
-			{
-				"_id": "61f7e23cc457682c4f2a8690",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-31T13:21:00.554Z",
-				"offerContent": "ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
-				"coupon": "PLAYONEW",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FettleFitnessandSportsStudioFlat5offonallbookingsforNewPlayousersskbbbdcover1643635249462.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5,SP1,SP66,SP56,SP0,SP47,SP57,SP2,SP96,SP46,SP14,SP48,SP4,SP3",
-				"activeKey": "fettle-fitness-and-sports-studio-flat-5-off-on-all-bookings-for-new-playo-users-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYONEW",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Fettle Fitness and Sports Studio - Flat 5% off on all bookings for New Playo users",
-				"id": "9f76b48f-76f4-4196-b768-7036516260cf",
-				"offerName": "Fettle Fitness and Sports Studio - Flat 5% off on all bookings for New Playo users",
-				"shareLink": "https://z34v4.app.goo.gl/Rf4X",
-				"deferLink": "https://z34v4.app.goo.gl/NbdQ"
 			}
 		]
 	},
@@ -43226,47 +42725,6 @@
 		"activeKey": "play-smart-multi-sport-arena-jp-nagar-8th-phase-bengaluru",
 		"offers": [
 			{
-				"_id": "5cb423326d91cf3480ec033f",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-04-15T06:22:42.886Z",
-				"offerContent": "f293c673-1017-46bd-95fb-331a72c373cc",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/PlaySmartMultiSportExclusivePlayoOfferFlat50offonallsportsf8ej5ccover1650727281342.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5,SP56,SP2,SP7,SP57",
-				"activeKey": "play-smart-multi-sport-exclusive-playo-offer-flat-50-off-on-all-sports!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=f293c673-1017-46bd-95fb-331a72c373cc",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play Smart Multi Sport Exclusive Playo Offer - Flat 50% off on all sports!",
-				"id": "1fe9301f-9f9c-4119-8c69-e461d77df11e",
-				"offerName": "Play Smart Multi Sport Exclusive Playo Offer - Flat 50% off on all sports!",
-				"shareLink": "https://z34v4.app.goo.gl/wg21",
-				"deferLink": "https://z34v4.app.goo.gl/zNLs",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "- Flat 50% off up to ₹1,000 on all sports! <br/>\n- Offer valid on all slots on weekdays between 9 AM & 3 PM\n "
-			},
-			{
 				"_id": "61dbb403c4576876d8a4b8de",
 				"city": "Hyderabad",
 				"cityCode": 4,
@@ -46770,45 +46228,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "631a053cc457682e9b2eab0e",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "All days & All slots at just ₹225 per hour only!",
-				"countryCode": "+91",
-				"createdTS": "2022-09-08T15:07:40.176Z",
-				"offerContent": "1a1b9870-eab8-4fb6-9267-a1286277d4df",
-				"coupon": "",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/SeleniteSportsAcademyExclusivePlayoOfferBookanyslotatjust225perhournowbihb8ccover1662729431024.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "selenite-sports-academy-exclusive-playo-offer-book-any-slot-at-just-₹225-per-hour-now!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=1a1b9870-eab8-4fb6-9267-a1286277d4df",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Selenite Sports Academy Exclusive Playo Offer - Book any slot at just ₹225 per hour now!",
-				"id": "11b7474f-7d53-4085-a354-cf42a3c4e5a9",
-				"offerName": "Selenite Sports Academy Exclusive Playo Offer - Book any slot at just ₹225 per hour now!",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
 			}
 		]
 	},
@@ -48836,88 +48255,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "62d79918c45768546d3efd4f",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "- Offer valid on weekdays only",
-				"countryCode": "+91",
-				"createdTS": "2022-07-20T05:56:40.076Z",
-				"offerContent": "064d481d-e4b7-4944-afb9-57675f76bc99",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FortressArenaExclusivePlayoOfferBookfor5hourspayforonly3oarsemcover1666775101943.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "fortress-arena-exclusive-playo-offer-book-for-5-hours-pay-for-only-3!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=064d481d-e4b7-4944-afb9-57675f76bc99",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Fortress Arena Exclusive Playo Offer - Book for 5 hours & pay for only 3!",
-				"id": "7d48039f-9f4a-42da-a212-1cfde5b1d85b",
-				"offerName": "Fortress Arena Exclusive Playo Offer - Book for 5 hours & pay for only 3!",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"shareLink": "https://z34v4.app.goo.gl/PEx6",
-				"deferLink": "https://z34v4.app.goo.gl/8CWe"
-			},
-			{
-				"_id": "62d79924c45768546d3efd50",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "- Offer valid on weekdays. <br/>\n- Please add slots for 90 minutes to your cart & apply the coupon. ",
-				"countryCode": "+91",
-				"createdTS": "2022-07-20T05:56:52.379Z",
-				"offerContent": "064d481d-e4b7-4944-afb9-57675f76bc99",
-				"coupon": "PLAYMORE",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FortressArenaExclusivePlayoOfferBookfor60minsplayfor90mins4z9v6cover1666173191706.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "fortress-arena-exclusive-playo-offer-book-for-60-mins-play-for-90-mins!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYMORE",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=064d481d-e4b7-4944-afb9-57675f76bc99",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Fortress Arena Exclusive Playo Offer - Book for 60 mins & play for 90 mins! ",
-				"id": "753f5e3e-de01-4aed-9569-555f48bccd72",
-				"offerName": "Fortress Arena Exclusive Playo Offer - Book for 60 mins & play for 90 mins! ",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"shareLink": "https://z34v4.app.goo.gl/khzD",
-				"deferLink": "https://z34v4.app.goo.gl/vPQ7"
 			}
 		]
 	},
@@ -57490,45 +56827,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "625ed95dc457684e4afa3833",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "Book Badminton at just ₹150 per hour between 9 AM & 5 PM on all days!",
-				"countryCode": "+91",
-				"createdTS": "2022-04-19T15:46:37.210Z",
-				"offerContent": "da213140-5996-4fb8-89ed-88c7ae13c5d8",
-				"coupon": "",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FeatherShuttlersExclusivePlayoOfferBookBadmintonatjust150perhourn3yholcover1650727217271.jpg",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "feather-shuttlers-exclusive-playo-offer-book-badminton-at-just-₹150-per-hour!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=da213140-5996-4fb8-89ed-88c7ae13c5d8",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Feather Shuttlers Exclusive Playo Offer - Book Badminton at just ₹150 per hour!",
-				"id": "173f5e23-e7df-4d6e-a3e2-b0d2f14aa3c9",
-				"offerName": "Feather Shuttlers Exclusive Playo Offer - Book Badminton at just ₹150 per hour!",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395
 			}
 		]
 	},
@@ -58077,49 +57375,7 @@
 		"bnpl": false,
 		"distance": 17.248183139662398,
 		"activeKey": "the-sports-habitat-acharya-soldevanahalli-bengaluru",
-		"offers": [
-			{
-				"_id": "5d8a06abc457686d875bb4c2",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-09-24T12:06:03.910Z",
-				"offerContent": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/TSHAcharyaExclusiveOfferFlat50offonbooking2hoursormoreofFootballorBoxCricketuuuzracover1667551175445.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "tsh-acharya-exclusive-offer-flat-50-off-on-booking-2-hours-or-more-of-football-or-box-cricket!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=ea9c99d3-9912-4248-be8d-6daa93b9424b",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "TSH Acharya Exclusive Offer - Flat 50% off on booking 2 hours or more of Football or Box Cricket!",
-				"id": "cadd45e2-6dfa-42c4-88be-95135f787427",
-				"offerName": "TSH Acharya Exclusive Offer - Flat 50% off on booking 2 hours or more of Football or Box Cricket!",
-				"shareLink": "https://z34v4.app.goo.gl/rto9",
-				"deferLink": "https://z34v4.app.goo.gl/iQCc",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "- Offer valid only on weekdays. <br/>\n"
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "7829240379",
@@ -62339,45 +61595,7 @@
 		"activityCount": 27,
 		"distance": 19.294757576494412,
 		"activeKey": "mean-machine-football-arena-whitefield-bengaluru",
-		"offers": [
-			{
-				"_id": "637c8f20b66167f7270ffd37",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "Offer valid on weekends",
-				"countryCode": "+91",
-				"createdTS": "2022-11-22T08:58:08.190Z",
-				"offerContent": "08171ba4-2d0b-4e38-bffd-9124955e824b",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/MeanMachineInauguralOffer100offjv4rhmcover1669107407698.png",
-				"expiry": "2022-12-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2",
-				"activeKey": "mean-machine-inaugural-offer-₹100-off-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till December 31, 2022",
-						"content": "https://playo.co/venue/?venueId=08171ba4-2d0b-4e38-bffd-9124955e824b",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Mean Machine Inaugural Offer - ₹100 off",
-				"id": "a56fed10-d32a-41f1-b074-7590a2ebbc8f",
-				"offerName": "Mean Machine Inaugural Offer - ₹100 off"
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "3895d1e8-c3ba-4b61-83d4-5d72eb1939a3",
