@@ -52308,6 +52308,108 @@
 		]
 	},
 	{
+		"inquiryPhone": "7204672409",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "badmintonium-academy-electronic-city-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Electronic City",
+		"oldPlayoId": "2b413335-e49f-4241-9ebd-c2d95606b286",
+		"functionData": [
+			{
+				"content": "2b413335-e49f-4241-9ebd-c2d95606b286",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Parking",
+			"Restrooms",
+			"Change Rooms",
+			"First-Aid"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560100",
+		"phone": [
+			"7204672409"
+		],
+		"avgRating": 5,
+		"name": "Badmintonium Academy",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-01-01T04:58:13.737Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-01T15:50:21.206Z",
+		"ratingCount": 2,
+		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
+		"category": 2,
+		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"badmintonium@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Sy No.51/1/17, Doddathogur, Bettadaspura Road, Opposite Passion Elite apartment Electronics City, Bangalore – 560100",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=2b413335-e49f-4241-9ebd-c2d95606b286",
+		"country": "India",
+		"timings": "5AM - 11PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 6 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/SZny",
+		"deferLink": "https://z34v4.app.goo.gl/1aTX",
+		"lat": 12.852564070712509,
+		"lng": 77.65343689814785,
+		"venueId": "2b413335-e49f-4241-9ebd-c2d95606b286",
+		"__v": 2,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588141002.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588158182.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588172381.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588186447.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588211440.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"distance": 14.708617814371689,
+		"activeKey": "badmintonium-academy-electronic-city-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "3b8f0752-cf7d-4870-baab-0474ba3aa61d",
 		"cityCode": 1,
 		"description": "",
