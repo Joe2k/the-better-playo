@@ -2633,7 +2633,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 137,
+		"ratingCount": 138,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -2642,7 +2642,7 @@
 			"9620483815"
 		],
 		"sponsored": "",
-		"avgRating": 3.1,
+		"avgRating": 3,
 		"address": "3rd Floor, Bangalore One Building, N.R.Colony, Basavanagudi",
 		"active": true,
 		"id": "6a580119-8d39-41cd-a8eb-5309a238d65e",
@@ -33330,7 +33330,7 @@
 		"bookType": 0,
 		"ratingCount": 10,
 		"zipCode": "560035",
-		"modTS": "2022-08-16T15:33:23.379Z",
+		"modTS": "2023-01-02T09:44:22.684Z",
 		"inquiryPhone": "9844083397",
 		"inquiryType": -1,
 		"phone": [
@@ -33365,7 +33365,7 @@
 				"type": 3
 			}
 		],
-		"timings": "6 AM - 11 PM",
+		"timings": "6 AM - 10 PM",
 		"sports": [
 			"SP2",
 			"SP5",
@@ -33429,6 +33429,7 @@
 		"venueId": "ae00a0ae-8741-415a-8e99-792e72063c18",
 		"activityCount": 2347,
 		"activityCountLastSyncDate": "2023-01-01T18:30:02.214Z",
+		"bnpl": false,
 		"distance": 11.109609585377866,
 		"activeKey": "play-arena-off-sarjapur-road-bengaluru",
 		"offers": [
@@ -52312,8 +52313,8 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-01T15:50:21.206Z",
-		"ratingCount": 7,
+		"modTS": "2023-01-02T10:04:15.789Z",
+		"ratingCount": 9,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -52339,24 +52340,27 @@
 		"lat": 12.852564070712509,
 		"lng": 77.65343689814785,
 		"venueId": "2b413335-e49f-4241-9ebd-c2d95606b286",
-		"__v": 2,
+		"__v": 6,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588141002.jpg"
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672653768112.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588158182.jpg"
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672653790844.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588172381.jpg"
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672653801504.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588186447.jpg"
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672653822221.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672588211440.jpg"
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672653839782.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BADMINTONIUMACADEMY20230101045813737097/BadmintoniumAcademy1672653846558.jpeg"
 			}
 		],
 		"infoData": [],
