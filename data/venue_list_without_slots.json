@@ -9128,7 +9128,7 @@
 		"zipCode": "560078",
 		"activityCount": 1044,
 		"activityCountLastSyncDate": "2023-01-02T18:30:02.158Z",
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"ratingCount": 16,
 		"__v": 1,
 		"coverImage": "",
@@ -29795,7 +29795,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 43,
+		"ratingCount": 44,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -36230,7 +36230,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -42257,7 +42257,7 @@
 		"createdTS": "2018-07-25T13:19:04.765Z",
 		"inquiryType": -1,
 		"modTS": "2020-04-02T11:56:18.908Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KHADERCRICKETACADEMY/KhaderCricketAcademy185.png"
