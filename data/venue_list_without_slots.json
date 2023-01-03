@@ -1532,7 +1532,7 @@
 		"description": "",
 		"createdTS": "2021-10-22T09:28:48.497Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "560004",
 		"modTS": "2022-12-16T15:53:11.267Z",
 		"inquiryPhone": "8951980195",
@@ -17938,7 +17938,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 217,
+		"ratingCount": 218,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -27100,7 +27100,9 @@
 		"sports": [
 			"SP5",
 			"SP2",
-			"SP56"
+			"SP56",
+			"SP4",
+			"SP7"
 		],
 		"priority": 0,
 		"amenities": [
@@ -27124,7 +27126,7 @@
 		"coverImage": "https://playo.gumlet.io/AHALYASPORTSARENA/AhalyaSportsArena37.png",
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-03T05:41:45.839Z",
+		"modTS": "2023-01-03T15:59:42.283Z",
 		"ratingCount": 246,
 		"images": [
 			{
@@ -27176,7 +27178,9 @@
 		"bookSports": [
 			"SP5",
 			"SP2",
-			"SP56"
+			"SP56",
+			"SP4",
+			"SP7"
 		],
 		"bookType": 0,
 		"dateLimit": 14,
@@ -33133,7 +33137,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 185,
+		"ratingCount": 188,
 		"zipCode": "560068",
 		"modTS": "2022-06-15T06:34:00.798Z",
 		"inquiryPhone": "8095514666",
@@ -62620,7 +62624,7 @@
 		"description": "",
 		"createdTS": "2019-04-02T09:20:26.213Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "560100",
 		"modTS": "2022-03-31T06:37:43.790Z",
 		"inquiryPhone": "8217771650",
