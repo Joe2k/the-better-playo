@@ -38928,7 +38928,7 @@
 		"createdTS": "2017-01-07T17:23:44.221Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-21T12:47:42.419Z",
-		"ratingCount": 259,
+		"ratingCount": 260,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ACTIVEARENA/1.png"
@@ -52685,7 +52685,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
@@ -52694,7 +52694,7 @@
 			"7090085007"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"address": "#74, Kodipalya Main Road, Near Ram Medicals, Kodipalya, Kengeri, Bangalore - 560060",
 		"active": true,
 		"id": "6f78edc6-8c04-414e-a756-6012c478d504",
