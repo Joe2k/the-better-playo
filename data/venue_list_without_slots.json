@@ -2857,11 +2857,11 @@
 		"bookType": 0,
 		"ratingCount": 6,
 		"zipCode": "560095",
-		"modTS": "2022-10-28T12:25:54.469Z",
-		"inquiryPhone": "9858403939",
+		"modTS": "2023-01-04T11:20:04.154Z",
+		"inquiryPhone": "6362270715",
 		"inquiryType": -1,
 		"phone": [
-			"9858403939"
+			"6362270715"
 		],
 		"sponsored": "",
 		"avgRating": 4.3,
@@ -9128,8 +9128,8 @@
 		"zipCode": "560078",
 		"activityCount": 1059,
 		"activityCountLastSyncDate": "2023-01-03T18:30:02.231Z",
-		"avgRating": 3.9,
-		"ratingCount": 16,
+		"avgRating": 4,
+		"ratingCount": 17,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T15:53:14.731Z",
@@ -11034,7 +11034,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 304,
+		"ratingCount": 305,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -16906,7 +16906,7 @@
 		"description": "",
 		"createdTS": "2021-02-01T14:36:00.849Z",
 		"bookType": 0,
-		"ratingCount": 34,
+		"ratingCount": 35,
 		"zipCode": "560068",
 		"modTS": "2022-07-04T09:06:36.177Z",
 		"inquiryPhone": "9900775253",
@@ -34126,7 +34126,7 @@
 		"createdTS": "2017-01-07T17:23:44.189Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-04T06:49:40.368Z",
-		"ratingCount": 369,
+		"ratingCount": 370,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH&SPRINT/SmashSprint1647445013185.jpg"
@@ -34323,7 +34323,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 43,
+		"ratingCount": 44,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -35993,7 +35993,7 @@
 		"createdTS": "2018-10-11T07:15:01.485Z",
 		"inquiryType": -1,
 		"modTS": "2020-12-29T05:31:22.029Z",
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERBADMINTONCENTRE/WhiteFeatherBadmintonCentreAECSLayout3.jpeg"
@@ -37986,7 +37986,7 @@
 		"createdTS": "2018-02-23T13:43:06.871Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-25T12:40:57.340Z",
-		"ratingCount": 139,
+		"ratingCount": 140,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KUDLUBADMINTONCENTRE/kudlubadmintoncentre0.jpg"
@@ -43321,7 +43321,7 @@
 		"createdTS": "2018-08-30T18:55:41.963Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-23T10:23:00.603Z",
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLESHOTS/shuttleshots0.jpg"
@@ -52685,7 +52685,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
@@ -52694,7 +52694,7 @@
 			"7090085007"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.6,
 		"address": "#74, Kodipalya Main Road, Near Ram Medicals, Kodipalya, Kengeri, Bangalore - 560060",
 		"active": true,
 		"id": "6f78edc6-8c04-414e-a756-6012c478d504",
@@ -54924,7 +54924,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -55616,7 +55616,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 316,
+		"ratingCount": 317,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -58255,7 +58255,7 @@
 		"description": "",
 		"createdTS": "2019-06-04T11:44:20.666Z",
 		"bookType": 0,
-		"ratingCount": 49,
+		"ratingCount": 50,
 		"zipCode": "560035",
 		"modTS": "2020-12-09T11:47:37.615Z",
 		"inquiryPhone": "9738522221",
