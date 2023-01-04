@@ -19882,7 +19882,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.157Z",
 		"inquiryType": -1,
-		"modTS": "2022-02-06T16:13:32.114Z",
+		"modTS": "2023-01-04T06:51:04.651Z",
 		"ratingCount": 117,
 		"images": [
 			{
@@ -19918,7 +19918,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=389ba53d-f0e5-469e-8af7-b78115b89c38",
 		"country": "India",
 		"timings": "5 AM - 1 AM",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed.\n<br/>",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed.\n<br/>\n\nBox Cricket: <br/>\n- Bring your own tennis ball for the game. <br/>\n- Stumps and wooden bat will be provided. <br/>\n<br/>",
 		"bookSports": [
 			"SP2",
 			"SP56"
@@ -19933,6 +19933,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 5225,
 		"activityCountLastSyncDate": "2023-01-03T18:30:02.231Z",
+		"bnpl": false,
 		"distance": 9.311954565377055,
 		"activeKey": "kick-on-sweat-on-hsr-layout-bengaluru",
 		"offers": [
@@ -21488,7 +21489,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 406,
+		"ratingCount": 407,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -23100,7 +23101,7 @@
 		"description": "",
 		"createdTS": "2019-08-05T17:59:15.867Z",
 		"bookType": 0,
-		"ratingCount": 90,
+		"ratingCount": 91,
 		"zipCode": "560078",
 		"modTS": "2022-02-28T14:59:55.604Z",
 		"inquiryPhone": "7795635133",
@@ -23283,7 +23284,7 @@
 		"createdTS": "2017-11-08T11:37:17.360Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-11T08:25:26.838Z",
-		"ratingCount": 175,
+		"ratingCount": 176,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ERELAXBADMINTONCLUB/erelaxbadmintonclub10.jpg"
@@ -33137,7 +33138,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 188,
+		"ratingCount": 189,
 		"zipCode": "560068",
 		"modTS": "2022-06-15T06:34:00.798Z",
 		"inquiryPhone": "8095514666",
@@ -35433,7 +35434,7 @@
 		"coverImage": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademycovercover1611127354753.jpeg",
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
-		"modTS": "2022-10-06T07:21:04.884Z",
+		"modTS": "2023-01-04T07:05:40.918Z",
 		"ratingCount": 35,
 		"images": [
 			{
@@ -35468,7 +35469,7 @@
 		"address": "No. 42, Cars24 Stock Yard, Dinne Anjaneya Swamy Temple Road, Haralur Main Road, Brigade Millennium Avenue, J R Layout, Eastwood Township, Haralur, Karnataka",
 		"active": true,
 		"deferLink": "https://z34v4.app.goo.gl/Ww2h",
-		"search": "Badminton|Star Badminton Academy|Sarjapur Road|Synthetic",
+		"search": "Badminton|Star Badminton Academy|Synthetic",
 		"fullLink": "https://playo.co/venue/?venueId=7e6ff9aa-8df4-423e-8b1a-3a14fc846e26",
 		"country": "India",
 		"timings": "5 AM - 12 AM",
@@ -37278,7 +37279,7 @@
 		"description": "",
 		"createdTS": "2020-03-12T12:38:59.995Z",
 		"bookType": 0,
-		"ratingCount": 49,
+		"ratingCount": 50,
 		"zipCode": "560108",
 		"modTS": "2022-12-05T14:32:52.917Z",
 		"inquiryPhone": "8095514666",
@@ -37287,7 +37288,7 @@
 			"9606460392"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"address": "Fettle Fitness & Sports Studio. Full Address: #3, Raghavana Payla Main Road, J P Nagar, 9th Phase, Bangalore, 560108",
 		"active": true,
 		"id": "ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
@@ -47111,7 +47112,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.013Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-18T16:45:45.643Z",
+		"modTS": "2023-01-04T07:09:46.925Z",
 		"ratingCount": 28,
 		"images": [
 			{
@@ -47137,7 +47138,7 @@
 		"address": "Sol Sports Academy, near WIPRO, opposite Radha Reddy Layout, beside Mana Pristine Apartment,Doddakannali, off Sarjapur Road",
 		"active": true,
 		"deferLink": "https://z34v4.app.goo.gl/bTwk",
-		"search": "|Tennis|Sol Sports Academy - Sarjapur road|Sol Sports Academy, near WIPRO, opposite Radha Reddy Layout, beside Mana Pristine Apartment,Doddakannali, off Sarjapur Road|Sarjapur road|Bangalore|Washroom, Refreshments, Parking, First Aid, Wi-fi, Pick and drop|Only non marking tennis shoes are allowedBookings have to be made 3 hours prior to the desired slot|Near Wipro, Clay Court",
+		"search": "Sol Sports Tennis Academy,Tennis,Clay",
 		"fullLink": "https://playo.co/venue/?venueId=78ac964b-781d-46f6-909d-a9bcd9d3dc6c",
 		"country": "India",
 		"timings": "6:30 AM - 6:30 PM",
@@ -47155,6 +47156,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 532,
 		"activityCountLastSyncDate": "2023-01-03T18:30:02.231Z",
+		"bnpl": false,
 		"distance": 12.822544187750509,
 		"activeKey": "sol-sports-tennis-academy-sarjapur-road-doddakannelli-bengaluru",
 		"offers": [
@@ -60725,11 +60727,11 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "ms-ground-sarjapur-road-bangalore"
+				"key": "ms-ground-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/gcjk",
-		"city": "Bangalore",
+		"shareLink": "https://z34v4.app.goo.gl/FnwJ",
+		"city": "Bengaluru",
 		"area": "Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab07dc",
 		"functionData": [],
@@ -60754,7 +60756,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.062Z",
 		"inquiryType": -1,
-		"modTS": "2019-10-29T11:03:03.072Z",
+		"modTS": "2023-01-04T07:04:31.418Z",
 		"ratingCount": 19,
 		"images": [
 			{
@@ -60785,8 +60787,8 @@
 		"members": false,
 		"address": "Carmelaram Post, Near Delhi public school east, Sarjapur main road",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/NXOp",
-		"search": "Cricket|MS Ground|Carmelaram Post, Near Delhi public school east, Sarjapur main road|Sarjapur Road|Bangalore|Parking||null",
+		"deferLink": "https://z34v4.app.goo.gl/YDyH",
+		"search": "Cricket|MS Ground|Carmelaram Post, Near Delhi public school east,Bangalore|Parking||null",
 		"fullLink": "https://playo.co/venue/?venueId=a119c1a7-ec55-408b-bafe-aede3ee44824",
 		"country": "India",
 		"timings": "8:00 AM to 6:00 PM",
@@ -60803,8 +60805,9 @@
 		"isSafeAndHygiene": false,
 		"activityCount": 92,
 		"activityCountLastSyncDate": "2023-01-03T18:30:02.231Z",
+		"bnpl": false,
 		"distance": 17.425743061471827,
-		"activeKey": "ms-ground-sarjapur-road-bangalore",
+		"activeKey": "ms-ground-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -61161,7 +61164,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-25T06:45:14.578Z",
+		"modTS": "2023-01-04T07:01:07.494Z",
 		"ratingCount": 3,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
@@ -61177,7 +61180,7 @@
 		"members": false,
 		"address": "126/5, Sulikunte Village, Varthur Hobli, Sarjapur - Marathahalli Rd, Bengaluru, Karnataka 562125",
 		"active": true,
-		"search": "",
+		"search": "Sarjapur,Sarjapur Road,Foootball,Football,Futball,Squash,Squaash",
 		"fullLink": "https://playo.co/venue?venueId=52a84160-1596-4f06-8129-e93b5c9db88b",
 		"country": "India",
 		"timings": "6AM - 9PM",
@@ -67243,7 +67246,6 @@
 			"SP67",
 			"SP60",
 			"SP58",
-			"SP7",
 			"SP45"
 		],
 		"priority": 0,
@@ -67268,7 +67270,7 @@
 		"coverImage": "",
 		"createdTS": "2017-06-09T11:49:42.151Z",
 		"inquiryType": -1,
-		"modTS": "2021-02-06T09:53:19.771Z",
+		"modTS": "2023-01-04T06:47:18.321Z",
 		"ratingCount": 18,
 		"images": [
 			{
@@ -67340,7 +67342,6 @@
 			"SP67",
 			"SP60",
 			"SP58",
-			"SP7",
 			"SP45"
 		],
 		"bookType": 0,
@@ -67353,6 +67354,7 @@
 		"__v": 1,
 		"activityCount": 23,
 		"activityCountLastSyncDate": "2023-01-03T18:30:02.231Z",
+		"bnpl": false,
 		"distance": 20.688766735862554,
 		"activeKey": "mugabu-sports-dommasandra-bengaluru",
 		"offers": []
@@ -81925,10 +81927,10 @@
 		"functionData": [
 			{
 				"content": "92a9b8ab-def7-439d-8d97-79c9b38bfc88",
+				"caption": "Enquire Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 2,
-				"caption": "Enquire Now!",
 				"type": 2
 			}
 		],
@@ -81954,7 +81956,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.060Z",
 		"inquiryType": 0,
-		"modTS": "2022-11-16T07:16:59.079Z",
+		"modTS": "2023-01-04T07:02:51.475Z",
 		"ratingCount": 21,
 		"images": [
 			{
@@ -81980,7 +81982,7 @@
 		"address": "Survey 96/1, Sarjapur Road",
 		"active": true,
 		"deferLink": "https://z34v4.app.goo.gl/bJKw",
-		"search": "Football|Decathlon Sarjapur|Survey 96/1, Sarjapur Road|Sarjapur Road|Bangalore|Parking, First-Aid||null",
+		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=92a9b8ab-def7-439d-8d97-79c9b38bfc88",
 		"country": "India",
 		"timings": "10:00 AM to 8:00 PM",
