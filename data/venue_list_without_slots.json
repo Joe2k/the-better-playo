@@ -50307,7 +50307,7 @@
 		"activityCount": 173,
 		"activityCountLastSyncDate": "2023-01-04T18:30:02.417Z",
 		"avgRating": 5,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"bnpl": false,
 		"bookSports": [
 			"SP2",
@@ -51164,7 +51164,8 @@
 		"sports": [
 			"SP5",
 			"SP2",
-			"SP6"
+			"SP6",
+			"SP56"
 		],
 		"priority": 0,
 		"amenities": [
@@ -51188,7 +51189,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
-		"modTS": "2022-08-09T09:00:03.863Z",
+		"modTS": "2023-01-05T10:44:59.893Z",
 		"ratingCount": 273,
 		"images": [
 			{
@@ -51241,7 +51242,8 @@
 		"bookSports": [
 			"SP5",
 			"SP2",
-			"SP6"
+			"SP6",
+			"SP56"
 		],
 		"bookType": 0,
 		"dateLimit": 14,
@@ -51254,6 +51256,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 24493,
 		"activityCountLastSyncDate": "2023-01-04T18:30:02.417Z",
+		"bnpl": false,
 		"distance": 13.592211310914923,
 		"activeKey": "iblitz-sports-club-hoodi-off-whitefield-main-road-bengaluru",
 		"offers": []
