@@ -3921,7 +3921,7 @@
 		"createdTS": "2017-11-27T12:20:25.472Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:55:41.856Z",
-		"ratingCount": 238,
+		"ratingCount": 239,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KRISHNAPREMIERBADMINTONACADEMY/krishnapremierbadmintonacademy0.jpg"
@@ -26715,7 +26715,7 @@
 		"description": "",
 		"createdTS": "2019-10-25T07:01:45.706Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560056",
 		"modTS": "2022-11-10T08:42:58.632Z",
 		"inquiryPhone": "9448376651",
@@ -26724,7 +26724,7 @@
 			"9448376651"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.2,
 		"address": "Rangappa Industrial Estate, Kengunte, Mallathahalli, Near Rajeev Gandhi Polytechnic, Bangalore",
 		"active": true,
 		"id": "7363c548-fe37-47a7-888e-ed9b16f59973",
@@ -52048,7 +52048,7 @@
 		"bookType": 0,
 		"ratingCount": 6,
 		"zipCode": "560035",
-		"modTS": "2022-12-23T12:12:21.015Z",
+		"modTS": "2023-01-06T04:52:15.360Z",
 		"inquiryPhone": "9738433530",
 		"inquiryType": -1,
 		"phone": [
@@ -52111,16 +52111,22 @@
 			"arunku31@gmail.com"
 		],
 		"s3Folder": "TESTBADMINTONARENA20220103114606139672",
-		"__v": 3,
+		"__v": 4,
 		"coverImage": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/TestBadmintonArenacovercover1641210331616.jpg",
 		"deferLink": "https://z34v4.app.goo.gl/MFLT",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/AransSportsClub1641798659135.jpeg"
+				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/AxisAranSportsAcademy1672980717955.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/AransSportsClub1641798662804.jpeg"
+				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/AxisAranSportsAcademy1672980728606.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/aranssportsclub1641798659135.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TESTBADMINTONARENA20220103114606139672/aranssportsclub1641798662804.jpeg"
 			}
 		],
 		"infoData": [],
