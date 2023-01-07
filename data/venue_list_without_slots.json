@@ -11351,7 +11351,7 @@
 		"description": "",
 		"createdTS": "2022-07-21T09:22:10.201Z",
 		"bookType": 0,
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"zipCode": "560040",
 		"modTS": "2022-11-19T09:39:29.326Z",
 		"inquiryPhone": "8660374210",
@@ -26900,7 +26900,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 257,
+		"ratingCount": 258,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
