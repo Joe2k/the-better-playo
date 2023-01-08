@@ -19481,7 +19481,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -30971,7 +30971,7 @@
 		"phone": [
 			"7406600944"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"name": "Sporthood TurfPark HSR",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-11-14T18:51:41.993Z",
@@ -30979,7 +30979,7 @@
 		"createdTS": "2018-11-14T18:51:41.993Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-11T18:41:45.707Z",
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TURFPARKHSR/TurfParkHSR6.JPG"
@@ -56477,7 +56477,7 @@
 		"description": "",
 		"createdTS": "2020-02-10T17:41:21.541Z",
 		"bookType": 0,
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"zipCode": "5600064",
 		"modTS": "2021-12-19T06:44:01.666Z",
 		"inquiryPhone": "9632075709",
@@ -56486,7 +56486,7 @@
 			"9632075709"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"address": "#686/42/3, 8th Cross Rd, near CQAL Layout, Attur Layout",
 		"active": true,
 		"id": "8e125398-0393-46ee-a3a7-1ba0b6ccd6fc",
@@ -66370,7 +66370,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 170,
+		"ratingCount": 171,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
