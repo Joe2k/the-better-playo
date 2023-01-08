@@ -22960,7 +22960,7 @@
 		"description": "",
 		"createdTS": "2022-04-25T05:03:38.694Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560097",
 		"modTS": "2022-11-05T16:33:23.540Z",
 		"inquiryPhone": "7660010620",
@@ -22969,7 +22969,7 @@
 			"7660010620"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"address": "2nd Floor, Vyasa International School, Sy.101/2, BEL North Gate, Vidyaranyapura, Bangalore – 560097",
 		"active": true,
 		"id": "a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
@@ -25930,7 +25930,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-31T05:46:07.502Z",
-		"ratingCount": 136,
+		"ratingCount": 137,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/letzplay0.jpg"
@@ -28440,7 +28440,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 70,
+		"ratingCount": 71,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -28449,7 +28449,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "#86, next to little Elly Play School, Royal Placid Layout, Sector 2, HSR Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "e5dc74f0-a1f3-482a-a85e-f5b032e9ef85",
@@ -65090,7 +65090,7 @@
 		"createdTS": "2022-11-15T15:53:50.524Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-29T08:17:32.714Z",
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"id": "08171ba4-2d0b-4e38-bffd-9124955e824b",
 		"category": 2,
 		"s3Folder": "MEANMACHINEFOOTBALLARENA20221115155350524723",
