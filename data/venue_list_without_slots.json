@@ -39758,7 +39758,7 @@
 		"description": "",
 		"createdTS": "2021-09-22T11:36:03.213Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560056",
 		"modTS": "2022-06-24T16:15:17.343Z",
 		"inquiryPhone": "9886066911",
@@ -44723,7 +44723,7 @@
 		"description": "",
 		"createdTS": "2020-10-27T05:44:48.907Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560083",
 		"modTS": "2022-11-29T08:08:35.478Z",
 		"inquiryPhone": "9538451451",
@@ -44732,7 +44732,7 @@
 			"9538451451"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"address": "72/2, Vadrapalya, 2nd Block, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560083",
 		"active": true,
 		"id": "f293c673-1017-46bd-95fb-331a72c373cc",
@@ -55725,7 +55725,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 317,
+		"ratingCount": 318,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
