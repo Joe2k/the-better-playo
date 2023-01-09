@@ -6964,7 +6964,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -51701,7 +51701,7 @@
 		"bookType": 0,
 		"ratingCount": 130,
 		"zipCode": "560066",
-		"modTS": "2022-04-06T15:01:53.771Z",
+		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
 		"inquiryType": -1,
 		"phone": [
@@ -51767,7 +51767,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps and goggles are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Swimming will be prohibited during the maintenance of the pool.<br/>\n- Customers have an option of buying caps and goggles at the venue.<br/>\n- Please maintain the decorum while using the bathing room.<br/>\n<br/>\n<br/>\n\n\nTennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Socks are compulsory for shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps and goggles are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Swimming will be prohibited during the maintenance of the pool.<br/>\n- Customers have an option of buying caps and goggles at the venue.<br/>\n- Please maintain the decorum while using the bathing room.<br/>\n<br/>\n<br/>\n\n\nTennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Socks are compulsory for shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\n\nNOTE: Venue doesn't provide any accessories for the Outdoor Games such as Box Cricket, Football, Tennis, Badminton, etc.",
 		"fullLink": "https://playo.co/venue?venueId=69d6faf0-069a-4af8-96de-449575c308c9",
 		"type": 0,
 		"email": [
@@ -51855,6 +51855,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 26589,
 		"activityCountLastSyncDate": "2023-01-08T18:30:02.286Z",
+		"bnpl": false,
 		"distance": 13.697008580069323,
 		"activeKey": "mkr-sports-arena-whitefield-bengaluru",
 		"offers": [
