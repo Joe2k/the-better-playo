@@ -31241,7 +31241,7 @@
 		"description": "",
 		"createdTS": "2021-06-30T04:24:57.594Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560043",
 		"modTS": "2022-09-13T10:58:56.634Z",
 		"inquiryPhone": "8310317991",
@@ -31250,7 +31250,7 @@
 			"8310317991"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 3.8,
 		"address": "80ft Kalkere main road, Near Veeranjeneya Temple, Horamavu, Bangalore - 560043",
 		"active": true,
 		"id": "7ed56ea0-14c7-421b-9995-cd019137f503",
@@ -49945,7 +49945,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 551,
+		"ratingCount": 552,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
