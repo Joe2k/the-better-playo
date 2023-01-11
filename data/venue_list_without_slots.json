@@ -13644,7 +13644,7 @@
 		"description": "",
 		"createdTS": "2020-09-25T03:07:47.222Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560075",
 		"modTS": "2022-06-15T16:26:46.431Z",
 		"inquiryPhone": "9880756004",
@@ -13653,7 +13653,7 @@
 			"9880756004"
 		],
 		"sponsored": "",
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"address": "No 76/134, Muniramaya Ground, Near Global City International School, Malleshpalya, Kaggadasapura, Bengaluru, Karnataka",
 		"active": true,
 		"id": "28a20530-76f8-4e95-bcd4-3e72f995ef6a",
@@ -14027,7 +14027,7 @@
 		"description": "",
 		"createdTS": "2020-08-28T14:11:13.396Z",
 		"bookType": 0,
-		"ratingCount": 50,
+		"ratingCount": 51,
 		"zipCode": "560078",
 		"modTS": "2021-12-17T10:00:18.989Z",
 		"inquiryPhone": "9900784399",
@@ -52796,7 +52796,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
@@ -55035,7 +55035,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -56619,7 +56619,7 @@
 		"description": "",
 		"createdTS": "2021-10-25T02:35:06.208Z",
 		"bookType": 0,
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"zipCode": "560100",
 		"modTS": "2022-04-10T10:13:26.850Z",
 		"inquiryPhone": "7892479805",
@@ -64501,7 +64501,7 @@
 		"phone": [
 			"9591455366"
 		],
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"name": "Flying Feathers Badminton Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-12-06T13:20:19.572Z",
@@ -64509,7 +64509,7 @@
 		"createdTS": "2017-12-06T13:20:19.572Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T08:27:50.092Z",
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub17.png"
