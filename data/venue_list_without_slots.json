@@ -22599,7 +22599,7 @@
 		"bookType": 0,
 		"ratingCount": 94,
 		"zipCode": "560037",
-		"modTS": "2022-07-27T11:21:13.070Z",
+		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
 		"inquiryType": -1,
 		"phone": [
@@ -22607,7 +22607,7 @@
 		],
 		"sponsored": "",
 		"avgRating": 3.9,
-		"address": "4, Kempapura, Bellandur, Kempapura",
+		"address": "4, Kempapura, Bellandur, Yemlur",
 		"active": true,
 		"id": "79095eca-8f6d-4df2-9896-8467a459055f",
 		"category": 2,
@@ -22616,8 +22616,8 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Ace Badminton Academy - Yemlur",
-		"area": "Kempapura",
+		"name": "Ace Badminton Arena",
+		"area": "Yemlur",
 		"sponsoredRadius": 3,
 		"country": "India",
 		"tags": [],
@@ -22645,7 +22645,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "ace-badminton-academy-yemlur-kempapura-bengaluru"
+				"key": "ace-badminton-arena-yemlur-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -22657,26 +22657,32 @@
 			"syed@gametheory.in"
 		],
 		"s3Folder": "GAMETHEORYYEMALUR20190530083555073061",
-		"shareLink": "https://z34v4.app.goo.gl/84u8",
-		"deferLink": "https://z34v4.app.goo.gl/KbGB",
+		"shareLink": "https://z34v4.app.goo.gl/FUWL",
+		"deferLink": "https://z34v4.app.goo.gl/CnwP",
 		"lat": 12.944641,
 		"lng": 77.678292,
 		"venueId": "79095eca-8f6d-4df2-9896-8467a459055f",
-		"__v": 7,
-		"coverImage": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/GameTheoryYemalurcovercover1560580763239.JPG",
+		"__v": 9,
+		"coverImage": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArenacovercover1673429198390.jpeg",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/gametheoryyemalur1614571988241.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArena1673429161793.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/gametheoryyemalur1614571994131.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArena1673429166222.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/gametheoryyemalur1614572000673.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArena1673429169522.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/gametheoryyemalur1614572006497.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArena1673429173643.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArena1673429178803.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GAMETHEORYYEMALUR20190530083555073061/AceBadmintonArena1673429182393.jpeg"
 			}
 		],
 		"infoData": [],
@@ -22686,8 +22692,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 7222,
 		"activityCountLastSyncDate": "2023-01-10T18:30:00.513Z",
+		"bnpl": false,
 		"distance": 9.562371929288089,
-		"activeKey": "ace-badminton-academy-yemlur-kempapura-bengaluru",
+		"activeKey": "ace-badminton-arena-yemlur-bengaluru",
 		"offers": []
 	},
 	{
@@ -33244,7 +33251,7 @@
 		"bookType": 0,
 		"ratingCount": 190,
 		"zipCode": "560068",
-		"modTS": "2022-06-15T06:34:00.798Z",
+		"modTS": "2023-01-11T08:12:55.476Z",
 		"inquiryPhone": "8095514666",
 		"inquiryType": -1,
 		"phone": [
@@ -33319,7 +33326,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. <br/>\n- Sports equipment available on rent: Badminton Rackets, Badminton Shoes<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/><br/>\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming attire is sold at the venue.<br/>\n- Swimming caps are mandatory.<br/>\n- Shower before entering into the pool.<br/>\n- The Pool is closed every Monday for maintenance.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/><br/>\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming attire is sold at the venue.<br/>\n- Swimming caps are mandatory.<br/>\n- Shower before entering into the pool.<br/>\n- The Pool is closed every Monday for maintenance.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=353218b0-36cc-427c-aeed-4bfc51b7c9a0",
 		"type": 0,
 		"email": [
@@ -33398,6 +33405,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 25413,
 		"activityCountLastSyncDate": "2023-01-10T18:30:00.513Z",
+		"bnpl": false,
 		"distance": 10.993329928838696,
 		"activeKey": "score-bengaluru-sports-park-chikka-begur-bengaluru",
 		"offers": []
