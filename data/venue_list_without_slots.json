@@ -24119,7 +24119,7 @@
 		"bookType": 0,
 		"ratingCount": 4,
 		"zipCode": "560102",
-		"modTS": "2021-12-26T06:57:50.199Z",
+		"modTS": "2023-01-11T14:51:41.003Z",
 		"inquiryPhone": "9513078899",
 		"inquiryType": -1,
 		"phone": [
@@ -24152,7 +24152,7 @@
 				"type": 3
 			}
 		],
-		"timings": "8:00 AM - 7:30 PM",
+		"timings": "8:00 AM - 8:30 PM",
 		"sports": [
 			"SP43",
 			"SP59"
@@ -24209,6 +24209,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 43,
 		"activityCountLastSyncDate": "2023-01-10T18:30:00.513Z",
+		"bnpl": false,
 		"distance": 9.736173023884085,
 		"activeKey": "ziel-rifle-society-hsr-layout-bengaluru",
 		"offers": [
@@ -66372,7 +66373,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 171,
+		"ratingCount": 172,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
