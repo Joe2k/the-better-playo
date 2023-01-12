@@ -5504,7 +5504,7 @@
 		"description": "",
 		"createdTS": "2019-10-07T08:15:10.938Z",
 		"bookType": 0,
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"zipCode": "560017",
 		"modTS": "2022-11-07T12:06:15.045Z",
 		"inquiryPhone": "8884177421",
@@ -8102,6 +8102,108 @@
 		"activityCountLastSyncDate": "2023-01-11T18:30:02.538Z",
 		"distance": 6.993912835606519,
 		"activeKey": "jp-badminton-academy-sanjaynagar-next-to-shikshasagar-high-school-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "9986050491",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "arihant-group-of-institutions-kanakapura-road-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP2",
+			"SP57"
+		],
+		"area": "Kanakapura Road",
+		"oldPlayoId": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
+		"functionData": [
+			{
+				"content": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2",
+			"SP57"
+		],
+		"amenities": [
+			"Parking",
+			"Restrooms",
+			"Change Rooms",
+			"First-Aid"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560062",
+		"phone": [
+			"9986050491"
+		],
+		"avgRating": 0,
+		"name": "Arihant Group of Institutions",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-01-05T15:56:46.541Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-12T13:13:35.445Z",
+		"ratingCount": 0,
+		"id": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
+		"category": 2,
+		"s3Folder": "ARIHANTGROUPOFINSTITUTIONS20230105155646541126",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"ashok@agiedu.in"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Arihant Global Campus-,#2/1237, Thalaghattapura, Kanakapura Main Road, opposite Metro pole no 275 Bengaluru 560062",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=3368a59f-0311-45ec-9ee9-c492fc9d4569",
+		"country": "India",
+		"timings": "4 PM - 12 AM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/PQ97",
+		"deferLink": "https://z34v4.app.goo.gl/bzUd",
+		"lat": 12.912183908157612,
+		"lng": 77.57304008090361,
+		"venueId": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
+		"activityCountLastSyncDate": "2023-01-11T18:30:02.538Z",
+		"__v": 2,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/ARIHANTGROUPOFINSTITUTIONS20230105155646541126/ArihantGroupofInstitutions1673529193851.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ARIHANTGROUPOFINSTITUTIONS20230105155646541126/ArihantGroupofInstitutions1673529197688.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ARIHANTGROUPOFINSTITUTIONS20230105155646541126/ArihantGroupofInstitutions1673529202025.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ARIHANTGROUPOFINSTITUTIONS20230105155646541126/ArihantGroupofInstitutions1673529206093.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"distance": 7.015548607263409,
+		"activeKey": "arihant-group-of-institutions-kanakapura-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -63485,12 +63587,12 @@
 		]
 	},
 	{
-		"name": "True Bounce Tennis Academy - Whitefield",
+		"name": "True Bounce Football Academy - Whitefield",
 		"area": "Seegehalli",
 		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
-		"googleMapLink": "https://www.google.com/maps/place/Sports+Central/@12.9151325,77.6707588,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae13726fdd6a7f:0xe7b41b155ff81e79!8m2!3d12.9151273!4d77.6729475",
-		"googlePlusCode": "WM8F+35 Bengaluru, Karnataka",
-		"website": "",
+		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
+		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
+		"website": "sbablr.com",
 		"email": [
 			"murugantbta@gmail.com"
 		],
@@ -63503,7 +63605,7 @@
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "685f436f-2edd-41af-9af9-a352680c0cbc",
+				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
 				"caption": "Book Now!",
 				"type": 3
 			}
@@ -63511,15 +63613,15 @@
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP3"
+			"SP2"
 		],
-		"timings": "7 AM  - 5 PM",
+		"timings": "7 AM - 6 PM",
 		"cityCode": 1,
-		"id": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
-		"oldPlayoId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
 		"category": 2,
 		"inquiryPhone": "9880263006",
-		"s3Folder": "TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC",
+		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
 		"source": "uttam",
 		"everyDayTimings": {
 			"Mon": "5AM–11PM",
@@ -63534,37 +63636,19 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru"
+				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
 			}
 		],
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031094554.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031101763.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031105174.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031109734.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031116574.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031120633.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031125784.jpg"
+				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-08-09T07:45:37.568Z",
-		"shareLink": "https://z34v4.app.goo.gl/SrFj",
-		"deferLink": "https://z34v4.app.goo.gl/v6Aw",
-		"fullLink": "https://playo.co/venue/?venueId=5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"modTS": "2022-08-09T07:38:16.948Z",
+		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
+		"deferLink": "https://z34v4.app.goo.gl/iXNK",
+		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
 		"amenities": [
 			"Parking",
 			"First Aid",
@@ -63573,7 +63657,7 @@
 			"Drinking Water"
 		],
 		"tags": [],
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
@@ -63584,68 +63668,26 @@
 		"sponsoredRadius": 4,
 		"state": "Karnataka",
 		"type": 0,
-		"venueId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
 		"zipCode": "560067",
 		"members": false,
 		"isSafeAndHygiene": true,
-		"__v": 4,
+		"__v": 3,
 		"avgRating": 5,
 		"coverImage": "",
-		"createdTS": "2021-07-16T08:03:59.005Z",
+		"createdTS": "2021-07-16T08:00:52.103Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
 		"ratingCount": 1,
 		"bookSports": [
-			"SP3"
+			"SP2"
 		],
-		"activityCount": 17,
+		"activityCount": 1,
 		"activityCountLastSyncDate": "2023-01-11T18:30:02.538Z",
 		"distance": 18.587868338314955,
-		"activeKey": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
+		"offers": []
 	},
 	{
 		"name": "True Bounce Tennis Academy - Whitefield",
@@ -70695,6 +70737,142 @@
 				"offerName": "Birdee Badminton Court Playo Offer - Flat 15% off on all bookings!",
 				"shareLink": "https://z34v4.app.goo.gl/mDmv",
 				"deferLink": "https://z34v4.app.goo.gl/8v1e"
+			}
+		]
+	},
+	{
+		"inquiryPhone": "9894771017",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "7-eleven-badminton-academy-hosur-chennai"
+			}
+		],
+		"city": "Chennai",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Hosur",
+		"oldPlayoId": "06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+		"functionData": [
+			{
+				"content": "06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Parking",
+			"Washroom",
+			"Resting Space",
+			"Drinking Water"
+		],
+		"type": 0,
+		"cityCode": 6,
+		"bookType": 0,
+		"zipCode": "635109",
+		"phone": [
+			"9894771017"
+		],
+		"avgRating": 5,
+		"name": "7 Eleven Badminton Academy",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-01-12T12:47:43.905Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-12T12:48:51.597Z",
+		"ratingCount": 1,
+		"id": "06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+		"category": 2,
+		"s3Folder": "7ELEVENBADMINTONACADEMY20230112124743905590",
+		"restricted": 0,
+		"state": "Tamil Nadu",
+		"email": [
+			"7elevenbah@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "524/2,525/1b, Near Hp Petrol Bunk, Royakottai Road, Karapalli, Hosur-635109",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+		"country": "India",
+		"timings": "5:00 AM - 11:00 AM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- A maximum of 6 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"__v": 1,
+		"coverImage": "https://playo.gumlet.io/7ELEVENBADMINTONACADEMY20230112124743905590/7ElevenBadmintonAcademycovercover1673527603482.jpg",
+		"deferLink": "https://z34v4.app.goo.gl/X5tg",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/7ELEVENBADMINTONACADEMY20230112124743905590/7ElevenBadmintonAcademy1673527526517.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/7ELEVENBADMINTONACADEMY20230112124743905590/7ElevenBadmintonAcademy1673527616163.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/7ELEVENBADMINTONACADEMY20230112124743905590/7ElevenBadmintonAcademy1673527622863.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "https://playo.gumlet.io/7ELEVENBADMINTONACADEMY20230112124743905590/7ElevenBadmintonAcademymap1673527536163.jpg",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/dGiY",
+		"lat": 12.7016928,
+		"lng": 77.8472922,
+		"venueId": "06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+		"distance": 40.68110277701747,
+		"activeKey": "7-eleven-badminton-academy-hosur-chennai",
+		"offers": [
+			{
+				"_id": "63c004e8b66167601e3d51ec",
+				"city": "Coimbatore",
+				"cityCode": 56,
+				"terms": "• Get flat 15% off on all bookings through Playo app, Upto ₹150.<br/>\n• Offer valid only twice per user.<br/> \n<br/>\n<br/>",
+				"countryCode": "+91",
+				"createdTS": "2023-01-12T13:02:32.608Z",
+				"offerContent": "06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/7ElevenBadmintonAcademyExclusivePlayoOfferFlat15offonallbookings2m1llycover1673528528575.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "7-eleven-badminton-academy-exclusive-playo-offer-flat-15-off-on-all-bookings-coimbatore",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venue/?venueId=06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						82.9823869,
+						17.7384734
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "7 Eleven Badminton Academy - Exclusive Playo Offer - Flat 15% off on all bookings ",
+				"id": "06dbc157-1a4b-4b58-b8a3-ce3f8e33cc82",
+				"offerName": "7 Eleven Badminton Academy - Exclusive Playo Offer - Flat 15% off on all bookings ",
+				"shareLink": "https://z34v4.app.goo.gl/Ty3S",
+				"deferLink": "https://z34v4.app.goo.gl/WqCH"
 			}
 		]
 	},
