@@ -22638,7 +22638,7 @@
 		"createdTS": "2018-06-17T08:18:45.208Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-20T18:09:40.506Z",
-		"ratingCount": 182,
+		"ratingCount": 183,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy0.jpg"
@@ -49094,7 +49094,7 @@
 		"description": "",
 		"createdTS": "2022-06-22T19:23:10.085Z",
 		"bookType": 0,
-		"ratingCount": 50,
+		"ratingCount": 51,
 		"zipCode": "560064",
 		"modTS": "2022-08-31T08:23:10.887Z",
 		"inquiryPhone": "9740579762",
@@ -50536,7 +50536,7 @@
 		"bookType": 0,
 		"ratingCount": 2,
 		"zipCode": "560083",
-		"modTS": "2022-03-07T13:14:01.227Z",
+		"modTS": "2023-01-12T16:01:11.473Z",
 		"inquiryPhone": "9916420170",
 		"inquiryType": -1,
 		"phone": [
@@ -50549,7 +50549,7 @@
 		"id": "d2a850c2-88e1-402a-9a1b-530fa720aec4",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "",
+		"search": "bannerghatta, t john , nps , national , t.john ",
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP1",
@@ -50570,7 +50570,7 @@
 				"type": 3
 			}
 		],
-		"timings": "7:30 AM to 6:30 PM",
+		"timings": "7:30 AM - 6:30 PM",
 		"sports": [
 			"SP1",
 			"SP2"
@@ -50589,7 +50589,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Only Non-Marking shoes are allowed. <br/>\n<br/>\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Only Non-Marking shoes are allowed. <br/>\n<br/>\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Ball available at venue. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=d2a850c2-88e1-402a-9a1b-530fa720aec4",
 		"type": 0,
 		"email": [
@@ -50627,6 +50627,7 @@
 		"remarks": "",
 		"activityCount": 17,
 		"activityCountLastSyncDate": "2023-01-11T18:30:02.538Z",
+		"bnpl": false,
 		"distance": 13.485142459597045,
 		"activeKey": "national-public-school-gottigere-t-john-campus-bengaluru",
 		"offers": []
