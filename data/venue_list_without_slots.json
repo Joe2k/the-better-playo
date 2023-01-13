@@ -53730,7 +53730,7 @@
 		"description": "",
 		"createdTS": "2019-11-13T12:00:29.048Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560016",
 		"modTS": "2022-09-29T13:53:10.413Z",
 		"inquiryPhone": "9900079594",
@@ -53739,7 +53739,7 @@
 			"9900079594"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "6th Floor, Neil Rao Towers, Plot #117 & 118, Road #3, EPIP Phase - 1, Whitefield Road, Bangalore",
 		"active": true,
 		"id": "125e0d09-79d6-4cff-a35d-c80f716686ed",
@@ -55724,7 +55724,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 319,
+		"ratingCount": 320,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
