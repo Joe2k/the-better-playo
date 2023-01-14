@@ -27420,7 +27420,7 @@
 		"description": "",
 		"createdTS": "2021-03-05T06:08:16.249Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560048",
 		"modTS": "2022-12-18T06:40:39.142Z",
 		"inquiryPhone": "8247245277",
@@ -27429,7 +27429,7 @@
 			"8247245277"
 		],
 		"sponsored": "",
-		"avgRating": 3.3,
+		"avgRating": 3.4,
 		"address": "Near Amrutha Bakery, B Narayanapura, Behind BBMP Park, Nearby Anjeneya Temple, Mahadevapura, Bangalore",
 		"active": true,
 		"id": "bc6fd65c-75d3-4789-9dd1-6b2c623e19b6",
@@ -39007,7 +39007,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 933,
+		"ratingCount": 934,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
