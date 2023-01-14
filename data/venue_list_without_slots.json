@@ -46303,7 +46303,7 @@
 		"coverImage": "",
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
-		"modTS": "2020-10-04T14:20:27.431Z",
+		"modTS": "2023-01-14T13:39:04.859Z",
 		"ratingCount": 214,
 		"images": [
 			{
@@ -46342,7 +46342,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=845f020e-0d16-4866-8263-13df9352fae7",
 		"country": "India",
 		"timings": "6 AM - 11 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Socks are compulsory for shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookSports": [
 			"SP5"
 		],
@@ -46356,6 +46356,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 16619,
 		"activityCountLastSyncDate": "2023-01-13T18:30:02.910Z",
+		"bnpl": false,
 		"distance": 12.649373337608578,
 		"activeKey": "new-vivas-@-pk-sports-kadubeesanahalli-bengaluru",
 		"offers": [
