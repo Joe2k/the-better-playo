@@ -8116,7 +8116,7 @@
 		"city": "Bengaluru",
 		"bookSports": [
 			"SP2",
-			"SP57"
+			"SP56"
 		],
 		"area": "Kanakapura Road",
 		"oldPlayoId": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
@@ -8132,7 +8132,7 @@
 		],
 		"sports": [
 			"SP2",
-			"SP57"
+			"SP56"
 		],
 		"amenities": [
 			"Parking",
@@ -8153,7 +8153,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-01-05T15:56:46.541Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-13T09:05:02.785Z",
+		"modTS": "2023-01-14T06:53:00.573Z",
 		"ratingCount": 0,
 		"id": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
 		"category": 2,
@@ -8173,7 +8173,7 @@
 		"fullLink": "https://playo.co/venue?venueId=3368a59f-0311-45ec-9ee9-c492fc9d4569",
 		"country": "India",
 		"timings": "4 PM - 12 AM",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Football: <br/>\n- It is compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": true,
 		"shareLink": "https://z34v4.app.goo.gl/oQu4",
 		"deferLink": "https://z34v4.app.goo.gl/xNa6",
@@ -22699,7 +22699,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 94,
+		"ratingCount": 95,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
