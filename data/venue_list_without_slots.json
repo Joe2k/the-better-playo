@@ -1147,7 +1147,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -9981,7 +9981,7 @@
 		"createdTS": "2017-01-07T17:23:44.144Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-26T16:52:00.703Z",
-		"ratingCount": 82,
+		"ratingCount": 83,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BANGALOREFOOTBALLTURF/bangalorefootballturf0.jpg"
