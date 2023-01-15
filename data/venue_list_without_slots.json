@@ -4218,7 +4218,7 @@
 		"createdTS": "2018-03-18T12:29:02.088Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T05:57:39.969Z",
-		"ratingCount": 217,
+		"ratingCount": 218,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/INFINITESPORTSARENA/infinitesportsarena1.jpg"
@@ -8147,14 +8147,14 @@
 		"phone": [
 			"9986050491"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Arihant Institute of Sports",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-05T15:56:46.541Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T06:53:00.573Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "3368a59f-0311-45ec-9ee9-c492fc9d4569",
 		"category": 2,
 		"s3Folder": "ARIHANTGROUPOFINSTITUTIONS20230105155646541126",
@@ -37241,7 +37241,7 @@
 		"createdTS": "2017-01-09T14:32:53.191Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T13:32:36.959Z",
-		"ratingCount": 291,
+		"ratingCount": 292,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VRISHIRACKETSANDSHUTTLES/vrishiracketsandshuttles0.jpg"
@@ -42184,7 +42184,7 @@
 		"description": "",
 		"createdTS": "2021-10-28T05:25:34.826Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560057",
 		"modTS": "2022-03-21T07:16:07.111Z",
 		"inquiryPhone": "9901902808",
@@ -42193,7 +42193,7 @@
 			"9901902808"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.6,
 		"address": "224, School Rd, Maheswari Nagar, T. Dasarahalli, Bengaluru, Karnataka - 560057",
 		"active": true,
 		"id": "ad50f27a-8146-4e8d-b4c6-76b215f31108",
@@ -46558,7 +46558,7 @@
 		"bookType": 0,
 		"ratingCount": 23,
 		"zipCode": "560036",
-		"modTS": "2022-11-06T14:32:26.225Z",
+		"modTS": "2023-01-15T14:27:28.391Z",
 		"inquiryPhone": "9844613174",
 		"inquiryType": -1,
 		"phone": [
@@ -46577,7 +46577,7 @@
 			"SP5",
 			"SP7",
 			"SP89",
-			"SP77"
+			"SP6"
 		],
 		"name": "Gokul Sports Arena",
 		"area": "KR Puram",
@@ -46594,20 +46594,20 @@
 				"type": 3
 			}
 		],
-		"timings": "6:30AM - 10:30PM",
+		"timings": "6:30 AM - 10:30 PM",
 		"sports": [
 			"SP5",
 			"SP7",
 			"SP89",
-			"SP77"
+			"SP6"
 		],
 		"members": false,
 		"state": "Karnataka",
 		"amenities": [
 			"Parking",
+			"First Aid",
 			"Restrooms",
-			"Cafeteria",
-			"Pro shop"
+			"Drinking Water"
 		],
 		"keywords": [
 			{
@@ -52644,7 +52644,7 @@
 		"description": "",
 		"createdTS": "2022-03-17T20:42:58.533Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560097",
 		"modTS": "2022-10-09T15:08:49.148Z",
 		"inquiryPhone": "8035839271",
@@ -52653,7 +52653,7 @@
 			"9632044966"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.3,
 		"address": "Site No. 95, 97, 98, Singapura , Vidyaranyapura Post",
 		"active": true,
 		"id": "e3ad504c-9cbf-4661-88dd-d4ff4c03ae3d",
@@ -53624,7 +53624,7 @@
 		"createdTS": "2018-05-31T13:55:09.230Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T11:02:24.753Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STALLIONSSPORTSACADEMY/StallionsSportsAcademy1639911726175.jpg"
