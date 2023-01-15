@@ -26041,20 +26041,20 @@
 		"coverImage": "",
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-31T05:46:07.502Z",
+		"modTS": "2023-01-15T10:26:36.535Z",
 		"ratingCount": 138,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/LETZPLAY/letzplay0.jpg"
+				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/LETZPLAY/letzplay1586250533026.jpg"
+				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778372761.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/LETZPLAY/letzplay1586250538205.jpg"
+				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778378301.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/LETZPLAY/letzplay2.jpg"
+				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778387554.jpeg"
 			}
 		],
 		"id": "26b1fc72-5a2e-4ab9-9582-6b659fb808d3",
@@ -26088,7 +26088,7 @@
 		"sponsoredRadius": 4,
 		"type": 0,
 		"venueId": "26b1fc72-5a2e-4ab9-9582-6b659fb808d3",
-		"__v": 2,
+		"__v": 3,
 		"isSafeAndHygiene": true,
 		"activityCount": 13017,
 		"activityCountLastSyncDate": "2023-01-14T18:30:02.551Z",
@@ -46745,7 +46745,7 @@
 		"phone": [
 			"7829631999"
 		],
-		"avgRating": 3.6,
+		"avgRating": 3.5,
 		"name": "PK Sports",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-06-21T10:33:06.970Z",
@@ -46753,7 +46753,7 @@
 		"createdTS": "2017-06-21T10:33:06.970Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-14T16:07:20.825Z",
-		"ratingCount": 85,
+		"ratingCount": 86,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PKSPORTS/pksports1.jpg"
@@ -66631,7 +66631,7 @@
 		"createdTS": "2022-12-05T09:42:01.927Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T09:43:18.810Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
 		"category": 2,
 		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
