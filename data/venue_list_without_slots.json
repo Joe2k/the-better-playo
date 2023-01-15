@@ -11806,7 +11806,7 @@
 		"createdTS": "2017-01-07T17:23:44.012Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T06:03:52.120Z",
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAELECTRONICCITY/SriVisionSportsClub1656451438362.jpeg"
@@ -13327,7 +13327,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 269,
+		"ratingCount": 270,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -23000,7 +23000,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 322,
+		"ratingCount": 323,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -37762,7 +37762,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"zipCode": "560037",
 		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
@@ -37771,7 +37771,7 @@
 			"9920601966"
 		],
 		"sponsored": "",
-		"avgRating": 3.6,
+		"avgRating": 3.7,
 		"address": "Whitefield United, Alpine Eco Rd, Chinnapanahalli, Doddanekundi, Doddanekkundi, Bengaluru, Karnataka",
 		"active": true,
 		"id": "78d1272e-0e01-41b0-bc7d-ce30d1fb6631",
@@ -66624,14 +66624,14 @@
 		"phone": [
 			"9538655505"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"name": "Sportonix School of Badminton",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T09:42:01.927Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T09:43:18.810Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
 		"category": 2,
 		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
