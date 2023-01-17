@@ -17586,7 +17586,7 @@
 		"createdTS": "2017-01-07T17:23:44.137Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-14T12:37:07.666Z",
-		"ratingCount": 145,
+		"ratingCount": 146,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/YESHWANTHPURFEATHERSACADEMY/NewFeathersBadmintonAcademy1647679337208.jpeg"
@@ -19258,7 +19258,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 40,
+		"ratingCount": 41,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -27520,7 +27520,49 @@
 		"bnpl": false,
 		"distance": 10.116719684668432,
 		"activeKey": "highline-sports-indoor-badminton-academy-mahadevapura-b-narayanpura-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
 	},
 	{
 		"inquiryPhone": "7349720771",
