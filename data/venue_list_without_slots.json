@@ -18388,7 +18388,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 263,
+		"ratingCount": 264,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -29686,12 +29686,12 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "sporthood-sports-central-next-to-kaikondrahalli-lake-bengaluru"
+				"key": "sporthood-turfpark-sarjapur-road-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/xA2Y",
+		"shareLink": "https://z34v4.app.goo.gl/SfSw",
 		"city": "Bengaluru",
-		"area": "Next to Kaikondrahalli Lake",
+		"area": "Sarjapur Road",
 		"oldPlayoId": "587124206d91cf3645ab0849",
 		"functionData": [
 			{
@@ -29721,13 +29721,13 @@
 			"9381948938"
 		],
 		"avgRating": 3.9,
-		"name": "Sporthood Sports Central",
+		"name": "Sporthood Turfpark",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.192Z",
 		"coverImage": "https://playo.gumlet.io/SPORTSCENTRAL/SporthoodBadmintonArenaSarjapurRoadcovercover1578152249586.jpg",
 		"createdTS": "2017-01-07T17:23:44.192Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-05T07:15:06.047Z",
+		"modTS": "2023-01-18T05:26:26.817Z",
 		"ratingCount": 383,
 		"images": [
 			{
@@ -29758,7 +29758,7 @@
 		"members": false,
 		"address": "Near Total Mall - Sarjapur, Next to Cult Fit, Sarjapur Road, Bangalore",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/pghe",
+		"deferLink": "https://z34v4.app.goo.gl/nbvL",
 		"search": "sports central,sportscentral,central,sports,sportcentral,central",
 		"fullLink": "https://playo.co/venue/?venueId=a4f53054-0a57-4a6a-b289-0ec0330e86f5",
 		"country": "India",
@@ -29781,7 +29781,7 @@
 		"activityCountLastSyncDate": "2023-01-17T18:30:02.429Z",
 		"bnpl": false,
 		"distance": 10.545777010456428,
-		"activeKey": "sporthood-sports-central-next-to-kaikondrahalli-lake-bengaluru",
+		"activeKey": "sporthood-turfpark-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -47149,7 +47149,7 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "9620899777",
+		"inquiryPhone": "7406777911",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
@@ -47191,7 +47191,7 @@
 		"mapImage": "https://playo.imgix.net/ATOMSPORTSARENA/AtomSportsArenamap1519886142722.JPG",
 		"zipCode": "560083",
 		"phone": [
-			"9620899777"
+			"7406777911"
 		],
 		"avgRating": 4.2,
 		"name": "Atom Sports Arena",
@@ -47200,7 +47200,7 @@
 		"coverImage": "",
 		"createdTS": "2017-11-02T07:13:37.523Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-19T14:19:34.296Z",
+		"modTS": "2023-01-18T04:25:56.077Z",
 		"ratingCount": 197,
 		"images": [
 			{
@@ -47266,6 +47266,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 13470,
 		"activityCountLastSyncDate": "2023-01-17T18:30:02.429Z",
+		"bnpl": false,
 		"distance": 12.782513762741472,
 		"activeKey": "atom-sports-arena-gottigere-bengaluru",
 		"offers": [
