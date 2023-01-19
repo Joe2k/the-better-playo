@@ -54851,7 +54851,7 @@
 		"description": "",
 		"createdTS": "2020-10-28T05:51:42.373Z",
 		"bookType": 0,
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"zipCode": "560090",
 		"modTS": "2021-12-19T13:53:24.708Z",
 		"inquiryPhone": "9008405240",
@@ -54860,7 +54860,7 @@
 			"9008405240"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"address": "Navy Layout Rd, Navy Layout, Chikkabanavara, Bengaluru, Karnataka",
 		"active": true,
 		"id": "761fa26b-960b-48ea-a8bb-bc6cafc9fdc2",
@@ -60595,7 +60595,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 394,
+		"ratingCount": 395,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
