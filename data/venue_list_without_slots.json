@@ -18044,7 +18044,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 75,
+		"ratingCount": 76,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -27552,7 +27552,7 @@
 		"phone": [
 			"7406699100"
 		],
-		"avgRating": 3,
+		"avgRating": 3.1,
 		"name": "Achieve & Cherish",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.201Z",
@@ -27560,7 +27560,7 @@
 		"createdTS": "2017-01-07T17:23:44.201Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-22T15:11:21.068Z",
-		"ratingCount": 88,
+		"ratingCount": 89,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125780020.jpeg"
