@@ -2705,7 +2705,7 @@
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T12:38:34.052Z",
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
 		"s3Folder": "TIGER5SPORTSDAIRYCIRCLE20221220100139092493",
@@ -34078,7 +34078,7 @@
 		"createdTS": "2017-01-07T17:23:44.189Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-04T06:49:40.368Z",
-		"ratingCount": 371,
+		"ratingCount": 372,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH&SPRINT/SmashSprint1647445013185.jpg"
@@ -37749,7 +37749,7 @@
 		"description": "",
 		"createdTS": "2019-06-17T18:32:27.250Z",
 		"bookType": 0,
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"zipCode": "560035",
 		"modTS": "2022-05-06T15:19:19.623Z",
 		"inquiryPhone": "9380283410",
@@ -44731,7 +44731,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 386,
+		"ratingCount": 387,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -48644,149 +48644,6 @@
 		"distance": 13.185318489824637,
 		"activeKey": "krantiveera-sangollirayanna-badminton-academy-allalsandra-bengaluru",
 		"offers": []
-	},
-	{
-		"oldPlayoId": "5c047de5-3fff-4d6b-a512-2d6642568641",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-04-24T10:10:24.518Z",
-		"bookType": 0,
-		"ratingCount": 6,
-		"zipCode": "560035",
-		"modTS": "2022-12-09T09:02:28.234Z",
-		"inquiryPhone": "9700314143",
-		"inquiryType": -1,
-		"phone": [
-			"9700314143"
-		],
-		"sponsored": "",
-		"avgRating": 4.8,
-		"address": "23/8, Doddakannelli, Near Anjanadri School",
-		"active": true,
-		"id": "5c047de5-3fff-4d6b-a512-2d6642568641",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "",
-		"bookSports": [
-			"SP3"
-		],
-		"name": "Intensity Tennis Academy",
-		"area": "Off Sarjapur Main Road",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5c047de5-3fff-4d6b-a512-2d6642568641",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"timings": "6:30 AM - 5:00 PM",
-		"sports": [
-			"SP3"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Change Room",
-			"Drinking Water"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "intensity-tennis-academy-off-sarjapur-main-road-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=5c047de5-3fff-4d6b-a512-2d6642568641",
-		"type": 0,
-		"email": [
-			"naveenkumar.tentu3@gmail.com"
-		],
-		"s3Folder": "INTENSITYTENNISACADEMY20190424101024518393",
-		"__v": 2,
-		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/EUzA",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/INTENSITYTENNISACADEMY20190424101024518393/IntensityTennisAcademy14.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/INTENSITYTENNISACADEMY20190424101024518393/intensitytennisacademy0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/INTENSITYTENNISACADEMY20190424101024518393/intensitytennisacademy1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/INTENSITYTENNISACADEMY20190424101024518393/intensitytennisacademy2.jpg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "https://playo.imgix.net/INTENSITYTENNISACADEMY20190424101024518393/IntensityTennisAcademymap1556100594099.PNG",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/RpXi",
-		"lat": 12.910247,
-		"lng": 77.698567,
-		"venueId": "5c047de5-3fff-4d6b-a512-2d6642568641",
-		"isSafeAndHygiene": true,
-		"activityCount": 86,
-		"activityCountLastSyncDate": "2023-01-19T18:30:03.223Z",
-		"bnpl": false,
-		"distance": 13.186104738091691,
-		"activeKey": "intensity-tennis-academy-off-sarjapur-main-road-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
 	},
 	{
 		"inquiryPhone": "7829240379",
@@ -58106,164 +57963,108 @@
 		]
 	},
 	{
-		"oldPlayoId": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-08-29T12:20:59.745Z",
-		"bookType": 0,
-		"ratingCount": 5,
-		"zipCode": "560100",
-		"modTS": "2022-11-21T07:30:03.559Z",
-		"inquiryPhone": "7349674629",
-		"inquiryType": -1,
-		"phone": [
-			"7349674629"
+		"inquiryPhone": "8105763083",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "justplay-sports-club-badminton-electronic-city-bengaluru"
+			}
 		],
-		"sponsored": "",
-		"avgRating": 5,
-		"address": "Behind JR Farm, Near Sai Baba Temple, Neeladri nagar, Electronic City, Bangalore - 560100",
-		"active": true,
-		"id": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"category": 2,
+		"shareLink": "https://z34v4.app.goo.gl/19T4",
 		"city": "Bengaluru",
-		"search": "El Mundo",
-		"bookSports": [
-			"SP2",
-			"SP56",
-			"SP49",
-			"SP8",
-			"SP34"
-		],
-		"name": "El Mundo Arena",
 		"area": "Electronic City",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
+		"oldPlayoId": "587124206d91cf3645ab080a",
 		"functionData": [
 			{
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "17941813-2e4e-42db-ba41-f45920a920fe",
+				"content": "75003fb3-4dcf-42e2-949c-d216e070ee0f",
 				"caption": "Book Now!",
 				"type": 3
 			}
 		],
-		"timings": "6 AM - 11 PM",
 		"sports": [
-			"SP2",
-			"SP56",
-			"SP49",
-			"SP8",
-			"SP34"
+			"SP5"
 		],
-		"state": "Karnataka",
+		"priority": 0,
 		"amenities": [
+			"Washroom",
 			"Parking",
-			"First Aid",
-			"Change Room",
+			"First-aid",
 			"Drinking Water"
 		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "el-mundo-arena-electronic-city-bengaluru"
-			}
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/JUSTPLAYSPORTSCLUB/JustPlaySportsClubmap.png",
+		"zipCode": "560100",
+		"phone": [
+			"8105763083"
 		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=17941813-2e4e-42db-ba41-f45920a920fe",
-		"type": 0,
-		"email": [
-			"kirankmannam@gmail.com"
-		],
-		"s3Folder": "JUSTPLAYFOOTBALLCRICKET20190829122059745356",
-		"shareLink": "https://z34v4.app.goo.gl/3xbX",
-		"deferLink": "https://z34v4.app.goo.gl/VG7D",
-		"lat": 12.831479,
-		"lng": 77.6398991,
-		"venueId": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"__v": 3,
+		"avgRating": 3.8,
+		"name": "JustPlay Sports Club - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.117Z",
 		"coverImage": "",
-		"googleMapLink": "",
+		"createdTS": "2017-01-07T17:23:44.117Z",
+		"inquiryType": -1,
+		"modTS": "2021-10-06T11:08:01.823Z",
+		"ratingCount": 207,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/JustPlayFootballCricket27.PNG"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/2.png"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/JustPlayFootballCricket28.PNG"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/JustPlaySportsClub7.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/JustPlayFootballCricket29.PNG"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/JustPlaySportsClub8.png"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket2.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket3.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket4.jpg"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/justplaysportsclub1.jpg"
 			}
 		],
-		"infoData": [],
+		"id": "75003fb3-4dcf-42e2-949c-d216e070ee0f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "JUSTPLAYSPORTSCLUB",
+		"state": "Karnataka",
+		"email": [
+			"Ideal.Baddy@gmail.com"
+		],
 		"logoImg": "",
-		"mapImage": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
 		"members": false,
-		"remarks": "",
+		"address": "Behind JR Farm, Near Sai Baba Temple, Neeladri nagar, Electronic City, Bangalore - 560100",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/QCTf",
+		"search": "just play,jp",
+		"fullLink": "https://playo.co/venue/?venueId=75003fb3-4dcf-42e2-949c-d216e070ee0f",
+		"country": "India",
+		"timings": "5:30 AM - 11:30 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. <br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>",
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.831479,
+		"lng": 77.6398991,
+		"placeId": "",
+		"type": 0,
+		"venueId": "75003fb3-4dcf-42e2-949c-d216e070ee0f",
+		"__v": 3,
+		"sponsoredRadius": 4,
 		"isSafeAndHygiene": true,
-		"activityCount": 1497,
+		"activityCount": 8993,
 		"activityCountLastSyncDate": "2023-01-19T18:30:03.223Z",
-		"bnpl": false,
 		"distance": 16.354251795070592,
-		"activeKey": "el-mundo-arena-electronic-city-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "justplay-sports-club-badminton-electronic-city-bengaluru",
+		"offers": []
 	},
 	{
 		"inquiryPhone": "8105763083",
