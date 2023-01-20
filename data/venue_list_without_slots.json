@@ -1798,7 +1798,7 @@
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-13T07:38:01.430Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
 		"s3Folder": "MARACANASPORTSARENA20221103080210366511",
@@ -2656,7 +2656,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "tiger-5-sports-dairy-circle-bannerghatta-main-rd-bengaluru"
+				"key": "tiger-5-sports-dairy-circle-bannerghatta-main-road-bengaluru"
 			}
 		],
 		"city": "Bengaluru",
@@ -2667,7 +2667,7 @@
 			"SP8",
 			"SP49"
 		],
-		"area": "Bannerghatta Main Rd",
+		"area": "Bannerghatta Main Road",
 		"oldPlayoId": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"functionData": [
 			{
@@ -2704,7 +2704,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-27T12:38:34.052Z",
+		"modTS": "2023-01-20T18:09:06.382Z",
 		"ratingCount": 4,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
@@ -2718,7 +2718,7 @@
 		"tags": [],
 		"sponsored": "",
 		"members": false,
-		"address": "4/1, Bannerghatta Main Rd, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029",
+		"address": "4/1, Bannerghatta Main Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029",
 		"active": true,
 		"search": "",
 		"fullLink": "https://playo.co/venue?venueId=7339d09a-aeb6-4b98-989e-6fdca17d7f61",
@@ -2726,8 +2726,8 @@
 		"timings": "12AM - 12AM",
 		"addInfo": "",
 		"isSafeAndHygiene": true,
-		"shareLink": "https://z34v4.app.goo.gl/Qro4",
-		"deferLink": "https://z34v4.app.goo.gl/96zc",
+		"shareLink": "https://z34v4.app.goo.gl/WyLP",
+		"deferLink": "https://z34v4.app.goo.gl/DJ1u",
 		"lat": 12.932795170805665,
 		"lng": 77.60344483320864,
 		"venueId": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
@@ -2752,7 +2752,7 @@
 		"activityCountLastSyncDate": "2023-01-19T18:30:03.223Z",
 		"activityCount": 103,
 		"distance": 4.424998550501495,
-		"activeKey": "tiger-5-sports-dairy-circle-bannerghatta-main-rd-bengaluru",
+		"activeKey": "tiger-5-sports-dairy-circle-bannerghatta-main-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -12328,7 +12328,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T18:44:48.412Z",
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -22158,7 +22158,7 @@
 		"description": "",
 		"createdTS": "2021-03-21T11:33:54.484Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560076",
 		"modTS": "2023-01-06T15:28:11.648Z",
 		"inquiryPhone": "9742220232",
@@ -22167,7 +22167,7 @@
 			"9742220232"
 		],
 		"sponsored": "",
-		"avgRating": 3.4,
+		"avgRating": 3.3,
 		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
 		"active": true,
 		"id": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
