@@ -975,7 +975,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-27T12:24:15.918Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-27T12:38:59.312Z",
+		"modTS": "2023-01-21T09:56:56.879Z",
 		"ratingCount": 1,
 		"id": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
 		"category": 2,
@@ -989,7 +989,7 @@
 		"tags": [],
 		"sponsored": "",
 		"members": false,
-		"address": "Lokmanya Tilak Park, Tulasi Thota Rd, Upparpete, Chickpet, Bengaluru, Karnataka 560053",
+		"address": "Lokmanya Tilak Park, Tulasi Thota Road, Upparpete, Chickpet, Bengaluru, Karnataka 560053",
 		"active": true,
 		"search": "",
 		"fullLink": "https://playo.co/venue?venueId=82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
@@ -1081,7 +1081,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-27T12:24:15.918Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-27T12:38:59.312Z",
+		"modTS": "2023-01-21T09:56:56.879Z",
 		"ratingCount": 1,
 		"id": "82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
 		"category": 2,
@@ -1095,7 +1095,7 @@
 		"tags": [],
 		"sponsored": "",
 		"members": false,
-		"address": "Lokmanya Tilak Park, Tulasi Thota Rd, Upparpete, Chickpet, Bengaluru, Karnataka 560053",
+		"address": "Lokmanya Tilak Park, Tulasi Thota Road, Upparpete, Chickpet, Bengaluru, Karnataka 560053",
 		"active": true,
 		"search": "",
 		"fullLink": "https://playo.co/venue?venueId=82b6dd0c-5717-43b4-a9c0-6d35a2b19042",
@@ -4865,7 +4865,7 @@
 		"createdTS": "2018-05-07T12:16:36.958Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T11:49:39.771Z",
-		"ratingCount": 149,
+		"ratingCount": 150,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SAIFOOTBALLACADEMY/EeshaBadmintonAcademy1640720192662.jpeg"
@@ -19483,7 +19483,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -22597,7 +22597,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
@@ -58560,7 +58560,7 @@
 		"createdTS": "2017-01-07T17:23:44.197Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-12T06:02:10.551Z",
-		"ratingCount": 127,
+		"ratingCount": 128,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/A1SPORTS/A1Sports1.png"
