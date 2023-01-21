@@ -6564,7 +6564,7 @@
 		"description": "",
 		"createdTS": "2019-02-21T17:33:19.211Z",
 		"bookType": 0,
-		"ratingCount": 70,
+		"ratingCount": 71,
 		"zipCode": "560078",
 		"modTS": "2022-02-26T15:51:06.847Z",
 		"inquiryPhone": "9900578842",
@@ -35387,7 +35387,7 @@
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T07:05:40.918Z",
-		"ratingCount": 35,
+		"ratingCount": 36,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademy1658827316673.jpg"
@@ -51111,7 +51111,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 134,
+		"ratingCount": 136,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -51120,7 +51120,7 @@
 			"9448060589"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "58/2, VIBGYOR High School Road, Thubarahalli",
 		"active": true,
 		"id": "69d6faf0-069a-4af8-96de-449575c308c9",
