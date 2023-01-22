@@ -29751,7 +29751,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -48307,7 +48307,7 @@
 		"createdTS": "2017-01-07T17:23:44.207Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:00:53.079Z",
-		"ratingCount": 218,
+		"ratingCount": 219,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy10.png"
@@ -52734,7 +52734,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 165,
+		"ratingCount": 166,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
@@ -56486,7 +56486,7 @@
 		"description": "",
 		"createdTS": "2019-03-20T12:23:04.997Z",
 		"bookType": 0,
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"zipCode": "560087",
 		"modTS": "2022-02-24T08:00:26.846Z",
 		"inquiryPhone": "9886929287",
@@ -56495,7 +56495,7 @@
 			"9886929287"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "#18, Behind Euro School, Off Balagere Main Road, Devasthanagalu, Varthur, Karnataka",
 		"active": true,
 		"id": "43ddb770-96d9-4f11-b2dd-8a44c3eec196",
@@ -58378,7 +58378,7 @@
 		"description": "",
 		"createdTS": "2019-07-05T10:22:05.370Z",
 		"bookType": 0,
-		"ratingCount": 76,
+		"ratingCount": 77,
 		"zipCode": "560087",
 		"modTS": "2021-12-17T07:34:52.992Z",
 		"inquiryPhone": "9886929287",
@@ -58387,7 +58387,7 @@
 			"9886929287"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 4,
 		"address": "#188 Varthur main Road Landmark opposite to Candeur Rise Apartment Bangalore- 560087",
 		"active": true,
 		"id": "c4bc7f33-58eb-46dd-8130-b5dcea807e92",
@@ -65408,7 +65408,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 173,
+		"ratingCount": 174,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
