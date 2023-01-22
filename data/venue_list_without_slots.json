@@ -1534,7 +1534,7 @@
 		"description": "",
 		"createdTS": "2021-10-22T09:28:48.497Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560004",
 		"modTS": "2022-12-16T15:53:11.267Z",
 		"inquiryPhone": "8951980195",
@@ -1543,7 +1543,7 @@
 			"9205105494"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.4,
 		"address": "Tenbroeck Academy, BP Wadia Road, Basavanagudi, Bengaluru, Karnataka - 560004",
 		"active": true,
 		"id": "1f46f02e-765d-4895-a25f-f3afcc3e8b52",
@@ -2428,7 +2428,7 @@
 		"createdTS": "2018-12-05T05:00:34.548Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T06:54:55.397Z",
-		"ratingCount": 135,
+		"ratingCount": 136,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg"
@@ -15901,7 +15901,7 @@
 		"createdTS": "2018-05-31T14:28:35.443Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:13:51.512Z",
-		"ratingCount": 259,
+		"ratingCount": 261,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOVABADMINTONACADEMYAREHALLI/NovaBadmintonAcademyArehalli1639984419582.webp"
@@ -46694,7 +46694,7 @@
 		"description": "",
 		"createdTS": "2021-10-24T04:05:10.974Z",
 		"bookType": 0,
-		"ratingCount": 48,
+		"ratingCount": 49,
 		"zipCode": "560064",
 		"modTS": "2022-11-29T08:56:21.406Z",
 		"inquiryPhone": "9945255133",
@@ -56486,7 +56486,7 @@
 		"description": "",
 		"createdTS": "2019-03-20T12:23:04.997Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560087",
 		"modTS": "2022-02-24T08:00:26.846Z",
 		"inquiryPhone": "9886929287",
@@ -58378,7 +58378,7 @@
 		"description": "",
 		"createdTS": "2019-07-05T10:22:05.370Z",
 		"bookType": 0,
-		"ratingCount": 75,
+		"ratingCount": 76,
 		"zipCode": "560087",
 		"modTS": "2021-12-17T07:34:52.992Z",
 		"inquiryPhone": "9886929287",
