@@ -7680,7 +7680,7 @@
 		"createdTS": "2017-01-07T17:23:44.179Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T06:14:17.735Z",
-		"ratingCount": 134,
+		"ratingCount": 135,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FOOTBALLALLEY/footballalley1.jpg"
@@ -15995,7 +15995,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-18T06:42:16.945Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560093",
 		"modTS": "2023-01-11T07:08:59.805Z",
 		"inquiryPhone": "6363777194",
@@ -33641,7 +33641,7 @@
 		"description": "",
 		"createdTS": "2019-02-17T16:44:14.836Z",
 		"bookType": 0,
-		"ratingCount": 50,
+		"ratingCount": 51,
 		"zipCode": "560098",
 		"modTS": "2021-12-18T17:39:04.995Z",
 		"inquiryPhone": "7676763377",
