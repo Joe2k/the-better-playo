@@ -2076,7 +2076,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 81,
+		"ratingCount": 82,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -6467,7 +6467,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T05:10:01.147Z",
 		"bookType": 0,
-		"ratingCount": 110,
+		"ratingCount": 111,
 		"zipCode": "560094",
 		"modTS": "2022-01-19T07:45:18.168Z",
 		"inquiryPhone": "9880373773",
@@ -6476,7 +6476,7 @@
 			"9880373773"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "No 10, 6th B Cross, Annayappa Layout, 80 feet Road (Opposite Cafe Coffee Day), RMV 2nd Stage, Bangalore",
 		"active": true,
 		"id": "db87e794-b5e7-419e-bfaf-5376aa8b8888",
@@ -10580,7 +10580,7 @@
 		"phone": [
 			"9916138551"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"name": "Racketlon Sports Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-11T07:22:14.117Z",
@@ -10588,7 +10588,7 @@
 		"createdTS": "2018-04-11T07:22:14.117Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:57:46.190Z",
-		"ratingCount": 145,
+		"ratingCount": 146,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETLONSPORTSACADEMY/racketlonsportsacademy10.jpg"
@@ -15997,7 +15997,7 @@
 		"bookType": 0,
 		"ratingCount": 14,
 		"zipCode": "560093",
-		"modTS": "2023-01-11T07:08:59.805Z",
+		"modTS": "2023-01-22T11:11:05.082Z",
 		"inquiryPhone": "6363777194",
 		"inquiryType": -1,
 		"phone": [
@@ -16051,7 +16051,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Racquet, Shoes. The price for renting each racquet is Rs 150.<br/>\n- An upfront payment of Rs 500/racquet as security deposit will be collected initially for renting racquets. The amount is refundable.\n- The price for renting each racquet is Rs 150\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Racquet.The price for renting each racquet is Rs 150.<br/>\n- An upfront payment of Rs 500/racquet as security deposit will be collected initially for renting racquets. The amount is refundable.\n- The price for renting each racquet is Rs 150\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=d5537a1f-9872-4529-b413-13891d4e0a4b",
 		"type": 0,
 		"email": [
@@ -36330,7 +36330,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -45837,7 +45837,7 @@
 		"description": "",
 		"createdTS": "2020-02-27T08:16:15.924Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560103",
 		"modTS": "2022-08-19T11:10:30.121Z",
 		"inquiryPhone": "9036773531",
@@ -45846,7 +45846,7 @@
 			"9036773531"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4,
 		"address": "PK Sports, Bhoganahalli Main Road, opposite Felix apartments, Kaverappa Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka - 560103",
 		"active": true,
 		"id": "0e7247b3-5388-41a8-a64c-039ca22e03a3",
@@ -52162,7 +52162,7 @@
 		"description": "",
 		"createdTS": "2022-03-17T20:42:58.533Z",
 		"bookType": 0,
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"zipCode": "560097",
 		"modTS": "2022-10-09T15:08:49.148Z",
 		"inquiryPhone": "8035839271",
@@ -52171,7 +52171,7 @@
 			"9632044966"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "Site No. 95, 97, 98, Singapura , Vidyaranyapura Post",
 		"active": true,
 		"id": "e3ad504c-9cbf-4661-88dd-d4ff4c03ae3d",
@@ -61630,7 +61630,7 @@
 		"createdTS": "2017-02-20T06:58:02.324Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T16:36:13.536Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/REDBRIDGEINTERNATIONALACADEMY/1.png"
