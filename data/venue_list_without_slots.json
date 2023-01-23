@@ -11353,7 +11353,7 @@
 		"description": "",
 		"createdTS": "2022-07-21T09:22:10.201Z",
 		"bookType": 0,
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"zipCode": "560040",
 		"modTS": "2022-11-19T09:39:29.326Z",
 		"inquiryPhone": "8660374210",
@@ -27145,7 +27145,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-03T15:59:42.283Z",
-		"ratingCount": 246,
+		"ratingCount": 247,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
@@ -28397,7 +28397,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 72,
+		"ratingCount": 73,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -28406,7 +28406,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "#86, next to little Elly Play School, Royal Placid Layout, Sector 2, HSR Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "e5dc74f0-a1f3-482a-a85e-f5b032e9ef85",
@@ -45080,7 +45080,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"bookSports": [
 			"SP5"
 		],
@@ -45434,7 +45434,7 @@
 		"createdTS": "2018-05-29T13:10:32.406Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-21T11:50:24.480Z",
-		"ratingCount": 84,
+		"ratingCount": 85,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LEVELUPBADMINTONACADEMY/LevelUpBadmintonAcademy0.jpg"
