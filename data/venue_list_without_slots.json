@@ -15491,7 +15491,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 72,
+		"ratingCount": 73,
 		"zipCode": "560016",
 		"modTS": "2022-03-08T11:40:05.474Z",
 		"inquiryPhone": "8050355547",
@@ -18570,7 +18570,7 @@
 		"phone": [
 			"9844135386"
 		],
-		"avgRating": 3.5,
+		"avgRating": 3.7,
 		"name": "Skyfinch Sports Center - JP Nagar",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-08-04T11:03:15.569Z",
@@ -18578,7 +18578,7 @@
 		"createdTS": "2017-08-04T11:03:15.569Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:39:53.772Z",
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYFINCHSPORTSCENTERJPNAGAR/skyfinchsportscenterjpnagar11.jpg"
@@ -20031,7 +20031,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 295,
+		"ratingCount": 296,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -20137,7 +20137,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-14T09:41:20.029Z",
-		"ratingCount": 291,
+		"ratingCount": 292,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -25940,7 +25940,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-15T10:26:36.535Z",
-		"ratingCount": 138,
+		"ratingCount": 139,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -70727,6 +70727,169 @@
 		"offers": []
 	},
 	{
+		"name": "The Oberoi Bengaluru",
+		"area": "Sivanchetti Gardens",
+		"address": "M G Road, 37-39, MG Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+		"googleMapLink": "https://www.google.com/maps/place/The+Oberoi+Bengaluru/@12.9734674,77.6094551,15z/data=!4m8!1m2!2m1!1shotels+with+swimming+pool+in+bangalore!3m4!1s0x3bae16835c3ada19:0x7065f59042b7b2db!8m2!3d12.9734674!4d77.6182098",
+		"googlePlusCode": "XJF9+97 Bengaluru, Karnataka",
+		"website": "oberoihotels.com",
+		"email": "",
+		"remarks": "",
+		"phone": [
+			"80 2558 5858"
+		],
+		"functionData": [
+			{
+				"content": "80 2558 5858",
+				"bookType": 0,
+				"popupText": "",
+				"priority": 0,
+				"displayType": 1,
+				"sportId": "",
+				"caption": "Call Venue!",
+				"type": 1
+			}
+		],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP7"
+		],
+		"timings": "",
+		"cityCode": 1,
+		"id": "1d323aae-e888-4dda-ac8e-b25a9fd1fe8d",
+		"oldPlayoId": "1d323aae-e888-4dda-ac8e-b25a9fd1fe8d",
+		"category": 1,
+		"inquiryPhone": "80 2558 5858",
+		"s3Folder": "THEOBEROIBENGALURU",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": null,
+			"Tue": null,
+			"Wed": null,
+			"Thu": null,
+			"Fri": null,
+			"Sat": null,
+			"Sun": null
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "The-Oberoi-Bengaluru-Sivanchetti-Gardens-bangalore",
+				"active": true
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/THEOBEROIBENGALURU/1.PNG"
+			},
+			{
+				"url": "https://playo.gumlet.io/THEOBEROIBENGALURU/2.PNG"
+			},
+			{
+				"url": "https://playo.gumlet.io/THEOBEROIBENGALURU/3.PNG"
+			}
+		],
+		"rating": 0,
+		"modTS": "2019-05-01T10:06:44.483Z",
+		"shareLink": "https://playo.page.link/2VVsJ",
+		"deferLink": "https://playo.page.link/qwLbZ",
+		"fullLink": "https://playo.co/venue/?venueId=1d323aae-e888-4dda-ac8e-b25a9fd1fe8d",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-01-22T18:30:02.682Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 2.569560187744612,
+		"lat": 12.9734674,
+		"lng": 77.6182098,
+		"activeKey": "The-Oberoi-Bengaluru-Sivanchetti-Gardens-bangalore",
+		"offers": []
+	},
+	{
+		"name": "The Park Bangalore",
+		"area": "Sivanchetti Gardens",
+		"address": "14/7, Mahatma Gandhi Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+		"googleMapLink": "https://www.google.com/maps/place/The+Park+Bangalore/@12.9738435,77.6108423,15z/data=!4m8!1m2!2m1!1shotels+with+swimming+pool+in+bangalore!3m4!1s0x3bae169ca8334f21:0x2f71ab422db4f935!8m2!3d12.9738435!4d77.619597",
+		"googlePlusCode": "XJF9+GR Bengaluru, Karnataka",
+		"website": "theparkhotels.com",
+		"email": "",
+		"remarks": "",
+		"phone": [
+			"80255946667"
+		],
+		"functionData": [
+			{
+				"content": "80255946667",
+				"bookType": 0,
+				"popupText": "",
+				"priority": 0,
+				"displayType": 1,
+				"sportId": "",
+				"caption": "Call Venue!",
+				"type": 1
+			}
+		],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP7"
+		],
+		"timings": "",
+		"cityCode": 1,
+		"id": "c5cd2d74-43d1-4c57-b904-aaa2951a6282",
+		"oldPlayoId": "c5cd2d74-43d1-4c57-b904-aaa2951a6282",
+		"category": 1,
+		"inquiryPhone": "80255946667",
+		"s3Folder": "THEPARKBANGALORE",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": null,
+			"Tue": null,
+			"Wed": null,
+			"Thu": null,
+			"Fri": null,
+			"Sat": null,
+			"Sun": null
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "The-Park-Bangalore-Sivanchetti-Gardens-bangalore",
+				"active": true
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/THEPARKBANGALORE/1.PNG"
+			},
+			{
+				"url": "https://playo.gumlet.io/THEPARKBANGALORE/2.PNG"
+			}
+		],
+		"rating": 0,
+		"modTS": "2019-05-01T10:06:44.507Z",
+		"shareLink": "https://playo.page.link/pB62D",
+		"deferLink": "https://playo.page.link/jG2XE",
+		"fullLink": "https://playo.co/venue/?venueId=c5cd2d74-43d1-4c57-b904-aaa2951a6282",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 1,
+		"activityCountLastSyncDate": "2023-01-22T18:30:02.682Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 2.723092665636364,
+		"lat": 12.9738435,
+		"lng": 77.619597,
+		"activeKey": "The-Park-Bangalore-Sivanchetti-Gardens-bangalore",
+		"offers": []
+	},
+	{
 		"name": "Conrad Bengaluru",
 		"area": "Ulsoor",
 		"address": "25/3, Kensington Rd, Someshwarpura, Ulsoor, Bengaluru, Karnataka 560008",
@@ -71202,140 +71365,6 @@
 		"lat": 12.9453882,
 		"lng": 77.6234937,
 		"activeKey": "NGV-Ground-Koramangala-bangalore",
-		"offers": []
-	},
-	{
-		"name": "Hockey Stadium",
-		"area": "Ulsoor",
-		"address": "Rhenius Street, Langford Town, Kalhalli, Ulsoor, Bengaluru, Karnataka 560025",
-		"googleMapLink": "https://www.google.co.in/maps/place/Karnataka+State+Hockey+Stadium/@12.9617532,77.5984324,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15d6cab9b61b:0xc99fa4fe04dc2f56!8m2!3d12.961748!4d77.6006211",
-		"googlePlusCode": "XJQJ+64 Bengaluru, Karnataka",
-		"website": "",
-		"email": "",
-		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP2"
-		],
-		"timings": "",
-		"cityCode": 1,
-		"id": "a26acabd-f480-4b43-bdfc-e7c5fdba5eef",
-		"oldPlayoId": "a26acabd-f480-4b43-bdfc-e7c5fdba5eef",
-		"category": 1,
-		"inquiryPhone": null,
-		"s3Folder": "HOCKEYSTADIUM",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": null,
-			"Tue": null,
-			"Wed": null,
-			"Thu": null,
-			"Fri": null,
-			"Sat": null,
-			"Sun": null
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "Hockey-Stadium-Ulsoor-bangalore",
-				"active": true
-			}
-		],
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/HOCKEYSTADIUM/1.PNG"
-			},
-			{
-				"url": "https://playo.gumlet.io/HOCKEYSTADIUM/2.PNG"
-			},
-			{
-				"url": "https://playo.gumlet.io/HOCKEYSTADIUM/3.PNG"
-			}
-		],
-		"rating": 0,
-		"modTS": "2019-05-01T10:06:44.059Z",
-		"shareLink": "https://playo.page.link/gHmN2",
-		"deferLink": "https://playo.page.link/CiqxM",
-		"fullLink": "https://playo.co/venue/?venueId=a26acabd-f480-4b43-bdfc-e7c5fdba5eef",
-		"amenities": [],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 1,
-		"activityCountLastSyncDate": "2023-01-22T18:30:02.682Z",
-		"avgRating": 0,
-		"ratingCount": 0,
-		"distance": 4.289426916956863,
-		"lat": 12.9880788,
-		"lng": 77.6303447,
-		"activeKey": "Hockey-Stadium-Ulsoor-bangalore",
-		"offers": []
-	},
-	{
-		"name": "lawn tennis court",
-		"area": "Suddagunte Palya",
-		"address": "Hosur Road, Bhavani Nagar, SuddagunteS G Palya Main, 560029, Venkateshwara Layout, Suddagunte Palya, Bengaluru, Karnataka 560029",
-		"googleMapLink": "https://www.google.co.in/maps/place/lawn+tennis+court/@12.9322983,77.6059566,17z/data=!4m8!1m2!2m1!1slawn+tennis+court%09Suddagunte+Palya!3m4!1s0x3bae15b2977d2ea7:0x7b589d5ff2e0bebf!8m2!3d12.9345625!4d77.6061318",
-		"googlePlusCode": "WJM4+RF Bengaluru, Karnataka",
-		"website": "christuniversity.in",
-		"email": "mail@christuniversity.in",
-		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP3"
-		],
-		"timings": "Mon-Sun:5:30AM–9:30PM ",
-		"cityCode": 1,
-		"id": "9f6ae062-bb23-4e72-93a3-fb221c5e363a",
-		"oldPlayoId": "9f6ae062-bb23-4e72-93a3-fb221c5e363a",
-		"category": 1,
-		"inquiryPhone": null,
-		"s3Folder": "LAWNTENNISCOURT",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "5:30AM–9:30PM",
-			"Tue": "5:30AM–9:30PM",
-			"Wed": "5:30AM–9:30PM",
-			"Thu": "5:30AM–9:30PM",
-			"Fri": "5:30AM–9:30PM",
-			"Sat": "5:30AM–9:30PM",
-			"Sun": "5:30AM–9:30PM"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "lawn-tennis-court-Suddagunte-Palya-bangalore",
-				"active": true
-			}
-		],
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/LAWNTENNISCOURT/1.PNG"
-			}
-		],
-		"rating": 0,
-		"modTS": "2019-05-01T10:06:43.872Z",
-		"shareLink": "https://playo.page.link/2bXWR",
-		"deferLink": "https://playo.page.link/ue1eV",
-		"fullLink": "https://playo.co/venue/?venueId=9f6ae062-bb23-4e72-93a3-fb221c5e363a",
-		"amenities": [],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-01-22T18:30:02.682Z",
-		"avgRating": 0,
-		"ratingCount": 0,
-		"distance": 4.308596096236231,
-		"lat": 12.9345625,
-		"lng": 77.6061318,
-		"activeKey": "lawn-tennis-court-Suddagunte-Palya-bangalore",
 		"offers": []
 	},
 	{
