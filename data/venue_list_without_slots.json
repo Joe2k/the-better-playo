@@ -12328,7 +12328,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T18:44:48.412Z",
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -16656,7 +16656,7 @@
 		"createdTS": "2018-11-18T11:20:24.403Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T07:26:57.826Z",
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSSPORTS/whitefeatherssports1.jpg"
@@ -50285,7 +50285,7 @@
 		"createdTS": "2017-01-07T17:23:44.200Z",
 		"inquiryType": -1,
 		"modTS": "2021-01-11T14:22:49.101Z",
-		"ratingCount": 297,
+		"ratingCount": 298,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ISPORTSARENA/iSportsArena0.png"
@@ -54398,7 +54398,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
