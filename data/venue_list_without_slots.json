@@ -880,7 +880,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:41:09.425Z",
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -11926,7 +11926,7 @@
 		"createdTS": "2017-01-07T17:23:44.037Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-20T11:12:21.448Z",
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHDAY/Matchday0.JPG"
@@ -18044,7 +18044,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 76,
+		"ratingCount": 77,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -18053,7 +18053,7 @@
 			"9632388220"
 		],
 		"sponsored": "",
-		"avgRating": 3.3,
+		"avgRating": 3.4,
 		"address": "29th C cross, Balaji Layout, Opp. Narayana School, Kaggdasapura, C.V.Raman Nagar Post",
 		"active": true,
 		"id": "53e14a4f-444e-45fd-84d1-6b4ccd421fe3",
@@ -20427,7 +20427,7 @@
 		"phone": [
 			"9071221907"
 		],
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"name": "Sportingo",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.125Z",
@@ -20435,7 +20435,7 @@
 		"createdTS": "2017-01-07T17:23:44.125Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T11:18:54.320Z",
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTINGO/sportingo1.jpg"
@@ -24882,7 +24882,7 @@
 		"phone": [
 			"8792739353"
 		],
-		"avgRating": 4.2,
+		"avgRating": 3.9,
 		"name": "Kings Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-13T11:10:38.015Z",
@@ -29751,7 +29751,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 46,
+		"ratingCount": 47,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -29760,7 +29760,7 @@
 			"7899165934"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 4,
 		"address": "Site No. 11/3, 11/4, 11/5, Shivganga Layout, Near Mahadevapura, Outer Ring Road, Bangalore",
 		"active": true,
 		"id": "d6cbefba-e098-4f44-8836-19510c0fc1d7",
@@ -39652,7 +39652,7 @@
 		"description": "",
 		"createdTS": "2021-09-22T11:36:03.213Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560056",
 		"modTS": "2022-06-24T16:15:17.343Z",
 		"inquiryPhone": "9886066911",
@@ -39661,7 +39661,7 @@
 			"9886066911"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.2,
 		"address": "#804, 5th Cross, KCHS Layout, Nagadevanahalli, Bangalore - 560056",
 		"active": true,
 		"id": "6480ef7f-baa9-4426-a5de-64e3b0c0e7e0",
@@ -40840,7 +40840,7 @@
 		"description": "",
 		"createdTS": "2019-05-31T12:11:34.473Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560062",
 		"modTS": "2022-04-12T10:23:00.352Z",
 		"inquiryPhone": "9731643999",
@@ -52461,7 +52461,7 @@
 		"createdTS": "2017-06-10T16:17:44.384Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T11:49:30.056Z",
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THATPLAYS/thatplays0.jpg"
