@@ -1534,7 +1534,7 @@
 		"description": "",
 		"createdTS": "2021-10-22T09:28:48.497Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560004",
 		"modTS": "2022-12-16T15:53:11.267Z",
 		"inquiryPhone": "8951980195",
@@ -1543,7 +1543,7 @@
 			"9205105494"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"address": "Tenbroeck Academy, BP Wadia Road, Basavanagudi, Bengaluru, Karnataka - 560004",
 		"active": true,
 		"id": "1f46f02e-765d-4895-a25f-f3afcc3e8b52",
@@ -2698,14 +2698,14 @@
 		"phone": [
 			"9741775025"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"name": "Tiger 5 Sports - Dairy Circle",
 		"sponsoredRadius": 2,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-20T18:09:06.382Z",
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
 		"s3Folder": "TIGER5SPORTSDAIRYCIRCLE20221220100139092493",
@@ -17940,7 +17940,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 77,
+		"ratingCount": 78,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -25793,12 +25793,12 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "ashoka-sports-arena-papareddipalya-bengaluru"
+				"key": "ashoka-sports-arena-letz-play-nagarbhavi-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/sPdi",
+		"shareLink": "https://z34v4.app.goo.gl/qfGd",
 		"city": "Bengaluru",
-		"area": "Papareddipalya",
+		"area": "Nagarbhavi",
 		"oldPlayoId": "5acb368a6d91cf1567b51a3f",
 		"functionData": [
 			{
@@ -25829,13 +25829,13 @@
 			"9986189582"
 		],
 		"avgRating": 3.9,
-		"name": "Ashoka Sports Arena",
+		"name": "Ashoka Sports Arena ( Letz Play)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
 		"coverImage": "",
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-24T19:14:53.757Z",
+		"modTS": "2023-01-25T10:23:00.521Z",
 		"ratingCount": 139,
 		"images": [
 			{
@@ -25866,7 +25866,7 @@
 		"members": false,
 		"address": "Nagarbhavi 2nd stage, Papareddipalya, D-Group Layout, Srigandada Kaval, Annapurneshwari Nagar",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Y3EE",
+		"deferLink": "https://z34v4.app.goo.gl/Vxmg",
 		"search": "letz play,lets play,let's,ashoka",
 		"fullLink": "https://playo.co/venue/?venueId=26b1fc72-5a2e-4ab9-9582-6b659fb808d3",
 		"country": "India",
@@ -25888,7 +25888,7 @@
 		"activityCountLastSyncDate": "2023-01-24T18:30:00.158Z",
 		"bnpl": false,
 		"distance": 9.944274889632105,
-		"activeKey": "ashoka-sports-arena-papareddipalya-bengaluru",
+		"activeKey": "ashoka-sports-arena-letz-play-nagarbhavi-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -26806,7 +26806,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 259,
+		"ratingCount": 260,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -34117,7 +34117,7 @@
 		"createdTS": "2017-01-07T17:23:44.189Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-04T06:49:40.368Z",
-		"ratingCount": 372,
+		"ratingCount": 373,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH&SPRINT/SmashSprint1647445013185.jpg"
