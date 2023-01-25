@@ -9433,7 +9433,7 @@
 		"description": "",
 		"createdTS": "2020-02-01T08:27:34.053Z",
 		"bookType": 0,
-		"ratingCount": 48,
+		"ratingCount": 49,
 		"zipCode": "560032",
 		"modTS": "2022-11-29T08:44:34.177Z",
 		"inquiryPhone": "9611667891",
@@ -22493,7 +22493,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 96,
+		"ratingCount": 97,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
@@ -50818,6 +50818,191 @@
 		"offers": []
 	},
 	{
+		"oldPlayoId": "0e2967b9-9210-4059-ab10-d6f097f7421a",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2022-06-28T17:26:55.895Z",
+		"bookType": 0,
+		"ratingCount": 7,
+		"zipCode": "560049",
+		"modTS": "2023-01-25T16:46:16.726Z",
+		"inquiryPhone": "9032526301",
+		"inquiryType": -1,
+		"phone": [
+			"9032526301"
+		],
+		"sponsored": "",
+		"avgRating": 4.9,
+		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
+		"active": true,
+		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "Elixir,International,New,Phoenix",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP5"
+		],
+		"name": "New Phoenix Sports (Elixir International School)",
+		"area": "KR Puram",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "0e2967b9-9210-4059-ab10-d6f097f7421a",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"timings": "6AM - 10PM",
+		"sports": [
+			"SP5"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Washroom",
+			"Change Room",
+			"First Aid",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "new-phoenix-sports-elixir-international-school-kr-puram-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Shoes and Rackets are available for rent.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>",
+		"fullLink": "https://playo.co/venue?venueId=0e2967b9-9210-4059-ab10-d6f097f7421a",
+		"type": 0,
+		"email": [
+			"newphoenixsports@gmail.com"
+		],
+		"s3Folder": "NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180",
+		"shareLink": "https://z34v4.app.goo.gl/iVfd",
+		"deferLink": "https://z34v4.app.goo.gl/Br1g",
+		"lat": 13.014871329615834,
+		"lng": 77.71230766191046,
+		"venueId": "0e2967b9-9210-4059-ab10-d6f097f7421a",
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437421684.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437427482.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437432941.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437438331.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437442859.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"activityCountLastSyncDate": "2023-01-24T18:30:00.158Z",
+		"activityCount": 1009,
+		"bnpl": false,
+		"distance": 13.646032583188049,
+		"activeKey": "new-phoenix-sports-elixir-international-school-kr-puram-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			},
+			{
+				"_id": "62bfd6eac4576875cf5e4ed8",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "10% OFF - Offer valid on booking multiple slots",
+				"countryCode": "+91",
+				"createdTS": "2022-07-02T05:26:02.643Z",
+				"offerContent": "0e2967b9-9210-4059-ab10-d6f097f7421a",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/NewPhoenixSportsElixirInternationalSchoolExclusivePlayoOffer10offtl199jcover1656739497120.jpg",
+				"expiry": "2025-03-28T10:56:02.640Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "new-phoenix-sports-elixir-international-school-exclusive-playo-offer-10-off-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "",
+						"content": "https://playo.co/venue/?venueId=0e2967b9-9210-4059-ab10-d6f097f7421a",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "New Phoenix Sports (Elixir International School) Exclusive Playo Offer - 10% off",
+				"id": "66753053-cd56-425c-b7ae-a532d667bd1a",
+				"offerName": "New Phoenix Sports (Elixir International School) Exclusive Playo Offer - 10% off",
+				"shareLink": "https://z34v4.app.goo.gl/twGJ",
+				"deferLink": "https://z34v4.app.goo.gl/D13C"
+			}
+		]
+	},
+	{
 		"inquiryPhone": "9880522422",
 		"remarks": "",
 		"infoData": [],
@@ -50962,190 +51147,6 @@
 		"distance": 13.647752044759027,
 		"activeKey": "fortune-sports-academy-kengeri-bengaluru",
 		"offers": []
-	},
-	{
-		"oldPlayoId": "0e2967b9-9210-4059-ab10-d6f097f7421a",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2022-06-28T17:26:55.895Z",
-		"bookType": 0,
-		"ratingCount": 7,
-		"zipCode": "560049",
-		"modTS": "2022-06-28T17:46:22.540Z",
-		"inquiryPhone": "9032526301",
-		"inquiryType": -1,
-		"phone": [
-			"9032526301"
-		],
-		"sponsored": "",
-		"avgRating": 4.9,
-		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
-		"active": true,
-		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "Elixir,International,New,Phoenix",
-		"isSafeAndHygiene": true,
-		"bookSports": [
-			"SP5"
-		],
-		"name": "New Phoenix Sports (Elixir International School)",
-		"area": "KR Puram",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"content": "0e2967b9-9210-4059-ab10-d6f097f7421a",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"timings": "6AM - 10PM",
-		"sports": [
-			"SP5"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"Change Room",
-			"First Aid",
-			"Drinking Water"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "new-phoenix-sports-elixir-international-school-kr-puram-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Shoes and Rackets are available for rent.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>",
-		"fullLink": "https://playo.co/venue?venueId=0e2967b9-9210-4059-ab10-d6f097f7421a",
-		"type": 0,
-		"email": [
-			"newphoenixsports@gmail.com"
-		],
-		"s3Folder": "NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180",
-		"shareLink": "https://z34v4.app.goo.gl/iVfd",
-		"deferLink": "https://z34v4.app.goo.gl/Br1g",
-		"lat": 13.015223089100093,
-		"lng": 77.71230598395059,
-		"venueId": "0e2967b9-9210-4059-ab10-d6f097f7421a",
-		"__v": 1,
-		"coverImage": "",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437421684.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437427482.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437432941.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437438331.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NEWPHOENIXSPORTSELIXIRINTERNATIONALSCHOOL20220628172655895180/NewPhoenixSportsElixirInternationalSchool1656437442859.jpeg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"activityCountLastSyncDate": "2023-01-24T18:30:00.158Z",
-		"activityCount": 1009,
-		"distance": 13.659725335315265,
-		"activeKey": "new-phoenix-sports-elixir-international-school-kr-puram-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			},
-			{
-				"_id": "62bfd6eac4576875cf5e4ed8",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "10% OFF - Offer valid on booking multiple slots",
-				"countryCode": "+91",
-				"createdTS": "2022-07-02T05:26:02.643Z",
-				"offerContent": "0e2967b9-9210-4059-ab10-d6f097f7421a",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/NewPhoenixSportsElixirInternationalSchoolExclusivePlayoOffer10offtl199jcover1656739497120.jpg",
-				"expiry": "2025-03-28T10:56:02.640Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "new-phoenix-sports-elixir-international-school-exclusive-playo-offer-10-off-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "",
-						"content": "https://playo.co/venue/?venueId=0e2967b9-9210-4059-ab10-d6f097f7421a",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "New Phoenix Sports (Elixir International School) Exclusive Playo Offer - 10% off",
-				"id": "66753053-cd56-425c-b7ae-a532d667bd1a",
-				"offerName": "New Phoenix Sports (Elixir International School) Exclusive Playo Offer - 10% off",
-				"shareLink": "https://z34v4.app.goo.gl/twGJ",
-				"deferLink": "https://z34v4.app.goo.gl/D13C"
-			}
-		]
 	},
 	{
 		"oldPlayoId": "69d6faf0-069a-4af8-96de-449575c308c9",
@@ -54986,7 +54987,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 320,
+		"ratingCount": 321,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
