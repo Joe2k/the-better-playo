@@ -3633,7 +3633,7 @@
 		"description": "",
 		"createdTS": "2019-08-17T19:32:38.748Z",
 		"bookType": 0,
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"zipCode": "560028",
 		"modTS": "2022-04-30T14:42:34.767Z",
 		"inquiryPhone": "9880584455",
@@ -3642,7 +3642,7 @@
 			"9880584455"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"address": "#20, 3rd cross, CT Bed, Opposite SSM School, Ayyappa temple street, Vidyapeeta, Bangalore",
 		"active": true,
 		"id": "696b9b58-7851-47f4-838b-6728b3697c11",
@@ -8498,7 +8498,7 @@
 		"description": "",
 		"createdTS": "2019-06-06T12:20:53.012Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560102",
 		"modTS": "2022-10-15T16:41:37.397Z",
 		"inquiryPhone": "6364444443",
@@ -29318,7 +29318,7 @@
 		"createdTS": "2017-01-07T17:23:44.192Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-18T06:19:42.766Z",
-		"ratingCount": 384,
+		"ratingCount": 385,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSCENTRAL/SWYNGBadmintonFireStnSarjapurRoad1640544263592.jpeg"
@@ -58105,7 +58105,7 @@
 		"bookType": 0,
 		"ratingCount": 5,
 		"zipCode": "560100",
-		"modTS": "2023-01-26T10:31:51.430Z",
+		"modTS": "2023-01-26T13:36:50.660Z",
 		"inquiryPhone": "7349674629",
 		"inquiryType": -1,
 		"phone": [
@@ -58141,7 +58141,7 @@
 				"type": 3
 			}
 		],
-		"timings": "6 AM - 11 PM",
+		"timings": "Open 24x7",
 		"sports": [
 			"SP2",
 			"SP56",
@@ -58176,21 +58176,18 @@
 		"lat": 12.831479,
 		"lng": 77.6398991,
 		"venueId": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"__v": 4,
+		"__v": 6,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/ElMundoArena1674729061401.jpeg"
+				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/elmundoarena1674729061401.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/ElMundoArena1674729065135.jpeg"
+				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/elmundoarena1674729065135.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/ElMundoArena1674729068863.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket0.jpg"
+				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/elmundoarena1674729068863.jpeg"
 			},
 			{
 				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket2.jpg"
@@ -58203,9 +58200,6 @@
 			},
 			{
 				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket29.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket3.jpg"
 			},
 			{
 				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket4.jpg"
