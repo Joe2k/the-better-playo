@@ -5603,7 +5603,7 @@
 		"description": "",
 		"createdTS": "2020-01-10T17:46:19.220Z",
 		"bookType": 0,
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T09:10:53.550Z",
 		"inquiryPhone": "7259563693",
@@ -5612,7 +5612,7 @@
 			"7259563693"
 		],
 		"sponsored": "",
-		"avgRating": 2.9,
+		"avgRating": 3,
 		"address": "1st Stage, 2nd Block, HBR Layout, Opp Ammas Pastries hbr, Inside Iskon Temple Complex",
 		"active": true,
 		"id": "5b564865-cbe9-4f7d-bee3-be9f68cdb596",
@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 122,
+		"ratingCount": 123,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -8273,7 +8273,7 @@
 		"description": "",
 		"createdTS": "2019-07-08T17:49:32.722Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560070",
 		"modTS": "2022-11-28T19:42:38.214Z",
 		"inquiryPhone": "9148090314",
@@ -12161,7 +12161,7 @@
 		"activityCount": 4432,
 		"activityCountLastSyncDate": "2023-01-25T18:30:02.706Z",
 		"avgRating": 4.5,
-		"ratingCount": 38,
+		"ratingCount": 39,
 		"__v": 3,
 		"coverImage": "https://playo.gumlet.io/SPORTSALLEYSAMPANGIRAMNAGAR/Sports1BadmintonAcademySapthagiriNagarcovercover1651589898004.jpeg",
 		"createdTS": "2022-05-03T14:58:14.482Z",
@@ -12613,7 +12613,7 @@
 		"createdTS": "2017-01-07T17:23:44.195Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:36:26.221Z",
-		"ratingCount": 35,
+		"ratingCount": 36,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTON/jnanasoudhabadmintonclub1616230278901.jpeg"
@@ -22794,7 +22794,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 328,
+		"ratingCount": 329,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -45987,7 +45987,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 16,
+		"ratingCount": 17,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -50746,7 +50746,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-05T10:44:59.893Z",
-		"ratingCount": 277,
+		"ratingCount": 278,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi0.jpg"
