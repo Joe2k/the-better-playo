@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 124,
+		"ratingCount": 125,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -19051,7 +19051,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 43,
+		"ratingCount": 44,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -43303,7 +43303,7 @@
 		"createdTS": "2018-06-08T18:06:28.394Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-30T12:07:16.032Z",
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VIRINCHIBADMINTONARENA/VirinchiBadmintonArena1633003581275.jpeg"
