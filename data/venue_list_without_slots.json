@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 125,
+		"ratingCount": 127,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -20960,7 +20960,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 236,
+		"ratingCount": 237,
 		"zipCode": "560068",
 		"modTS": "2022-09-15T15:18:46.920Z",
 		"inquiryPhone": "6364444441",
@@ -22696,7 +22696,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 331,
+		"ratingCount": 332,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -22908,7 +22908,7 @@
 		"description": "",
 		"createdTS": "2019-08-05T17:59:15.867Z",
 		"bookType": 0,
-		"ratingCount": 92,
+		"ratingCount": 93,
 		"zipCode": "560078",
 		"modTS": "2022-02-28T14:59:55.604Z",
 		"inquiryPhone": "7795635133",
@@ -30024,7 +30024,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 314,
+		"ratingCount": 315,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -30447,7 +30447,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 98,
+		"ratingCount": 99,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -39627,7 +39627,7 @@
 		"phone": [
 			"7829240379"
 		],
-		"avgRating": 3.6,
+		"avgRating": 3.7,
 		"name": "Old Vivas Badminton Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-11T10:06:34.838Z",
@@ -39635,7 +39635,7 @@
 		"createdTS": "2017-09-11T10:06:34.838Z",
 		"inquiryType": -1,
 		"modTS": "2021-11-21T04:06:57.902Z",
-		"ratingCount": 176,
+		"ratingCount": 177,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OLDVIVASBADMINTONACADEMY/OldVivasBadmintonAcademy1637467599916.jpg"
