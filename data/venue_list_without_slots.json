@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 127,
+		"ratingCount": 128,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -9786,7 +9786,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 218,
+		"ratingCount": 219,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -18953,7 +18953,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -22696,7 +22696,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 332,
+		"ratingCount": 333,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -26710,7 +26710,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 260,
+		"ratingCount": 261,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -50957,7 +50957,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 139,
+		"ratingCount": 140,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -55665,7 +55665,7 @@
 		"createdTS": "2017-01-07T17:23:44.009Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-25T10:25:18.161Z",
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMACROSSFITCUNNINGHAMROAD/WhitePeacockGamePointBadmintonArena1649515437516.jpeg"
@@ -56746,7 +56746,7 @@
 		"phone": [
 			"8197335007"
 		],
-		"avgRating": 3.9,
+		"avgRating": 4,
 		"name": "PlayOn Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-11-22T10:22:36.404Z",
