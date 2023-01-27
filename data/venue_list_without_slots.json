@@ -15389,8 +15389,8 @@
 		"bookType": 0,
 		"ratingCount": 73,
 		"zipCode": "560016",
-		"modTS": "2022-03-08T11:40:05.474Z",
-		"inquiryPhone": "8050355547",
+		"modTS": "2023-01-27T10:53:49.310Z",
+		"inquiryPhone": "8095036038",
 		"inquiryType": -1,
 		"phone": [
 			"8050355547"
@@ -15482,6 +15482,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 7563,
 		"activityCountLastSyncDate": "2023-01-26T18:30:02.610Z",
+		"bnpl": false,
 		"distance": 8.642636935371389,
 		"activeKey": "cross-court-badminton-arena-near-ramamurthy-nagar-police-station-bengaluru",
 		"offers": []
@@ -22794,7 +22795,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 330,
+		"ratingCount": 331,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -25818,8 +25819,10 @@
 		"amenities": [
 			"Parking",
 			"Changing Room",
-			"Shower",
-			"Locker"
+			"Locker",
+			"Washroom",
+			"Drinking Water",
+			"First Aid"
 		],
 		"website": "",
 		"cityCode": 1,
@@ -25835,7 +25838,7 @@
 		"coverImage": "",
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-25T10:23:00.521Z",
+		"modTS": "2023-01-27T10:13:13.071Z",
 		"ratingCount": 139,
 		"images": [
 			{
@@ -59790,7 +59793,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 397,
+		"ratingCount": 398,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
