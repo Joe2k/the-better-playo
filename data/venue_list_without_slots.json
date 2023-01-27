@@ -6296,7 +6296,7 @@
 		"phone": [
 			"7349720771"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.1,
 		"name": "Dr. Shyam Prasad Mukherjee Kreeda Sankeerna",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.043Z",
@@ -6304,7 +6304,7 @@
 		"createdTS": "2017-01-07T17:23:44.043Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-08T17:30:01.318Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSKALYANNAGAR/DrShyamPrasadMukherjeeKreedaSankeerna1649434684516.jpeg"
@@ -34569,107 +34569,6 @@
 		"offers": []
 	},
 	{
-		"oldPlayoId": "54b38ec8-9a9e-46d5-87d0-f2882c86fb42",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-04-27T14:22:44.898Z",
-		"bookType": 0,
-		"ratingCount": 18,
-		"zipCode": "560092",
-		"modTS": "2020-10-05T08:55:13.333Z",
-		"inquiryPhone": "9686532833",
-		"inquiryType": -1,
-		"phone": [
-			"9686532833"
-		],
-		"sponsored": "",
-		"avgRating": 4.2,
-		"address": "# 83/1, rajiv Gandhi Nagar, Kodigehalli",
-		"active": true,
-		"id": "54b38ec8-9a9e-46d5-87d0-f2882c86fb42",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "rl football,r.l,RL,Rl,R.L.,R.L",
-		"bookSports": [
-			"SP2"
-		],
-		"name": "RL Football Arena",
-		"area": "Sahakar Nagar",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"content": "54b38ec8-9a9e-46d5-87d0-f2882c86fb42",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"timings": "6 AM - 11  PM",
-		"sports": [
-			"SP2"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Parking",
-			"Washrooms"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "rl-football-arena-sahakar-nagar-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=54b38ec8-9a9e-46d5-87d0-f2882c86fb42",
-		"type": 0,
-		"email": [
-			"rlfootballarena@gmail.com"
-		],
-		"s3Folder": "RLFOOTBALLARENA20190427142244898290",
-		"shareLink": "https://z34v4.app.goo.gl/vZU6",
-		"deferLink": "https://z34v4.app.goo.gl/nRt3",
-		"lat": 13.07075,
-		"lng": 77.5865833,
-		"venueId": "54b38ec8-9a9e-46d5-87d0-f2882c86fb42",
-		"__v": 2,
-		"coverImage": "",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/RLFOOTBALLARENA20190427142244898290/RLFootballArena0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RLFOOTBALLARENA20190427142244898290/RLFootballArena1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RLFOOTBALLARENA20190427142244898290/RLFootballArena2.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RLFOOTBALLARENA20190427142244898290/RLFootballArena3.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RLFOOTBALLARENA20190427142244898290/RLFootballArena4.jpg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "https://playo.imgix.net/RLFOOTBALLARENA20190427142244898290/RLFootballArenamap1556426024920.png",
-		"remarks": "",
-		"isSafeAndHygiene": true,
-		"activityCount": 1646,
-		"activityCountLastSyncDate": "2023-01-26T18:30:02.610Z",
-		"distance": 11.071456594621374,
-		"activeKey": "rl-football-arena-sahakar-nagar-bengaluru",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "112297f7-f08e-4fee-afcc-408fc5ceb925",
 		"cityCode": 1,
 		"description": "",
@@ -58098,167 +57997,108 @@
 		]
 	},
 	{
-		"oldPlayoId": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-08-29T12:20:59.745Z",
-		"bookType": 0,
-		"ratingCount": 5,
-		"zipCode": "560100",
-		"modTS": "2023-01-26T13:36:50.660Z",
-		"inquiryPhone": "7349674629",
-		"inquiryType": -1,
-		"phone": [
-			"7349674629"
+		"inquiryPhone": "8105763083",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "justplay-sports-club-badminton-electronic-city-bengaluru"
+			}
 		],
-		"sponsored": "",
-		"avgRating": 5,
-		"address": "Behind JR Farm, Near Sai Baba Temple, Neeladri nagar, Electronic City, Bangalore - 560100",
-		"active": true,
-		"id": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"category": 2,
+		"shareLink": "https://z34v4.app.goo.gl/19T4",
 		"city": "Bengaluru",
-		"search": "El Mundo",
-		"bookSports": [
-			"SP2",
-			"SP56",
-			"SP49",
-			"SP8",
-			"SP34"
-		],
-		"name": "El Mundo Arena",
 		"area": "Electronic City",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
+		"oldPlayoId": "587124206d91cf3645ab080a",
 		"functionData": [
 			{
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "17941813-2e4e-42db-ba41-f45920a920fe",
+				"content": "75003fb3-4dcf-42e2-949c-d216e070ee0f",
 				"caption": "Book Now!",
 				"type": 3
 			}
 		],
-		"timings": "Open 24x7",
 		"sports": [
-			"SP2",
-			"SP56",
-			"SP49",
-			"SP8",
-			"SP34"
+			"SP5"
 		],
-		"state": "Karnataka",
+		"priority": 0,
 		"amenities": [
+			"Washroom",
 			"Parking",
-			"First Aid",
-			"Change Room",
+			"First-aid",
 			"Drinking Water"
 		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "el-mundo-arena-electronic-city-bengaluru"
-			}
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/JUSTPLAYSPORTSCLUB/JustPlaySportsClubmap.png",
+		"zipCode": "560100",
+		"phone": [
+			"8105763083"
 		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=17941813-2e4e-42db-ba41-f45920a920fe",
-		"type": 0,
-		"email": [
-			"kirankmannam@gmail.com"
-		],
-		"s3Folder": "JUSTPLAYFOOTBALLCRICKET20190829122059745356",
-		"shareLink": "https://z34v4.app.goo.gl/3xbX",
-		"deferLink": "https://z34v4.app.goo.gl/VG7D",
-		"lat": 12.831479,
-		"lng": 77.6398991,
-		"venueId": "17941813-2e4e-42db-ba41-f45920a920fe",
-		"__v": 6,
+		"avgRating": 3.8,
+		"name": "JustPlay Sports Club - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.117Z",
 		"coverImage": "",
-		"googleMapLink": "",
+		"createdTS": "2017-01-07T17:23:44.117Z",
+		"inquiryType": -1,
+		"modTS": "2021-10-06T11:08:01.823Z",
+		"ratingCount": 207,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/elmundoarena1674729061401.jpeg"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/2.png"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/elmundoarena1674729065135.jpeg"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/JustPlaySportsClub7.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/elmundoarena1674729068863.jpeg"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/JustPlaySportsClub8.png"
 			},
 			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket2.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket27.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket28.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket29.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/JUSTPLAYFOOTBALLCRICKET20190829122059745356/justplayfootballcricket4.jpg"
+				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/justplaysportsclub1.jpg"
 			}
 		],
-		"infoData": [],
+		"id": "75003fb3-4dcf-42e2-949c-d216e070ee0f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "JUSTPLAYSPORTSCLUB",
+		"state": "Karnataka",
+		"email": [
+			"Ideal.Baddy@gmail.com"
+		],
 		"logoImg": "",
-		"mapImage": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
 		"members": false,
-		"remarks": "",
+		"address": "Behind JR Farm, Near Sai Baba Temple, Neeladri nagar, Electronic City, Bangalore - 560100",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/QCTf",
+		"search": "just play,jp",
+		"fullLink": "https://playo.co/venue/?venueId=75003fb3-4dcf-42e2-949c-d216e070ee0f",
+		"country": "India",
+		"timings": "5:30 AM - 11:30 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. <br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>",
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.831479,
+		"lng": 77.6398991,
+		"placeId": "",
+		"type": 0,
+		"venueId": "75003fb3-4dcf-42e2-949c-d216e070ee0f",
+		"__v": 3,
+		"sponsoredRadius": 4,
 		"isSafeAndHygiene": true,
-		"activityCount": 1500,
+		"activityCount": 9038,
 		"activityCountLastSyncDate": "2023-01-26T18:30:02.610Z",
-		"bnpl": false,
 		"distance": 16.354251795070592,
-		"activeKey": "el-mundo-arena-electronic-city-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "justplay-sports-club-badminton-electronic-city-bengaluru",
+		"offers": []
 	},
 	{
 		"inquiryPhone": "8105763083",
