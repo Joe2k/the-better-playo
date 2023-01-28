@@ -21384,7 +21384,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T05:58:04.371Z",
 		"bookType": 0,
-		"ratingCount": 166,
+		"ratingCount": 167,
 		"zipCode": "560037",
 		"modTS": "2022-09-18T10:10:49.686Z",
 		"inquiryPhone": "9606751111",
@@ -27023,7 +27023,7 @@
 		"description": "",
 		"createdTS": "2021-03-05T06:08:16.249Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560048",
 		"modTS": "2022-12-18T06:40:39.142Z",
 		"inquiryPhone": "8247245277",
@@ -27032,7 +27032,7 @@
 			"8247245277"
 		],
 		"sponsored": "",
-		"avgRating": 3.6,
+		"avgRating": 3.7,
 		"address": "Near Amrutha Bakery, B Narayanapura, Behind BBMP Park, Nearby Anjeneya Temple, Mahadevapura, Bangalore",
 		"active": true,
 		"id": "bc6fd65c-75d3-4789-9dd1-6b2c623e19b6",
@@ -45937,7 +45937,7 @@
 		"description": "",
 		"createdTS": "2022-03-27T14:18:33.452Z",
 		"bookType": 0,
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"zipCode": "560036",
 		"modTS": "2023-01-15T14:27:28.391Z",
 		"inquiryPhone": "9844613174",
@@ -52434,7 +52434,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 167,
+		"ratingCount": 168,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
