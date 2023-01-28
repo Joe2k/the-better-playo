@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 128,
+		"ratingCount": 130,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -22184,7 +22184,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 64,
+		"ratingCount": 65,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -27951,7 +27951,7 @@
 		"createdTS": "2017-09-01T11:01:03.935Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-28T15:28:46.835Z",
-		"ratingCount": 455,
+		"ratingCount": 456,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLERSALLEY/shuttlersalley1629554958671.jpeg"
@@ -35787,7 +35787,7 @@
 		"createdTS": "2018-10-11T07:15:01.485Z",
 		"inquiryType": -1,
 		"modTS": "2020-12-29T05:31:22.029Z",
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERBADMINTONCENTRE/WhiteFeatherBadmintonCentreAECSLayout3.jpeg"
@@ -37082,7 +37082,7 @@
 			"9606460392"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"address": "Fettle Fitness & Sports Studio. Full Address: #3, Raghavana Payla Main Road, J P Nagar, 9th Phase, Bangalore, 560108",
 		"active": true,
 		"id": "ae2248af-67e2-4ac4-a742-0ff52ac7c55b",
@@ -39250,7 +39250,7 @@
 		"createdTS": "2017-01-07T17:23:44.202Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-22T07:21:15.810Z",
-		"ratingCount": 381,
+		"ratingCount": 382,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PROCLUB/ProClub2.PNG"
@@ -42244,7 +42244,7 @@
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T13:16:44.176Z",
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYHIGH/flyhighbadmintonarena1660032614321.jpeg"
