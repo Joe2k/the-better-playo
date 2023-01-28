@@ -16706,7 +16706,7 @@
 		"description": "",
 		"createdTS": "2021-02-01T14:36:00.849Z",
 		"bookType": 0,
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"zipCode": "560068",
 		"modTS": "2022-07-04T09:06:36.177Z",
 		"inquiryPhone": "9900775253",
@@ -16715,7 +16715,7 @@
 			"9986354494"
 		],
 		"sponsored": "",
-		"avgRating": 3.6,
+		"avgRating": 3.5,
 		"address": "104/1, 4th Main, Devarachikkanahalli Main Road, Kaveri Nagar, Hongasandra, Bengaluru, Karnataka 560068",
 		"active": true,
 		"id": "6620ccaa-6a0c-480f-ae0e-775801e67de8",
@@ -19683,7 +19683,7 @@
 		"createdTS": "2017-01-07T17:23:44.157Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T06:51:04.651Z",
-		"ratingCount": 118,
+		"ratingCount": 119,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KICKON/img-20160201-wa0003.jpg"
@@ -19935,7 +19935,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-14T09:41:20.029Z",
-		"ratingCount": 292,
+		"ratingCount": 293,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -20960,7 +20960,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 237,
+		"ratingCount": 238,
 		"zipCode": "560068",
 		"modTS": "2022-09-15T15:18:46.920Z",
 		"inquiryPhone": "6364444441",
@@ -31343,7 +31343,7 @@
 		"phone": [
 			"6364754545"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"name": "Level Pro Badminton Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-09-15T10:11:54.373Z",
@@ -31351,7 +31351,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 98,
+		"ratingCount": 99,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -33651,7 +33651,7 @@
 		"phone": [
 			"8050826304"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Yash Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.174Z",
@@ -33659,7 +33659,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -49201,7 +49201,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 557,
+		"ratingCount": 558,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -65263,7 +65263,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 175,
+		"ratingCount": 176,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
