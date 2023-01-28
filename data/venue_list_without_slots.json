@@ -12815,7 +12815,7 @@
 		"createdTS": "2018-12-19T15:30:15.684Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:27:44.820Z",
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AQUILASPORTSARENA/AquilaSportsArena0.png"
@@ -13022,7 +13022,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 271,
+		"ratingCount": 272,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -14402,7 +14402,7 @@
 		"description": "",
 		"createdTS": "2019-10-03T05:50:00.886Z",
 		"bookType": 0,
-		"ratingCount": 79,
+		"ratingCount": 80,
 		"zipCode": "560094",
 		"modTS": "2022-11-17T12:35:23.856Z",
 		"inquiryPhone": "9901915776",
@@ -18953,7 +18953,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -19281,7 +19281,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -20371,7 +20371,7 @@
 		"description": "",
 		"createdTS": "2019-10-12T17:55:22.790Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560072",
 		"modTS": "2022-04-16T15:11:36.601Z",
 		"inquiryPhone": "9880095731",
@@ -20380,7 +20380,7 @@
 			"9880095731"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"address": "Landmark: Near Therige Bhavan; #26/27, Nisarga Orchards, Papareddypalya, Nagarbhavi 2nd Stage",
 		"active": true,
 		"id": "80c037d8-b091-47f7-95f7-d1c1d2085258",
@@ -21849,108 +21849,6 @@
 		]
 	},
 	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 260,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2510,
-		"activityCountLastSyncDate": "2023-01-27T18:30:02.705Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -22075,6 +21973,108 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 260,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2510,
+		"activityCountLastSyncDate": "2023-01-27T18:30:02.705Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -23686,7 +23686,7 @@
 		"createdTS": "2017-01-07T17:23:44.204Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-19T08:44:42.841Z",
-		"ratingCount": 494,
+		"ratingCount": 495,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYMANIA/playmania16.jpg"
@@ -30447,7 +30447,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 99,
+		"ratingCount": 100,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -35294,7 +35294,7 @@
 		"description": "",
 		"createdTS": "2020-08-20T09:33:46.776Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560091",
 		"modTS": "2022-12-25T15:48:08.734Z",
 		"inquiryPhone": "8904247968",
@@ -37780,7 +37780,7 @@
 		"createdTS": "2018-02-23T13:43:06.871Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-25T12:40:57.340Z",
-		"ratingCount": 142,
+		"ratingCount": 143,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KUDLUBADMINTONCENTRE/kudlubadmintoncentre0.jpg"
@@ -39250,7 +39250,7 @@
 		"createdTS": "2017-01-07T17:23:44.202Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-22T07:21:15.810Z",
-		"ratingCount": 380,
+		"ratingCount": 381,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PROCLUB/ProClub2.PNG"
@@ -44779,7 +44779,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"bookSports": [
 			"SP5"
 		],
@@ -45536,7 +45536,7 @@
 		"description": "",
 		"createdTS": "2020-02-27T08:16:15.924Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560103",
 		"modTS": "2022-08-19T11:10:30.121Z",
 		"inquiryPhone": "9036773531",
@@ -45545,7 +45545,7 @@
 			"9036773531"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 3.4,
 		"address": "PK Sports, Bhoganahalli Main Road, opposite Felix apartments, Kaverappa Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka - 560103",
 		"active": true,
 		"id": "0e7247b3-5388-41a8-a64c-039ca22e03a3",
@@ -51266,7 +51266,7 @@
 		"description": "",
 		"createdTS": "2022-01-03T11:46:06.139Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560035",
 		"modTS": "2023-01-09T07:39:55.194Z",
 		"inquiryPhone": "9738433530",
@@ -54098,7 +54098,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -54591,7 +54591,7 @@
 		"description": "",
 		"createdTS": "2019-07-11T09:39:38.620Z",
 		"bookType": 0,
-		"ratingCount": 36,
+		"ratingCount": 37,
 		"zipCode": "560066",
 		"modTS": "2022-03-25T12:53:59.261Z",
 		"inquiryPhone": "7338282567",
@@ -54600,7 +54600,7 @@
 			"7338282567"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"address": "256, Varthur Main Road, Near D Mart, Patel Narayansamy Layout, Whitefield, Bengaluru, Karnataka 560066",
 		"active": true,
 		"id": "b46e2fa1-cb2e-4d6b-ac7f-c747de140ecf",
@@ -84379,90 +84379,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "7760825069",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/H3VF",
-		"city": "Bengaluru",
-		"area": "Off Marthahalli-Sarjapur Road",
-		"oldPlayoId": "587124206d91cf3645ab07e5",
-		"functionData": [
-			{
-				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 2,
-				"caption": "Enquire Now!",
-				"type": 2
-			}
-		],
-		"sports": [
-			"SP27"
-		],
-		"priority": 0,
-		"amenities": [
-			"Cafe",
-			"Washroom"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"7760825069"
-		],
-		"avgRating": 3.8,
-		"name": "Bubble Strike Bengaluru",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.072Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": 0,
-		"modTS": "2022-11-16T07:27:52.826Z",
-		"ratingCount": 13,
-		"images": [],
-		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"category": 1,
-		"s3Folder": "BUBBLESTRIKEBENGALURU",
-		"state": "Karnataka",
-		"email": [
-			""
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/s7xB",
-		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
-		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"country": "India",
-		"timings": "6:00 AM - 10:00 PM",
-		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-01-27T18:30:02.705Z",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.939621,
-		"lng": 77.7055,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"distance": 12.546616529780627,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
@@ -84552,6 +84468,90 @@
 		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
 		"distance": 12.546616529780627,
 		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "7760825069",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
+		"area": "Off Marthahalli-Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab07e5",
+		"functionData": [
+			{
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP27"
+		],
+		"priority": 0,
+		"amenities": [
+			"Cafe",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"7760825069"
+		],
+		"avgRating": 3.8,
+		"name": "Bubble Strike Bengaluru",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.072Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.072Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
+		"ratingCount": 13,
+		"images": [],
+		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"category": 1,
+		"s3Folder": "BUBBLESTRIKEBENGALURU",
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
+		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
+		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"country": "India",
+		"timings": "6:00 AM - 10:00 PM",
+		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-01-27T18:30:02.705Z",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.939621,
+		"lng": 77.7055,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
