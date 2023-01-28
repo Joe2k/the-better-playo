@@ -1534,7 +1534,7 @@
 		"description": "",
 		"createdTS": "2021-10-22T09:28:48.497Z",
 		"bookType": 0,
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"zipCode": "560004",
 		"modTS": "2022-12-16T15:53:11.267Z",
 		"inquiryPhone": "8951980195",
@@ -1543,7 +1543,7 @@
 			"9205105494"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.6,
 		"address": "Tenbroeck Academy, BP Wadia Road, Basavanagudi, Bengaluru, Karnataka - 560004",
 		"active": true,
 		"id": "1f46f02e-765d-4895-a25f-f3afcc3e8b52",
@@ -3633,7 +3633,7 @@
 		"description": "",
 		"createdTS": "2019-08-17T19:32:38.748Z",
 		"bookType": 0,
-		"ratingCount": 59,
+		"ratingCount": 60,
 		"zipCode": "560028",
 		"modTS": "2022-04-30T14:42:34.767Z",
 		"inquiryPhone": "9880584455",
@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 152,
+		"ratingCount": 153,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -10492,7 +10492,7 @@
 		"createdTS": "2017-12-13T11:04:51.227Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-20T08:40:38.553Z",
-		"ratingCount": 229,
+		"ratingCount": 230,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/4SSHUTTLESMASHSPORTSSTUDIO/4sshuttlesmashsportsstudio5.jpg"
@@ -11723,7 +11723,7 @@
 		"createdTS": "2017-01-07T17:23:44.037Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-20T11:12:21.448Z",
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHDAY/Matchday0.JPG"
@@ -13588,7 +13588,7 @@
 		"description": "",
 		"createdTS": "2019-07-03T10:27:28.230Z",
 		"bookType": 0,
-		"ratingCount": 79,
+		"ratingCount": 80,
 		"zipCode": "560098",
 		"modTS": "2021-12-17T09:16:32.869Z",
 		"inquiryPhone": "9008257792",
@@ -18083,7 +18083,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 265,
+		"ratingCount": 266,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -26710,7 +26710,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 263,
+		"ratingCount": 264,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -30024,7 +30024,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 315,
+		"ratingCount": 316,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -49201,7 +49201,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 559,
+		"ratingCount": 560,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -59018,7 +59018,7 @@
 		"createdTS": "2018-02-11T06:46:38.718Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-20T09:53:20.487Z",
-		"ratingCount": 266,
+		"ratingCount": 267,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSHUTTLERS/FeatherShuttlers1586172701791.png"
