@@ -19281,7 +19281,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -21094,7 +21094,7 @@
 		"description": "",
 		"createdTS": "2019-06-30T18:58:05.667Z",
 		"bookType": 0,
-		"ratingCount": 1,
+		"ratingCount": 2,
 		"zipCode": "560078",
 		"modTS": "2022-08-19T11:10:19.323Z",
 		"inquiryPhone": "8494815257",
@@ -21103,7 +21103,7 @@
 			"8494815257"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 3,
 		"address": "The Sports Club, No 236/175/46, Sidappa Garden, Chunchaghatta Main Road, Bengaluru, Karnataka - 560078",
 		"active": true,
 		"id": "a784eecc-55a0-4875-b1c2-c03ff6f38d03",
@@ -21289,7 +21289,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 407,
+		"ratingCount": 408,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -26710,7 +26710,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 262,
+		"ratingCount": 263,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -33032,7 +33032,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 194,
+		"ratingCount": 195,
 		"zipCode": "560068",
 		"modTS": "2023-01-19T06:44:42.055Z",
 		"inquiryPhone": "8095514666",
@@ -33659,7 +33659,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -43307,7 +43307,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -49201,7 +49201,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 558,
+		"ratingCount": 559,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -59168,7 +59168,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 184,
+		"ratingCount": 185,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
