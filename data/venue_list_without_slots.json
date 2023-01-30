@@ -6296,7 +6296,7 @@
 		"phone": [
 			"7349720771"
 		],
-		"avgRating": 4.1,
+		"avgRating": 3.9,
 		"name": "Dr. Shyam Prasad Mukherjee Kreeda Sankeerna",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.043Z",
@@ -6304,7 +6304,7 @@
 		"createdTS": "2017-01-07T17:23:44.043Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-08T17:30:01.318Z",
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSKALYANNAGAR/DrShyamPrasadMukherjeeKreedaSankeerna1649434684516.jpeg"
@@ -29456,7 +29456,7 @@
 		"createdTS": "2017-07-11T05:17:59.345Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T07:18:06.121Z",
-		"ratingCount": 239,
+		"ratingCount": 240,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BALLALSBADMINTONARENA/ballalsbadmintonarenagubballala1617083892792.jpeg"
@@ -50549,7 +50549,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-05T10:44:59.893Z",
-		"ratingCount": 279,
+		"ratingCount": 281,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi0.jpg"
@@ -52796,7 +52796,7 @@
 		"description": "",
 		"createdTS": "2019-11-13T12:00:29.048Z",
 		"bookType": 0,
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"zipCode": "560016",
 		"modTS": "2022-09-29T13:53:10.413Z",
 		"inquiryPhone": "9900079594",
@@ -52805,7 +52805,7 @@
 			"9900079594"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"address": "6th Floor, Neil Rao Towers, Plot #117 & 118, Road #3, EPIP Phase - 1, Whitefield Road, Bangalore",
 		"active": true,
 		"id": "125e0d09-79d6-4cff-a35d-c80f716686ed",
@@ -54091,14 +54091,14 @@
 		"phone": [
 			"7204672409"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"name": "Badmintonium Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
