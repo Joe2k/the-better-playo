@@ -2076,7 +2076,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 85,
+		"ratingCount": 86,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -2761,7 +2761,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 140,
+		"ratingCount": 141,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -12125,7 +12125,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T18:44:48.412Z",
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -17941,7 +17941,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T13:54:17.262Z",
 		"bookType": 0,
-		"ratingCount": 91,
+		"ratingCount": 92,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T07:12:07.228Z",
 		"inquiryPhone": "8861619999",
@@ -26710,7 +26710,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 265,
+		"ratingCount": 266,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -50404,7 +50404,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-05T10:44:59.893Z",
-		"ratingCount": 281,
+		"ratingCount": 282,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi0.jpg"
