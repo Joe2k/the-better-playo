@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 133,
+		"ratingCount": 134,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -11855,7 +11855,7 @@
 		"phone": [
 			"9513500760"
 		],
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"name": "X Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-08T06:13:10.392Z",
@@ -11863,7 +11863,7 @@
 		"createdTS": "2017-09-08T06:13:10.392Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T11:55:44.359Z",
-		"ratingCount": 84,
+		"ratingCount": 85,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSX/sportsx0.jpg"
@@ -43154,7 +43154,7 @@
 		"phone": [
 			"9123347676"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.5,
 		"name": "Machaxi Badminton Centre",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-03T05:16:07.494Z",
@@ -43162,7 +43162,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -47693,7 +47693,7 @@
 		"phone": [
 			"9845280853"
 		],
-		"avgRating": 4.9,
+		"avgRating": 5,
 		"name": "Selenite Sports Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-08-07T11:57:40.207Z",
@@ -47701,7 +47701,7 @@
 		"createdTS": "2017-08-07T11:57:40.207Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-12T07:25:35.552Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SELENITESPORTSACADEMY/selenitesportsacademy1600886207740.jpeg"
@@ -54645,7 +54645,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T15:20:18.227Z",
-		"ratingCount": 323,
+		"ratingCount": 324,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -69664,7 +69664,7 @@
 		"description": "",
 		"createdTS": "2021-07-09T15:18:31.382Z",
 		"bookType": 0,
-		"ratingCount": 35,
+		"ratingCount": 36,
 		"zipCode": "572103",
 		"modTS": "2022-08-10T14:05:01.506Z",
 		"inquiryPhone": "9110662425",
