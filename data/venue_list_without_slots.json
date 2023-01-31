@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 135,
+		"ratingCount": 136,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -9983,7 +9983,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"bookSports": [
 			"SP5"
 		],
@@ -14014,7 +14014,7 @@
 		"createdTS": "2018-05-08T12:43:40.961Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-06T09:41:15.079Z",
-		"ratingCount": 119,
+		"ratingCount": 120,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/DAZZLINGSMASH/DazzlingSmash5.jpeg"
@@ -15290,11 +15290,11 @@
 		"bookType": 0,
 		"ratingCount": 73,
 		"zipCode": "560016",
-		"modTS": "2023-01-27T10:53:49.310Z",
-		"inquiryPhone": "8095036038",
+		"modTS": "2023-01-31T16:34:16.856Z",
+		"inquiryPhone": "9686603952",
 		"inquiryType": -1,
 		"phone": [
-			"8050355547"
+			"9686603952"
 		],
 		"sponsored": "",
 		"avgRating": 3.8,
@@ -15307,7 +15307,7 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Cross Court Badminton Arena",
+		"name": "Machaxi - Cross Court Badminton Centre",
 		"area": "Near Ramamurthy Nagar Police Station",
 		"sponsoredRadius": 6,
 		"country": "India",
@@ -15339,7 +15339,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "cross-court-badminton-arena-near-ramamurthy-nagar-police-station-bengaluru"
+				"key": "machaxi-cross-court-badminton-centre-near-ramamurthy-nagar-police-station-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -15348,11 +15348,11 @@
 		"fullLink": "https://playo.co/venue?venueId=aaa67452-39f7-460e-9229-8ff720c2f6ae",
 		"type": 0,
 		"email": [
-			"jeevus27@gmail.com"
+			"frontdeskmachaxi.crosscourt@gmail.com"
 		],
 		"s3Folder": "SPORTHOODBADMINTONARENARAMAMURTHYNAGAR20190528073613390168",
-		"shareLink": "https://z34v4.app.goo.gl/3V7r",
-		"deferLink": "https://z34v4.app.goo.gl/b5TK",
+		"shareLink": "https://z34v4.app.goo.gl/JuHN",
+		"deferLink": "https://z34v4.app.goo.gl/xvKc",
 		"lat": 13.0049,
 		"lng": 77.666576,
 		"venueId": "aaa67452-39f7-460e-9229-8ff720c2f6ae",
@@ -15385,7 +15385,7 @@
 		"activityCountLastSyncDate": "2023-01-30T18:30:02.268Z",
 		"bnpl": false,
 		"distance": 8.642636935371389,
-		"activeKey": "cross-court-badminton-arena-near-ramamurthy-nagar-police-station-bengaluru",
+		"activeKey": "machaxi-cross-court-badminton-centre-near-ramamurthy-nagar-police-station-bengaluru",
 		"offers": []
 	},
 	{
@@ -21289,7 +21289,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 408,
+		"ratingCount": 409,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -52609,7 +52609,7 @@
 		"description": "",
 		"createdTS": "2019-11-13T12:00:29.048Z",
 		"bookType": 0,
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"zipCode": "560016",
 		"modTS": "2022-09-29T13:53:10.413Z",
 		"inquiryPhone": "9900079594",
@@ -52618,7 +52618,7 @@
 			"9900079594"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "6th Floor, Neil Rao Towers, Plot #117 & 118, Road #3, EPIP Phase - 1, Whitefield Road, Bangalore",
 		"active": true,
 		"id": "125e0d09-79d6-4cff-a35d-c80f716686ed",
@@ -53911,7 +53911,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -54553,16 +54553,16 @@
 		]
 	},
 	{
-		"inquiryPhone": "9071090999",
+		"inquiryPhone": "9123347676",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
 			{
 				"active": true,
-				"key": "play-9-badminton-academy-of-fitness-sports-whitefield-bengaluru"
+				"key": "machaxi-play9-sports-centre-whitefield-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/qrji",
+		"shareLink": "https://z34v4.app.goo.gl/pSBL",
 		"city": "Bengaluru",
 		"area": "Whitefield",
 		"oldPlayoId": "5ba2695e6d91cf2d018cecdb",
@@ -54593,16 +54593,16 @@
 		"mapImage": "https://playo.imgix.net/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/Play9BadmintonAcademyofFitnessSportsmap1537370707100.png",
 		"zipCode": "560066",
 		"phone": [
-			"9071090999"
+			"9123347676"
 		],
 		"avgRating": 4.7,
-		"name": "Play 9 Badminton Academy of Fitness & Sports",
+		"name": "Machaxi - Play9 Sports Centre",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-09-19T15:21:02.257Z",
 		"coverImage": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/Play9BadmintonAcademyofFitnessSportscovercover1552672623219.jpg",
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-14T15:20:18.227Z",
+		"modTS": "2023-01-31T16:36:41.562Z",
 		"ratingCount": 324,
 		"images": [
 			{
@@ -54636,7 +54636,7 @@
 		"s3Folder": "PLAY9BADMINTONACADEMYOFFITNESSSPORTS",
 		"state": "Karnataka",
 		"email": [
-			"play9.blr@gmail.com"
+			"frontdeskmachaxi.play9@gmail.com"
 		],
 		"logoImg": "",
 		"tags": [],
@@ -54645,7 +54645,7 @@
 		"members": false,
 		"address": "68/1, Near Parijatha Farm, 400m From Shell Petrol Pump, Siddapura",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/aAvM",
+		"deferLink": "https://z34v4.app.goo.gl/UBFZ",
 		"search": "16 courts,play9,best badminton",
 		"fullLink": "https://playo.co/venue/?venueId=a8910737-c339-45f2-9d1c-d5efa027c697",
 		"country": "India",
@@ -54670,7 +54670,7 @@
 		"activityCountLastSyncDate": "2023-01-30T18:30:02.268Z",
 		"bnpl": false,
 		"distance": 14.833291068173676,
-		"activeKey": "play-9-badminton-academy-of-fitness-sports-whitefield-bengaluru",
+		"activeKey": "machaxi-play9-sports-centre-whitefield-bengaluru",
 		"offers": []
 	},
 	{
@@ -55679,7 +55679,7 @@
 		"description": "",
 		"createdTS": "2021-10-25T02:35:06.208Z",
 		"bookType": 0,
-		"ratingCount": 61,
+		"ratingCount": 62,
 		"zipCode": "560100",
 		"modTS": "2022-04-10T10:13:26.850Z",
 		"inquiryPhone": "7892479805",
@@ -59566,7 +59566,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 399,
+		"ratingCount": 400,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
