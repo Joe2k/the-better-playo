@@ -19935,7 +19935,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-14T09:41:20.029Z",
-		"ratingCount": 293,
+		"ratingCount": 294,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -33441,7 +33441,7 @@
 		"description": "",
 		"createdTS": "2019-02-17T16:44:14.836Z",
 		"bookType": 0,
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"zipCode": "560098",
 		"modTS": "2021-12-18T17:39:04.995Z",
 		"inquiryPhone": "7676763377",
@@ -37440,49 +37440,7 @@
 		"bnpl": false,
 		"distance": 11.558644030614698,
 		"activeKey": "whitefield-united-doddanekkundi-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"offers": []
 	},
 	{
 		"inquiryPhone": "9845027878",
@@ -53953,7 +53911,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -63207,7 +63165,7 @@
 		"createdTS": "2017-12-06T13:20:19.572Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T08:27:50.092Z",
-		"ratingCount": 96,
+		"ratingCount": 97,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub17.png"
