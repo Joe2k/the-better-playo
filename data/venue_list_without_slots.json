@@ -17134,87 +17134,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "8197897462",
-		"bnpl": false,
-		"keywords": [
-			{
-				"active": true,
-				"key": "game-theory-vk-sports-kaggadasapura-bengaluru"
-			}
-		],
-		"city": "Bengaluru",
-		"bookSports": [
-			"SP5",
-			"SP7"
-		],
-		"area": "Kaggadasapura",
-		"oldPlayoId": "19363c79-31cc-490b-a9c4-3323cc4b4782",
-		"functionData": [
-			{
-				"content": "19363c79-31cc-490b-a9c4-3323cc4b4782",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5",
-			"SP7"
-		],
-		"amenities": [
-			"Washroom",
-			"Change Room",
-			"Parking",
-			"Drinking Water",
-			"First Aid"
-		],
-		"type": 0,
-		"cityCode": 1,
-		"bookType": 0,
-		"zipCode": "560093",
-		"phone": [
-			"8197897462"
-		],
-		"avgRating": 0,
-		"name": "Game Theory - VK Sports",
-		"sponsoredRadius": 4,
-		"notifyBooking": 0,
-		"createdTS": "2023-02-01T12:03:27.441Z",
-		"inquiryType": -1,
-		"modTS": "2023-02-01T12:10:42.204Z",
-		"ratingCount": 0,
-		"id": "19363c79-31cc-490b-a9c4-3323cc4b4782",
-		"category": 2,
-		"s3Folder": "GAMETHEORYVKSPORTS20230201120327441592",
-		"restricted": 0,
-		"state": "Karnataka",
-		"email": [
-			"saket@gametheory.in"
-		],
-		"description": "",
-		"tags": [],
-		"sponsored": "",
-		"members": false,
-		"address": "No. 155/3, Ground Floor, 19th Cross Rd, Varsova Layout, Kaggadasapura, Bengaluru, Karnataka",
-		"active": true,
-		"search": "",
-		"fullLink": "https://playo.co/venue?venueId=19363c79-31cc-490b-a9c4-3323cc4b4782",
-		"country": "India",
-		"timings": "6 AM - 10 PM",
-		"addInfo": "Badminton: <br/>\n- Badminton indoor Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 5 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>",
-		"isSafeAndHygiene": false,
-		"shareLink": "https://z34v4.app.goo.gl/4Cq7",
-		"deferLink": "https://z34v4.app.goo.gl/JKne",
-		"lat": 12.97904,
-		"lng": 77.6753827,
-		"venueId": "19363c79-31cc-490b-a9c4-3323cc4b4782",
-		"distance": 8.80207769729881,
-		"activeKey": "game-theory-vk-sports-kaggadasapura-bengaluru",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "88b05b78-375f-4700-a3c8-0f21d147e819",
 		"cityCode": 1,
 		"description": "",
@@ -22082,6 +22001,108 @@
 		]
 	},
 	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 260,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2513,
+		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -22206,108 +22227,6 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 260,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2513,
-		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -25931,7 +25850,7 @@
 				"key": "ashoka-sports-arena-letz-play-nagarbhavi-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/qfGd",
+		"shareLink": "https://z34v4.app.goo.gl/6ZkX",
 		"city": "Bengaluru",
 		"area": "Nagarbhavi",
 		"oldPlayoId": "5acb368a6d91cf1567b51a3f",
@@ -25966,13 +25885,13 @@
 			"9986189582"
 		],
 		"avgRating": 0,
-		"name": "Ashoka Sports Arena ( Letz Play)",
+		"name": "Ashoka Sports Arena (Letz Play)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
 		"coverImage": "",
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-27T10:13:13.071Z",
+		"modTS": "2023-02-01T13:42:27.302Z",
 		"ratingCount": 0,
 		"images": [
 			{
@@ -26003,7 +25922,7 @@
 		"members": false,
 		"address": "Nagarbhavi 2nd stage, Papareddipalya, D-Group Layout, Srigandada Kaval, Annapurneshwari Nagar",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Vxmg",
+		"deferLink": "https://z34v4.app.goo.gl/rV5j",
 		"search": "letz play,lets play,let's,ashoka",
 		"fullLink": "https://playo.co/venue/?venueId=26b1fc72-5a2e-4ab9-9582-6b659fb808d3",
 		"country": "India",
@@ -31885,7 +31804,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 235,
+		"ratingCount": 236,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -43762,14 +43681,14 @@
 		"phone": [
 			"7090501225"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Feather Strike Badminton Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T10:50:26.076Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-01T11:12:39.559Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "45326ca4-926a-4de1-a7ae-2e48e8f6faf2",
 		"category": 2,
 		"s3Folder": "FEATHERSTRIKEBADMINTONARENA20230201105026076880",
