@@ -10195,6 +10195,158 @@
 		"offers": []
 	},
 	{
+		"inquiryPhone": "9606667755",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "adroit-tennis-academy-rt-nagar-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/ZrSe",
+		"city": "Bengaluru",
+		"area": "RT Nagar",
+		"oldPlayoId": "587124206d91cf3645ab0832",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP3"
+		],
+		"priority": 0,
+		"amenities": [
+			"Locker",
+			"Washroom",
+			"Parking",
+			"First Aid",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/PLAY-ARENA/map.png",
+		"zipCode": "560032",
+		"phone": [
+			"9606667755"
+		],
+		"avgRating": 5,
+		"name": "Adroit Tennis Academy",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.163Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.163Z",
+		"inquiryType": -1,
+		"modTS": "2023-02-01T07:17:59.379Z",
+		"ratingCount": 2,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448425562.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448429141.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448432032.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAY-ARENA/AdroitTennisAcademy1647448434831.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAY-ARENA/adroittennisacademy1609347411812.jfif"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLAY-ARENA/adroittennisacademy1609347415124.jfif"
+			}
+		],
+		"id": "da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
+		"description": "",
+		"category": 2,
+		"s3Folder": "PLAY-ARENA",
+		"state": "Karnataka",
+		"email": [
+			"dhanush@adroittennis.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#25, 3, 1st Main Rd, R. T. Nagar, V Nagenahalli, post, Bengaluru, Karnataka",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/kjRV",
+		"search": "",
+		"fullLink": "https://playo.co/venue/?venueId=da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
+		"country": "India",
+		"timings": "10 AM - 6 PM",
+		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": true,
+		"bookType": 0,
+		"lat": 13.040536504291763,
+		"lng": 77.60730490675887,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "da5ee93c-db9d-4b78-8d6a-cce934afa7a9",
+		"__v": 4,
+		"bookSports": [
+			"SP3"
+		],
+		"activityCount": 159,
+		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
+		"bnpl": false,
+		"distance": 7.796675828089159,
+		"activeKey": "adroit-tennis-academy-rt-nagar-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
+	},
+	{
 		"inquiryPhone": "9964072395",
 		"remarks": "",
 		"infoData": [],
@@ -20962,7 +21114,7 @@
 		"bookType": 0,
 		"ratingCount": 246,
 		"zipCode": "560068",
-		"modTS": "2022-09-15T15:18:46.920Z",
+		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
 		"inquiryType": -1,
 		"phone": [
@@ -21034,7 +21186,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "The Majesstine Sports offers state of the art international grade BWF approved Badminton courts.<br/>\n<br/><br/>\n- Courts to be only utilised for Friendly Games. For any Bulk Bookings or Corporate Engagements please enquire. <br/>\n- Exclusive Li-Ning store at venue. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- Teak Wooden Flooring with rubber pads and a three layer synthetic mat that provides extra cushioning.<br/>\n- Olympic LED lights, designed and executed by the same team as in Beijing Olympics. This lighting provides for an excellent uniform 318 LUX across every inch of the court.<br/>\n- Air circulation system with all round vents ensure constant fresh air circulation, while throwing out hot air. <br/>\n- Kids Play Area, Banquet Hall available on rent.<br/>\n- Juice Bar & Physiotherapy centre in-house.<br/>\n- 8 BWF approved international grade Hybrid Badminton Courts, 2 Synthetic Badminton Courts, 4 Table Tennis Courts, Indoor Football & Cricket, Temperature controlled Swimming Pool.<br/>\n- Gym, Restaurant & Spa available at venue. <br/>\n- International standard Dormitories for boarding are available.<br/>\n<br/><br/>\nBadminton: <br/>\n- Badminton indoor Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 5 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>\n\n\nTable Tennis: <br/>\n- Non Marking Shoes compulsory for Table Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nIndoor Cricket: <br/>\n- A maximum of 12 members per booking per Indoor Cricket court is admissible.<br/>\n- Non Marking Shoes compulsory for Futsal & Indoor Cricket. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Badminton indoor Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 5 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>\n\n\nTable Tennis: <br/>\n- Non Marking Shoes compulsory for Table Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nIndoor Cricket: <br/>\n- A maximum of 14 members per booking per Indoor Cricket court is admissible.<br/>\n- Non Marking Shoes compulsory for Futsal & Indoor Cricket. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n<br/>\n<br/>\n\nThe Majesstine Sports offers state of the art international grade BWF approved Badminton courts.<br/>\n<br/><br/>\n- Courts to be only utilized for Friendly Games. For any Tournaments or Corporate Engagements please use the enquire option. <br/>\n- Exclusive Li-Ning store at venue. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- Teak Wooden Flooring with rubber pads and a three layer synthetic mat that provides extra cushioning.<br/>\n- Olympic LED lights, designed and executed by the same team as in Beijing Olympics. This lighting provides for an excellent uniform 318 LUX across every inch of the court.<br/>\n- Air circulation system with all round vents ensure constant fresh air circulation, while throwing out hot air. <br/>\n- Kids Play Area, Banquet Hall available on rent.<br/>\n- Juice Bar & Physiotherapy centre in-house.<br/>\n- 8 BWF approved international grade Hybrid Badminton Courts, 2 Synthetic Badminton Courts, 4 Table Tennis Courts, Indoor Football & Cricket, Temperature controlled Swimming Pool.<br/>\n- Gym, Restaurant & Spa available at venue. <br/>\n- International standard Dormitories for boarding are available.<br/>\n<br/><br/>",
 		"fullLink": "https://playo.co/venue?venueId=28476bb1-378a-402f-92a5-89bea04fd0f3",
 		"type": 0,
 		"email": [
@@ -21849,6 +22001,108 @@
 		]
 	},
 	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 260,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2513,
+		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -21973,108 +22227,6 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 260,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2513,
-		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -22769,7 +22921,7 @@
 		"bookType": 0,
 		"ratingCount": 13,
 		"zipCode": "560097",
-		"modTS": "2022-11-05T16:33:23.540Z",
+		"modTS": "2023-02-01T08:00:38.335Z",
 		"inquiryPhone": "7660010620",
 		"inquiryType": -1,
 		"phone": [
@@ -22787,7 +22939,7 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Play365 Badminton",
+		"name": "Play 365 Badminton",
 		"area": "Vyasa International School",
 		"sponsoredRadius": 4,
 		"country": "India",
@@ -22818,7 +22970,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "play365-badminton-vyasa-international-school-bengaluru"
+				"key": "play-365-badminton-vyasa-international-school-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -22832,7 +22984,7 @@
 		"s3Folder": "SPORTIFY20220425050338694996",
 		"__v": 6,
 		"coverImage": "https://playo.gumlet.io/SPORTIFY20220425050338694996/Play365Badmintoncovercover1667572830753.jpeg",
-		"deferLink": "https://z34v4.app.goo.gl/2TqZ",
+		"deferLink": "https://z34v4.app.goo.gl/gmDx",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -22849,7 +23001,7 @@
 		"logoImg": "",
 		"mapImage": "https://playo.gumlet.io/SPORTIFY20220425050338694996/SportifyVizagmap1639024744346.PNG",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/DmtZ",
+		"shareLink": "https://z34v4.app.goo.gl/6Qe5",
 		"lat": 13.054263612713658,
 		"lng": 77.56843167485393,
 		"venueId": "a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
@@ -22857,7 +23009,7 @@
 		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
 		"bnpl": false,
 		"distance": 9.62977772455501,
-		"activeKey": "play365-badminton-vyasa-international-school-bengaluru",
+		"activeKey": "play-365-badminton-vyasa-international-school-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -24202,10 +24354,10 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "play365-football-vyasa-international-school-bengaluru"
+				"key": "play-365-football-vyasa-international-school-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/doQ3",
+		"shareLink": "https://z34v4.app.goo.gl/1fp7",
 		"city": "Bengaluru",
 		"area": "Vyasa International School",
 		"oldPlayoId": "59651bd56d91cf66b87e39ba",
@@ -24236,13 +24388,13 @@
 			"7829240379"
 		],
 		"avgRating": 4.4,
-		"name": "Play365 Football",
+		"name": "Play 365 Football",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-07-11T18:41:25.689Z",
 		"coverImage": "",
 		"createdTS": "2017-07-11T18:41:25.689Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-04T15:37:59.251Z",
+		"modTS": "2023-02-01T08:00:49.464Z",
 		"ratingCount": 83,
 		"images": [
 			{
@@ -24276,7 +24428,7 @@
 		"members": false,
 		"address": "No.101/2, BEL North Gate, Dodda Bommasandra, Vidyaranyapura Post, Bengaluru, Karnataka",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/DGur",
+		"deferLink": "https://z34v4.app.goo.gl/fs8R",
 		"search": "play , 365 , play 365 football, play 365 . 365play",
 		"fullLink": "https://playo.co/venue/?venueId=2bc6b32b-aa03-4cd5-9982-9ed4dcc99ebb",
 		"country": "India",
@@ -24297,7 +24449,7 @@
 		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
 		"bnpl": false,
 		"distance": 9.761133147843717,
-		"activeKey": "play365-football-vyasa-international-school-bengaluru",
+		"activeKey": "play-365-football-vyasa-international-school-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -55478,7 +55630,7 @@
 		"createdTS": "2017-01-07T17:23:44.009Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-25T10:25:18.161Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMACROSSFITCUNNINGHAMROAD/WhitePeacockGamePointBadmintonArena1649515437516.jpeg"
@@ -55781,7 +55933,7 @@
 		"description": "",
 		"createdTS": "2020-11-20T07:50:28.031Z",
 		"bookType": 0,
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"zipCode": "560066",
 		"modTS": "2022-11-29T08:15:59.858Z",
 		"inquiryPhone": "8197445584",
@@ -62410,12 +62562,12 @@
 		]
 	},
 	{
-		"name": "True Bounce Football Academy - Whitefield",
+		"name": "True Bounce Tennis Academy - Whitefield",
 		"area": "Seegehalli",
 		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
-		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
-		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
-		"website": "sbablr.com",
+		"googleMapLink": "https://www.google.com/maps/place/Sports+Central/@12.9151325,77.6707588,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae13726fdd6a7f:0xe7b41b155ff81e79!8m2!3d12.9151273!4d77.6729475",
+		"googlePlusCode": "WM8F+35 Bengaluru, Karnataka",
+		"website": "",
 		"email": [
 			"murugantbta@gmail.com"
 		],
@@ -62428,7 +62580,7 @@
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
+				"content": "685f436f-2edd-41af-9af9-a352680c0cbc",
 				"caption": "Book Now!",
 				"type": 3
 			}
@@ -62436,15 +62588,15 @@
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP2"
+			"SP3"
 		],
-		"timings": "7 AM - 6 PM",
+		"timings": "7 AM  - 5 PM",
 		"cityCode": 1,
-		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
-		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"id": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"oldPlayoId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
 		"category": 2,
 		"inquiryPhone": "9880263006",
-		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
+		"s3Folder": "TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC",
 		"source": "uttam",
 		"everyDayTimings": {
 			"Mon": "5AM–11PM",
@@ -62459,19 +62611,37 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
+				"key": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru"
 			}
 		],
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031094554.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031101763.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031105174.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031109734.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031116574.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031120633.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031125784.jpg"
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-08-09T07:38:16.948Z",
-		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
-		"deferLink": "https://z34v4.app.goo.gl/iXNK",
-		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
+		"modTS": "2022-08-09T07:45:37.568Z",
+		"shareLink": "https://z34v4.app.goo.gl/SrFj",
+		"deferLink": "https://z34v4.app.goo.gl/v6Aw",
+		"fullLink": "https://playo.co/venue/?venueId=5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
 		"amenities": [
 			"Parking",
 			"First Aid",
@@ -62480,7 +62650,7 @@
 			"Drinking Water"
 		],
 		"tags": [],
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
@@ -62491,26 +62661,68 @@
 		"sponsoredRadius": 4,
 		"state": "Karnataka",
 		"type": 0,
-		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"venueId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
 		"zipCode": "560067",
 		"members": false,
 		"isSafeAndHygiene": true,
-		"__v": 3,
+		"__v": 4,
 		"avgRating": 5,
 		"coverImage": "",
-		"createdTS": "2021-07-16T08:00:52.103Z",
+		"createdTS": "2021-07-16T08:03:59.005Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
 		"ratingCount": 1,
 		"bookSports": [
-			"SP2"
+			"SP3"
 		],
-		"activityCount": 1,
+		"activityCount": 17,
 		"activityCountLastSyncDate": "2023-01-31T18:30:02.451Z",
 		"distance": 18.587868338314955,
-		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
-		"offers": []
+		"activeKey": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
 	},
 	{
 		"name": "True Bounce Tennis Academy - Whitefield",
