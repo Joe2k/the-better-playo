@@ -4180,7 +4180,7 @@
 		"description": "",
 		"createdTS": "2020-08-20T07:30:46.373Z",
 		"bookType": 0,
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"zipCode": "560032",
 		"modTS": "2022-11-21T07:06:56.501Z",
 		"inquiryPhone": "8073761989",
@@ -21112,7 +21112,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 246,
+		"ratingCount": 247,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -25884,7 +25884,7 @@
 		"phone": [
 			"9986189582"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Ashoka Sports Arena (Letz Play)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
@@ -25892,7 +25892,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-01T13:42:27.302Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -35381,7 +35381,7 @@
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T07:05:40.918Z",
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademy1658827316673.jpg"
@@ -48054,7 +48054,7 @@
 		"createdTS": "2017-08-07T11:57:40.207Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-12T07:25:35.552Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SELENITESPORTSACADEMY/selenitesportsacademy1600886207740.jpeg"
