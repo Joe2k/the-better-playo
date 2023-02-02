@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 139,
+		"ratingCount": 140,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -19433,7 +19433,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -19548,7 +19548,7 @@
 		"createdTS": "2017-09-22T12:49:50.094Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:54:47.093Z",
-		"ratingCount": 175,
+		"ratingCount": 176,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KRIDAJAGATHUSPORTSACADEMY/kridajagathusportsacademy1608403133814.jpeg"
@@ -45931,7 +45931,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 216,
+		"ratingCount": 217,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -54344,7 +54344,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -59999,7 +59999,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 401,
+		"ratingCount": 402,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
