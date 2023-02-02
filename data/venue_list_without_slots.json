@@ -4180,7 +4180,7 @@
 		"description": "",
 		"createdTS": "2020-08-20T07:30:46.373Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560032",
 		"modTS": "2022-11-21T07:06:56.501Z",
 		"inquiryPhone": "8073761989",
@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 155,
+		"ratingCount": 156,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -10644,7 +10644,7 @@
 		"createdTS": "2017-12-13T11:04:51.227Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-20T08:40:38.553Z",
-		"ratingCount": 232,
+		"ratingCount": 233,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/4SSHUTTLESMASHSPORTSSTUDIO/4sshuttlesmashsportsstudio5.jpg"
@@ -12277,7 +12277,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T18:44:48.412Z",
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -20523,7 +20523,7 @@
 		"description": "",
 		"createdTS": "2019-10-12T17:55:22.790Z",
 		"bookType": 0,
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"zipCode": "560072",
 		"modTS": "2022-04-16T15:11:36.601Z",
 		"inquiryPhone": "9880095731",
@@ -30174,7 +30174,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 320,
+		"ratingCount": 321,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
