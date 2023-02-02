@@ -19689,7 +19689,7 @@
 		"createdTS": "2018-04-21T12:42:17.568Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:22:18.907Z",
-		"ratingCount": 119,
+		"ratingCount": 120,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUPERSMASHERS/supersmashers0.jpeg"
@@ -25167,7 +25167,7 @@
 		"description": "",
 		"createdTS": "2022-03-19T10:00:16.960Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560024",
 		"modTS": "2022-03-19T11:36:33.565Z",
 		"inquiryPhone": "9538482121",
@@ -25176,7 +25176,7 @@
 			"9902700551"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"address": "#43/2, 3rd Cross, Sonnappa Layout, Bhuvaneshwari Nagar",
 		"active": true,
 		"id": "9eb74740-7d7d-49b5-91b5-0a7c380a9d35",
@@ -42444,6 +42444,43 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
+			},
+			{
+				"_id": "63db924eb6616707314bc84d",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2023-02-02T10:37:02.899Z",
+				"offerContent": "0814127f-9b1a-4b48-a8d2-eb4b51423981",
+				"coupon": "",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/FlyHighBadmintonArenaSpecialOfferBookyourbadmintoncourtatjust125perhourfrom10amto5pmwiru8cover1675334182885.png",
+				"expiry": "2023-03-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "flyhigh-badminton-arena-special-offer-book-your-badminton-court-at-just-₹125-per-hour-from10am-to-5pm!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till March 31, 2023",
+						"content": "https://playo.co/venue/?venueId=0814127f-9b1a-4b48-a8d2-eb4b51423981",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "FlyHigh Badminton Arena Special Offer - Book your badminton court at just ₹125 per hour from10am to 5pm!",
+				"id": "36cdad6e-b584-4618-a84e-896defcc69aa",
+				"offerName": "FlyHigh Badminton Arena Special Offer - Book your badminton court at just ₹125 per hour from10am to 5pm!"
 			}
 		]
 	},
@@ -66852,6 +66889,100 @@
 		"activityCountLastSyncDate": "2023-02-01T18:30:02.562Z",
 		"distance": 20.783499118270704,
 		"activeKey": "the-golden-palms-hotel-spa-off-tumkur-main-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "9513518285",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "bhandari-sports-and-entertainment-yelahanka-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP57"
+		],
+		"area": "Yelahanka",
+		"oldPlayoId": "4c8203bc-ec33-4ac7-a4d4-f6907a7f5201",
+		"functionData": [
+			{
+				"content": "4c8203bc-ec33-4ac7-a4d4-f6907a7f5201",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP57"
+		],
+		"amenities": [
+			"Parking",
+			" Restrooms"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "562157",
+		"phone": [
+			"9513518285"
+		],
+		"avgRating": 0,
+		"name": "Bhandari Sports and Entertainment",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-02-02T11:09:51.793Z",
+		"inquiryType": -1,
+		"modTS": "2023-02-02T11:15:19.017Z",
+		"ratingCount": 0,
+		"id": "4c8203bc-ec33-4ac7-a4d4-f6907a7f5201",
+		"category": 2,
+		"s3Folder": "BHANDARISPORTSANDENTERTAINMENT20230202110951793107",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"bhandari.sande@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "#380, Narayanpura cross  Stone Hill International School Road, Jala Hobli  Bengaluru North Taluk, Bengaluru, Karnataka 562157",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=4c8203bc-ec33-4ac7-a4d4-f6907a7f5201",
+		"country": "India",
+		"timings": "6AM - 12AM",
+		"addInfo": "",
+		"isSafeAndHygiene": true,
+		"__v": 1,
+		"coverImage": "",
+		"deferLink": "https://z34v4.app.goo.gl/9pjF",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/BHANDARISPORTSANDENTERTAINMENT20230202110951793107/BhandariSportsandEntertainment1675336162185.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BHANDARISPORTSANDENTERTAINMENT20230202110951793107/BhandariSportsandEntertainment1675336166736.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/BHANDARISPORTSANDENTERTAINMENT20230202110951793107/BhandariSportsandEntertainment1675336172827.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/7Nbc",
+		"lat": 13.162942351258398,
+		"lng": 77.59603587116386,
+		"venueId": "4c8203bc-ec33-4ac7-a4d4-f6907a7f5201",
+		"distance": 21.300578613635015,
+		"activeKey": "bhandari-sports-and-entertainment-yelahanka-bengaluru",
 		"offers": []
 	},
 	{
