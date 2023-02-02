@@ -22110,7 +22110,7 @@
 		"bookType": 0,
 		"ratingCount": 18,
 		"zipCode": "560076",
-		"modTS": "2023-01-06T15:28:11.648Z",
+		"modTS": "2023-02-02T06:35:21.159Z",
 		"inquiryPhone": "9742220232",
 		"inquiryType": -1,
 		"phone": [
@@ -22130,7 +22130,8 @@
 			"SP3",
 			"SP4",
 			"SP1",
-			"SP57"
+			"SP57",
+			"SP58"
 		],
 		"name": "DHI Sports Center",
 		"area": "Bannerghatta Road",
@@ -22153,7 +22154,8 @@
 			"SP3",
 			"SP4",
 			"SP1",
-			"SP57"
+			"SP57",
+			"SP58"
 		],
 		"members": false,
 		"state": "Karnataka",
