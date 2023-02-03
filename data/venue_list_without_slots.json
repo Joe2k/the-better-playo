@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 141,
+		"ratingCount": 142,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 156,
+		"ratingCount": 157,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -8323,7 +8323,7 @@
 		"createdTS": "2018-12-25T06:00:28.144Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-06T16:16:14.591Z",
-		"ratingCount": 83,
+		"ratingCount": 84,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENLEG/goldenleg1.jpg"
@@ -26423,7 +26423,49 @@
 		"activityCount": 84,
 		"distance": 9.96724817465404,
 		"activeKey": "layaan-sports-academy-mahadevapura-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "6149500cc457682a96589a4b",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "- Offer valid only on slots between 11 AM & 3 PM on weekdays!",
+				"countryCode": "+91",
+				"createdTS": "2021-09-21T03:22:52.555Z",
+				"offerContent": "34286405-8b75-4ba8-bcbe-74e704f7f40b",
+				"coupon": "",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/LayaanSportsAcademyBookyourslotnowatjust150perhour7mdsgicover1675417770888.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "layaan-sports-academy-book-your-slot-now-at-just-₹150-per-hour!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venue/?venueId=34286405-8b75-4ba8-bcbe-74e704f7f40b",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Layaan Sports Academy - Book your slot now at just ₹150 per hour!",
+				"id": "0716a56a-1509-4f66-9b6e-fa95a1738a1d",
+				"offerName": "Layaan Sports Academy - Book your slot now at just ₹150 per hour!",
+				"shareLink": "https://z34v4.app.goo.gl/3Kc6",
+				"deferLink": "https://z34v4.app.goo.gl/eCZt",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395
+			}
+		]
 	},
 	{
 		"oldPlayoId": "33d466f1-d1ef-4502-8030-b297418c694f",
