@@ -25167,7 +25167,7 @@
 		"description": "",
 		"createdTS": "2022-03-19T10:00:16.960Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"zipCode": "560024",
 		"modTS": "2022-03-19T11:36:33.565Z",
 		"inquiryPhone": "9538482121",
@@ -25176,7 +25176,7 @@
 			"9902700551"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.1,
 		"address": "#43/2, 3rd Cross, Sonnappa Layout, Bhuvaneshwari Nagar",
 		"active": true,
 		"id": "9eb74740-7d7d-49b5-91b5-0a7c380a9d35",
@@ -25894,7 +25894,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 11,
+		"ratingCount": 13,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -27957,7 +27957,7 @@
 		"description": "",
 		"createdTS": "2020-02-26T09:42:19.435Z",
 		"bookType": 0,
-		"ratingCount": 59,
+		"ratingCount": 60,
 		"zipCode": "560016",
 		"modTS": "2021-12-17T07:36:32.925Z",
 		"inquiryPhone": "9980151415",
@@ -27966,7 +27966,7 @@
 			"9980151415"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"address": "408, 2nd main road, opp. Sri Lakshmi Narasimha temple, Manjunath Nagar",
 		"active": true,
 		"id": "be5d281e-2a35-4008-bc39-36112ef44236",
@@ -33005,7 +33005,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:04:45.664Z",
-		"ratingCount": 53,
+		"ratingCount": 54,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -37537,7 +37537,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560037",
 		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
@@ -39782,7 +39782,7 @@
 		"phone": [
 			"7829240379"
 		],
-		"avgRating": 3.7,
+		"avgRating": 3.6,
 		"name": "Old Vivas Badminton Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-11T10:06:34.838Z",
@@ -39790,7 +39790,7 @@
 		"createdTS": "2017-09-11T10:06:34.838Z",
 		"inquiryType": -1,
 		"modTS": "2021-11-21T04:06:57.902Z",
-		"ratingCount": 177,
+		"ratingCount": 178,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OLDVIVASBADMINTONACADEMY/OldVivasBadmintonAcademy1637467599916.jpg"
@@ -43090,7 +43090,7 @@
 		"phone": [
 			"8296614999"
 		],
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"name": "Shuttle Shots",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-08-30T18:55:41.963Z",
@@ -43098,7 +43098,7 @@
 		"createdTS": "2018-08-30T18:55:41.963Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-23T10:23:00.603Z",
-		"ratingCount": 61,
+		"ratingCount": 62,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLESHOTS/shuttleshots0.jpg"
@@ -55080,7 +55080,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-31T19:44:18.988Z",
-		"ratingCount": 324,
+		"ratingCount": 326,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
