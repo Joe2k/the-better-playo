@@ -26906,7 +26906,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 266,
+		"ratingCount": 267,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -30220,7 +30220,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 321,
+		"ratingCount": 322,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -31344,7 +31344,7 @@
 		"description": "",
 		"createdTS": "2022-07-03T13:54:00.217Z",
 		"bookType": 0,
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"zipCode": "560064",
 		"modTS": "2022-12-09T12:57:23.175Z",
 		"inquiryPhone": "9611564830",
@@ -45826,7 +45826,7 @@
 		"description": "",
 		"createdTS": "2020-02-27T08:16:15.924Z",
 		"bookType": 0,
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"zipCode": "560103",
 		"modTS": "2022-08-19T11:10:30.121Z",
 		"inquiryPhone": "9036773531",
@@ -45835,7 +45835,7 @@
 			"9036773531"
 		],
 		"sponsored": "",
-		"avgRating": 2.5,
+		"avgRating": 2.3,
 		"address": "PK Sports, Bhoganahalli Main Road, opposite Felix apartments, Kaverappa Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka - 560103",
 		"active": true,
 		"id": "0e7247b3-5388-41a8-a64c-039ca22e03a3",
@@ -50916,7 +50916,7 @@
 		"description": "",
 		"createdTS": "2022-06-28T17:26:55.895Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560049",
 		"modTS": "2023-01-25T16:46:16.726Z",
 		"inquiryPhone": "9032526301",
@@ -54388,7 +54388,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
