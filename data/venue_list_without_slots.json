@@ -2076,7 +2076,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 86,
+		"ratingCount": 87,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -3819,7 +3819,7 @@
 		"createdTS": "2017-11-27T12:20:25.472Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:55:41.856Z",
-		"ratingCount": 239,
+		"ratingCount": 240,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KRISHNAPREMIERBADMINTONACADEMY/krishnapremierbadmintonacademy0.jpg"
@@ -8323,7 +8323,7 @@
 		"createdTS": "2018-12-25T06:00:28.144Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-06T16:16:14.591Z",
-		"ratingCount": 82,
+		"ratingCount": 83,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENLEG/goldenleg1.jpg"
@@ -10985,7 +10985,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 316,
+		"ratingCount": 317,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -12277,7 +12277,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T18:44:48.412Z",
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -14983,7 +14983,7 @@
 		"createdTS": "2017-05-10T09:37:45.102Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-12T05:16:27.431Z",
-		"ratingCount": 316,
+		"ratingCount": 317,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BATTLEDOREARENA/battledorearena12.jpeg"
@@ -25893,7 +25893,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-01T18:53:45.782Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -33811,7 +33811,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -38607,7 +38607,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 941,
+		"ratingCount": 942,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -55617,7 +55617,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
-		"modTS": "2021-12-18T15:51:01.050Z",
+		"modTS": "2023-02-03T06:25:15.932Z",
 		"ratingCount": 153,
 		"images": [
 			{
@@ -55639,31 +55639,18 @@
 			"pramod06021a0244@gmail.com"
 		],
 		"logoImg": "",
-		"tags": [
-			{
-				"tagId": "Weekend Offer",
-				"expiry": "2025-12-31T00:00:00.000Z"
-			},
-			{
-				"tagId": " 20% off",
-				"expiry": "2025-12-31T00:00:00.000Z"
-			},
-			{
-				"tagId": " Use Code: SMASH20",
-				"expiry": "2025-12-31T00:00:00.000Z"
-			}
-		],
+		"tags": [],
 		"googleMapLink": "",
 		"sponsored": "",
 		"members": false,
-		"address": "G.S Palya Main Road, Konappana, Phase 2, Singena Agrahara Rd, Electronic City",
+		"address": "GS Palya Main Road, Konappana, Phase 2, Singena Agrahara Road, Electronic City",
 		"active": true,
 		"deferLink": "https://z34v4.app.goo.gl/otc6",
 		"search": "Badminton|Smash Sports Academy|G.S Palya Main Road, Konappana, Phase 2, Singena Agrahara Rd, Electronic City|Electronic City|Bangalore|Parking, Washroom||null",
 		"fullLink": "https://playo.co/venue/?venueId=13268e9e-c159-437e-aca2-286350bd4036",
 		"country": "India",
 		"timings": "5:00 AM - 12:00 AM",
-		"addInfo": "-Only Non-Marking Badminton shoes are allowed! <br/>\n-Barefoot strictly not allowed",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookSports": [
 			"SP5"
 		],
@@ -55679,6 +55666,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 9151,
 		"activityCountLastSyncDate": "2023-02-02T18:30:02.751Z",
+		"bnpl": false,
 		"distance": 15.125317620032332,
 		"activeKey": "smash-sports-academy-electronic-city-bengaluru",
 		"offers": [
