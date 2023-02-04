@@ -7252,7 +7252,7 @@
 		"createdTS": "2018-09-03T14:47:26.103Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-05T07:21:18.713Z",
-		"ratingCount": 81,
+		"ratingCount": 82,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BMTSPORTS/BMTSports3.jpeg"
@@ -22549,7 +22549,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
@@ -39604,7 +39604,7 @@
 		"description": "",
 		"createdTS": "2019-01-23T14:01:42.932Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560037",
 		"modTS": "2022-03-25T13:04:32.568Z",
 		"inquiryPhone": "9844556181",
@@ -39613,7 +39613,7 @@
 			"9844556181"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"address": "86/1C, SGR Dental College Rd, 2nd cross, Opposite Sri Chaitanya Techno School",
 		"active": true,
 		"id": "a6be43da-97d0-48bc-acda-338c1478e647",
@@ -48297,7 +48297,7 @@
 		"createdTS": "2017-01-07T17:23:44.207Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:00:53.079Z",
-		"ratingCount": 220,
+		"ratingCount": 221,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy10.png"
@@ -55663,7 +55663,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T06:25:15.932Z",
-		"ratingCount": 153,
+		"ratingCount": 154,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
@@ -65909,7 +65909,7 @@
 		"createdTS": "2022-12-05T09:42:01.927Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T09:43:18.810Z",
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
 		"category": 2,
 		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
