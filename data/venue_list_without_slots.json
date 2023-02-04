@@ -20087,7 +20087,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-14T09:41:20.029Z",
-		"ratingCount": 296,
+		"ratingCount": 297,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -21112,7 +21112,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 248,
+		"ratingCount": 249,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -22549,7 +22549,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 99,
+		"ratingCount": 100,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
@@ -22850,7 +22850,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 335,
+		"ratingCount": 336,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -26906,7 +26906,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 267,
+		"ratingCount": 268,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -28292,7 +28292,7 @@
 		"createdTS": "2017-10-06T19:33:28.141Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-30T17:44:03.196Z",
-		"ratingCount": 530,
+		"ratingCount": 531,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VINNYSSPORTSARENA/VinnysSportsArena1.JPG"
@@ -31086,7 +31086,7 @@
 		"bookType": 0,
 		"ratingCount": 6,
 		"zipCode": "560068",
-		"modTS": "2023-01-21T04:55:31.863Z",
+		"modTS": "2023-02-04T04:39:18.012Z",
 		"inquiryPhone": "9700314143",
 		"inquiryType": -1,
 		"phone": [
@@ -31104,7 +31104,7 @@
 			"SP3"
 		],
 		"name": "Intensity Tennis Academy",
-		"area": "Off Sarjapur Main Road",
+		"area": "Kudlu",
 		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
@@ -31133,12 +31133,12 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "intensity-tennis-academy-off-sarjapur-main-road-bengaluru"
+				"key": "intensity-tennis-academy-kudlu-bengaluru"
 			}
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
 		"fullLink": "https://playo.co/venue?venueId=5c047de5-3fff-4d6b-a512-2d6642568641",
 		"type": 0,
 		"email": [
@@ -31147,7 +31147,7 @@
 		"s3Folder": "INTENSITYTENNISACADEMY20190424101024518393",
 		"__v": 2,
 		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/EUzA",
+		"deferLink": "https://z34v4.app.goo.gl/JxMw",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -31167,7 +31167,7 @@
 		"logoImg": "",
 		"mapImage": "https://playo.imgix.net/INTENSITYTENNISACADEMY20190424101024518393/IntensityTennisAcademymap1556100594099.PNG",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/RpXi",
+		"shareLink": "https://z34v4.app.goo.gl/aJFp",
 		"lat": 12.892216720420057,
 		"lng": 77.65128122328787,
 		"venueId": "5c047de5-3fff-4d6b-a512-2d6642568641",
@@ -31176,7 +31176,7 @@
 		"activityCountLastSyncDate": "2023-02-03T18:30:02.849Z",
 		"bnpl": false,
 		"distance": 10.766069009460292,
-		"activeKey": "intensity-tennis-academy-off-sarjapur-main-road-bengaluru",
+		"activeKey": "intensity-tennis-academy-kudlu-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -37016,7 +37016,7 @@
 		"createdTS": "2017-01-09T14:32:53.191Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T13:32:36.959Z",
-		"ratingCount": 292,
+		"ratingCount": 293,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VRISHIRACKETSANDSHUTTLES/vrishiracketsandshuttles0.jpg"
@@ -49098,7 +49098,7 @@
 		"createdTS": "2017-01-18T13:25:10.025Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-12T10:22:37.648Z",
-		"ratingCount": 203,
+		"ratingCount": 204,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENRACQUETS/goldenracquets1617020187805.jpeg"
@@ -49492,7 +49492,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 567,
+		"ratingCount": 569,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
