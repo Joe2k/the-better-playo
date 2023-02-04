@@ -5509,7 +5509,7 @@
 		"description": "",
 		"createdTS": "2019-04-02T11:43:43.164Z",
 		"bookType": 0,
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"zipCode": "560085",
 		"modTS": "2020-07-10T14:42:55.443Z",
 		"inquiryPhone": "9945024838",
@@ -7344,7 +7344,7 @@
 		"phone": [
 			"9790513417"
 		],
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"name": "Coolulu TurfPark - Koramangala",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-06-27T07:29:11.666Z",
@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 158,
+		"ratingCount": 159,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -21188,7 +21188,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 249,
+		"ratingCount": 250,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -49408,7 +49408,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 571,
+		"ratingCount": 572,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -70099,7 +70099,7 @@
 		"description": "",
 		"createdTS": "2020-01-03T12:49:12.777Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "563101",
 		"modTS": "2023-02-04T14:54:50.242Z",
 		"inquiryPhone": "9148903114",
