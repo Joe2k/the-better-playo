@@ -2154,7 +2154,7 @@
 		"description": "",
 		"createdTS": "2020-10-11T07:13:38.683Z",
 		"bookType": 0,
-		"ratingCount": 43,
+		"ratingCount": 44,
 		"zipCode": "560041",
 		"modTS": "2021-12-17T09:40:30.879Z",
 		"inquiryPhone": "9900191423",
@@ -19473,7 +19473,7 @@
 		"phone": [
 			"9845995123"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Twin Bee Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-12-18T04:30:34.539Z",
@@ -19481,7 +19481,7 @@
 		"createdTS": "2017-12-18T04:30:34.539Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-20T19:22:27.334Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TWINBEESPORTSARENA97FA0469E511/TwinBeeSportsArena1658344922764.jpg"
@@ -27331,7 +27331,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-03T15:59:42.283Z",
-		"ratingCount": 250,
+		"ratingCount": 251,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
@@ -31014,7 +31014,7 @@
 		"createdTS": "2018-11-14T18:51:41.993Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-10T08:09:16.257Z",
-		"ratingCount": 28,
+		"ratingCount": 29,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TURFPARKHSR/TurfParkHSR6.JPG"
@@ -38844,7 +38844,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 944,
+		"ratingCount": 945,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -42592,7 +42592,7 @@
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T13:16:44.176Z",
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYHIGH/flyhighbadmintonarena1660032614321.jpeg"
@@ -43692,7 +43692,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -49522,7 +49522,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 574,
+		"ratingCount": 575,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -59327,7 +59327,7 @@
 		"createdTS": "2018-02-11T06:46:38.718Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-20T09:53:20.487Z",
-		"ratingCount": 268,
+		"ratingCount": 269,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSHUTTLERS/FeatherShuttlers1586172701791.png"
