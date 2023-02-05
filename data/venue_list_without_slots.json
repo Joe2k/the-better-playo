@@ -2428,7 +2428,7 @@
 		"createdTS": "2018-12-05T05:00:34.548Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T06:54:55.397Z",
-		"ratingCount": 137,
+		"ratingCount": 138,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg"
@@ -18184,7 +18184,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 79,
+		"ratingCount": 80,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -20277,7 +20277,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-14T09:41:20.029Z",
-		"ratingCount": 297,
+		"ratingCount": 298,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -37727,7 +37727,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 65,
+		"ratingCount": 66,
 		"zipCode": "560037",
 		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
@@ -41063,7 +41063,7 @@
 		"phone": [
 			"7353945459"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Blue Caps Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-11-09T11:06:02.851Z",
@@ -41071,7 +41071,7 @@
 		"createdTS": "2018-11-09T11:06:02.851Z",
 		"inquiryType": -1,
 		"modTS": "2021-10-07T09:54:36.269Z",
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BLUECAPSSPORTSARENA/bluecapssportsarena10.jpg"
@@ -43592,7 +43592,7 @@
 		"createdTS": "2018-06-08T18:06:28.394Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-30T12:07:16.032Z",
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VIRINCHIBADMINTONARENA/VirinchiBadmintonArena1633003581275.jpeg"
@@ -46111,7 +46111,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -49522,7 +49522,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 575,
+		"ratingCount": 576,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -55693,7 +55693,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T06:25:15.932Z",
-		"ratingCount": 155,
+		"ratingCount": 156,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
@@ -70713,8 +70713,8 @@
 		"sports": [
 			"SP5",
 			"SP77",
-			"SP6",
-			"SP4"
+			"SP4",
+			"SP89"
 		],
 		"timings": "6 AM - 9 PM",
 		"cityCode": 1127,
@@ -70749,7 +70749,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2023-02-04T12:13:26.374Z",
+		"modTS": "2023-02-05T15:01:00.505Z",
 		"shareLink": "https://z34v4.app.goo.gl/xkxU",
 		"deferLink": "https://z34v4.app.goo.gl/Bsd8",
 		"fullLink": "https://playo.co/venue/?venueId=af8a570c-7714-4d8b-a501-4ec9a9d31a15",
@@ -70767,8 +70767,8 @@
 		"bookSports": [
 			"SP5",
 			"SP77",
-			"SP6",
-			"SP4"
+			"SP4",
+			"SP89"
 		],
 		"bookType": 0,
 		"description": "",
