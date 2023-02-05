@@ -8174,7 +8174,7 @@
 		"description": "",
 		"createdTS": "2019-07-08T17:49:32.722Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560070",
 		"modTS": "2022-11-28T19:42:38.214Z",
 		"inquiryPhone": "9148090314",
@@ -9786,7 +9786,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 219,
+		"ratingCount": 220,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -10779,7 +10779,7 @@
 		"description": "",
 		"createdTS": "2022-03-23T09:13:55.877Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560078",
 		"modTS": "2022-04-08T16:08:53.844Z",
 		"inquiryPhone": "7022054234",
@@ -10788,7 +10788,7 @@
 			"7022054234"
 		],
 		"sponsored": "",
-		"avgRating": 3.6,
+		"avgRating": 3.7,
 		"address": "95th Cross Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "9d4830bf-a67a-4dbf-bbd1-0f67667a3e3a",
@@ -11265,112 +11265,6 @@
 		"activityCountLastSyncDate": "2023-02-04T18:30:02.429Z",
 		"distance": 7.940959997413965,
 		"activeKey": "anis-sports-academy-ittamadu-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "9905484818",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "breakpoint-pool-snooker-lounge-kumaraswamy-layout-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/2GDJ",
-		"city": "Bengaluru",
-		"area": "Kumaraswamy Layout",
-		"oldPlayoId": "5b06a6896d91cf129056bb6a",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "e183d972-6db4-11e9-a923-1681be663d3e",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP77",
-			"SP6",
-			"SP93"
-		],
-		"priority": 0,
-		"amenities": [
-			"Washroom",
-			"Parking",
-			"Frist Aid",
-			"Drinking Water"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "",
-		"zipCode": "560078",
-		"phone": [
-			"9905484818"
-		],
-		"avgRating": 4.3,
-		"name": "BreakPoint Pool & Snooker Lounge",
-		"sponsoredExpiry": null,
-		"activatedOn": "2018-05-24T11:48:25.915Z",
-		"coverImage": "",
-		"createdTS": "2018-05-24T11:48:25.915Z",
-		"inquiryType": -1,
-		"modTS": "2022-07-20T19:09:30.829Z",
-		"ratingCount": 9,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/BREAKPOINTPOOL4B459E11C11A/BreakPointPoolSnookerLounge1658344145342.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BREAKPOINTPOOL4B459E11C11A/BreakPointPoolSnookerLounge1658344152513.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BREAKPOINTPOOL4B459E11C11A/BreakPointPoolSnookerLounge1658344158482.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/BREAKPOINTPOOL4B459E11C11A/BreakPointPoolSnookerLounge1658344166017.jpg"
-			}
-		],
-		"id": "c796004f-9c82-485e-b6eb-4b459e11c11a",
-		"description": "",
-		"category": 2,
-		"s3Folder": "BREAKPOINTPOOL4B459E11C11A",
-		"state": "Karnataka",
-		"email": [
-			"breakpoint718@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "#1070, Ramakrishna Arcade, Kumaraswamy Layout, 1st Stage, 50ft road, Bangalore",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/dMwk",
-		"search": "",
-		"fullLink": "https://playo.co/venue/?venueId=c796004f-9c82-485e-b6eb-4b459e11c11a",
-		"country": "India",
-		"timings": "11 AM - 11 PM",
-		"addInfo": "",
-		"isSafeAndHygiene": true,
-		"bookType": 0,
-		"lat": 12.907942353608119,
-		"lng": 77.56100091165673,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "c796004f-9c82-485e-b6eb-4b459e11c11a",
-		"__v": 4,
-		"bookSports": [
-			"SP77",
-			"SP6",
-			"SP93"
-		],
-		"activityCount": 55,
-		"activityCountLastSyncDate": "2023-02-04T18:30:02.429Z",
-		"distance": 7.9688961930476685,
-		"activeKey": "breakpoint-pool-snooker-lounge-kumaraswamy-layout-bengaluru",
 		"offers": []
 	},
 	{
@@ -26084,7 +25978,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -31737,7 +31631,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -45100,7 +44994,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 28,
+		"ratingCount": 29,
 		"bookSports": [
 			"SP5"
 		],
