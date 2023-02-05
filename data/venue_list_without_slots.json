@@ -19295,7 +19295,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 52,
+		"ratingCount": 53,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -20171,7 +20171,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 303,
+		"ratingCount": 304,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -29325,7 +29325,7 @@
 		"createdTS": "2018-06-20T15:48:40.151Z",
 		"inquiryType": -1,
 		"modTS": "2021-10-11T07:44:39.717Z",
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/V3BADMINTONACADEMY/V3BadmintonAcademy6.jpg"
@@ -38844,7 +38844,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 943,
+		"ratingCount": 944,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -45737,7 +45737,7 @@
 		"createdTS": "2017-05-08T10:22:46.012Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T13:13:05.797Z",
-		"ratingCount": 98,
+		"ratingCount": 99,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VELOCT/veloct1.jpg"
@@ -49522,7 +49522,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 573,
+		"ratingCount": 574,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -51278,7 +51278,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 143,
+		"ratingCount": 144,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -54412,14 +54412,14 @@
 		"phone": [
 			"7204672409"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"name": "Badmintonium Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -54912,7 +54912,7 @@
 		"description": "",
 		"createdTS": "2019-07-11T09:39:38.620Z",
 		"bookType": 0,
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"zipCode": "560066",
 		"modTS": "2022-03-25T12:53:59.261Z",
 		"inquiryPhone": "7338282567",
