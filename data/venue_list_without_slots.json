@@ -1796,7 +1796,7 @@
 		"createdTS": "2018-08-10T06:24:04.727Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-23T12:16:25.639Z",
-		"ratingCount": 78,
+		"ratingCount": 79,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RUSH/rush2.jpg"
@@ -27096,7 +27096,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 268,
+		"ratingCount": 270,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -27331,7 +27331,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-03T15:59:42.283Z",
-		"ratingCount": 249,
+		"ratingCount": 250,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
@@ -31274,7 +31274,7 @@
 		"description": "",
 		"createdTS": "2019-04-24T10:10:24.518Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560068",
 		"modTS": "2023-02-04T04:39:18.012Z",
 		"inquiryPhone": "9700314143",
@@ -31283,7 +31283,7 @@
 			"9700314143"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.9,
 		"address": "Near pargathi vidya mandir, VGP Layout, Behind Microlabs, Kudlu, Bengaluru 560068",
 		"active": true,
 		"id": "5c047de5-3fff-4d6b-a512-2d6642568641",
@@ -36407,7 +36407,7 @@
 		"phone": [
 			"9621601165"
 		],
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"name": "Super Sports Park - Bellandur",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.107Z",
@@ -36415,7 +36415,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -55693,7 +55693,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T06:25:15.932Z",
-		"ratingCount": 154,
+		"ratingCount": 155,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
