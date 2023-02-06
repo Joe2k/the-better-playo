@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 142,
+		"ratingCount": 143,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 161,
+		"ratingCount": 162,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -19367,7 +19367,7 @@
 		"phone": [
 			"9845995123"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"name": "Twin Bee Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-12-18T04:30:34.539Z",
@@ -19375,7 +19375,7 @@
 		"createdTS": "2017-12-18T04:30:34.539Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-20T19:22:27.334Z",
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TWINBEESPORTSARENA97FA0469E511/TwinBeeSportsArena1658344922764.jpg"
@@ -25978,7 +25978,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -50764,7 +50764,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-05T10:44:59.893Z",
-		"ratingCount": 287,
+		"ratingCount": 288,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi0.jpg"
