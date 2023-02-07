@@ -9476,7 +9476,7 @@
 		"description": "",
 		"createdTS": "2019-07-03T07:59:14.093Z",
 		"bookType": 0,
-		"ratingCount": 35,
+		"ratingCount": 36,
 		"zipCode": "560032",
 		"modTS": "2022-01-05T12:51:53.189Z",
 		"inquiryPhone": "9342320036",
@@ -9485,7 +9485,7 @@
 			"9342320036"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"address": "15, (Cauvery Nagar) KHB Main Road opp 12th cross,near Railway crossing, R.T.Nagar Post",
 		"active": true,
 		"id": "f3f5b1bf-e982-4be8-99d1-d0fea15578e3",
@@ -24502,7 +24502,7 @@
 		"createdTS": "2017-07-11T18:41:25.689Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-01T08:00:49.464Z",
-		"ratingCount": 83,
+		"ratingCount": 84,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY365/play3650.jpg"
@@ -47628,7 +47628,7 @@
 		"createdTS": "2017-04-24T07:46:20.800Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-21T04:19:31.542Z",
-		"ratingCount": 199,
+		"ratingCount": 200,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KARSPORTS/karsports5.jpg"
