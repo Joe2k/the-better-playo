@@ -19531,14 +19531,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.9,
+		"avgRating": 4.7,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -27011,7 +27011,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 272,
+		"ratingCount": 273,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -31334,7 +31334,7 @@
 		"bookType": 0,
 		"ratingCount": 7,
 		"zipCode": "560043",
-		"modTS": "2022-09-13T10:58:56.634Z",
+		"modTS": "2023-02-07T07:45:10.415Z",
 		"inquiryPhone": "8310317991",
 		"inquiryType": -1,
 		"phone": [
@@ -31398,7 +31398,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "- 7 Astro turf Cricket nets<br/>\n- Cricket Balls available on sale<br/>\n- Physiotherapy Services<br/>",
+		"addInfo": "- 7 Astro Turf Cricket Nets<br/>\n- 9a side Box Cricket<br/>\n- Leather balls available on sale<br/>\n- Fielding practice<br/>\n- Physiotherapy Services",
 		"fullLink": "https://playo.co/venue?venueId=7ed56ea0-14c7-421b-9995-cd019137f503",
 		"type": 1,
 		"email": [
@@ -31439,6 +31439,7 @@
 		"venueId": "7ed56ea0-14c7-421b-9995-cd019137f503",
 		"activityCount": 171,
 		"activityCountLastSyncDate": "2023-02-06T18:30:02.411Z",
+		"bnpl": false,
 		"distance": 10.795617103620948,
 		"activeKey": "avni-sports-academy-hormavu-bengaluru",
 		"offers": []
