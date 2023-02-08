@@ -13273,7 +13273,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 272,
+		"ratingCount": 273,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -31441,7 +31441,7 @@
 		"bookType": 0,
 		"ratingCount": 7,
 		"zipCode": "560043",
-		"modTS": "2023-02-08T13:54:29.902Z",
+		"modTS": "2023-02-08T15:08:40.056Z",
 		"inquiryPhone": "8310317991",
 		"inquiryType": -1,
 		"phone": [
@@ -34060,7 +34060,7 @@
 		"phone": [
 			"8050826304"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"name": "Yash Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.174Z",
@@ -34068,7 +34068,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -38148,7 +38148,7 @@
 		"createdTS": "2018-02-23T13:43:06.871Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-25T12:40:57.340Z",
-		"ratingCount": 144,
+		"ratingCount": 145,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KUDLUBADMINTONCENTRE/kudlubadmintoncentre0.jpg"
@@ -45987,7 +45987,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 219,
+		"ratingCount": 220,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -50809,7 +50809,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 288,
+		"ratingCount": 290,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
