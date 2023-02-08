@@ -2154,7 +2154,7 @@
 		"description": "",
 		"createdTS": "2020-10-11T07:13:38.683Z",
 		"bookType": 0,
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"zipCode": "560041",
 		"modTS": "2021-12-17T09:40:30.879Z",
 		"inquiryPhone": "9900191423",
@@ -24641,7 +24641,7 @@
 		"phone": [
 			"9632776666"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"name": "Hawks Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.156Z",
@@ -24649,7 +24649,7 @@
 		"createdTS": "2017-01-07T17:23:44.156Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-13T11:44:38.893Z",
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena10.png"
@@ -50701,32 +50701,41 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-05T10:44:59.893Z",
+		"modTS": "2023-02-08T06:36:55.361Z",
 		"ratingCount": 288,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi0.jpg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi1.jpg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838058714.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi18.jpeg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838063431.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi19.jpeg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838069852.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi2.jpg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838077583.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzhoodi20.jpeg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838083300.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzsportsclubhoodi10.jpg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838090332.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/IBLITZHOODI/iblitzsportsclubhoodi9.jpg"
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838096926.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838102559.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838198175.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838204519.jpeg"
 			}
 		],
 		"id": "eb4c14f2-1ab2-4167-9431-dd43d812b3d5",
@@ -50750,7 +50759,7 @@
 		"country": "India",
 		"timings": "5 AM - 11 PM",
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"__v": 10,
+		"__v": 12,
 		"bookSports": [
 			"SP5",
 			"SP2",
@@ -53271,7 +53280,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.119Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-08T07:13:10.006Z",
+		"modTS": "2023-02-08T07:43:44.788Z",
 		"ratingCount": 62,
 		"images": [
 			{
@@ -53304,7 +53313,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "Featured",
+		"sponsored": "Featured!",
 		"members": false,
 		"address": "63, Kogilu Agrahara Main Road Opposite Apurva Meadows, Yelahanka, Bengaluru, Karnataka",
 		"active": true,
@@ -53314,7 +53323,7 @@
 		"country": "India",
 		"timings": "6 AM - 11 PM",
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\nBox Cricket: <br/>\n- Spiked shoes are strictly not allowed on the turf.<br/>\n- No equipment will be provided by the venue, all equipment have to be brought by the users.<br/>\n<br/>\n<br/>",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 7,
 		"bookSports": [
 			"SP5",
 			"SP2",
@@ -56992,7 +57001,7 @@
 		"createdTS": "2017-11-22T10:22:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-24T05:11:05.743Z",
-		"ratingCount": 142,
+		"ratingCount": 143,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYONSPORTSARENA/PlayOnSportsArena62.PNG"
