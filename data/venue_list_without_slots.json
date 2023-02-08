@@ -21217,7 +21217,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 252,
+		"ratingCount": 253,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -26262,7 +26262,7 @@
 		"createdTS": "2018-07-12T16:39:11.522Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:55:04.368Z",
-		"ratingCount": 181,
+		"ratingCount": 182,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PRAGATHIBADMINTONACADEMY/PragathiBadmintonAcademy1586172144046.png"
@@ -38760,7 +38760,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 946,
+		"ratingCount": 947,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -65764,14 +65764,14 @@
 		"phone": [
 			"9538655505"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"name": "Sportonix School of Badminton",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T09:42:01.927Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T09:43:18.810Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
 		"category": 2,
 		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
