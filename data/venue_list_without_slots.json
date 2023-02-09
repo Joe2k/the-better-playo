@@ -15653,7 +15653,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 73,
+		"ratingCount": 74,
 		"zipCode": "560016",
 		"modTS": "2023-02-07T15:51:33.335Z",
 		"inquiryPhone": "9686603952",
@@ -17792,7 +17792,7 @@
 		"coverImage": "",
 		"createdTS": "2018-08-28T16:10:53.870Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-09T14:19:04.364Z",
+		"modTS": "2023-02-09T14:46:18.649Z",
 		"ratingCount": 106,
 		"images": [
 			{
@@ -17839,7 +17839,7 @@
 		"placeId": "",
 		"type": 0,
 		"venueId": "bbfe4756-1eb9-4e40-8894-e9ae91b49fe8",
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 3,
 		"isSafeAndHygiene": true,
 		"__v": 2,
 		"activityCount": 18730,
@@ -22551,7 +22551,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -25917,7 +25917,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T08:17:11.913Z",
 		"bookType": 0,
-		"ratingCount": 117,
+		"ratingCount": 118,
 		"zipCode": "560037",
 		"modTS": "2022-06-04T12:02:38.188Z",
 		"inquiryPhone": "8747827777",
@@ -27353,7 +27353,7 @@
 		"coverImage": "https://playo.gumlet.io/AHALYASPORTSARENA/AhalyaSportsArena37.png",
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-03T15:59:42.283Z",
+		"modTS": "2023-02-09T14:46:27.431Z",
 		"ratingCount": 252,
 		"images": [
 			{
@@ -27417,7 +27417,7 @@
 		"type": 0,
 		"venueId": "ed0560e5-b899-4a11-8e06-daf0e6d0d5a6",
 		"__v": 9,
-		"sponsoredRadius": 3.5,
+		"sponsoredRadius": 3,
 		"isSafeAndHygiene": true,
 		"activityCount": 38037,
 		"activityCountLastSyncDate": "2023-02-08T18:30:02.754Z",
@@ -31560,7 +31560,7 @@
 		"bookType": 0,
 		"ratingCount": 31,
 		"zipCode": "560064",
-		"modTS": "2022-12-09T12:57:23.175Z",
+		"modTS": "2023-02-09T14:46:08.909Z",
 		"inquiryPhone": "9611564830",
 		"inquiryType": -1,
 		"phone": [
@@ -31583,7 +31583,7 @@
 		],
 		"name": "Taurus Sports & Fitness Arena",
 		"area": "Amruthahalli",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 3,
 		"country": "India",
 		"tags": [],
 		"functionData": [
@@ -33442,7 +33442,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 201,
+		"ratingCount": 202,
 		"zipCode": "560068",
 		"modTS": "2023-01-19T06:44:42.055Z",
 		"inquiryPhone": "8095514666",
@@ -42847,7 +42847,7 @@
 		"createdTS": "2018-07-13T13:13:54.449Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:42:18.995Z",
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYLINESPORTSACADEMY/skylinesportsacademy0.jpg"
@@ -51266,7 +51266,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 149,
+		"ratingCount": 150,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -56363,7 +56363,7 @@
 		"description": "",
 		"createdTS": "2020-11-20T07:50:28.031Z",
 		"bookType": 0,
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"zipCode": "560066",
 		"modTS": "2022-11-29T08:15:59.858Z",
 		"inquiryPhone": "8197445584",
@@ -57590,7 +57590,7 @@
 		"coverImage": "https://playo.gumlet.io/SUMUKHASPORTSARENA/SumukhaSportsArenacovercover1652639707993.jpg",
 		"createdTS": "2017-01-07T17:23:44.130Z",
 		"inquiryType": -1,
-		"modTS": "2022-07-31T14:27:28.856Z",
+		"modTS": "2023-02-09T14:46:54.345Z",
 		"ratingCount": 225,
 		"images": [
 			{
@@ -57644,12 +57644,13 @@
 		"bookType": 0,
 		"lat": 12.940304,
 		"lng": 77.736357,
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 3,
 		"type": 0,
 		"venueId": "2e89d735-85fe-4eb4-890f-40dd37a0dfaf",
 		"isSafeAndHygiene": true,
 		"activityCount": 18298,
 		"activityCountLastSyncDate": "2023-02-08T18:30:02.754Z",
+		"bnpl": false,
 		"distance": 15.768179038899817,
 		"activeKey": "machaxi-sumukha-sports-varthur-road-bengaluru",
 		"offers": []
@@ -60000,13 +60001,13 @@
 		"bookType": 0,
 		"ratingCount": 12,
 		"zipCode": "560107",
-		"modTS": "2022-11-10T14:29:30.969Z",
+		"modTS": "2023-02-09T15:10:58.892Z",
 		"inquiryPhone": "9731091599",
 		"inquiryType": -1,
 		"phone": [
 			"9731091599"
 		],
-		"sponsored": "Featured",
+		"sponsored": "",
 		"avgRating": 4.6,
 		"address": "Opposite Acharya University, #44, Hesaraghatta Main Road, Soldevanahalli, Bengaluru",
 		"active": true,
@@ -63897,7 +63898,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 155,
+		"ratingCount": 156,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
