@@ -26099,7 +26099,7 @@
 		"phone": [
 			"9986189582"
 		],
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"name": "Ashoka Sports Arena (Letz Play)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
@@ -26107,7 +26107,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 16,
+		"ratingCount": 17,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -29960,7 +29960,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 49,
+		"ratingCount": 50,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -34628,7 +34628,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -36431,7 +36431,7 @@
 		"phone": [
 			"9621601165"
 		],
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"name": "Super Sports Park - Bellandur",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.107Z",
@@ -36439,7 +36439,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -49462,7 +49462,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 579,
+		"ratingCount": 580,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -50673,6 +50673,152 @@
 		"distance": 13.51819270110641,
 		"activeKey": "silicon-arise-badminton-academy-anjanapura-bengaluru",
 		"offers": []
+	},
+	{
+		"inquiryPhone": "9886993311",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "namma-green-sports-club-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/gM9p",
+		"city": "Bengaluru",
+		"area": "Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab083f",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "6338e4ed-10de-4400-983f-f61923f067f0",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First-Aid",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/NAMGREEM/map.PNG",
+		"zipCode": "562125",
+		"phone": [
+			"9886993311"
+		],
+		"avgRating": 4.2,
+		"name": "Namma Green Sports Club",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.178Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.178Z",
+		"inquiryType": -1,
+		"modTS": "2023-02-10T13:14:14.467Z",
+		"ratingCount": 42,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/NAMGREENM/NammaGreenSportsClub74.PNG"
+			},
+			{
+				"url": "https://playo.gumlet.io/NAMGREENM/NammaGreenSportsClub75.PNG"
+			},
+			{
+				"url": "https://playo.gumlet.io/NAMGREENM/NammaGreenSportsClub76.PNG"
+			},
+			{
+				"url": "https://playo.gumlet.io/NAMGREENM/NammaGreenSportsClub77.PNG"
+			}
+		],
+		"id": "6338e4ed-10de-4400-983f-f61923f067f0",
+		"description": "",
+		"category": 2,
+		"s3Folder": "NAMGREENM",
+		"state": "Karnataka",
+		"email": [
+			"nammagreen7@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#13, Chickanyakanahalli Road, Near Lake View Public School, Opp. Sai Vandana Brundavan, Doddakannelli",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/hWKe",
+		"search": "|Football|Namma Green Sports Club|#13,Chickanyakanahalli Road,Near Lake View Public School, Opp. Sai Vandana Brundavan,|Sarjapur Road|Bangalore|Parking, First-Aid, Washroom|We Offer world class , Lush green football turf with Filling to play the lovely Sport. Suitable for 5/6/7 a side Matches|FLAT 10% OFF : \"NEWYEAR\"",
+		"fullLink": "https://playo.co/venue/?venueId=6338e4ed-10de-4400-983f-f61923f067f0",
+		"country": "India",
+		"timings": "5 AM - 11 PM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP2"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.898487,
+		"lng": 77.694178,
+		"placeId": "",
+		"type": 0,
+		"venueId": "6338e4ed-10de-4400-983f-f61923f067f0",
+		"sponsoredRadius": 4,
+		"__v": 1,
+		"isSafeAndHygiene": true,
+		"activityCount": 751,
+		"activityCountLastSyncDate": "2023-02-09T18:30:03.211Z",
+		"bnpl": false,
+		"distance": 13.526240991319373,
+		"activeKey": "namma-green-sports-club-sarjapur-road-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
 	},
 	{
 		"oldPlayoId": "0d181dff-f7a5-401a-b3eb-97dc73ead765",
