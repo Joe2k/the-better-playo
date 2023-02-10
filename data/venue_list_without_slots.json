@@ -6296,7 +6296,7 @@
 		"phone": [
 			"7349720771"
 		],
-		"avgRating": 3.9,
+		"avgRating": 4,
 		"name": "Dr. Shyam Prasad Mukherjee Kreeda Sankeerna",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.043Z",
@@ -6304,7 +6304,7 @@
 		"createdTS": "2017-01-07T17:23:44.043Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-08T17:30:01.318Z",
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSKALYANNAGAR/DrShyamPrasadMukherjeeKreedaSankeerna1649434684516.jpeg"
@@ -15902,119 +15902,6 @@
 		]
 	},
 	{
-		"name": "Bangalore Youth Cricket Academy",
-		"area": "HSR Layout Sector 2",
-		"address": "Bangalore Youth Cricket Academy, Atal Bihari Vajpayee Stadium, 22 Main Road, Behind Water Tank, Parangi Palaya, Sector 2,  HSR Layout, Bengaluru, Karnataka - 560102",
-		"googleMapLink": "https://www.google.com/maps/place/De+BASE+3.0/@13.1236947,80.1382532,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5262ff9c7b79ff:0x7093cede6097f4a9!8m2!3d13.1236947!4d80.1404419",
-		"googlePlusCode": "44FR+F5 Chennai, Tamil Nadu",
-		"website": "de-base.business.site",
-		"email": [
-			"tmsports.office@gmail.com"
-		],
-		"remarks": "",
-		"phone": [
-			"6364444441"
-		],
-		"functionData": [
-			{
-				"content": "e183dbde-6db4-11e9-a923-1681be663d3e",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"city": "Bengaluru",
-		"country": "India",
-		"sports": [
-			"SP57"
-		],
-		"timings": "6 AM - 6 PM",
-		"cityCode": 1,
-		"id": "b52486d1-bad3-4c4a-af0c-35961084ab75",
-		"oldPlayoId": "b52486d1-bad3-4c4a-af0c-35961084ab75",
-		"category": 2,
-		"inquiryPhone": "6364444441",
-		"s3Folder": "DEBASE30",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "Open 24 hours",
-			"Tue": "Open 24 hours",
-			"Wed": "Open 24 hours",
-			"Thu": "Open 24 hours",
-			"Fri": "Open 24 hours",
-			"Sat": "Open 24 hours",
-			"Sun": "Open 24 hours"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"active": true,
-				"key": "bangalore-youth-cricket-academy-hsr-layout-sector-2-bengaluru"
-			}
-		],
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102706017.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102709597.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102713566.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102716968.jpeg"
-			}
-		],
-		"rating": 0,
-		"modTS": "2022-10-18T14:18:45.356Z",
-		"shareLink": "https://z34v4.app.goo.gl/ip5Q",
-		"deferLink": "https://z34v4.app.goo.gl/S2sV",
-		"fullLink": "https://playo.co/venue/?venueId=b52486d1-bad3-4c4a-af0c-35961084ab75",
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
-		],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": true,
-		"__v": 4,
-		"avgRating": 4,
-		"coverImage": "",
-		"createdTS": "2020-12-24T10:57:59.326Z",
-		"description": "",
-		"infoData": [],
-		"inquiryType": -1,
-		"logoImg": "",
-		"mapImage": "",
-		"ratingCount": 2,
-		"search": "hsr bangalore youth cricket academy , byca , hsr byca",
-		"sponsored": "",
-		"activityCount": 20,
-		"activityCountLastSyncDate": "2023-02-09T18:30:03.211Z",
-		"addInfo": "- Please report to the venue 5 Minutes prior to the booked slot. <br/>\n- The Booked slot timings must be followed strictly. <br/>\n- New Cricket Balls will be available for purchase at the center. <br/>\n- Eatables not allowed inside the premises. <br/>\n- Management will not be responsible for loss of personal belongings and injuries caused during the practice sessions. <br/>\nT&Cs apply.  <br/>",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.910961438049,
-		"lng": 77.64477441463987,
-		"sponsoredRadius": 4,
-		"state": "Karnataka",
-		"type": 0,
-		"venueId": "b52486d1-bad3-4c4a-af0c-35961084ab75",
-		"zipCode": "560102",
-		"bookSports": [
-			"SP57"
-		],
-		"distance": 8.671619326991236,
-		"activeKey": "bangalore-youth-cricket-academy-hsr-layout-sector-2-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8105677809",
 		"remarks": "",
 		"infoData": [],
@@ -17344,6 +17231,119 @@
 		"activityCountLastSyncDate": "2023-02-09T18:30:03.211Z",
 		"distance": 8.785588901552023,
 		"activeKey": "bangalore-rifle-shooters-arena-nagarbhavi-bengaluru",
+		"offers": []
+	},
+	{
+		"name": "Bangalore Youth Cricket Academy",
+		"area": "HSR Layout Sector 2",
+		"address": "Bangalore Youth Cricket Academy, Atal Bihari Vajpayee Stadium, 22 Main Road, Behind Water Tank, Parangi Palaya, Sector 2,  HSR Layout, Bengaluru, Karnataka - 560102",
+		"googleMapLink": "https://www.google.com/maps/place/De+BASE+3.0/@13.1236947,80.1382532,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5262ff9c7b79ff:0x7093cede6097f4a9!8m2!3d13.1236947!4d80.1404419",
+		"googlePlusCode": "44FR+F5 Chennai, Tamil Nadu",
+		"website": "de-base.business.site",
+		"email": [
+			"tmsports.office@gmail.com"
+		],
+		"remarks": "",
+		"phone": [
+			"6364444441"
+		],
+		"functionData": [
+			{
+				"content": "e183dbde-6db4-11e9-a923-1681be663d3e",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"city": "Bengaluru",
+		"country": "India",
+		"sports": [
+			"SP57"
+		],
+		"timings": "6 AM - 6 PM",
+		"cityCode": 1,
+		"id": "b52486d1-bad3-4c4a-af0c-35961084ab75",
+		"oldPlayoId": "b52486d1-bad3-4c4a-af0c-35961084ab75",
+		"category": 2,
+		"inquiryPhone": "6364444441",
+		"s3Folder": "DEBASE30",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "Open 24 hours",
+			"Tue": "Open 24 hours",
+			"Wed": "Open 24 hours",
+			"Thu": "Open 24 hours",
+			"Fri": "Open 24 hours",
+			"Sat": "Open 24 hours",
+			"Sun": "Open 24 hours"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"active": true,
+				"key": "bangalore-youth-cricket-academy-hsr-layout-sector-2-bengaluru"
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102706017.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102709597.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102713566.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DEBASE30/BangaloreYouthCricketAcademy1666102716968.jpeg"
+			}
+		],
+		"rating": 0,
+		"modTS": "2023-02-10T14:52:12.083Z",
+		"shareLink": "https://z34v4.app.goo.gl/ip5Q",
+		"deferLink": "https://z34v4.app.goo.gl/S2sV",
+		"fullLink": "https://playo.co/venue/?venueId=b52486d1-bad3-4c4a-af0c-35961084ab75",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": true,
+		"__v": 4,
+		"avgRating": 4,
+		"coverImage": "",
+		"createdTS": "2020-12-24T10:57:59.326Z",
+		"description": "",
+		"infoData": [],
+		"inquiryType": -1,
+		"logoImg": "",
+		"mapImage": "",
+		"ratingCount": 2,
+		"search": "hsr bangalore youth cricket academy , byca , hsr byca",
+		"sponsored": "",
+		"activityCount": 20,
+		"activityCountLastSyncDate": "2023-02-09T18:30:03.211Z",
+		"addInfo": "- Please report to the venue 5 Minutes prior to the booked slot. <br/>\n- The Booked slot timings must be followed strictly. <br/>\n- New Cricket Balls will be available for purchase at the center. <br/>\n- Eatables not allowed inside the premises. <br/>\n- Management will not be responsible for loss of personal belongings and injuries caused during the practice sessions. <br/>\nT&Cs apply.  <br/>",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.910944890895697,
+		"lng": 77.64713289738296,
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "b52486d1-bad3-4c4a-af0c-35961084ab75",
+		"zipCode": "560102",
+		"bookSports": [
+			"SP57"
+		],
+		"distance": 8.835894578230775,
+		"activeKey": "bangalore-youth-cricket-academy-hsr-layout-sector-2-bengaluru",
 		"offers": []
 	},
 	{
@@ -27119,7 +27119,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 275,
+		"ratingCount": 277,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -30433,7 +30433,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 327,
+		"ratingCount": 328,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -32062,7 +32062,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 237,
+		"ratingCount": 238,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -42847,7 +42847,7 @@
 		"createdTS": "2018-07-13T13:13:54.449Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:42:18.995Z",
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYLINESPORTSACADEMY/skylinesportsacademy0.jpg"
@@ -50284,7 +50284,7 @@
 		"createdTS": "2017-01-07T17:23:44.200Z",
 		"inquiryType": -1,
 		"modTS": "2021-01-11T14:22:49.101Z",
-		"ratingCount": 298,
+		"ratingCount": 299,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ISPORTSARENA/iSportsArena0.png"
@@ -85102,90 +85102,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "7760825069",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/H3VF",
-		"city": "Bengaluru",
-		"area": "Off Marthahalli-Sarjapur Road",
-		"oldPlayoId": "587124206d91cf3645ab07e5",
-		"functionData": [
-			{
-				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 2,
-				"caption": "Enquire Now!",
-				"type": 2
-			}
-		],
-		"sports": [
-			"SP27"
-		],
-		"priority": 0,
-		"amenities": [
-			"Cafe",
-			"Washroom"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"7760825069"
-		],
-		"avgRating": 3.8,
-		"name": "Bubble Strike Bengaluru",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.072Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": 0,
-		"modTS": "2022-11-16T07:27:52.826Z",
-		"ratingCount": 13,
-		"images": [],
-		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"category": 1,
-		"s3Folder": "BUBBLESTRIKEBENGALURU",
-		"state": "Karnataka",
-		"email": [
-			""
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/s7xB",
-		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
-		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"country": "India",
-		"timings": "6:00 AM - 10:00 PM",
-		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-02-09T18:30:03.211Z",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.939621,
-		"lng": 77.7055,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"distance": 12.546616529780627,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
@@ -85275,6 +85191,90 @@
 		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
 		"distance": 12.546616529780627,
 		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "7760825069",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
+		"area": "Off Marthahalli-Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab07e5",
+		"functionData": [
+			{
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP27"
+		],
+		"priority": 0,
+		"amenities": [
+			"Cafe",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"7760825069"
+		],
+		"avgRating": 3.8,
+		"name": "Bubble Strike Bengaluru",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.072Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.072Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
+		"ratingCount": 13,
+		"images": [],
+		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"category": 1,
+		"s3Folder": "BUBBLESTRIKEBENGALURU",
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
+		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
+		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"country": "India",
+		"timings": "6:00 AM - 10:00 PM",
+		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-02-09T18:30:03.211Z",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.939621,
+		"lng": 77.7055,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
