@@ -21749,7 +21749,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T05:58:04.371Z",
 		"bookType": 0,
-		"ratingCount": 171,
+		"ratingCount": 172,
 		"zipCode": "560037",
 		"modTS": "2022-09-18T10:10:49.686Z",
 		"inquiryPhone": "9606751111",
@@ -48107,7 +48107,7 @@
 		"createdTS": "2017-08-07T11:57:40.207Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-12T07:25:35.552Z",
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SELENITESPORTSACADEMY/selenitesportsacademy1600886207740.jpeg"
@@ -59793,13 +59793,13 @@
 		"bookType": 0,
 		"ratingCount": 13,
 		"zipCode": "560100",
-		"modTS": "2022-03-23T09:12:33.009Z",
+		"modTS": "2023-02-11T11:30:26.381Z",
 		"inquiryPhone": "8921697378",
 		"inquiryType": -1,
 		"phone": [
 			"8921697378"
 		],
-		"sponsored": "Featured",
+		"sponsored": "",
 		"avgRating": 4.9,
 		"address": "Gameloop Multisport Turf by Gameflix, Shanthi Pura, Electronic City Phase II, Shantipura, Bengaluru, Karnataka",
 		"active": true,
@@ -59815,7 +59815,7 @@
 		],
 		"name": "Gameloop Multisport Turf by Gameflix",
 		"area": "Electronic City Phase II",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
 		"functionData": [
@@ -59886,6 +59886,7 @@
 		"venueId": "0636cc2d-7696-4357-bd86-a3de1c219b5c",
 		"activityCount": 874,
 		"activityCountLastSyncDate": "2023-02-10T18:30:02.989Z",
+		"bnpl": false,
 		"distance": 17.090804076635994,
 		"activeKey": "gameloop-multisport-turf-by-gameflix-electronic-city-phase-ii-bengaluru",
 		"offers": []
