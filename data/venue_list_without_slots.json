@@ -10241,7 +10241,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 244,
+		"ratingCount": 245,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -19318,7 +19318,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -20194,7 +20194,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 309,
+		"ratingCount": 310,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -22551,7 +22551,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 70,
+		"ratingCount": 71,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -35631,7 +35631,7 @@
 		"phone": [
 			"9513467949"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"name": "Star Badminton Academy - Harlur",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-07T13:13:05.216Z",
@@ -35639,7 +35639,7 @@
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T07:05:40.918Z",
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademy1658827316673.jpg"
@@ -37751,7 +37751,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 66,
+		"ratingCount": 67,
 		"zipCode": "560037",
 		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
@@ -38868,7 +38868,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 950,
+		"ratingCount": 951,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -44393,7 +44393,7 @@
 		"createdTS": "2017-01-07T17:23:44.216Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-10T08:32:43.293Z",
-		"ratingCount": 94,
+		"ratingCount": 97,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661095521.jpeg"
@@ -54651,7 +54651,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 35,
+		"ratingCount": 36,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
