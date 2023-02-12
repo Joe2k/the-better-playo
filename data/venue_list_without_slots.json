@@ -4114,7 +4114,7 @@
 		"createdTS": "2018-03-18T12:29:02.088Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T05:57:39.969Z",
-		"ratingCount": 220,
+		"ratingCount": 221,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/INFINITESPORTSARENA/infinitesportsarena1.jpg"
@@ -6860,7 +6860,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 147,
+		"ratingCount": 148,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -9983,7 +9983,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"bookSports": [
 			"SP5"
 		],
@@ -12339,7 +12339,8 @@
 		],
 		"city": "Bengaluru",
 		"bookSports": [
-			"SP5"
+			"SP5",
+			"SP4"
 		],
 		"area": "Hennur Gardens",
 		"oldPlayoId": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
@@ -12354,7 +12355,8 @@
 			}
 		],
 		"sports": [
-			"SP5"
+			"SP5",
+			"SP4"
 		],
 		"amenities": [
 			"Washrooms",
@@ -12376,7 +12378,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-27T18:44:48.412Z",
+		"modTS": "2023-02-12T14:19:14.117Z",
 		"ratingCount": 18,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
@@ -20299,7 +20301,7 @@
 		"coverImage": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArenacovercover1599320851743.jpeg",
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-12T14:02:28.064Z",
+		"modTS": "2023-02-12T14:09:05.576Z",
 		"ratingCount": 300,
 		"images": [
 			{
@@ -20337,7 +20339,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=6a616053-5c64-4ca9-a45e-23d5e53a04f3",
 		"country": "India",
 		"timings": "5 AM - 11 PM",
-		"addInfo": "Badminton: <br/>\n- Badminton Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Badminton Non Marking Shoes are compulsory. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookSports": [
 			"SP5"
 		],
@@ -21326,7 +21328,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 259,
+		"ratingCount": 260,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -22552,7 +22554,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 71,
+		"ratingCount": 72,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -27120,7 +27122,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 278,
+		"ratingCount": 280,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -29961,7 +29963,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 50,
+		"ratingCount": 51,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -35852,7 +35854,7 @@
 		"description": "",
 		"createdTS": "2020-09-17T07:08:03.067Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560043",
 		"modTS": "2021-12-21T14:06:14.293Z",
 		"inquiryPhone": "9900296390",
@@ -41550,7 +41552,7 @@
 		"createdTS": "2018-10-31T15:20:33.984Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T13:38:14.785Z",
-		"ratingCount": 149,
+		"ratingCount": 150,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSPORTSARENA/whitefeathersportsarena4.jpg"
@@ -52890,7 +52892,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 175,
+		"ratingCount": 176,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
