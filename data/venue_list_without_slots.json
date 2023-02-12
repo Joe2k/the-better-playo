@@ -9476,7 +9476,7 @@
 		"description": "",
 		"createdTS": "2019-07-03T07:59:14.093Z",
 		"bookType": 0,
-		"ratingCount": 36,
+		"ratingCount": 37,
 		"zipCode": "560032",
 		"modTS": "2022-01-05T12:51:53.189Z",
 		"inquiryPhone": "9342320036",
@@ -18550,7 +18550,7 @@
 		"description": "",
 		"createdTS": "2022-07-04T19:21:52.979Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560058",
 		"modTS": "2022-09-26T05:35:11.668Z",
 		"inquiryPhone": "9686665516",
@@ -20194,7 +20194,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 311,
+		"ratingCount": 312,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -20299,7 +20299,7 @@
 		"coverImage": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArenacovercover1599320851743.jpeg",
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
-		"modTS": "2022-05-14T09:41:20.029Z",
+		"modTS": "2023-02-12T14:02:28.064Z",
 		"ratingCount": 300,
 		"images": [
 			{
@@ -20337,7 +20337,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=6a616053-5c64-4ca9-a45e-23d5e53a04f3",
 		"country": "India",
 		"timings": "5 AM - 11 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Badminton Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookSports": [
 			"SP5"
 		],
@@ -20351,6 +20351,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 42112,
 		"activityCountLastSyncDate": "2023-02-11T18:30:02.603Z",
+		"bnpl": false,
 		"distance": 9.32519827302286,
 		"activeKey": "elohim-shuttle-arena-basavanagar-bengaluru",
 		"offers": [
@@ -23063,7 +23064,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 346,
+		"ratingCount": 347,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -39622,7 +39623,7 @@
 		"createdTS": "2017-01-07T17:23:44.202Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-22T07:21:15.810Z",
-		"ratingCount": 382,
+		"ratingCount": 383,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PROCLUB/ProClub2.PNG"
