@@ -15655,7 +15655,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 74,
+		"ratingCount": 1,
 		"zipCode": "560016",
 		"modTS": "2023-02-07T15:51:33.335Z",
 		"inquiryPhone": "9686603952",
@@ -15664,7 +15664,7 @@
 			"9686603952"
 		],
 		"sponsored": "Featured",
-		"avgRating": 3.8,
+		"avgRating": 5,
 		"address": "Kempe Gowda Underpass Rd, East of NGEF Layout, Dooravani Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "aaa67452-39f7-460e-9229-8ff720c2f6ae",
@@ -18450,7 +18450,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 270,
+		"ratingCount": 271,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -18459,7 +18459,7 @@
 			"9916226111"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"address": "No 565, Malleshpalya Main Road, Bus Stop, No 50 Lakshmi Complex Opp to Vignan Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "f3b22c42-86c9-484b-9598-a8e042a21566",
@@ -19320,7 +19320,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 57,
+		"ratingCount": 58,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -33445,7 +33445,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 203,
+		"ratingCount": 204,
 		"zipCode": "560068",
 		"modTS": "2023-01-19T06:44:42.055Z",
 		"inquiryPhone": "8095514666",
@@ -37754,7 +37754,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"zipCode": "560037",
 		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
@@ -37763,7 +37763,7 @@
 			"9920601966"
 		],
 		"sponsored": "",
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"address": "Whitefield United, Alpine Eco Rd, Chinnapanahalli, Doddanekundi, Doddanekkundi, Bengaluru, Karnataka",
 		"active": true,
 		"id": "78d1272e-0e01-41b0-bc7d-ce30d1fb6631",
@@ -37904,7 +37904,7 @@
 		"createdTS": "2017-01-07T17:23:44.199Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-08T05:31:53.575Z",
-		"ratingCount": 325,
+		"ratingCount": 326,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ARATTBIGGAME/arattbiggamebadminton1627916662265.jpg"
@@ -38871,7 +38871,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 953,
+		"ratingCount": 954,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -50998,7 +50998,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 291,
+		"ratingCount": 292,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -59825,7 +59825,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 190,
+		"ratingCount": 191,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
