@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 167,
+		"ratingCount": 168,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -18450,7 +18450,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 269,
+		"ratingCount": 270,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -18459,7 +18459,7 @@
 			"9916226111"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"address": "No 565, Malleshpalya Main Road, Bus Stop, No 50 Lakshmi Complex Opp to Vignan Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "f3b22c42-86c9-484b-9598-a8e042a21566",
@@ -26531,7 +26531,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"bookSports": [
 			"SP5"
 		],
@@ -38871,7 +38871,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 952,
+		"ratingCount": 953,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -54831,7 +54831,7 @@
 		"description": "",
 		"createdTS": "2019-03-04T14:04:48.932Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560087",
 		"modTS": "2022-01-13T07:39:10.645Z",
 		"inquiryPhone": "9143914333",
