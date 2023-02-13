@@ -8174,7 +8174,7 @@
 		"description": "",
 		"createdTS": "2019-07-08T17:49:32.722Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560070",
 		"modTS": "2022-11-28T19:42:38.214Z",
 		"inquiryPhone": "9148090314",
@@ -18450,7 +18450,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 272,
+		"ratingCount": 273,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -20302,7 +20302,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:09:05.576Z",
-		"ratingCount": 301,
+		"ratingCount": 302,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -21328,7 +21328,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 261,
+		"ratingCount": 262,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -23278,7 +23278,7 @@
 		"description": "",
 		"createdTS": "2019-08-05T17:59:15.867Z",
 		"bookType": 0,
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"zipCode": "560078",
 		"modTS": "2022-02-28T14:59:55.604Z",
 		"inquiryPhone": "7795635133",
@@ -25187,7 +25187,7 @@
 		"createdTS": "2017-11-06T07:25:37.252Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T11:01:44.784Z",
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GAMESQUARE/InfinityBadmintonArenaBellandur1658257375391.jpg"
@@ -25383,7 +25383,7 @@
 		"description": "",
 		"createdTS": "2022-03-19T10:00:16.960Z",
 		"bookType": 0,
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"zipCode": "560024",
 		"modTS": "2022-03-19T11:36:33.565Z",
 		"inquiryPhone": "9538482121",
@@ -25392,7 +25392,7 @@
 			"9902700551"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 4,
 		"address": "#43/2, 3rd Cross, Sonnappa Layout, Bhuvaneshwari Nagar",
 		"active": true,
 		"id": "9eb74740-7d7d-49b5-91b5-0a7c380a9d35",
@@ -28508,7 +28508,7 @@
 		"createdTS": "2017-10-06T19:33:28.141Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-30T17:44:03.196Z",
-		"ratingCount": 531,
+		"ratingCount": 532,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VINNYSSPORTSARENA/VinnysSportsArena1.JPG"
@@ -31764,7 +31764,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 105,
+		"ratingCount": 106,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -37754,7 +37754,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"zipCode": "560037",
 		"modTS": "2022-12-29T05:24:33.315Z",
 		"inquiryPhone": "9920601966",
@@ -38871,7 +38871,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 954,
+		"ratingCount": 955,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -52893,7 +52893,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 176,
+		"ratingCount": 177,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
@@ -71154,6 +71154,109 @@
 		"bnpl": false,
 		"distance": 80.45623319273751,
 		"activeKey": "gubbi-town-sports-club-bh-road-tumakuru",
+		"offers": []
+	},
+	{
+		"oldPlayoId": "e9f6d9c5-033b-49f3-bd82-2d99fd17690a",
+		"cityCode": 15333,
+		"description": "",
+		"createdTS": "2023-02-06T04:17:04.716Z",
+		"bookType": 0,
+		"ratingCount": 1,
+		"zipCode": "517424",
+		"modTS": "2023-02-13T16:12:35.859Z",
+		"inquiryPhone": "9620948941",
+		"inquiryType": -1,
+		"phone": [
+			"9620948941"
+		],
+		"sponsored": "",
+		"avgRating": 5,
+		"address": "Bharath Nagar, Venkatagirikota, Andhra Pradesh 517424",
+		"active": true,
+		"bnpl": false,
+		"id": "e9f6d9c5-033b-49f3-bd82-2d99fd17690a",
+		"category": 2,
+		"city": "Chittoor",
+		"search": "",
+		"isSafeAndHygiene": false,
+		"name": "GMR Cricket Academy",
+		"area": "Venkatagirikota",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "0dd76dd0-8d75-4f2d-877a-20ac9485fbe5",
+				"bookType": 0,
+				"priority": "1",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"timings": "6 am - 11 pm",
+		"sports": [
+			"SP56",
+			"SP8",
+			"SP4",
+			"SP77"
+		],
+		"members": false,
+		"state": "Andhra Pradesh",
+		"amenities": [
+			"Parking",
+			"Washroom",
+			"Sporting equipments",
+			"Cafeteria"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "gmr-cricket-academy-venkatagirikota-chittoor"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "",
+		"fullLink": "https://playo.co/venue?venueId=e9f6d9c5-033b-49f3-bd82-2d99fd17690a",
+		"type": 0,
+		"email": [
+			""
+		],
+		"s3Folder": "GMRCRICKETACADEMY20230206041704716751",
+		"__v": 2,
+		"coverImage": "",
+		"deferLink": "https://z34v4.app.goo.gl/1Zjf",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/GMRCRICKETACADEMY20230206041704716751/GMRCricketAcademy1676303982698.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GMRCRICKETACADEMY20230206041704716751/GMRCricketAcademy1676303986514.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GMRCRICKETACADEMY20230206041704716751/GMRCricketAcademy1676303989614.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "https://playo.gumlet.io/GMRCRICKETACADEMY20230206041704716751/GMRCricketAcademymap1675656997065.png",
+		"remarks": "",
+		"shareLink": "https://z34v4.app.goo.gl/SqrQ",
+		"activityCountLastSyncDate": "2023-02-12T18:30:02.658Z",
+		"bookSports": [
+			"SP56",
+			"SP8",
+			"SP4",
+			"SP77"
+		],
+		"lat": 13.005206014690122,
+		"lng": 78.48084336802101,
+		"venueId": "e9f6d9c5-033b-49f3-bd82-2d99fd17690a",
+		"distance": 96.20425488561824,
+		"activeKey": "gmr-cricket-academy-venkatagirikota-chittoor",
 		"offers": []
 	},
 	{
