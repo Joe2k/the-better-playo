@@ -7352,7 +7352,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 168,
+		"ratingCount": 169,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -42576,7 +42576,7 @@
 		"coverImage": "https://playo.gumlet.io/FLYHIGH/FlyHighBadmintonArenacovercover1660035494047.jpeg",
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
-		"modTS": "2022-08-22T13:16:44.176Z",
+		"modTS": "2023-02-13T06:59:59.458Z",
 		"ratingCount": 36,
 		"images": [
 			{
@@ -42616,13 +42616,14 @@
 		"bookType": 0,
 		"lat": 12.862032009603668,
 		"lng": 77.5855879383549,
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 5,
 		"type": 0,
 		"venueId": "0814127f-9b1a-4b48-a8d2-eb4b51423981",
 		"isSafeAndHygiene": true,
 		"__v": 7,
 		"activityCount": 18929,
 		"activityCountLastSyncDate": "2023-02-12T18:30:02.658Z",
+		"bnpl": false,
 		"distance": 12.236115313886064,
 		"activeKey": "flyhigh-badminton-arena-gottigere-bengaluru",
 		"offers": [
@@ -50101,7 +50102,7 @@
 		"coverImage": "https://playo.gumlet.io/SIMBASPORTS/SimbaSportscovercover1568369481851.png",
 		"createdTS": "2017-04-29T08:01:03.182Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-06T09:15:40.217Z",
+		"modTS": "2023-02-13T07:00:09.839Z",
 		"ratingCount": 95,
 		"images": [
 			{
@@ -56382,7 +56383,7 @@
 		"description": "",
 		"createdTS": "2020-02-10T17:41:21.541Z",
 		"bookType": 0,
-		"ratingCount": 70,
+		"ratingCount": 71,
 		"zipCode": "5600064",
 		"modTS": "2021-12-19T06:44:01.666Z",
 		"inquiryPhone": "9632075709",
@@ -64160,7 +64161,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 157,
+		"ratingCount": 158,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
