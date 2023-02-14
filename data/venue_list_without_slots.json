@@ -1147,7 +1147,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -1156,7 +1156,7 @@
 			"9980061333"
 		],
 		"sponsored": "",
-		"avgRating": 3.4,
+		"avgRating": 3.3,
 		"address": "Krumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "49df1a9a-0324-4e78-a6b2-805b52c72390",
@@ -17459,7 +17459,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T16:42:32.004Z",
 		"bookType": 0,
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"zipCode": "560024",
 		"modTS": "2022-04-12T10:38:02.220Z",
 		"inquiryPhone": "7892071953",
@@ -28714,7 +28714,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 74,
+		"ratingCount": 75,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -29691,7 +29691,7 @@
 		]
 	},
 	{
-		"inquiryPhone": "9381948938",
+		"inquiryPhone": "7559965873",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
@@ -29729,7 +29729,7 @@
 		"mapImage": "https://playo.imgix.net/SPORTSCENTRAL/SportsCentralmap.png",
 		"zipCode": "560035",
 		"phone": [
-			"9381948938"
+			"7559965873"
 		],
 		"avgRating": 3.9,
 		"name": "Sporthood Turfpark SJR",
@@ -29738,7 +29738,7 @@
 		"coverImage": "https://playo.gumlet.io/SPORTSCENTRAL/SporthoodBadmintonArenaSarjapurRoadcovercover1578152249586.jpg",
 		"createdTS": "2017-01-07T17:23:44.192Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-18T06:19:42.766Z",
+		"modTS": "2023-02-14T14:17:51.421Z",
 		"ratingCount": 386,
 		"images": [
 			{
@@ -29760,7 +29760,7 @@
 		"s3Folder": "SPORTSCENTRAL",
 		"state": "Karnataka",
 		"email": [
-			"jiten.behera@sporthood.in"
+			"adarsh.pala@sporthood.in"
 		],
 		"logoImg": "",
 		"tags": [],
@@ -38976,7 +38976,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 955,
+		"ratingCount": 956,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -46097,7 +46097,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 222,
+		"ratingCount": 223,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -49571,7 +49571,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 582,
+		"ratingCount": 583,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -51104,7 +51104,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 293,
+		"ratingCount": 294,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -52419,6 +52419,103 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"inquiryPhone": "8971166004",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "j-p-sports-begur-road-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Begur Road",
+		"oldPlayoId": "95252667-4b1b-4720-a974-3a7734b8efa1",
+		"functionData": [
+			{
+				"content": "95252667-4b1b-4720-a974-3a7734b8efa1",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"type": 1,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560068",
+		"phone": [
+			"8971166004"
+		],
+		"avgRating": 0,
+		"name": "J P Sports",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-02-14T10:10:53.439Z",
+		"inquiryType": -1,
+		"modTS": "2023-02-14T14:10:21.447Z",
+		"ratingCount": 0,
+		"id": "95252667-4b1b-4720-a974-3a7734b8efa1",
+		"category": 2,
+		"s3Folder": "JPSPORTS20230214101053439846",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"rajeshsecret@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Site No. 759, Raja Iris, Begur Road, Eagle Ridge, Ckikkakammana halli, Bengaluru, Karnataka",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=95252667-4b1b-4720-a974-3a7734b8efa1",
+		"country": "India",
+		"timings": "6 AM -10 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": false,
+		"shareLink": "https://z34v4.app.goo.gl/8ZMk",
+		"deferLink": "https://z34v4.app.goo.gl/KqyS",
+		"lat": 12.847876755810768,
+		"lng": 77.60866664039155,
+		"venueId": "95252667-4b1b-4720-a974-3a7734b8efa1",
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676369575810.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676369581207.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676369587991.jpg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"distance": 13.857043344542664,
+		"activeKey": "j-p-sports-begur-road-bengaluru",
+		"offers": []
 	},
 	{
 		"oldPlayoId": "e3ad504c-9cbf-4661-88dd-d4ff4c03ae3d",
@@ -61113,7 +61210,8 @@
 		"bookSports": [
 			"SP14",
 			"SP4",
-			"SP2"
+			"SP2",
+			"SP57"
 		],
 		"area": "Sarjapur Road",
 		"oldPlayoId": "52a84160-1596-4f06-8129-e93b5c9db88b",
@@ -61130,7 +61228,8 @@
 		"sports": [
 			"SP14",
 			"SP4",
-			"SP2"
+			"SP2",
+			"SP57"
 		],
 		"amenities": [
 			"Parking",
@@ -61152,7 +61251,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2023-01-04T07:01:07.494Z",
+		"modTS": "2023-02-14T14:33:27.672Z",
 		"ratingCount": 3,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
@@ -61179,12 +61278,15 @@
 		"lat": 12.888712351053082,
 		"lng": 77.73290898464798,
 		"venueId": "52a84160-1596-4f06-8129-e93b5c9db88b",
-		"__v": 5,
+		"__v": 6,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1671950347679.jpg"
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1676385087476.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/LakshyanAcademyofSports1676385097377.jpeg"
 			},
 			{
 				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1667992654106.jpeg"
@@ -61194,6 +61296,9 @@
 			},
 			{
 				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1669885810758.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LAKSHYANACADEMYOFSPORTS20221109111107648729/lakshyanacademyofsports1671950347679.jpg"
 			}
 		],
 		"infoData": [],
@@ -63361,12 +63466,12 @@
 		]
 	},
 	{
-		"name": "True Bounce Tennis Academy - Whitefield",
+		"name": "True Bounce Football Academy - Whitefield",
 		"area": "Seegehalli",
 		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
-		"googleMapLink": "https://www.google.com/maps/place/Sports+Central/@12.9151325,77.6707588,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae13726fdd6a7f:0xe7b41b155ff81e79!8m2!3d12.9151273!4d77.6729475",
-		"googlePlusCode": "WM8F+35 Bengaluru, Karnataka",
-		"website": "",
+		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
+		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
+		"website": "sbablr.com",
 		"email": [
 			"murugantbta@gmail.com"
 		],
@@ -63379,7 +63484,7 @@
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "685f436f-2edd-41af-9af9-a352680c0cbc",
+				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
 				"caption": "Book Now!",
 				"type": 3
 			}
@@ -63387,15 +63492,15 @@
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP3"
+			"SP2"
 		],
-		"timings": "7 AM  - 5 PM",
+		"timings": "7 AM - 6 PM",
 		"cityCode": 1,
-		"id": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
-		"oldPlayoId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
 		"category": 2,
 		"inquiryPhone": "9880263006",
-		"s3Folder": "TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC",
+		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
 		"source": "uttam",
 		"everyDayTimings": {
 			"Mon": "5AM–11PM",
@@ -63410,37 +63515,19 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru"
+				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
 			}
 		],
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031094554.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031101763.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031105174.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031109734.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031116574.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031120633.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031125784.jpg"
+				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-08-09T07:45:37.568Z",
-		"shareLink": "https://z34v4.app.goo.gl/SrFj",
-		"deferLink": "https://z34v4.app.goo.gl/v6Aw",
-		"fullLink": "https://playo.co/venue/?venueId=5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"modTS": "2022-08-09T07:38:16.948Z",
+		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
+		"deferLink": "https://z34v4.app.goo.gl/iXNK",
+		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
 		"amenities": [
 			"Parking",
 			"First Aid",
@@ -63449,7 +63536,7 @@
 			"Drinking Water"
 		],
 		"tags": [],
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
@@ -63460,68 +63547,26 @@
 		"sponsoredRadius": 4,
 		"state": "Karnataka",
 		"type": 0,
-		"venueId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
 		"zipCode": "560067",
 		"members": false,
 		"isSafeAndHygiene": true,
-		"__v": 4,
+		"__v": 3,
 		"avgRating": 5,
 		"coverImage": "",
-		"createdTS": "2021-07-16T08:03:59.005Z",
+		"createdTS": "2021-07-16T08:00:52.103Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
 		"ratingCount": 1,
 		"bookSports": [
-			"SP3"
+			"SP2"
 		],
-		"activityCount": 17,
+		"activityCount": 2,
 		"activityCountLastSyncDate": "2023-02-13T18:30:00.555Z",
 		"distance": 18.587868338314955,
-		"activeKey": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
+		"offers": []
 	},
 	{
 		"name": "True Bounce Football Academy - Whitefield",
