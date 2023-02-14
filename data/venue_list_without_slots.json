@@ -11829,6 +11829,111 @@
 		"offers": []
 	},
 	{
+		"inquiryPhone": "8130164342",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "live-the-game-hsr-layout-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/YHpF",
+		"city": "Bengaluru",
+		"area": "HSR Layout",
+		"oldPlayoId": "587124206d91cf3645ab0810",
+		"functionData": [
+			{
+				"content": "6c584b60-41ee-4ebf-acc3-1ecf5bf08bfe",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP30"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/POWERHOUSEGYM/PowerHouseGym-map.PNG",
+		"zipCode": "560102",
+		"phone": [
+			"8130164342"
+		],
+		"avgRating": 4.4,
+		"name": "Live The Game",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.124Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.124Z",
+		"inquiryType": -1,
+		"modTS": "2023-02-14T13:06:22.205Z",
+		"ratingCount": 5,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/POWERHOUSEGYM/LiveTheGame1657523653591.JPG"
+			},
+			{
+				"url": "https://playo.gumlet.io/POWERHOUSEGYM/LiveTheGame1657523683142.JPG"
+			},
+			{
+				"url": "https://playo.gumlet.io/POWERHOUSEGYM/LiveTheGame1657523688071.JPG"
+			},
+			{
+				"url": "https://playo.gumlet.io/POWERHOUSEGYM/LiveTheGame1657523691741.JPG"
+			},
+			{
+				"url": "https://playo.gumlet.io/POWERHOUSEGYM/LiveTheGame1657523695531.JPG"
+			}
+		],
+		"id": "6c584b60-41ee-4ebf-acc3-1ecf5bf08bfe",
+		"description": "",
+		"category": 2,
+		"s3Folder": "POWERHOUSEGYM",
+		"state": "Karnataka",
+		"email": [
+			"vale.p17@fms.edu"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "1st Floor, Bhumi Complex, 9th Main Road, Sector 7, HSR Layout, Bengaluru, Karnataka - 560102",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3BaF",
+		"search": "",
+		"fullLink": "https://playo.co/venue/?venueId=6c584b60-41ee-4ebf-acc3-1ecf5bf08bfe",
+		"country": "India",
+		"timings": "10:30 AM - 10:30 PM",
+		"addInfo": "Welcome to the world of Boardgames! The best hangout spot in Bangalore – with a humongous number of board games – on fun, creativity, strategy, crime, mystery etc. Hop on to LIVETHEGAME center and experience the unlimited enjoyment of board gaming with your friends and families. We also conduct corporate events, birthday parties, family get-togethers and other informal events. Why put away when the real fun is calling ? LIVE, PLAY & LEAD<br/>\n<br/>\nLIVETHEGAME brings about and enhances essential skills in you - cognitive skills, memory power, creativity, communication skills, hand-eye coordination, motor skills, lateral thinking, planning & resource management etc. through BOARD GAMES! We have 150+ board games that can upskill you in every aspect and create a better you. We train you on games like Chess that can help you strategize your thought process, bring in focus and many more skills. In addition to that, we train you on all other board games after understanding your interests and skill levels and guide you accordingly. LIVETHEGAME brings about and enhances essential skills in you - cognitive skills, memory power, creativity, communication skills, hand-eye coordination, motor skills, lateral thinking, planning & resource management etc. through BOARD GAMES! We have 150+ board games that can upskill you in every aspect and create a better you. We train you on games like Chess that can help you strategize your thought process, bring in focus and many more skills. In addition to that, we train you on all other board games after understanding your interests and skill levels and guide you accordingly. <br/>\n<br/>\nRules and Regulations:  <br/>\n<br/>\n1. We provide materials and game sets in most cases-- we will intimate you if any further materials are required<br/>\n2. Kindly make sure to not damage or lose the pieces/materials/game boards/accessories -- In any such case, we will charge you based on the damage incurred<br/>\n3. Please attend all the classes sincerely to be able to see the change in yourself<br/>\n4. Keep our premises clean ; we sanitise our games and premises on regular basis<br/>\n5. We will conduct tournaments, competitions and events every month and you can take part in them too.<br/>\n6. Charges are on a per person basis. A maximum of 6 people per table is allowed. There are a total of 3 tables available to book. <br/>",
+		"isSafeAndHygiene": true,
+		"activityCount": 3,
+		"activityCountLastSyncDate": "2023-02-13T18:30:00.555Z",
+		"bookSports": [
+			"SP30"
+		],
+		"bookType": 0,
+		"lat": 12.910523186793347,
+		"lng": 77.63525688465086,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "6c584b60-41ee-4ebf-acc3-1ecf5bf08bfe",
+		"__v": 1,
+		"bnpl": false,
+		"distance": 8.10448378819626,
+		"activeKey": "live-the-game-hsr-layout-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "fe689ca2-4d6b-4be1-adff-3ecbdbc2d9e2",
 		"cityCode": 1,
 		"description": "",
@@ -15054,7 +15159,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T17:20:19.097Z",
 		"bookType": 0,
-		"ratingCount": 106,
+		"ratingCount": 107,
 		"zipCode": "560043",
 		"modTS": "2021-10-25T10:02:19.486Z",
 		"inquiryPhone": "9741014455",
