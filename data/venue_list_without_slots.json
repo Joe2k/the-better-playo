@@ -18303,7 +18303,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 220,
+		"ratingCount": 221,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -20394,7 +20394,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 312,
+		"ratingCount": 313,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -50860,8 +50860,8 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 559,
 		"activityCountLastSyncDate": "2023-02-14T18:30:02.407Z",
-		"avgRating": 4,
-		"ratingCount": 13,
+		"avgRating": 4.1,
+		"ratingCount": 14,
 		"bookSports": [
 			"SP5",
 			"SP4",
@@ -52562,7 +52562,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-02-14T10:10:53.439Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-15T10:08:53.321Z",
+		"modTS": "2023-02-15T10:10:15.839Z",
 		"ratingCount": 0,
 		"id": "95252667-4b1b-4720-a974-3a7734b8efa1",
 		"category": 2,
@@ -52589,21 +52589,21 @@
 		"lat": 12.847876755810768,
 		"lng": 77.60866664039155,
 		"venueId": "95252667-4b1b-4720-a974-3a7734b8efa1",
-		"__v": 2,
+		"__v": 3,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676455692681.jpg"
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676455788121.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/jpsports1676369575810.jpeg"
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676455792269.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/jpsports1676369581207.jpg"
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676455796837.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/jpsports1676369587991.jpg"
+				"url": "https://playo.gumlet.io/JPSPORTS20230214101053439846/JPSports1676455801244.jpg"
 			}
 		],
 		"infoData": [],
@@ -55067,7 +55067,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
