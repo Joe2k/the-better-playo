@@ -15853,7 +15853,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "560016",
 		"modTS": "2023-02-07T15:51:33.335Z",
 		"inquiryPhone": "9686603952",
@@ -15862,7 +15862,7 @@
 			"9686603952"
 		],
 		"sponsored": "Featured",
-		"avgRating": 5,
+		"avgRating": 4.7,
 		"address": "Kempe Gowda Underpass Rd, East of NGEF Layout, Dooravani Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "aaa67452-39f7-460e-9229-8ff720c2f6ae",
@@ -21526,7 +21526,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 266,
+		"ratingCount": 267,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -53194,7 +53194,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 177,
+		"ratingCount": 178,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
@@ -53546,7 +53546,7 @@
 		"createdTS": "2018-05-31T13:55:09.230Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T11:02:24.753Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STALLIONSSPORTSACADEMY/StallionsSportsAcademy1639911726175.jpg"
