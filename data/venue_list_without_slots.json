@@ -2076,7 +2076,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 93,
+		"ratingCount": 95,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -2761,7 +2761,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 142,
+		"ratingCount": 143,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -26300,7 +26300,7 @@
 		"phone": [
 			"9986189582"
 		],
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"name": "Ashoka Sports Arena (Letz Play)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
@@ -26308,7 +26308,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -27320,7 +27320,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 280,
+		"ratingCount": 281,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -51048,7 +51048,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 294,
+		"ratingCount": 295,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -55956,14 +55956,14 @@
 		"phone": [
 			"8277760186"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Stellar 23 Box Cricket",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-16T15:26:29.075Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-16T15:28:44.095Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "585977a0-5041-4c6e-a676-0a5c91f0b9e6",
 		"category": 2,
 		"s3Folder": "STELLAR23BOXCRICKET20230216152629075637",
@@ -56549,7 +56549,7 @@
 		"phone": [
 			"9353333126"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"name": "White Peacock Game Point Badminton Arena (Laurels Badminton Arena)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.009Z",
@@ -56557,7 +56557,7 @@
 		"createdTS": "2017-01-07T17:23:44.009Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-25T10:25:18.161Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMACROSSFITCUNNINGHAMROAD/WhitePeacockGamePointBadmintonArena1649515437516.jpeg"
@@ -70155,164 +70155,6 @@
 		]
 	},
 	{
-		"name": "The Game Point",
-		"area": "Malur",
-		"address": "XWHG+996, JAS Complex, Koorandahalli Circle, Hosur - Malur Road, NH 207, Malur, Karnataka - 563160",
-		"googleMapLink": "https://www.google.com/maps/place/AJS+BADMINTON/@12.9038656,80.2266077,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525d7b2d0b53cd:0x9bc1b84479772551!8m2!3d12.9038656!4d80.2287964",
-		"googlePlusCode": "W63H+GG Chennai, Tamil Nadu",
-		"website": "google.co.in",
-		"email": [
-			"thegamepointmlr@gmail.com"
-		],
-		"remarks": "",
-		"phone": [
-			"6366669524"
-		],
-		"functionData": [
-			{
-				"content": "c101c459-58e3-4c17-9904-28a28d1f67d4",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"city": "Bengaluru",
-		"country": "India",
-		"sports": [
-			"SP5"
-		],
-		"timings": "5 AM - 11 PM",
-		"cityCode": 1,
-		"id": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
-		"oldPlayoId": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
-		"category": 2,
-		"inquiryPhone": "6366669524",
-		"s3Folder": "AJSBADMINTON",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "Open 24 hours",
-			"Tue": "Open 24 hours",
-			"Wed": "Open 24 hours",
-			"Thu": "Open 24 hours",
-			"Fri": "Open 24 hours",
-			"Sat": "Open 24 hours",
-			"Sun": "Open 24 hours"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"active": true,
-				"key": "the-game-point-malur-bengaluru"
-			}
-		],
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562909956.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562914377.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562917536.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562920846.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562925316.jpeg"
-			}
-		],
-		"rating": 0,
-		"modTS": "2023-02-16T15:58:32.424Z",
-		"shareLink": "https://z34v4.app.goo.gl/3YR3",
-		"deferLink": "https://z34v4.app.goo.gl/4eJh",
-		"fullLink": "https://playo.co/venue/?venueId=b9b64f80-3362-4a35-8012-c4cbfac691b6",
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
-		],
-		"tags": [],
-		"members": false,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"bookType": 0,
-		"description": "",
-		"inquiryType": -1,
-		"lat": 12.97837658836325,
-		"lng": 77.9258136653846,
-		"search": "",
-		"sponsored": "Featured",
-		"sponsoredRadius": 10,
-		"state": "Karnataka",
-		"type": 0,
-		"venueId": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
-		"zipCode": "563160",
-		"isSafeAndHygiene": true,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-02-15T18:30:02.930Z",
-		"avgRating": 5,
-		"ratingCount": 1,
-		"bnpl": false,
-		"__v": 1,
-		"coverImage": "",
-		"createdTS": "2023-02-16T15:55:36.609Z",
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"bookSports": [
-			"SP5"
-		],
-		"distance": 35.936871772597485,
-		"activeKey": "the-game-point-malur-bengaluru",
-		"offers": [
-			{
-				"_id": "62d798bec45768546e7b1c5c",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "• Get flat 15% off on all bookings through Playo app, Upto ₹150.<br/>\n• Offer valid only twice per user.<br/> \n<br/>\n<br/>",
-				"countryCode": "+91",
-				"createdTS": "2022-07-20T05:55:10.182Z",
-				"offerContent": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/16FeathersBadmintonAcademyExclusivePlayoOfferFlat15offonallbookingslbujd9cover1676563767705.jpg",
-				"expiry": "2030-02-28T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "the-game-point-exclusive-playo-offer-flat-15-off-on-all-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till February 28, 2030",
-						"content": "https://playo.co/venue/?venueId=b9b64f80-3362-4a35-8012-c4cbfac691b6",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "The Game Point - Exclusive Playo Offer - Flat 15% off on all bookings!",
-				"id": "5065f28d-970b-4d77-a8c6-01a4ec85905e",
-				"offerName": "The Game Point - Exclusive Playo Offer - Flat 15% off on all bookings!",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"shareLink": "https://z34v4.app.goo.gl/eUHH",
-				"deferLink": "https://z34v4.app.goo.gl/ZZ7q"
-			}
-		]
-	},
-	{
 		"oldPlayoId": "25a54ff9-b9ee-4461-8917-f73a043f0ea2",
 		"cityCode": 57,
 		"description": "",
@@ -70491,6 +70333,164 @@
 				"offerName": "Little England Badminton Academy Playo Offer - Flat 15% off on all bookings!",
 				"shareLink": "https://z34v4.app.goo.gl/Kud6",
 				"deferLink": "https://z34v4.app.goo.gl/zWFs"
+			}
+		]
+	},
+	{
+		"name": "The Game Point",
+		"area": "Malur",
+		"address": "JAS Complex, Koorandahalli Circle, Hosur - Malur Road, NH 207, Malur, Karnataka - 563160",
+		"googleMapLink": "https://www.google.com/maps/place/AJS+BADMINTON/@12.9038656,80.2266077,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525d7b2d0b53cd:0x9bc1b84479772551!8m2!3d12.9038656!4d80.2287964",
+		"googlePlusCode": "W63H+GG Chennai, Tamil Nadu",
+		"website": "google.co.in",
+		"email": [
+			"thegamepointmlr@gmail.com"
+		],
+		"remarks": "",
+		"phone": [
+			"6366669524"
+		],
+		"functionData": [
+			{
+				"content": "c101c459-58e3-4c17-9904-28a28d1f67d4",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"city": "Bengaluru",
+		"country": "India",
+		"sports": [
+			"SP5"
+		],
+		"timings": "5 AM - 11 PM",
+		"cityCode": 1,
+		"id": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
+		"oldPlayoId": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
+		"category": 2,
+		"inquiryPhone": "6366669524",
+		"s3Folder": "AJSBADMINTON",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "Open 24 hours",
+			"Tue": "Open 24 hours",
+			"Wed": "Open 24 hours",
+			"Thu": "Open 24 hours",
+			"Fri": "Open 24 hours",
+			"Sat": "Open 24 hours",
+			"Sun": "Open 24 hours"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"active": true,
+				"key": "the-game-point-malur-bengaluru"
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562909956.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562914377.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562917536.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562920846.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/AJSBADMINTON/TheGamePoint1676562925316.jpeg"
+			}
+		],
+		"rating": 0,
+		"modTS": "2023-02-16T16:13:59.717Z",
+		"shareLink": "https://z34v4.app.goo.gl/3YR3",
+		"deferLink": "https://z34v4.app.goo.gl/4eJh",
+		"fullLink": "https://playo.co/venue/?venueId=b9b64f80-3362-4a35-8012-c4cbfac691b6",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"tags": [],
+		"members": false,
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"bookType": 0,
+		"description": "",
+		"inquiryType": -1,
+		"lat": 12.988656690720536,
+		"lng": 77.93215226985483,
+		"search": "",
+		"sponsored": "Featured",
+		"sponsoredRadius": 10,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
+		"zipCode": "563160",
+		"isSafeAndHygiene": true,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-02-15T18:30:02.930Z",
+		"avgRating": 5,
+		"ratingCount": 1,
+		"bnpl": false,
+		"__v": 1,
+		"coverImage": "",
+		"createdTS": "2023-02-16T15:55:36.609Z",
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"bookSports": [
+			"SP5"
+		],
+		"distance": 36.66498359883851,
+		"activeKey": "the-game-point-malur-bengaluru",
+		"offers": [
+			{
+				"_id": "62d798bec45768546e7b1c5c",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "• Get flat 15% off on all bookings through Playo app, Upto ₹150.<br/>\n• Offer valid only twice per user.<br/> \n<br/>\n<br/>",
+				"countryCode": "+91",
+				"createdTS": "2022-07-20T05:55:10.182Z",
+				"offerContent": "b9b64f80-3362-4a35-8012-c4cbfac691b6",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/16FeathersBadmintonAcademyExclusivePlayoOfferFlat15offonallbookingslbujd9cover1676563767705.jpg",
+				"expiry": "2030-02-28T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "the-game-point-exclusive-playo-offer-flat-15-off-on-all-bookings!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till February 28, 2030",
+						"content": "https://playo.co/venue/?venueId=b9b64f80-3362-4a35-8012-c4cbfac691b6",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "The Game Point - Exclusive Playo Offer - Flat 15% off on all bookings!",
+				"id": "5065f28d-970b-4d77-a8c6-01a4ec85905e",
+				"offerName": "The Game Point - Exclusive Playo Offer - Flat 15% off on all bookings!",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395,
+				"shareLink": "https://z34v4.app.goo.gl/eUHH",
+				"deferLink": "https://z34v4.app.goo.gl/ZZ7q"
 			}
 		]
 	},
@@ -71656,7 +71656,47 @@
 		"bnpl": false,
 		"distance": 80.45623319273751,
 		"activeKey": "gubbi-town-sports-club-bh-road-tumakuru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "63ee55c3b66167c73d8e49f4",
+				"city": "Tumakuru",
+				"cityCode": 1127,
+				"terms": "• Get flat 15% off on all bookings through Playo app, Upto ₹150.<br/>\n• Offer valid only twice per user.<br/> \n<br/>\n<br/>",
+				"countryCode": "+91",
+				"createdTS": "2023-02-16T16:11:47.163Z",
+				"offerContent": "af8a570c-7714-4d8b-a501-4ec9a9d31a15",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/GubbiTownSportsClubExclusivePlayoOfferFlat15offonallbookingsutyzracover1676563897685.jpg",
+				"expiry": "2030-02-28T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "gubbi-town-sports-club-exclusive-playo-offer-flat-15-off-on-all-bookings!-tumakuru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till February 28, 2030",
+						"content": "https://playo.co/venue/?venueId=af8a570c-7714-4d8b-a501-4ec9a9d31a15",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.0625892,
+						13.3494655
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Gubbi Town Sports Club - Exclusive Playo Offer - Flat 15% off on all bookings!",
+				"id": "27f7301f-69fd-47c3-8e3f-b3328ed3078a",
+				"offerName": "Gubbi Town Sports Club - Exclusive Playo Offer - Flat 15% off on all bookings!",
+				"shareLink": "https://z34v4.app.goo.gl/hwAJ",
+				"deferLink": "https://z34v4.app.goo.gl/P3Mi"
+			}
+		]
 	},
 	{
 		"oldPlayoId": "e9f6d9c5-033b-49f3-bd82-2d99fd17690a",
