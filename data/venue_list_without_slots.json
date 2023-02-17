@@ -4336,7 +4336,7 @@
 		"bookType": 0,
 		"ratingCount": 4,
 		"zipCode": "560071",
-		"modTS": "2022-08-07T08:52:50.377Z",
+		"modTS": "2023-02-17T08:22:03.054Z",
 		"inquiryPhone": "8088324859",
 		"inquiryType": -1,
 		"phone": [
@@ -4394,7 +4394,7 @@
 		"fullLink": "https://playo.co/venue?venueId=97383758-a563-4af8-a47f-7f6de57cd65d",
 		"type": 1,
 		"email": [
-			"Jayanthtrnaidu@gmail.com"
+			"Yjsnookerlounge@gmail.com"
 		],
 		"s3Folder": "MITHRASPORTSACADEMY20210222110002792824",
 		"deferLink": "https://z34v4.app.goo.gl/DphJ",
@@ -4443,6 +4443,7 @@
 		"logoImg": "",
 		"mapImage": "",
 		"remarks": "",
+		"bnpl": false,
 		"distance": 5.992094119522412,
 		"activeKey": "yj-snooker-lounge-kodihalli-bengaluru",
 		"offers": []
@@ -5302,7 +5303,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-02-08T08:27:28.841Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-15T08:25:25.258Z",
+		"modTS": "2023-02-17T08:45:13.337Z",
 		"ratingCount": 0,
 		"id": "ad6c7f72-7163-42a6-9407-470c1bb41f8e",
 		"category": 2,
@@ -5330,15 +5331,27 @@
 		"lng": 77.61907493854022,
 		"venueId": "ad6c7f72-7163-42a6-9407-470c1bb41f8e",
 		"activityCountLastSyncDate": "2023-02-16T18:30:02.920Z",
-		"__v": 1,
+		"__v": 2,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/PlanetAquaPool1676449515350.jpeg"
+				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/PlanetAquaPool1676623473920.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/PlanetAquaPool1676449520315.jpeg"
+				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/PlanetAquaPool1676623486439.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/PlanetAquaPool1676623494480.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/PlanetAquaPool1676623506466.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/planetaquapool1676449515350.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/PLANETAQUAPOOL20230208082728841201/planetaquapool1676449520315.jpeg"
 			}
 		],
 		"infoData": [],
@@ -42677,47 +42690,6 @@
 		"activeKey": "flyhigh-badminton-arena-gottigere-bengaluru",
 		"offers": [
 			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			},
-			{
 				"_id": "63db924eb6616707314bc84d",
 				"city": "Bengaluru",
 				"cityCode": 1,
@@ -51465,7 +51437,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 153,
+		"ratingCount": 154,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -54912,14 +54884,14 @@
 		"phone": [
 			"7204672409"
 		],
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"name": "Badmintonium Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 38,
+		"ratingCount": 39,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -70438,7 +70410,7 @@
 		"activityCount": 1,
 		"activityCountLastSyncDate": "2023-02-16T18:30:02.920Z",
 		"avgRating": 5,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
