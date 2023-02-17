@@ -13064,7 +13064,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T06:51:53.067Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560043",
 		"modTS": "2021-12-17T07:52:42.883Z",
 		"inquiryPhone": "9980422274",
@@ -13073,7 +13073,7 @@
 			"9980422274"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 3.8,
 		"address": "Chellikere, Meganahalli, Kalyan Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "0a23d476-1873-471e-86a3-7f74411c8d22",
@@ -24671,7 +24671,7 @@
 		"createdTS": "2018-12-01T17:50:09.942Z",
 		"inquiryType": -1,
 		"modTS": "2021-02-16T14:42:03.476Z",
-		"ratingCount": 121,
+		"ratingCount": 122,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SILVERFEATHERSBADMINTONACADEMY/SilverFeathersBadmintonAcademy1613486490660.jpeg"
