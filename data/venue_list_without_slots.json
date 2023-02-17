@@ -14579,7 +14579,7 @@
 		"createdTS": "2018-05-08T12:43:40.961Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-06T09:41:15.079Z",
-		"ratingCount": 122,
+		"ratingCount": 123,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/DAZZLINGSMASH/DazzlingSmash5.jpeg"
@@ -70438,7 +70438,7 @@
 		"activityCount": 1,
 		"activityCountLastSyncDate": "2023-02-16T18:30:02.920Z",
 		"avgRating": 5,
-		"ratingCount": 1,
+		"ratingCount": 2,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
