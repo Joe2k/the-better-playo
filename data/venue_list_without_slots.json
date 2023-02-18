@@ -6966,7 +6966,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 157,
+		"ratingCount": 158,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -18420,7 +18420,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 84,
+		"ratingCount": 85,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -30025,7 +30025,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 54,
+		"ratingCount": 56,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -30034,7 +30034,7 @@
 			"7899165934"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "Site No. 11/3, 11/4, 11/5, Shivganga Layout, Near Mahadevapura, Outer Ring Road, Bangalore",
 		"active": true,
 		"id": "d6cbefba-e098-4f44-8836-19510c0fc1d7",
@@ -34953,7 +34953,7 @@
 		"description": "",
 		"createdTS": "2020-02-18T08:18:23.871Z",
 		"bookType": 0,
-		"ratingCount": 88,
+		"ratingCount": 89,
 		"zipCode": "560048",
 		"modTS": "2022-03-08T10:43:27.202Z",
 		"inquiryPhone": "9605838931",
@@ -34962,7 +34962,7 @@
 			"9605838931"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "#5/A , Star Complex , 1st Main Road, Singayanapalya",
 		"active": true,
 		"id": "112297f7-f08e-4fee-afcc-408fc5ceb925",
@@ -46825,7 +46825,7 @@
 		"createdTS": "2017-11-02T07:13:37.523Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-18T04:25:56.077Z",
-		"ratingCount": 199,
+		"ratingCount": 200,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ATOMSPORTSARENA/1.png"
@@ -49487,7 +49487,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 590,
+		"ratingCount": 591,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -57144,7 +57144,7 @@
 		"description": "",
 		"createdTS": "2019-03-20T12:23:04.997Z",
 		"bookType": 0,
-		"ratingCount": 27,
+		"ratingCount": 29,
 		"zipCode": "560087",
 		"modTS": "2022-02-24T08:00:26.846Z",
 		"inquiryPhone": "9886929287",
@@ -59099,7 +59099,7 @@
 		"description": "",
 		"createdTS": "2019-07-05T10:22:05.370Z",
 		"bookType": 0,
-		"ratingCount": 77,
+		"ratingCount": 79,
 		"zipCode": "560087",
 		"modTS": "2021-12-17T07:34:52.992Z",
 		"inquiryPhone": "9886929287",
@@ -60281,7 +60281,7 @@
 		"description": "",
 		"createdTS": "2019-06-06T11:51:41.091Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560067",
 		"modTS": "2022-08-19T11:10:44.303Z",
 		"inquiryPhone": "6363514121",
@@ -60290,7 +60290,7 @@
 			"6363514121"
 		],
 		"sponsored": "",
-		"avgRating": 3.2,
+		"avgRating": 3.4,
 		"address": "Golden Fins, Whitefield Main Road, Kumbena Agrahara, Krishnarajapura, Bengaluru, Karnataka - 560067",
 		"active": true,
 		"id": "93f8ea62-f0c0-4de2-9bd5-a66820543740",
