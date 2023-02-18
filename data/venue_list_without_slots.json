@@ -22605,7 +22605,7 @@
 		"createdTS": "2017-01-07T17:23:44.154Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 261,
+		"ratingCount": 262,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
@@ -24437,7 +24437,7 @@
 		"createdTS": "2017-09-20T11:28:05.949Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-20T13:51:32.898Z",
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASHSPORTSARENA/SmashSportsArenaIsports1648212122114.PNG"
@@ -26313,7 +26313,7 @@
 		"phone": [
 			"9986189582"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"name": "Ashoka Sports Arena (Letz Play)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-09T09:46:50.176Z",
@@ -26321,7 +26321,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -32252,7 +32252,7 @@
 		"description": "",
 		"createdTS": "2021-02-14T07:49:16.548Z",
 		"bookType": 0,
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"zipCode": "560037",
 		"modTS": "2022-05-12T05:18:33.305Z",
 		"inquiryPhone": "9902030369",
@@ -32261,7 +32261,7 @@
 			"9902030369"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"address": "1st Main Road, Doddanekundi, near Railway Underpass",
 		"active": true,
 		"id": "b304556b-2efe-4eb0-8b7e-3783a22e057c",
@@ -54347,10 +54347,10 @@
 		"functionData": [
 			{
 				"content": "2577481a-2e07-43dd-b070-340dfe0a2fa7",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
 			}
 		],
@@ -54378,7 +54378,7 @@
 		"coverImage": "",
 		"createdTS": "2017-02-17T06:38:43.902Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-11T19:26:46.338Z",
+		"modTS": "2023-02-18T10:24:35.896Z",
 		"ratingCount": 3,
 		"images": [
 			{
@@ -54409,7 +54409,7 @@
 		"s3Folder": "ULTIMATESPORTS",
 		"state": "Karnataka",
 		"email": [
-			""
+			"Ramangalaxym31@gmail.com"
 		],
 		"logoImg": "",
 		"tags": [],
