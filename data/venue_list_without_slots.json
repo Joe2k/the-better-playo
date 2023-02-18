@@ -13487,7 +13487,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 274,
+		"ratingCount": 275,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -27333,7 +27333,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 282,
+		"ratingCount": 283,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -33276,7 +33276,7 @@
 		"phone": [
 			"8951820251"
 		],
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"name": "Nakshatra Football Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.082Z",
@@ -33284,7 +33284,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:04:45.664Z",
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -70411,7 +70411,7 @@
 		"activityCount": 2,
 		"activityCountLastSyncDate": "2023-02-17T18:30:03.002Z",
 		"avgRating": 5,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
