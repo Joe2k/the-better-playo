@@ -3776,7 +3776,7 @@
 		"description": "",
 		"createdTS": "2020-02-11T16:04:42.680Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560070",
 		"modTS": "2023-02-18T16:16:15.933Z",
 		"inquiryPhone": "8792324765",
@@ -7064,7 +7064,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 158,
+		"ratingCount": 159,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -11288,7 +11288,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 326,
+		"ratingCount": 327,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -11606,7 +11606,7 @@
 		"description": "",
 		"createdTS": "2022-07-21T09:22:10.201Z",
 		"bookType": 0,
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"zipCode": "560040",
 		"modTS": "2022-11-19T09:39:29.326Z",
 		"inquiryPhone": "8660374210",
@@ -11615,7 +11615,7 @@
 			"8660374210"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"address": "4th Main Rd, Govindaraja Nagar Ward, Panchasheel Nagar, Vijayanagar, Bengaluru, Karnataka 560040",
 		"active": true,
 		"id": "627ef7d2-e95e-44ef-ad34-ad8dc04c5e64",
@@ -18727,7 +18727,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T13:54:17.262Z",
 		"bookType": 0,
-		"ratingCount": 96,
+		"ratingCount": 97,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T07:12:07.228Z",
 		"inquiryPhone": "8861619999",
@@ -30810,7 +30810,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 332,
+		"ratingCount": 333,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -45773,7 +45773,7 @@
 		"createdTS": "2018-05-29T13:10:32.406Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-21T11:50:24.480Z",
-		"ratingCount": 88,
+		"ratingCount": 89,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LEVELUPBADMINTONACADEMY/LevelUpBadmintonAcademy0.jpg"
@@ -57457,7 +57457,7 @@
 		"description": "",
 		"createdTS": "2019-03-20T12:23:04.997Z",
 		"bookType": 0,
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"zipCode": "560087",
 		"modTS": "2022-02-24T08:00:26.846Z",
 		"inquiryPhone": "9886929287",
