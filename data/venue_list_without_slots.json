@@ -7064,7 +7064,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 160,
+		"ratingCount": 161,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -9131,8 +9131,8 @@
 		"zipCode": "560078",
 		"activityCount": 1703,
 		"activityCountLastSyncDate": "2023-02-18T18:30:02.893Z",
-		"avgRating": 4.1,
-		"ratingCount": 21,
+		"avgRating": 4,
+		"ratingCount": 22,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T15:53:14.731Z",
@@ -27645,7 +27645,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 285,
+		"ratingCount": 286,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -32287,7 +32287,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 107,
+		"ratingCount": 108,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -39394,7 +39394,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 961,
+		"ratingCount": 962,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -44052,7 +44052,7 @@
 		"phone": [
 			"8105334455"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Virinchi Badminton Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-06-08T18:06:28.394Z",
@@ -44060,7 +44060,7 @@
 		"createdTS": "2018-06-08T18:06:28.394Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-30T12:07:16.032Z",
-		"ratingCount": 112,
+		"ratingCount": 113,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VIRINCHIBADMINTONARENA/VirinchiBadmintonArena1633003581275.jpeg"
@@ -51898,7 +51898,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 157,
+		"ratingCount": 158,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -52663,7 +52663,7 @@
 		"description": "",
 		"createdTS": "2021-02-12T12:48:30.083Z",
 		"bookType": 0,
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"zipCode": "560090",
 		"modTS": "2021-12-17T07:09:50.493Z",
 		"inquiryPhone": "7022187999",
