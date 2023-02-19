@@ -2761,7 +2761,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 143,
+		"ratingCount": 144,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -7556,7 +7556,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 174,
+		"ratingCount": 175,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -8378,7 +8378,7 @@
 		"description": "",
 		"createdTS": "2019-07-08T17:49:32.722Z",
 		"bookType": 0,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"zipCode": "560070",
 		"modTS": "2022-11-28T19:42:38.214Z",
 		"inquiryPhone": "9148090314",
@@ -11005,7 +11005,7 @@
 		"description": "",
 		"createdTS": "2022-03-23T09:13:55.877Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560078",
 		"modTS": "2022-04-08T16:08:53.844Z",
 		"inquiryPhone": "7022054234",
@@ -11014,7 +11014,7 @@
 			"7022054234"
 		],
 		"sponsored": "",
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"address": "95th Cross Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "9d4830bf-a67a-4dbf-bbd1-0f67667a3e3a",
@@ -17127,7 +17127,7 @@
 		"createdTS": "2018-11-18T11:20:24.403Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T07:26:57.826Z",
-		"ratingCount": 112,
+		"ratingCount": 113,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSSPORTS/whitefeatherssports1.jpg"
@@ -18628,7 +18628,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 85,
+		"ratingCount": 86,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -30810,7 +30810,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 333,
+		"ratingCount": 334,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -46388,7 +46388,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
