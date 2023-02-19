@@ -596,7 +596,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-11-02T07:09:46.455Z",
+		"modTS": "2023-02-19T13:59:20.161Z",
 		"shareLink": "https://z34v4.app.goo.gl/XWiq",
 		"deferLink": "https://z34v4.app.goo.gl/T1RD",
 		"fullLink": "https://playo.co/venue/?venueId=f764cfd9-bb51-48df-a501-6b6f1c588fb7",
@@ -611,8 +611,8 @@
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
-		"lat": 12.982856338205327,
-		"lng": 77.60853709131446,
+		"lat": 12.982807887525652,
+		"lng": 77.60861971717382,
 		"search": "",
 		"sponsored": "",
 		"sponsoredRadius": 4,
@@ -636,7 +636,7 @@
 			"SP56",
 			"SP2"
 		],
-		"distance": 1.9636096140178751,
+		"distance": 1.9670935264033729,
 		"activeKey": "sky-arena-commercial-street-bengaluru",
 		"offers": [
 			{
@@ -9314,7 +9314,7 @@
 		"createdTS": "2017-05-26T07:50:38.021Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-28T06:34:42.378Z",
-		"ratingCount": 136,
+		"ratingCount": 137,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SCHOLARSSPORTSARENA/ScholarsSportsArena91SportingCompany1651568999670.jpg"
@@ -10243,7 +10243,7 @@
 		"createdTS": "2023-02-04T15:20:24.791Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T10:29:02.232Z",
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"id": "6d38dd30-f304-4fe5-9bc9-ce23c6278aee",
 		"category": 2,
 		"s3Folder": "COLORSTABLETENNIS20230204152024791277",
@@ -10445,7 +10445,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 249,
+		"ratingCount": 250,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -11434,7 +11434,7 @@
 		"createdTS": "2017-04-02T10:49:58.660Z",
 		"inquiryType": -1,
 		"modTS": "2020-08-04T06:10:30.469Z",
-		"ratingCount": 161,
+		"ratingCount": 162,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PREMIERBADMINTONACADEMYDRONACHARYACENTER/AnisSportsAcademy28.jpg"
@@ -11955,7 +11955,7 @@
 		"createdTS": "2018-02-02T11:20:23.913Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-18T16:17:54.506Z",
-		"ratingCount": 153,
+		"ratingCount": 154,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/DRONACHARYAPREMIERBADMINTONACADEMY/DronacharyaPremierBadmintonAcademy0.jpg"
@@ -20615,7 +20615,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 315,
+		"ratingCount": 316,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -31406,7 +31406,7 @@
 		"phone": [
 			"7406600944"
 		],
-		"avgRating": 3.7,
+		"avgRating": 3.8,
 		"name": "Sporthood TurfPark HSR",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-11-14T18:51:41.993Z",
@@ -31414,7 +31414,7 @@
 		"createdTS": "2018-11-14T18:51:41.993Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-10T08:09:16.257Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TURFPARKHSR/TurfParkHSR6.JPG"
@@ -51749,7 +51749,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 156,
+		"ratingCount": 157,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -56419,7 +56419,7 @@
 		"createdTS": "2022-10-18T10:12:06.412Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-18T14:04:44.774Z",
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"id": "2115a531-0a37-4357-ae71-aa303049b418",
 		"category": 2,
 		"s3Folder": "KANISHKBADMINTONACADEMY20221018101206412309",
