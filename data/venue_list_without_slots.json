@@ -22276,7 +22276,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T05:58:04.371Z",
 		"bookType": 0,
-		"ratingCount": 174,
+		"ratingCount": 175,
 		"zipCode": "560037",
 		"modTS": "2022-09-18T10:10:49.686Z",
 		"inquiryPhone": "9606751111",
@@ -27646,7 +27646,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 286,
+		"ratingCount": 287,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -33190,7 +33190,7 @@
 		"phone": [
 			"9902566027"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"name": "Match Point Sports Arena - Uttarahalli",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-03-20T07:50:24.267Z",
@@ -33198,7 +33198,7 @@
 		"createdTS": "2018-03-20T07:50:24.267Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T09:22:57.961Z",
-		"ratingCount": 136,
+		"ratingCount": 137,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHPOINTSPORTSARENA/MatchPointSportsArenaUttarahalli1639732957496.jpg"
@@ -39395,7 +39395,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 962,
+		"ratingCount": 964,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -63517,7 +63517,7 @@
 		"createdTS": "2017-01-07T17:23:44.140Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T06:16:50.042Z",
-		"ratingCount": 16,
+		"ratingCount": 17,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPRYNOX/NovaSportsElectronicCity1649225797468.jpg"
@@ -64841,7 +64841,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 159,
+		"ratingCount": 160,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
