@@ -1796,7 +1796,7 @@
 		"createdTS": "2018-08-10T06:24:04.727Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-23T12:16:25.639Z",
-		"ratingCount": 80,
+		"ratingCount": 81,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RUSH/rush2.jpg"
@@ -7065,7 +7065,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 161,
+		"ratingCount": 163,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -7557,7 +7557,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 175,
+		"ratingCount": 176,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -9991,7 +9991,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 223,
+		"ratingCount": 224,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -10446,7 +10446,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 250,
+		"ratingCount": 251,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -12900,7 +12900,7 @@
 		"description": "",
 		"createdTS": "2019-01-24T11:23:49.532Z",
 		"bookType": 0,
-		"ratingCount": 104,
+		"ratingCount": 105,
 		"zipCode": "560072",
 		"modTS": "2020-09-05T15:30:37.203Z",
 		"inquiryPhone": "7760634720",
@@ -12909,7 +12909,7 @@
 			"7760634720"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"address": "Site no 4, 1st Main, Jyothi Nagar Stage 2,  Nagarabhavi Circle",
 		"active": true,
 		"id": "1dea2c14-fb00-42a0-b8ca-8da49cd30ec0",
@@ -21748,7 +21748,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 269,
+		"ratingCount": 271,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -24997,7 +24997,7 @@
 		"createdTS": "2018-12-01T17:50:09.942Z",
 		"inquiryType": -1,
 		"modTS": "2021-02-16T14:42:03.476Z",
-		"ratingCount": 122,
+		"ratingCount": 123,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SILVERFEATHERSBADMINTONACADEMY/SilverFeathersBadmintonAcademy1613486490660.jpeg"
@@ -46326,7 +46326,7 @@
 		"description": "",
 		"createdTS": "2020-02-27T08:16:15.924Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560103",
 		"modTS": "2022-08-19T11:10:30.121Z",
 		"inquiryPhone": "9036773531",
@@ -46335,7 +46335,7 @@
 			"9036773531"
 		],
 		"sponsored": "",
-		"avgRating": 2.2,
+		"avgRating": 2.5,
 		"address": "PK Sports, Bhoganahalli Main Road, opposite Felix apartments, Kaverappa Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka - 560103",
 		"active": true,
 		"id": "0e7247b3-5388-41a8-a64c-039ca22e03a3",
