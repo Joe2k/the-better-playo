@@ -880,7 +880,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:41:09.425Z",
-		"ratingCount": 29,
+		"ratingCount": 31,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -7169,7 +7169,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 163,
+		"ratingCount": 164,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -7661,7 +7661,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 176,
+		"ratingCount": 177,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -18733,7 +18733,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 86,
+		"ratingCount": 87,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -18974,7 +18974,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 279,
+		"ratingCount": 280,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -27159,7 +27159,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 59,
+		"ratingCount": 60,
 		"bookSports": [
 			"SP5"
 		],
@@ -27208,14 +27208,14 @@
 		"phone": [
 			"9986518170"
 		],
-		"avgRating": 3.2,
+		"avgRating": 3.4,
 		"name": "Layaan Sports Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-05T13:22:15.830Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-16T13:56:57.712Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"id": "34286405-8b75-4ba8-bcbe-74e704f7f40b",
 		"category": 2,
 		"s3Folder": "LAYAANSPORTSACADEMY20230105132215830968",
@@ -45518,13 +45518,13 @@
 		"venueId": "8597906e-3134-40cd-a8cb-93f86ea8c211",
 		"zipCode": "560056",
 		"__v": 3,
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"coverImage": "",
 		"createdTS": "2021-12-04T16:19:33.089Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"bookSports": [
 			"SP5"
 		],
@@ -45878,7 +45878,7 @@
 		"createdTS": "2018-05-29T13:10:32.406Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-21T11:50:24.480Z",
-		"ratingCount": 89,
+		"ratingCount": 90,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LEVELUPBADMINTONACADEMY/LevelUpBadmintonAcademy0.jpg"
@@ -46493,7 +46493,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -53895,7 +53895,7 @@
 		"description": "",
 		"createdTS": "2019-11-13T12:00:29.048Z",
 		"bookType": 0,
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"zipCode": "560016",
 		"modTS": "2022-09-29T13:53:10.413Z",
 		"inquiryPhone": "9900079594",
@@ -53904,7 +53904,7 @@
 			"9900079594"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"address": "6th Floor, Neil Rao Towers, Plot #117 & 118, Road #3, EPIP Phase - 1, Whitefield Road, Bangalore",
 		"active": true,
 		"id": "125e0d09-79d6-4cff-a35d-c80f716686ed",
@@ -54635,7 +54635,7 @@
 		"description": "",
 		"createdTS": "2021-06-20T15:14:15.772Z",
 		"bookType": 0,
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"zipCode": "560049",
 		"modTS": "2022-11-03T05:50:06.429Z",
 		"inquiryPhone": "6364834834",
@@ -54644,7 +54644,7 @@
 			"6364834834"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "37/4, Lecaprio Road, Near OM Residency Layout, Kodigehalli, K R Puram Bangalore 560049",
 		"active": true,
 		"id": "34d63da6-f0ea-4f2f-8877-eeb056f1c6bc",
@@ -66497,7 +66497,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 177,
+		"ratingCount": 178,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
