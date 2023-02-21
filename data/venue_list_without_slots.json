@@ -2076,7 +2076,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -7661,7 +7661,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 180,
+		"ratingCount": 181,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -10095,7 +10095,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 224,
+		"ratingCount": 225,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -12837,8 +12837,8 @@
 		"zipCode": "560085",
 		"activityCount": 4735,
 		"activityCountLastSyncDate": "2023-02-20T18:30:00.417Z",
-		"avgRating": 4.5,
-		"ratingCount": 42,
+		"avgRating": 4.4,
+		"ratingCount": 43,
 		"__v": 3,
 		"coverImage": "https://playo.gumlet.io/SPORTSALLEYSAMPANGIRAMNAGAR/Sports1BadmintonAcademySapthagiriNagarcovercover1651589898004.jpeg",
 		"createdTS": "2022-05-03T14:58:14.482Z",
@@ -35259,7 +35259,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 48,
+		"ratingCount": 50,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
