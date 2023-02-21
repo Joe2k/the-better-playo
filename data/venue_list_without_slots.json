@@ -7661,7 +7661,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 179,
+		"ratingCount": 180,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -15578,7 +15578,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T17:20:19.097Z",
 		"bookType": 0,
-		"ratingCount": 107,
+		"ratingCount": 108,
 		"zipCode": "560043",
 		"modTS": "2021-10-25T10:02:19.486Z",
 		"inquiryPhone": "9741014455",
@@ -34551,7 +34551,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -46430,7 +46430,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 226,
+		"ratingCount": 227,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -66497,7 +66497,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 178,
+		"ratingCount": 179,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
@@ -70064,7 +70064,7 @@
 		"bookType": 0,
 		"ratingCount": 3,
 		"zipCode": "562109",
-		"modTS": "2023-01-27T19:51:31.863Z",
+		"modTS": "2023-02-21T04:54:57.421Z",
 		"inquiryPhone": "7483291922",
 		"inquiryType": -1,
 		"phone": [
@@ -70080,7 +70080,9 @@
 		"search": "",
 		"bookSports": [
 			"SP57",
-			"SP56"
+			"SP56",
+			"SP2",
+			"SP66"
 		],
 		"name": "Cosmos Cricket Training Center",
 		"area": "Bidadi",
@@ -70100,7 +70102,9 @@
 		"timings": "6:00 AM - 6:30 PM",
 		"sports": [
 			"SP57",
-			"SP56"
+			"SP56",
+			"SP2",
+			"SP66"
 		],
 		"members": false,
 		"state": "Karnataka",
