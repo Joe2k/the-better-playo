@@ -18974,7 +18974,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 281,
+		"ratingCount": 282,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -20165,14 +20165,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-22T17:39:59.029Z",
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -32818,7 +32818,7 @@
 		"description": "",
 		"createdTS": "2021-02-14T07:49:16.548Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560037",
 		"modTS": "2022-05-12T05:18:33.305Z",
 		"inquiryPhone": "9902030369",
@@ -32827,7 +32827,7 @@
 			"9902030369"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.2,
 		"address": "1st Main Road, Doddanekundi, near Railway Underpass",
 		"active": true,
 		"id": "b304556b-2efe-4eb0-8b7e-3783a22e057c",
@@ -35259,7 +35259,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 50,
+		"ratingCount": 51,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -43205,7 +43205,7 @@
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-13T06:59:59.458Z",
-		"ratingCount": 38,
+		"ratingCount": 39,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYHIGH/flyhighbadmintonarena1660032614321.jpeg"
