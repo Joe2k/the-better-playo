@@ -5499,14 +5499,14 @@
 		"phone": [
 			"9380663886"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Planet Aqua Pool",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-08T08:27:28.841Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-17T08:45:13.337Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "ad6c7f72-7163-42a6-9407-470c1bb41f8e",
 		"category": 2,
 		"s3Folder": "PLANETAQUAPOOL20230208082728841201",
@@ -50487,7 +50487,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-10-18T14:17:47.594Z",
+		"modTS": "2023-02-22T11:41:16.693Z",
 		"shareLink": "https://z34v4.app.goo.gl/6c9Y",
 		"deferLink": "https://z34v4.app.goo.gl/gxgf",
 		"fullLink": "https://playo.co/venue/?venueId=ee2396f3-6e76-47cf-af37-04a4e88455df",
@@ -50507,8 +50507,8 @@
 		"lat": 13.08656829530349,
 		"lng": 77.55551749189787,
 		"search": "tough , x , football , xtough",
-		"sponsored": "",
-		"sponsoredRadius": 4,
+		"sponsored": "Featured",
+		"sponsoredRadius": 5,
 		"state": "Karnataka",
 		"type": 0,
 		"venueId": "ee2396f3-6e76-47cf-af37-04a4e88455df",
@@ -50532,7 +50532,49 @@
 		"mapImage": "",
 		"distance": 13.481772614873218,
 		"activeKey": "toughx-sports-arena-vidyaranyapura-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "5ee24b03c45768426a174e64",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "- Flat 20% off on all slots! <br/>\n- No T&C's :D",
+				"countryCode": "+91",
+				"createdTS": "2020-06-11T15:17:23.920Z",
+				"offerContent": "ee2396f3-6e76-47cf-af37-04a4e88455df",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/ToughXSportsArenakeyskrcover1677065724512.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP2,SP56",
+				"activeKey": "toughx-sports-arena-exclusive-playo-offer-get-20-off-on-all-slots!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venue/?venueId=ee2396f3-6e76-47cf-af37-04a4e88455df",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all slots!",
+				"id": "304b5add-4de1-473f-a70c-ec2a134f3b99",
+				"offerName": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all slots!",
+				"shareLink": "https://z34v4.app.goo.gl/gYCD",
+				"deferLink": "https://z34v4.app.goo.gl/hoSN",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395
+			}
+		]
 	},
 	{
 		"oldPlayoId": "d2a850c2-88e1-402a-9a1b-530fa720aec4",
@@ -54275,7 +54317,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.119Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-08T07:43:44.788Z",
+		"modTS": "2023-02-22T10:23:17.200Z",
 		"ratingCount": 64,
 		"images": [
 			{
@@ -54308,7 +54350,7 @@
 		"logoImg": "",
 		"tags": [],
 		"googleMapLink": "",
-		"sponsored": "Featured!",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "63, Kogilu Agrahara Main Road Opposite Apurva Meadows, Yelahanka, Bengaluru, Karnataka",
 		"active": true,
@@ -54318,7 +54360,7 @@
 		"country": "India",
 		"timings": "6 AM - 11 PM",
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>\n\nBox Cricket: <br/>\n- Spiked shoes are strictly not allowed on the turf.<br/>\n- No equipment will be provided by the venue, all equipment have to be brought by the users.<br/>\n<br/>\n<br/>",
-		"sponsoredRadius": 7,
+		"sponsoredRadius": 5,
 		"bookSports": [
 			"SP5",
 			"SP2",
