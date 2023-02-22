@@ -2761,7 +2761,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 144,
+		"ratingCount": 145,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -2770,7 +2770,7 @@
 			"9620483815"
 		],
 		"sponsored": "",
-		"avgRating": 3,
+		"avgRating": 3.1,
 		"address": "3rd Floor, Bangalore One Building, N.R.Colony, Basavanagudi",
 		"active": true,
 		"id": "6a580119-8d39-41cd-a8eb-5309a238d65e",
