@@ -150,7 +150,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.142Z",
 		"inquiryType": -1,
-		"modTS": "2022-02-23T08:31:35.975Z",
+		"modTS": "2023-02-24T06:13:04.782Z",
 		"ratingCount": 98,
 		"images": [
 			{
@@ -183,7 +183,7 @@
 		"fullLink": "https://playo.co/venue/?venueId=37119269-99ed-4096-ab9b-8646b66b86f4",
 		"country": "India",
 		"timings": "6 AM - 10 PM",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Box Cricket is not available at this venue <br/>\n<br/>\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"__v": 6,
 		"bookSports": [
 			"SP2"
@@ -199,6 +199,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 8330,
 		"activityCountLastSyncDate": "2023-02-23T18:30:03.150Z",
+		"bnpl": false,
 		"distance": 1.0683741980714034,
 		"activeKey": "tiento-sports-mission-road-bengaluru",
 		"offers": []
@@ -1923,7 +1924,7 @@
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-26T07:42:20.335Z",
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
 		"s3Folder": "MARACANASPORTSARENA20221103080210366511",
@@ -7169,7 +7170,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 165,
+		"ratingCount": 166,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -36349,7 +36350,7 @@
 		"bookType": 0,
 		"ratingCount": 9,
 		"zipCode": "560091",
-		"modTS": "2022-12-25T15:48:08.734Z",
+		"modTS": "2023-02-24T06:34:27.610Z",
 		"inquiryPhone": "8904247968",
 		"inquiryType": -1,
 		"phone": [
@@ -36362,12 +36363,12 @@
 		"id": "53436775-e552-49f8-ba0b-7509b47b18c4",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "Badminton",
+		"search": "Badminton , Nagarabhavi Sports Arena , naagarabhaavi , naagarabhavi , nagarabhaavi , nagarabhavi",
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP5"
 		],
-		"name": "Nagarabhavi Sports Arena",
+		"name": "Nagarbhavi Sports Arena",
 		"area": "Kuvempu Road",
 		"sponsoredRadius": 6,
 		"country": "India",
@@ -36398,7 +36399,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "nagarabhavi-sports-arena-kuvempu-road-bengaluru"
+				"key": "nagarbhavi-sports-arena-kuvempu-road-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -36410,8 +36411,8 @@
 			"nagarbhavisportsarena@gmail.com"
 		],
 		"s3Folder": "GCBADMINTONACADEMY20200820093346776541",
-		"shareLink": "https://z34v4.app.goo.gl/8x7A",
-		"deferLink": "https://z34v4.app.goo.gl/6fUM",
+		"shareLink": "https://z34v4.app.goo.gl/W83M",
+		"deferLink": "https://z34v4.app.goo.gl/wa2A",
 		"__v": 3,
 		"coverImage": "",
 		"googleMapLink": "",
@@ -36443,7 +36444,7 @@
 		"activityCountLastSyncDate": "2023-02-23T18:30:03.150Z",
 		"bnpl": false,
 		"distance": 11.284837799942114,
-		"activeKey": "nagarabhavi-sports-arena-kuvempu-road-bengaluru",
+		"activeKey": "nagarbhavi-sports-arena-kuvempu-road-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -45479,7 +45480,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 393,
+		"ratingCount": 394,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -53492,7 +53493,7 @@
 		"description": "",
 		"createdTS": "2020-08-22T10:38:02.402Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560073",
 		"modTS": "2022-06-20T15:29:49.788Z",
 		"inquiryPhone": "9739199998",
@@ -56210,7 +56211,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 336,
+		"ratingCount": 337,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
