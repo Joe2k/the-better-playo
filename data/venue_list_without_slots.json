@@ -7662,7 +7662,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 181,
+		"ratingCount": 182,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -23778,7 +23778,7 @@
 		"description": "",
 		"createdTS": "2022-04-25T05:03:38.694Z",
 		"bookType": 0,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"zipCode": "560097",
 		"modTS": "2023-02-01T08:00:38.335Z",
 		"inquiryPhone": "7660010620",
@@ -46588,7 +46588,7 @@
 		"phone": [
 			"8861147827"
 		],
-		"avgRating": 3.3,
+		"avgRating": 3.2,
 		"name": "New Vivas @ PK Sports",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-05-15T06:39:44.910Z",
@@ -46596,7 +46596,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 227,
+		"ratingCount": 228,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -50070,7 +50070,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 595,
+		"ratingCount": 596,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -51731,7 +51731,7 @@
 		"description": "",
 		"createdTS": "2022-06-28T17:26:55.895Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560049",
 		"modTS": "2023-01-25T16:46:16.726Z",
 		"inquiryPhone": "9032526301",
@@ -51740,7 +51740,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
 		"active": true,
 		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
