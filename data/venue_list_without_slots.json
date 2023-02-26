@@ -10293,7 +10293,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"bookSports": [
 			"SP5"
 		],
@@ -18173,7 +18173,7 @@
 		"createdTS": "2017-01-07T17:23:44.137Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-14T12:37:07.666Z",
-		"ratingCount": 147,
+		"ratingCount": 148,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/YESHWANTHPURFEATHERSACADEMY/NewFeathersBadmintonAcademy1647679337208.jpeg"
@@ -18833,7 +18833,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T13:54:17.262Z",
 		"bookType": 0,
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T07:12:07.228Z",
 		"inquiryPhone": "8861619999",
@@ -21979,7 +21979,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 273,
+		"ratingCount": 274,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -35386,7 +35386,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -35395,7 +35395,7 @@
 			"9449631007"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"address": "Yeshodamma Layout, 2nd Main, Near Yellamma Devi Temple",
 		"active": true,
 		"id": "2a5e4742-eaf6-4fb0-8764-5d9b8fe989f4",
@@ -41916,7 +41916,7 @@
 		"description": "",
 		"createdTS": "2020-01-24T10:56:39.029Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560035",
 		"modTS": "2022-03-16T15:28:13.691Z",
 		"inquiryPhone": "7624898999",
@@ -83734,7 +83734,7 @@
 		"amenities": [],
 		"tags": [],
 		"avgRating": 5,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"members": false,
 		"isSafeAndHygiene": false,
 		"activityCount": 28,
