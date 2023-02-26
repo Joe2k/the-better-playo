@@ -13915,119 +13915,6 @@
 		"offers": []
 	},
 	{
-		"name": "Frame Snooker Parlour",
-		"area": "HSR Layout",
-		"address": "#387, 2nd Floor, 9th Main Road, above Karur Vysya bank, Sector 7, HSR Layout, Bengaluru, Karnataka - 560102",
-		"googleMapLink": "https://www.google.com/maps/place/Decathlon+badminton+court/@11.0571818,77.077704,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba85618aea48d7f:0x33ec8919ae094471!8m2!3d11.0571818!4d77.0798927",
-		"googlePlusCode": "334H+VX Chinniyampalayam, Coimbatore, Tamil Nadu",
-		"website": "",
-		"email": [
-			"tantis924@gmail.com"
-		],
-		"remarks": "",
-		"phone": [
-			"9900115566"
-		],
-		"functionData": [
-			{
-				"content": "GSUUKPYZIBWYKQFEVHMLPQRU",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"city": "Bengaluru",
-		"country": "India",
-		"sports": [
-			"SP89",
-			"SP77"
-		],
-		"timings": "10 AM - 11 PM",
-		"cityCode": 1,
-		"id": "1c7a24d8-9957-4d43-b58d-79202f9a71d5",
-		"oldPlayoId": "1c7a24d8-9957-4d43-b58d-79202f9a71d5",
-		"category": 2,
-		"inquiryPhone": "9900115566",
-		"s3Folder": "DECATHLONBADMINTONCOURT",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "6am–9pm",
-			"Tue": "6am–9pm",
-			"Wed": "6am–9pm",
-			"Thu": "6am–9pm",
-			"Fri": "6am–9pm",
-			"Sat": "6am–9pm",
-			"Sun": "6am–9pm"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"active": true,
-				"key": "frame-snooker-parlour-hsr-layout-bengaluru"
-			}
-		],
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DECATHLONBADMINTONCOURT/FrameSnookerParlour1675537524062.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DECATHLONBADMINTONCOURT/FrameSnookerParlour1675537527582.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DECATHLONBADMINTONCOURT/FrameSnookerParlour1675537530613.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DECATHLONBADMINTONCOURT/FrameSnookerParlour1675537533553.jpeg"
-			}
-		],
-		"rating": 0,
-		"modTS": "2023-02-04T19:05:41.930Z",
-		"shareLink": "https://z34v4.app.goo.gl/N8Yr",
-		"deferLink": "https://z34v4.app.goo.gl/EiKW",
-		"fullLink": "https://playo.co/venue/?venueId=1c7a24d8-9957-4d43-b58d-79202f9a71d5",
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Drinking Water"
-		],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": true,
-		"activityCount": 1,
-		"activityCountLastSyncDate": "2023-02-25T18:30:02.847Z",
-		"avgRating": 5,
-		"ratingCount": 1,
-		"addInfo": "",
-		"bnpl": false,
-		"bookSports": [
-			"SP89",
-			"SP77"
-		],
-		"bookType": 0,
-		"description": "",
-		"inquiryType": -1,
-		"lat": 12.908149499998839,
-		"lng": 77.63526639999986,
-		"search": "",
-		"sponsored": "",
-		"sponsoredRadius": 4,
-		"state": "Karnataka",
-		"type": 0,
-		"venueId": "1c7a24d8-9957-4d43-b58d-79202f9a71d5",
-		"zipCode": "560102",
-		"__v": 1,
-		"coverImage": "",
-		"createdTS": "2023-02-04T19:05:39.163Z",
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"distance": 8.327956155906358,
-		"activeKey": "frame-snooker-parlour-hsr-layout-bengaluru",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "399612e7-93de-4d91-8baf-831bfe618192",
 		"cityCode": 1,
 		"description": "",
@@ -22972,6 +22859,108 @@
 		]
 	},
 	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 262,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2547,
+		"activityCountLastSyncDate": "2023-02-25T18:30:02.847Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -23098,108 +23087,6 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 262,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2547,
-		"activityCountLastSyncDate": "2023-02-25T18:30:02.847Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -23821,7 +23708,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 350,
+		"ratingCount": 351,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -25942,7 +25829,7 @@
 		"createdTS": "2017-11-06T07:25:37.252Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T11:01:44.784Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GAMESQUARE/InfinityBadmintonArenaBellandur1658257375391.jpg"
@@ -38241,7 +38128,7 @@
 		"description": "",
 		"createdTS": "2020-03-12T12:38:59.995Z",
 		"bookType": 0,
-		"ratingCount": 55,
+		"ratingCount": 56,
 		"zipCode": "560108",
 		"modTS": "2022-12-05T14:32:52.917Z",
 		"inquiryPhone": "8095514666",
@@ -49362,7 +49249,7 @@
 		"description": "",
 		"createdTS": "2022-06-22T19:23:10.085Z",
 		"bookType": 0,
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"zipCode": "560064",
 		"modTS": "2022-08-31T08:23:10.887Z",
 		"inquiryPhone": "9740579762",
@@ -64297,12 +64184,12 @@
 		]
 	},
 	{
-		"name": "True Bounce Football Academy - Whitefield",
+		"name": "True Bounce Tennis Academy - Whitefield",
 		"area": "Seegehalli",
 		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
-		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
-		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
-		"website": "sbablr.com",
+		"googleMapLink": "https://www.google.com/maps/place/Sports+Central/@12.9151325,77.6707588,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae13726fdd6a7f:0xe7b41b155ff81e79!8m2!3d12.9151273!4d77.6729475",
+		"googlePlusCode": "WM8F+35 Bengaluru, Karnataka",
+		"website": "",
 		"email": [
 			"murugantbta@gmail.com"
 		],
@@ -64315,7 +64202,7 @@
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
+				"content": "685f436f-2edd-41af-9af9-a352680c0cbc",
 				"caption": "Book Now!",
 				"type": 3
 			}
@@ -64323,15 +64210,15 @@
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP2"
+			"SP3"
 		],
-		"timings": "7 AM - 6 PM",
+		"timings": "7 AM  - 5 PM",
 		"cityCode": 1,
-		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
-		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"id": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"oldPlayoId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
 		"category": 2,
 		"inquiryPhone": "9880263006",
-		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
+		"s3Folder": "TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC",
 		"source": "uttam",
 		"everyDayTimings": {
 			"Mon": "5AM–11PM",
@@ -64346,19 +64233,37 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
+				"key": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru"
 			}
 		],
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031094554.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031101763.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031105174.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031109734.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031116574.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031120633.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031125784.jpg"
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-08-09T07:38:16.948Z",
-		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
-		"deferLink": "https://z34v4.app.goo.gl/iXNK",
-		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
+		"modTS": "2022-08-09T07:45:37.568Z",
+		"shareLink": "https://z34v4.app.goo.gl/SrFj",
+		"deferLink": "https://z34v4.app.goo.gl/v6Aw",
+		"fullLink": "https://playo.co/venue/?venueId=5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
 		"amenities": [
 			"Parking",
 			"First Aid",
@@ -64367,7 +64272,7 @@
 			"Drinking Water"
 		],
 		"tags": [],
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
@@ -64378,26 +64283,68 @@
 		"sponsoredRadius": 4,
 		"state": "Karnataka",
 		"type": 0,
-		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"venueId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
 		"zipCode": "560067",
 		"members": false,
 		"isSafeAndHygiene": true,
-		"__v": 3,
+		"__v": 4,
 		"avgRating": 5,
 		"coverImage": "",
-		"createdTS": "2021-07-16T08:00:52.103Z",
+		"createdTS": "2021-07-16T08:03:59.005Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
 		"ratingCount": 1,
 		"bookSports": [
-			"SP2"
+			"SP3"
 		],
-		"activityCount": 2,
+		"activityCount": 17,
 		"activityCountLastSyncDate": "2023-02-25T18:30:02.847Z",
 		"distance": 18.587868338314955,
-		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
-		"offers": []
+		"activeKey": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
 	},
 	{
 		"name": "True Bounce Football Academy - Whitefield",
