@@ -15010,7 +15010,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T08:50:22.305Z",
 		"bookType": 0,
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"zipCode": "560061",
 		"modTS": "2021-12-19T11:57:24.840Z",
 		"inquiryPhone": "7899498419",
@@ -26138,7 +26138,7 @@
 		"description": "",
 		"createdTS": "2022-03-19T10:00:16.960Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560024",
 		"modTS": "2022-03-19T11:36:33.565Z",
 		"inquiryPhone": "9538482121",
@@ -29364,7 +29364,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 75,
+		"ratingCount": 76,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -38663,7 +38663,7 @@
 		"createdTS": "2017-01-07T17:23:44.199Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-08T05:31:53.575Z",
-		"ratingCount": 326,
+		"ratingCount": 327,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ARATTBIGGAME/arattbiggamebadminton1627916662265.jpg"
