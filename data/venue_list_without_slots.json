@@ -15610,7 +15610,7 @@
 		"createdTS": "2017-05-10T09:37:45.102Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-12T05:16:27.431Z",
-		"ratingCount": 321,
+		"ratingCount": 322,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BATTLEDOREARENA/battledorearena12.jpeg"
@@ -45691,7 +45691,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"bookSports": [
 			"SP5"
 		],
@@ -51646,7 +51646,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 299,
+		"ratingCount": 300,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -55517,14 +55517,14 @@
 		"phone": [
 			"7204672409"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"name": "Badmintonium Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
