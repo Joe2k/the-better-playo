@@ -7170,7 +7170,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 169,
+		"ratingCount": 170,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -19580,7 +19580,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 65,
+		"ratingCount": 66,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -22147,7 +22147,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 414,
+		"ratingCount": 415,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -26410,7 +26410,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T08:17:11.913Z",
 		"bookType": 0,
-		"ratingCount": 122,
+		"ratingCount": 123,
 		"zipCode": "560037",
 		"modTS": "2022-06-04T12:02:38.188Z",
 		"inquiryPhone": "8747827777",
@@ -60358,7 +60358,7 @@
 		"phone": [
 			"7829909607"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"name": "Feather Shuttlers",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-02-11T06:46:38.718Z",
@@ -60366,7 +60366,7 @@
 		"createdTS": "2018-02-11T06:46:38.718Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-20T09:53:20.487Z",
-		"ratingCount": 274,
+		"ratingCount": 275,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSHUTTLERS/FeatherShuttlers1586172701791.png"
@@ -66638,7 +66638,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 180,
+		"ratingCount": 181,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
