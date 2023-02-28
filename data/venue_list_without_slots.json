@@ -13649,7 +13649,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 279,
+		"ratingCount": 280,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -13658,7 +13658,7 @@
 			"9880770202"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "LANDMARK: Near Bangalore International Public School; FULL ADDRESS: 255E/D/1, 4th Main, Ankappa layout, Uttarahalli, Subramanyapura Post",
 		"active": true,
 		"id": "ae068218-2f88-482d-bdf1-4e197811b9ba",
@@ -21714,7 +21714,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 282,
+		"ratingCount": 283,
 		"zipCode": "560068",
 		"modTS": "2023-02-01T06:49:15.052Z",
 		"inquiryPhone": "6364444441",
@@ -30926,7 +30926,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 336,
+		"ratingCount": 337,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -61180,7 +61180,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 407,
+		"ratingCount": 408,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
