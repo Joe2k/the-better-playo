@@ -5126,15 +5126,9 @@
 		"coverImage": "https://playo.gumlet.io/RAISINGVENUSBADMINTONACADEMY/LegacySportsAcademyMonotypecovercover1628676929051.jpeg",
 		"createdTS": "2018-03-12T10:56:35.194Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-26T13:58:50.268Z",
+		"modTS": "2023-03-01T08:41:49.977Z",
 		"ratingCount": 136,
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/RAISINGVENUSBADMINTONACADEMY/legacysportsacademy1592467449582.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RAISINGVENUSBADMINTONACADEMY/legacysportsacademy1592467452328.jpeg"
-			},
 			{
 				"url": "https://playo.gumlet.io/RAISINGVENUSBADMINTONACADEMY/legacysportsacademymonotype1628676919362.jpeg"
 			},
@@ -5177,7 +5171,7 @@
 		"type": 0,
 		"venueId": "2ff8a3ec-acd1-4973-8d6f-269e6a20b38d",
 		"sponsoredRadius": 4,
-		"__v": 5,
+		"__v": 6,
 		"isSafeAndHygiene": true,
 		"activityCount": 5409,
 		"activityCountLastSyncDate": "2023-02-28T18:30:01.206Z",
@@ -12658,7 +12652,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-06-07T09:04:56.275Z",
+		"modTS": "2023-03-01T08:39:20.174Z",
 		"shareLink": "https://z34v4.app.goo.gl/vgiJ",
 		"deferLink": "https://z34v4.app.goo.gl/39LC",
 		"fullLink": "https://playo.co/venue/?venueId=80a404b4-36f6-40cd-991a-ad22a25db80f",
@@ -12680,7 +12674,7 @@
 		"lng": 77.5376462415878,
 		"search": "",
 		"sponsored": "Featured",
-		"sponsoredRadius": 6,
+		"sponsoredRadius": 4,
 		"state": "Karnataka",
 		"type": 0,
 		"venueId": "80a404b4-36f6-40cd-991a-ad22a25db80f",
@@ -12698,6 +12692,7 @@
 		"bookSports": [
 			"SP5"
 		],
+		"bnpl": false,
 		"distance": 8.167831125525126,
 		"activeKey": "sports1-badminton-academy-sapthagiri-nagar-near-tata-promont-bengaluru",
 		"offers": []
@@ -14884,7 +14879,7 @@
 		"bookType": 0,
 		"ratingCount": 17,
 		"zipCode": "560076",
-		"modTS": "2023-02-12T09:10:11.784Z",
+		"modTS": "2023-03-01T08:43:45.568Z",
 		"inquiryPhone": "9353067017",
 		"inquiryType": -1,
 		"phone": [
@@ -14906,7 +14901,7 @@
 		],
 		"name": "Tenzee Arena",
 		"area": "Billekahalli",
-		"sponsoredRadius": 6,
+		"sponsoredRadius": 3,
 		"country": "India",
 		"tags": [],
 		"functionData": [
@@ -18366,7 +18361,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 223,
+		"ratingCount": 224,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -21553,7 +21548,49 @@
 		"bnpl": false,
 		"distance": 9.426030669611588,
 		"activeKey": "mm-badminton-academy-papareddipalya-circle-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "5c481ba86d91cf548ef8246e",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"countryCode": "+91",
+				"createdTS": "2019-01-23T07:45:44.474Z",
+				"offerContent": "ad5ad81f-cf03-4530-a455-f3f5da457763",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/MMBadmintonAcademyExclusivePlayoOfferGet50offonallslots7h8gjccover1677659224862.png",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "mm-badminton-academy-exclusive-playo-offer-get-₹50-off-on-all-slots!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venue/?venueId=ad5ad81f-cf03-4530-a455-f3f5da457763",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "MM Badminton Academy Exclusive Playo Offer - Get ₹50 off on all slots!",
+				"id": "327ccf68-2742-4f9b-87fc-d685a04390b7",
+				"offerName": "MM Badminton Academy Exclusive Playo Offer - Get ₹50 off on all slots!",
+				"shareLink": "https://z34v4.app.goo.gl/NKpo",
+				"deferLink": "https://z34v4.app.goo.gl/VDco",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395,
+				"terms": "Get flat ₹50 off on all your bookings at MM Badminton Academy through the Playo App!"
+			}
+		]
 	},
 	{
 		"oldPlayoId": "7a35e9de-2fce-4872-8678-c300d1e98e17",
@@ -21715,9 +21752,9 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 284,
+		"ratingCount": 285,
 		"zipCode": "560068",
-		"modTS": "2023-02-01T06:49:15.052Z",
+		"modTS": "2023-03-01T08:40:41.907Z",
 		"inquiryPhone": "6364444441",
 		"inquiryType": -1,
 		"phone": [
@@ -21834,7 +21871,7 @@
 		"lat": 12.898063,
 		"lng": 77.638062,
 		"venueId": "28476bb1-378a-402f-92a5-89bea04fd0f3",
-		"sponsoredRadius": 8,
+		"sponsoredRadius": 5.5,
 		"isSafeAndHygiene": true,
 		"activityCount": 62768,
 		"activityCountLastSyncDate": "2023-02-28T18:30:01.206Z",
@@ -23045,7 +23082,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 75,
+		"ratingCount": 76,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -28853,7 +28890,7 @@
 		"coverImage": "https://playo.gumlet.io/SHUTTLERSALLEY/ShuttlersAlleycovercover1629554989468.jpeg",
 		"createdTS": "2017-09-01T11:01:03.935Z",
 		"inquiryType": -1,
-		"modTS": "2022-11-28T15:28:46.835Z",
+		"modTS": "2023-03-01T08:40:01.486Z",
 		"ratingCount": 456,
 		"images": [
 			{
@@ -28897,7 +28934,7 @@
 		"placeId": "",
 		"type": 0,
 		"venueId": "4a528a91-3fd6-4c7b-87a9-a7e816e391fa",
-		"sponsoredRadius": 2,
+		"sponsoredRadius": 3,
 		"__v": 4,
 		"isSafeAndHygiene": true,
 		"activityCount": 15759,
@@ -37979,7 +38016,7 @@
 		"bookType": 0,
 		"ratingCount": 56,
 		"zipCode": "560108",
-		"modTS": "2022-12-05T14:32:52.917Z",
+		"modTS": "2023-03-01T08:43:14.478Z",
 		"inquiryPhone": "8095514666",
 		"inquiryType": -1,
 		"phone": [
@@ -38002,7 +38039,7 @@
 		],
 		"name": "Fettle Fitness & Sports Studio",
 		"area": "JP Nagar 9th Phase",
-		"sponsoredRadius": 2,
+		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [
 			{
@@ -41369,7 +41406,7 @@
 		"bookType": 0,
 		"ratingCount": 14,
 		"zipCode": "560062",
-		"modTS": "2022-04-12T10:23:00.352Z",
+		"modTS": "2023-03-01T08:38:55.543Z",
 		"inquiryPhone": "9731643999",
 		"inquiryType": -1,
 		"phone": [
@@ -41389,7 +41426,7 @@
 		],
 		"name": "Nature Kicks",
 		"area": "Off Kanakapura Road",
-		"sponsoredRadius": 8,
+		"sponsoredRadius": 4,
 		"country": "India",
 		"tags": [],
 		"functionData": [
@@ -41456,6 +41493,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 1415,
 		"activityCountLastSyncDate": "2023-02-28T18:30:01.206Z",
+		"bnpl": false,
 		"distance": 12.048072626926297,
 		"activeKey": "nature-kicks-off-kanakapura-road-bengaluru",
 		"offers": [
@@ -43071,7 +43109,7 @@
 		"coverImage": "https://playo.gumlet.io/FLYHIGH/FlyHighBadmintonArenacovercover1660035494047.jpeg",
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-13T06:59:59.458Z",
+		"modTS": "2023-03-01T08:37:36.821Z",
 		"ratingCount": 39,
 		"images": [
 			{
@@ -43111,7 +43149,7 @@
 		"bookType": 0,
 		"lat": 12.862032009603668,
 		"lng": 77.5855879383549,
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 3,
 		"type": 0,
 		"venueId": "0814127f-9b1a-4b48-a8d2-eb4b51423981",
 		"isSafeAndHygiene": true,
@@ -44971,7 +45009,7 @@
 		"bookType": 0,
 		"ratingCount": 19,
 		"zipCode": "560083",
-		"modTS": "2023-02-21T09:15:41.074Z",
+		"modTS": "2023-03-01T08:40:28.505Z",
 		"inquiryPhone": "9538451451",
 		"inquiryType": -1,
 		"phone": [
@@ -44996,7 +45034,7 @@
 		],
 		"name": "Play Smart Multi Sport Arena",
 		"area": "JP Nagar 8th Phase",
-		"sponsoredRadius": 7,
+		"sponsoredRadius": 5,
 		"country": "India",
 		"tags": [
 			{
@@ -50409,7 +50447,7 @@
 				"createdTS": "2020-06-11T15:17:23.920Z",
 				"offerContent": "ee2396f3-6e76-47cf-af37-04a4e88455df",
 				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/ToughXSportsArenakeyskrcover1677065724512.jpg",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/ToughXSportsArenaExclusivePlayoOfferGet20offonallslotsfner7cover1677659255983.png",
 				"expiry": "2023-12-31T00:00:00.000Z",
 				"multiCity": false,
 				"sports": "SP2,SP56",
@@ -50436,8 +50474,8 @@
 				"shareMsg": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all slots!",
 				"id": "304b5add-4de1-473f-a70c-ec2a134f3b99",
 				"offerName": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all slots!",
-				"shareLink": "https://z34v4.app.goo.gl/gYCD",
-				"deferLink": "https://z34v4.app.goo.gl/hoSN",
+				"shareLink": "https://z34v4.app.goo.gl/9wXj",
+				"deferLink": "https://z34v4.app.goo.gl/mf1L",
 				"cityLat": 12.9539974,
 				"cityLng": 77.6309395
 			}
