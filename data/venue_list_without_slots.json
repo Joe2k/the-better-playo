@@ -10259,9 +10259,9 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2021-12-04T06:23:20.832Z",
-		"shareLink": "https://z34v4.app.goo.gl/V8gm",
-		"deferLink": "https://z34v4.app.goo.gl/b4gB",
+		"modTS": "2023-03-01T07:54:42.185Z",
+		"shareLink": "https://z34v4.app.goo.gl/6kze",
+		"deferLink": "https://z34v4.app.goo.gl/gzvq",
 		"fullLink": "https://playo.co/venue/?venueId=3c25e654-7f6a-43ae-ad14-0c4e517181ca",
 		"amenities": [
 			"Parking",
@@ -10299,6 +10299,7 @@
 		],
 		"activityCount": 9699,
 		"activityCountLastSyncDate": "2023-02-28T18:30:01.206Z",
+		"bnpl": false,
 		"distance": 7.612656115445279,
 		"activeKey": "eagles-badminton-arena-yeshwanthpur-bengaluru",
 		"offers": []
@@ -20678,7 +20679,7 @@
 		"description": "",
 		"createdTS": "2019-06-22T13:48:55.209Z",
 		"bookType": 0,
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"zipCode": "560076",
 		"modTS": "2021-12-17T09:58:30.200Z",
 		"inquiryPhone": "8431370366",
@@ -33164,7 +33165,7 @@
 		"createdTS": "2018-03-20T07:50:24.267Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T09:22:57.961Z",
-		"ratingCount": 137,
+		"ratingCount": 138,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHPOINTSPORTSARENA/MatchPointSportsArenaUttarahalli1639732957496.jpg"
@@ -55372,7 +55373,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 48,
+		"ratingCount": 49,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
