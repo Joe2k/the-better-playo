@@ -9104,8 +9104,8 @@
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": true,
-		"avgRating": 4.3,
-		"ratingCount": 10,
+		"avgRating": 4,
+		"ratingCount": 11,
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Please carry your own equipment. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
@@ -39403,7 +39403,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 971,
+		"ratingCount": 972,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -48763,7 +48763,7 @@
 		"createdTS": "2017-01-07T17:23:44.207Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:00:53.079Z",
-		"ratingCount": 222,
+		"ratingCount": 223,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ACCOLADESBADMINTONSPORTSACADEMY/accoladesbadmintonsportsacademy10.png"
@@ -64071,6 +64071,109 @@
 		]
 	},
 	{
+		"name": "True Bounce Football Academy - Whitefield",
+		"area": "Seegehalli",
+		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
+		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
+		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
+		"website": "sbablr.com",
+		"email": [
+			"murugantbta@gmail.com"
+		],
+		"remarks": "",
+		"phone": [
+			"9880263006"
+		],
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"city": "Bengaluru",
+		"country": "India",
+		"sports": [
+			"SP2"
+		],
+		"timings": "7 AM - 6 PM",
+		"cityCode": 1,
+		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"category": 2,
+		"inquiryPhone": "9880263006",
+		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "5AM–11PM",
+			"Tue": "5AM–11PM",
+			"Wed": "5AM–11PM",
+			"Thu": "5AM–11PM",
+			"Fri": "5AM–11PM",
+			"Sat": "5AM–11PM",
+			"Sun": "5AM–11PM"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"active": true,
+				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
+			}
+		],
+		"rating": 0,
+		"modTS": "2022-08-09T07:38:16.948Z",
+		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
+		"deferLink": "https://z34v4.app.goo.gl/iXNK",
+		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"tags": [],
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookType": 0,
+		"description": "",
+		"inquiryType": -1,
+		"lat": 13.008441159246413,
+		"lng": 77.76174099555257,
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"zipCode": "560067",
+		"members": false,
+		"isSafeAndHygiene": true,
+		"__v": 3,
+		"avgRating": 5,
+		"coverImage": "",
+		"createdTS": "2021-07-16T08:00:52.103Z",
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"ratingCount": 1,
+		"bookSports": [
+			"SP2"
+		],
+		"activityCount": 2,
+		"activityCountLastSyncDate": "2023-02-28T18:30:01.206Z",
+		"distance": 18.587868338314955,
+		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
+		"offers": []
+	},
+	{
 		"name": "True Bounce Tennis Academy - Whitefield",
 		"area": "Seegehalli",
 		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
@@ -64232,109 +64335,6 @@
 				"cityLng": 78.458122
 			}
 		]
-	},
-	{
-		"name": "True Bounce Football Academy - Whitefield",
-		"area": "Seegehalli",
-		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
-		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
-		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
-		"website": "sbablr.com",
-		"email": [
-			"murugantbta@gmail.com"
-		],
-		"remarks": "",
-		"phone": [
-			"9880263006"
-		],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"city": "Bengaluru",
-		"country": "India",
-		"sports": [
-			"SP2"
-		],
-		"timings": "7 AM - 6 PM",
-		"cityCode": 1,
-		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
-		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
-		"category": 2,
-		"inquiryPhone": "9880263006",
-		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "5AM–11PM",
-			"Tue": "5AM–11PM",
-			"Wed": "5AM–11PM",
-			"Thu": "5AM–11PM",
-			"Fri": "5AM–11PM",
-			"Sat": "5AM–11PM",
-			"Sun": "5AM–11PM"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"active": true,
-				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
-			}
-		],
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
-			}
-		],
-		"rating": 0,
-		"modTS": "2022-08-09T07:38:16.948Z",
-		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
-		"deferLink": "https://z34v4.app.goo.gl/iXNK",
-		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
-		"amenities": [
-			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
-		],
-		"tags": [],
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"bookType": 0,
-		"description": "",
-		"inquiryType": -1,
-		"lat": 13.008441159246413,
-		"lng": 77.76174099555257,
-		"search": "",
-		"sponsored": "",
-		"sponsoredRadius": 4,
-		"state": "Karnataka",
-		"type": 0,
-		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
-		"zipCode": "560067",
-		"members": false,
-		"isSafeAndHygiene": true,
-		"__v": 3,
-		"avgRating": 5,
-		"coverImage": "",
-		"createdTS": "2021-07-16T08:00:52.103Z",
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"ratingCount": 1,
-		"bookSports": [
-			"SP2"
-		],
-		"activityCount": 2,
-		"activityCountLastSyncDate": "2023-02-28T18:30:01.206Z",
-		"distance": 18.587868338314955,
-		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
-		"offers": []
 	},
 	{
 		"oldPlayoId": "37568055-5ec9-4414-9c16-20d1c3731325",
