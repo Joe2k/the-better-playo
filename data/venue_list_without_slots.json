@@ -3738,7 +3738,7 @@
 		"description": "",
 		"createdTS": "2019-08-17T19:32:38.748Z",
 		"bookType": 0,
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"zipCode": "560028",
 		"modTS": "2022-04-30T14:42:34.767Z",
 		"inquiryPhone": "9880584455",
@@ -3747,7 +3747,7 @@
 			"9880584455"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "#20, 3rd cross, CT Bed, Opposite SSM School, Ayyappa temple street, Vidyapeeta, Bangalore",
 		"active": true,
 		"id": "696b9b58-7851-47f4-838b-6728b3697c11",
@@ -18051,7 +18051,7 @@
 		"createdTS": "2018-08-28T16:10:53.870Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:18.649Z",
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AJSPORTS/ajsports0.jpeg"
