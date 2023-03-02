@@ -7164,7 +7164,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 171,
+		"ratingCount": 172,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -20464,7 +20464,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 320,
+		"ratingCount": 321,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -34283,7 +34283,7 @@
 		"bookType": 0,
 		"ratingCount": 46,
 		"zipCode": "560076",
-		"modTS": "2022-12-09T09:01:05.053Z",
+		"modTS": "2023-03-02T02:20:34.704Z",
 		"inquiryPhone": "9886073270",
 		"inquiryType": -1,
 		"phone": [
@@ -34352,13 +34352,10 @@
 		"lng": 77.616248,
 		"venueId": "91246b9d-cd42-4bd8-ab23-dedab4a3f58e",
 		"activityCountLastSyncDate": "2023-03-01T18:30:03.246Z",
-		"__v": 5,
+		"__v": 7,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
-			{
-				"url": "https://playo.gumlet.io/MPSPORTSARENA20220614142416054367/mpsportsarena1663047396877.jpeg"
-			},
 			{
 				"url": "https://playo.gumlet.io/MPSPORTSARENA20220614142416054367/mpsportsarena1670576261933.jpeg"
 			},
@@ -35058,7 +35055,7 @@
 		"description": "",
 		"createdTS": "2019-07-05T15:33:36.112Z",
 		"bookType": 0,
-		"ratingCount": 71,
+		"ratingCount": 72,
 		"zipCode": "560064",
 		"modTS": "2022-11-17T12:25:15.487Z",
 		"inquiryPhone": "9108125251",
