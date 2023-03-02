@@ -7164,7 +7164,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 172,
+		"ratingCount": 174,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -13654,7 +13654,7 @@
 			"9880770202"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"address": "LANDMARK: Near Bangalore International Public School; FULL ADDRESS: 255E/D/1, 4th Main, Ankappa layout, Uttarahalli, Subramanyapura Post",
 		"active": true,
 		"id": "ae068218-2f88-482d-bdf1-4e197811b9ba",
@@ -18158,7 +18158,7 @@
 		"createdTS": "2018-02-08T13:04:07.529Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T07:53:29.076Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/TSquareArena1667374034811.jpeg"
@@ -29426,7 +29426,7 @@
 		"createdTS": "2017-08-25T08:11:34.495Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-06T15:33:13.888Z",
-		"ratingCount": 220,
+		"ratingCount": 221,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONACADEMY/SportiveBadmintonAcademyHoramavu1644161564741.jpeg"
@@ -50419,7 +50419,7 @@
 		"activityCount": 265,
 		"activityCountLastSyncDate": "2023-03-01T18:30:03.246Z",
 		"avgRating": 5,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"bnpl": false,
 		"bookSports": [
 			"SP2",
