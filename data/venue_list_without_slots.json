@@ -2853,153 +2853,6 @@
 		"offers": []
 	},
 	{
-		"oldPlayoId": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-10-25T06:22:09.389Z",
-		"bookType": 0,
-		"ratingCount": 6,
-		"zipCode": "560095",
-		"modTS": "2023-01-04T11:20:04.154Z",
-		"inquiryPhone": "6362270715",
-		"inquiryType": -1,
-		"phone": [
-			"6362270715"
-		],
-		"sponsored": "",
-		"avgRating": 4.3,
-		"address": "No 310/8, Guava Garden, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka",
-		"active": true,
-		"id": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "",
-		"bookSports": [
-			"SP2"
-		],
-		"name": "Rapid Sport Fitness",
-		"area": "Koramangala",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"content": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"timings": "Monday to Saturday: 6 AM -  8 PM; Holiday on Sunday",
-		"sports": [
-			"SP2"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"Changeroom",
-			"Parking",
-			"Drinking Water",
-			"First Aid"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "rapid-sport-fitness-koramangala-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n- A maximum of 6 members per booking per court is admissible.<br/>\n<br/>\n\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=fbb87e4b-9c22-45db-a265-eac9b27c68d8",
-		"type": 0,
-		"email": [
-			"info@rapidsportfitness.com"
-		],
-		"s3Folder": "RAPIDSPORTFITNESS20191025062209389292",
-		"__v": 1,
-		"coverImage": "",
-		"deferLink": "https://z34v4.app.goo.gl/zRBh",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness0.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness1.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness2.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness3.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/RAPIDSPORTFITNESS20191025062209389292/RapidSportFitness4.jpeg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/Kz89",
-		"lat": 12.934737,
-		"lng": 77.61772,
-		"venueId": "fbb87e4b-9c22-45db-a265-eac9b27c68d8",
-		"isSafeAndHygiene": true,
-		"activityCount": 48,
-		"activityCountLastSyncDate": "2023-03-02T18:30:02.782Z",
-		"bnpl": false,
-		"distance": 4.809382931494854,
-		"activeKey": "rapid-sport-fitness-koramangala-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
-	},
-	{
 		"inquiryPhone": "9844100155",
 		"remarks": "",
 		"infoData": [],
@@ -31828,7 +31681,7 @@
 		"description": "",
 		"createdTS": "2019-04-24T10:10:24.518Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560068",
 		"modTS": "2023-02-04T04:39:18.012Z",
 		"inquiryPhone": "9700314143",
@@ -32718,7 +32571,7 @@
 		"description": "",
 		"createdTS": "2021-02-14T07:49:16.548Z",
 		"bookType": 0,
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"zipCode": "560037",
 		"modTS": "2022-05-12T05:18:33.305Z",
 		"inquiryPhone": "9902030369",
