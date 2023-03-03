@@ -3057,147 +3057,6 @@
 		"offers": []
 	},
 	{
-		"oldPlayoId": "cbe86a92-252b-4f4b-9461-6dd2cccf4e4a",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2019-08-08T14:29:17.817Z",
-		"bookType": 0,
-		"ratingCount": 10,
-		"zipCode": "560038",
-		"modTS": "2020-11-24T05:48:40.669Z",
-		"inquiryPhone": "",
-		"inquiryType": -1,
-		"phone": [
-			"9845050923"
-		],
-		"sponsored": "",
-		"avgRating": 4.5,
-		"address": "Above Stanley Boutique, 6th Floor, Hallmark Square, 100 ft Road, Indiranagar, Bangalore",
-		"active": true,
-		"id": "cbe86a92-252b-4f4b-9461-6dd2cccf4e4a",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "q,balls,pool,q ball, Q Ball",
-		"bookSports": [
-			"SP77",
-			"SP6"
-		],
-		"name": "Q-Balls Billiards",
-		"area": "Indiranagar",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "cbe86a92-252b-4f4b-9461-6dd2cccf4e4a",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"timings": "10:00 AM - 11:30 PM",
-		"sports": [
-			"SP77",
-			"SP6"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "q-balls-billiards-indiranagar-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "",
-		"fullLink": "https://playo.co/venue?venueId=cbe86a92-252b-4f4b-9461-6dd2cccf4e4a",
-		"type": 0,
-		"email": [
-			"mouazzamazeez@hotmail.com"
-		],
-		"s3Folder": "QBALLS20190808142917817505",
-		"shareLink": "https://z34v4.app.goo.gl/X16J",
-		"deferLink": "https://z34v4.app.goo.gl/TAYZ",
-		"lat": 12.962304,
-		"lng": 77.641451,
-		"venueId": "cbe86a92-252b-4f4b-9461-6dd2cccf4e4a",
-		"__v": 2,
-		"coverImage": "",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/QBALLS20190808142917817505/QBalls0.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/QBALLS20190808142917817505/QBalls1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/QBALLS20190808142917817505/QBalls2.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/QBALLS20190808142917817505/QBalls3.jpeg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"isSafeAndHygiene": true,
-		"activityCount": 336,
-		"activityCountLastSyncDate": "2023-03-02T18:30:02.782Z",
-		"distance": 5.1866839134085945,
-		"activeKey": "q-balls-billiards-indiranagar-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
-	},
-	{
 		"inquiryPhone": "9916717744",
 		"remarks": "",
 		"infoData": [],
@@ -14730,7 +14589,7 @@
 		"description": "",
 		"createdTS": "2022-05-24T11:25:32.958Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560076",
 		"modTS": "2023-03-01T08:43:45.568Z",
 		"inquiryPhone": "9353067017",
@@ -14739,7 +14598,7 @@
 			"9353067017"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "No.98,4th cross, Shanbhog Nagappa layout,Billekahalli, Bannerghatta road, Bangalore",
 		"active": true,
 		"id": "bddb72a6-a5f0-46fd-b0cc-cc690d54839e",
@@ -35764,7 +35623,7 @@
 		"phone": [
 			"6364945868"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"name": "White Peacock Adanya Badminton Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-09-15T09:44:49.213Z",
@@ -35772,7 +35631,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 127,
+		"ratingCount": 128,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -44012,7 +43871,7 @@
 		"phone": [
 			"9123347676"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"name": "Machaxi Badminton Centre",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-03T05:16:07.494Z",
@@ -44020,7 +43879,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 42,
+		"ratingCount": 43,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -48102,40 +47961,22 @@
 		]
 	},
 	{
-		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2021-02-08T06:23:31.160Z",
-		"bookType": 0,
-		"ratingCount": 3,
-		"zipCode": "560083",
-		"modTS": "2022-08-19T11:10:08.417Z",
-		"inquiryPhone": "7760593869",
-		"inquiryType": -1,
-		"phone": [
-			"8939548947"
+		"inquiryPhone": "8618868841",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "fiton-sports-gottigere-bengaluru"
+			}
 		],
-		"sponsored": "",
-		"avgRating": 3,
-		"address": "Fiton Sports, No 10, opposite HIM Sree Bayalu Anjaneya Swamy Temple, 5, Kembathalli Main Rd, South Avenue, Gottigere, Bengaluru, Karnataka - 560083",
-		"active": true,
-		"id": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"category": 2,
+		"shareLink": "https://z34v4.app.goo.gl/2jXN",
 		"city": "Bengaluru",
-		"search": "",
-		"isSafeAndHygiene": true,
-		"bookSports": [
-			"SP5",
-			"SP7"
-		],
-		"name": "Fitso Bannerghatta Road Fiton",
 		"area": "Gottigere",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
+		"oldPlayoId": "5bcd75d06d91cf5241398dfa",
 		"functionData": [
 			{
-				"content": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
+				"content": "62196bb1-7a31-4be9-85d1-b020fdf30934",
 				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
@@ -48143,71 +47984,89 @@
 				"type": 3
 			}
 		],
-		"timings": "11 AM - 3 PM",
 		"sports": [
-			"SP5",
-			"SP7"
+			"SP2",
+			"SP0"
 		],
-		"members": false,
-		"state": "Karnataka",
+		"priority": 0,
 		"amenities": [
 			"Parking",
-			"First Aid",
-			"Change Room",
-			"Shower",
-			"Drinking Water"
+			"Restrooms",
+			"Power Backup",
+			"Lockers",
+			"Changing Rooms",
+			"Showers",
+			"Viewing Gallery"
 		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "fitso-bannerghatta-road-fiton-gottigere-bengaluru"
-			}
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/FITONSPORTS/FitonSportsmap1540191660098.png",
+		"zipCode": "560083",
+		"phone": [
+			"8618868841"
 		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- No cancellation or rescheduling allowed. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n\nSwimming - All Weather Pools:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Age restriction: 15+ mandatory. <br/>\n- Diving is not allowed. <br/>\n- All instructions at the pool has to be followed. <br/>\n- No coaching will be provided during the session. <br/>\n- Facility reserves the right to deny entry to the user. <br/>",
-		"fullLink": "https://playo.co/venue?venueId=9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"type": 0,
-		"email": [
-			"mohammed.chuna@getfitso.com"
-		],
-		"s3Folder": "INDOORSTUMPS20210208062331160145",
-		"__v": 5,
-		"coverImage": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/IndoorStumpscovercover1612583857938.jpeg",
-		"deferLink": "https://z34v4.app.goo.gl/8PPn",
-		"googleMapLink": "",
+		"avgRating": 4.2,
+		"name": "Fiton Sports",
+		"sponsoredExpiry": null,
+		"activatedOn": "2018-10-22T07:01:35.951Z",
+		"coverImage": "https://playo.gumlet.io/FITONSPORTS/FitonSports69.jpg",
+		"createdTS": "2018-10-22T07:01:35.951Z",
+		"inquiryType": -1,
+		"modTS": "2022-05-06T16:47:13.139Z",
+		"ratingCount": 72,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974594839.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974598457.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports13.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/FitsoBannerghattaRoadFiton1659974616598.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports71.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541058400.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541069470.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/INDOORSTUMPS20210208062331160145/fitsobannerghattaroadfiton1652541072809.jpg"
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports72.png"
 			}
 		],
-		"infoData": [],
+		"id": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"description": "",
+		"category": 2,
+		"s3Folder": "FITONSPORTS",
+		"state": "Karnataka",
+		"email": [
+			"fitonsports@gmail.com"
+		],
 		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/vXcj",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#10/5, Kembathalli Road, Opp Bayalu Anjaneya Temple, Gottigere",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/dz4z",
+		"search": "Swimming, Badminton, Gottigere, football",
+		"fullLink": "https://playo.co/venue/?venueId=62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"country": "India",
+		"timings": "Open 24x7",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP2",
+			"SP0"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
 		"lat": 12.855017,
 		"lng": 77.582608,
-		"venueId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
-		"activityCount": 91,
+		"placeId": "",
+		"type": 0,
+		"venueId": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"__v": 18,
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 8133,
 		"activityCountLastSyncDate": "2023-03-02T18:30:02.782Z",
 		"distance": 13.04295021100815,
-		"activeKey": "fitso-bannerghatta-road-fiton-gottigere-bengaluru",
+		"activeKey": "fiton-sports-gottigere-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -49808,7 +49667,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 599,
+		"ratingCount": 600,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -51328,6 +51187,104 @@
 		"activityCountLastSyncDate": "2023-03-02T18:30:02.782Z",
 		"distance": 13.570398569810111,
 		"activeKey": "n1-cricket-academy-hesarghatta-main-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "7975083636",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "diamond-shuttlers-club-adharsh-sports-arena-halehalli-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Halehalli",
+		"oldPlayoId": "a18875e4-6063-4199-999b-11b8209c3a7e",
+		"functionData": [
+			{
+				"content": "a18875e4-6063-4199-999b-11b8209c3a7e",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Parking",
+			"Restrooms",
+			"Drinking Water"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560036",
+		"phone": [
+			"7975083636"
+		],
+		"avgRating": 0,
+		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-03-03T14:14:45.903Z",
+		"inquiryType": -1,
+		"modTS": "2023-03-03T14:23:02.897Z",
+		"ratingCount": 0,
+		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
+		"category": 2,
+		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Green woods layout, Kashappa circle, Halehalli, Bidarahalli, Hobli, Bengaluru, Karnataka 560036",
+		"active": true,
+		"search": "diamond,shuttlers,adharsh",
+		"fullLink": "https://playo.co/venue?venueId=a18875e4-6063-4199-999b-11b8209c3a7e",
+		"country": "India",
+		"timings": "5AM - 12AM",
+		"addInfo": "Badminton: <br/>\n- Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible. <br/>\n- Sports equipment available for rent.",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/qXqH",
+		"deferLink": "https://z34v4.app.goo.gl/7ny9",
+		"lat": 13.036709789378971,
+		"lng": 77.70054662627757,
+		"venueId": "a18875e4-6063-4199-999b-11b8209c3a7e",
+		"__v": 1,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594/DiamondShuttlersClubAdharshSportsArena1677853306568.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594/DiamondShuttlersClubAdharshSportsArena1677853312401.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594/DiamondShuttlersClubAdharshSportsArena1677853317943.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594/DiamondShuttlersClubAdharshSportsArena1677853321772.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"distance": 13.586195433602002,
+		"activeKey": "diamond-shuttlers-club-adharsh-sports-arena-halehalli-bengaluru",
 		"offers": []
 	},
 	{
@@ -55261,7 +55218,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -57102,7 +57059,7 @@
 		"description": "",
 		"createdTS": "2021-10-25T02:35:06.208Z",
 		"bookType": 0,
-		"ratingCount": 66,
+		"ratingCount": 67,
 		"zipCode": "560100",
 		"modTS": "2022-04-10T10:13:26.850Z",
 		"inquiryPhone": "7892479805",
@@ -57990,7 +57947,7 @@
 		"createdTS": "2017-11-22T10:22:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-24T05:11:05.743Z",
-		"ratingCount": 144,
+		"ratingCount": 145,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYONSPORTSARENA/PlayOnSportsArena62.PNG"
@@ -59349,7 +59306,7 @@
 		"createdTS": "2017-01-07T17:23:44.117Z",
 		"inquiryType": -1,
 		"modTS": "2021-10-06T11:08:01.823Z",
-		"ratingCount": 207,
+		"ratingCount": 208,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUSTPLAYSPORTSCLUB/2.png"
@@ -64676,7 +64633,7 @@
 		"createdTS": "2017-12-06T13:20:19.572Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T08:27:50.092Z",
-		"ratingCount": 99,
+		"ratingCount": 100,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub17.png"
@@ -64826,7 +64783,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 162,
+		"ratingCount": 163,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
@@ -71745,7 +71702,7 @@
 		"description": "",
 		"createdTS": "2019-09-01T05:35:36.015Z",
 		"bookType": 0,
-		"ratingCount": 145,
+		"ratingCount": 146,
 		"zipCode": "572102",
 		"modTS": "2022-07-13T10:04:30.162Z",
 		"inquiryPhone": "9632779292",
@@ -86241,90 +86198,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "7760825069",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/H3VF",
-		"city": "Bengaluru",
-		"area": "Off Marthahalli-Sarjapur Road",
-		"oldPlayoId": "587124206d91cf3645ab07e5",
-		"functionData": [
-			{
-				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 2,
-				"caption": "Enquire Now!",
-				"type": 2
-			}
-		],
-		"sports": [
-			"SP27"
-		],
-		"priority": 0,
-		"amenities": [
-			"Cafe",
-			"Washroom"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"7760825069"
-		],
-		"avgRating": 3.8,
-		"name": "Bubble Strike Bengaluru",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.072Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": 0,
-		"modTS": "2022-11-16T07:27:52.826Z",
-		"ratingCount": 13,
-		"images": [],
-		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"category": 1,
-		"s3Folder": "BUBBLESTRIKEBENGALURU",
-		"state": "Karnataka",
-		"email": [
-			""
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/s7xB",
-		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
-		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"country": "India",
-		"timings": "6:00 AM - 10:00 PM",
-		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-03-02T18:30:02.782Z",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.939621,
-		"lng": 77.7055,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"distance": 12.546616529780627,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
@@ -86414,6 +86287,90 @@
 		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
 		"distance": 12.546616529780627,
 		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "7760825069",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
+		"area": "Off Marthahalli-Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab07e5",
+		"functionData": [
+			{
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP27"
+		],
+		"priority": 0,
+		"amenities": [
+			"Cafe",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"7760825069"
+		],
+		"avgRating": 3.8,
+		"name": "Bubble Strike Bengaluru",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.072Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.072Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
+		"ratingCount": 13,
+		"images": [],
+		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"category": 1,
+		"s3Folder": "BUBBLESTRIKEBENGALURU",
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
+		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
+		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"country": "India",
+		"timings": "6:00 AM - 10:00 PM",
+		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-03-02T18:30:02.782Z",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.939621,
+		"lng": 77.7055,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
