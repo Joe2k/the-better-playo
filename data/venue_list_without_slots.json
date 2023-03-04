@@ -43,14 +43,14 @@
 		"phone": [
 			"9535366350"
 		],
-		"avgRating": 3.4,
+		"avgRating": 3.6,
 		"name": "DDSA - St.Joseph's Boys' High School (European)",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-09-19T09:17:05.834Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-27T07:58:51.774Z",
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"id": "c7463e9b-08b4-4c3f-9894-ed9cfc79efc9",
 		"category": 2,
 		"s3Folder": "DDSASTJOSEPHSBOYSHIGHSCHOOLEUROPEANS20220919091705834667",
@@ -1148,7 +1148,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -2762,7 +2762,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 146,
+		"ratingCount": 147,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -6876,7 +6876,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 174,
+		"ratingCount": 175,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -8199,7 +8199,7 @@
 			"9148090314"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"address": "22, 23, Dr Vishnuvardhan road, Kadirenahalli Circle, RK Layout, BSK 2nd Stage, Bangalore - 70",
 		"active": true,
 		"id": "5a90fbe7-310e-4534-a50e-9e374c042f42",
@@ -10666,7 +10666,7 @@
 		"description": "",
 		"createdTS": "2022-03-23T09:13:55.877Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560078",
 		"modTS": "2022-04-08T16:08:53.844Z",
 		"inquiryPhone": "7022054234",
@@ -10675,7 +10675,7 @@
 			"7022054234"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"address": "95th Cross Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "9d4830bf-a67a-4dbf-bbd1-0f67667a3e3a",
@@ -11608,7 +11608,7 @@
 		"phone": [
 			"9148851908"
 		],
-		"avgRating": 4.1,
+		"avgRating": 4.2,
 		"name": "Dronacharya Premier Badminton Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-02-02T11:20:23.913Z",
@@ -11616,7 +11616,7 @@
 		"createdTS": "2018-02-02T11:20:23.913Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-24T19:00:56.224Z",
-		"ratingCount": 155,
+		"ratingCount": 156,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/DRONACHARYAPREMIERBADMINTONACADEMY/DronacharyaPremierBadmintonAcademy0.jpg"
@@ -11728,7 +11728,7 @@
 		"createdTS": "2017-01-07T17:23:44.012Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-14T06:03:52.120Z",
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAELECTRONICCITY/SriVisionSportsClub1656451438362.jpeg"
@@ -13476,7 +13476,7 @@
 		"description": "",
 		"createdTS": "2020-06-10T16:51:57.730Z",
 		"bookType": 0,
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"zipCode": "560075",
 		"modTS": "2022-11-29T09:45:47.255Z",
 		"inquiryPhone": "9739754329",
@@ -13485,7 +13485,7 @@
 			"9739754329"
 		],
 		"sponsored": "",
-		"avgRating": 2.5,
+		"avgRating": 2.6,
 		"address": "Opposite Global City International School, Malleshpalya, Kaggadasapura, Bengaluru, Karnataka",
 		"active": true,
 		"id": "399612e7-93de-4d91-8baf-831bfe618192",
@@ -16274,7 +16274,7 @@
 			"Drinking Water"
 		],
 		"tags": [],
-		"avgRating": 2.7,
+		"avgRating": 2.8,
 		"ratingCount": 22,
 		"members": false,
 		"isSafeAndHygiene": true,
@@ -19288,7 +19288,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -19743,7 +19743,7 @@
 		"createdTS": "2017-09-22T12:49:50.094Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:54:47.093Z",
-		"ratingCount": 178,
+		"ratingCount": 179,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KRIDAJAGATHUSPORTSACADEMY/kridajagathusportsacademy1608403133814.jpeg"
@@ -20282,7 +20282,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:09:05.576Z",
-		"ratingCount": 303,
+		"ratingCount": 304,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -21792,7 +21792,7 @@
 		"createdTS": "2018-05-21T10:18:25.718Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-18T16:17:01.949Z",
-		"ratingCount": 119,
+		"ratingCount": 120,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/EKALAVYAPREMIERBADMINTONACADEMY/EkalavyaPremierBadmintonAcademy0.jpg"
@@ -25776,7 +25776,7 @@
 		"createdTS": "2017-02-10T09:35:39.965Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-09T07:48:23.165Z",
-		"ratingCount": 206,
+		"ratingCount": 207,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OVALNETBADMINTONACADEMY/OvalNetBadmintonAcademy6.JPG"
@@ -26820,7 +26820,7 @@
 		"phone": [
 			"9986518170"
 		],
-		"avgRating": 3.4,
+		"avgRating": 3.6,
 		"name": "Layaan Sports Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
@@ -30203,7 +30203,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 57,
+		"ratingCount": 58,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -30212,7 +30212,7 @@
 			"7899165934"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "Site No. 11/3, 11/4, 11/5, Shivganga Layout, Near Mahadevapura, Outer Ring Road, Bangalore",
 		"active": true,
 		"id": "d6cbefba-e098-4f44-8836-19510c0fc1d7",
@@ -32004,7 +32004,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -39124,7 +39124,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 974,
+		"ratingCount": 975,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -43883,7 +43883,7 @@
 		"phone": [
 			"9123347676"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"name": "Machaxi Badminton Centre",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-09-03T05:16:07.494Z",
@@ -44610,7 +44610,7 @@
 		"createdTS": "2017-01-07T17:23:44.216Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-10T08:32:43.293Z",
-		"ratingCount": 101,
+		"ratingCount": 102,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661095521.jpeg"
@@ -44728,7 +44728,7 @@
 		"description": "",
 		"createdTS": "2020-10-27T05:44:48.907Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"zipCode": "560083",
 		"modTS": "2023-03-01T08:40:28.505Z",
 		"inquiryPhone": "9538451451",
@@ -44737,7 +44737,7 @@
 			"9538451451"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"address": "72/2, Vadrapalya, 2nd Block, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560083",
 		"active": true,
 		"id": "f293c673-1017-46bd-95fb-331a72c373cc",
@@ -55345,7 +55345,7 @@
 			"9143914333"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"address": "Harikrishna Badminton Zone, near Shobha Dream Acres, Balagere Rd, beside Harikrishna Fuel Station (Bharat Petroleum), Balagere, Bengaluru, Karnataka",
 		"active": true,
 		"id": "3b8f0752-cf7d-4870-baab-0474ba3aa61d",
@@ -58860,7 +58860,7 @@
 		"description": "",
 		"createdTS": "2019-06-04T11:44:20.666Z",
 		"bookType": 0,
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"zipCode": "560035",
 		"modTS": "2020-12-09T11:47:37.615Z",
 		"inquiryPhone": "9738522221",
@@ -66049,7 +66049,7 @@
 			"7676217257"
 		],
 		"sponsored": "Featured",
-		"avgRating": 3.5,
+		"avgRating": 3.6,
 		"address": "38/1, Hosur Road, Andapura, Off Huskur Road Electronics City Phase II, Anekal, Taluk, Bengaluru, Karnataka - 560100",
 		"active": true,
 		"id": "94870330-2071-4f34-813c-4eeb2592765a",
