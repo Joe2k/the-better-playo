@@ -11466,7 +11466,7 @@
 		"phone": [
 			"9845086820"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"name": "Smash O Station (SOS)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-05-24T11:47:24.440Z",
@@ -11474,7 +11474,7 @@
 		"createdTS": "2018-05-24T11:47:24.440Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-11T16:15:42.609Z",
-		"ratingCount": 182,
+		"ratingCount": 183,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASHOSTATIONSOS/SmashOStationSOS1639900290696.jpg"
@@ -16521,7 +16521,7 @@
 		"createdTS": "2017-01-07T17:23:44.188Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-20T09:02:48.643Z",
-		"ratingCount": 419,
+		"ratingCount": 420,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BASELINESPORTS/baselinesports1614668155568.jpeg"
@@ -19609,14 +19609,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -21897,7 +21897,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 419,
+		"ratingCount": 420,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -46526,7 +46526,7 @@
 		"description": "",
 		"createdTS": "2022-03-27T14:18:33.452Z",
 		"bookType": 0,
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"zipCode": "560036",
 		"modTS": "2023-01-15T14:27:28.391Z",
 		"inquiryPhone": "9844613174",
@@ -51504,7 +51504,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 303,
+		"ratingCount": 304,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
