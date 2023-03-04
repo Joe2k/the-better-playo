@@ -2077,7 +2077,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -10056,7 +10056,7 @@
 		"createdTS": "2023-02-04T15:20:24.791Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T10:29:02.232Z",
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"id": "6d38dd30-f304-4fe5-9bc9-ce23c6278aee",
 		"category": 2,
 		"s3Folder": "COLORSTABLETENNIS20230204152024791277",
@@ -18418,7 +18418,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 284,
+		"ratingCount": 285,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -24296,7 +24296,7 @@
 		"createdTS": "2017-01-07T17:23:44.204Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-19T08:44:42.841Z",
-		"ratingCount": 497,
+		"ratingCount": 498,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYMANIA/playmania16.jpg"
@@ -24713,7 +24713,7 @@
 		"createdTS": "2018-12-01T17:50:09.942Z",
 		"inquiryType": -1,
 		"modTS": "2021-02-16T14:42:03.476Z",
-		"ratingCount": 124,
+		"ratingCount": 125,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SILVERFEATHERSBADMINTONACADEMY/SilverFeathersBadmintonAcademy1613486490660.jpeg"
@@ -53396,7 +53396,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 183,
+		"ratingCount": 184,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
@@ -70823,7 +70823,7 @@
 		"activityCount": 8,
 		"activityCountLastSyncDate": "2023-03-03T18:30:03.476Z",
 		"avgRating": 5,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
