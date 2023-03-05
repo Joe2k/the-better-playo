@@ -3187,7 +3187,7 @@
 		"description": "",
 		"createdTS": "2019-03-03T12:01:20.906Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560010",
 		"modTS": "2023-02-23T09:48:50.001Z",
 		"inquiryPhone": "8867591991",
@@ -3196,7 +3196,7 @@
 			"8867591991"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.5,
 		"address": "15/1, 1st Cross Road, Near Motappa Park, Shivanagar, Manjunath Nagar, Rajajinagar, Bengaluru, Karnataka - 560010",
 		"active": true,
 		"id": "19644356-26c9-4837-a2f0-bf3959432240",
@@ -4095,7 +4095,7 @@
 		"description": "",
 		"createdTS": "2020-08-20T07:30:46.373Z",
 		"bookType": 0,
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"zipCode": "560032",
 		"modTS": "2022-11-21T07:06:56.501Z",
 		"inquiryPhone": "8073761989",
@@ -4412,7 +4412,7 @@
 		"createdTS": "2017-04-16T08:11:38.952Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:31:36.147Z",
-		"ratingCount": 209,
+		"ratingCount": 210,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FREEHITZ/FreeHitz1586243802383.png"
@@ -5994,7 +5994,7 @@
 		"description": "",
 		"createdTS": "2019-03-12T16:57:18.518Z",
 		"bookType": 0,
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"zipCode": "560032",
 		"modTS": "2021-12-17T09:27:22.575Z",
 		"inquiryPhone": "9449257507",
@@ -6320,7 +6320,7 @@
 		"createdTS": "2017-01-07T17:23:44.043Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-08T17:30:01.318Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSKALYANNAGAR/DrShyamPrasadMukherjeeKreedaSankeerna1649434684516.jpeg"
@@ -7368,7 +7368,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-21T07:21:23.107Z",
-		"ratingCount": 187,
+		"ratingCount": 188,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -12460,7 +12460,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:19:14.117Z",
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -12561,7 +12561,7 @@
 		"description": "",
 		"createdTS": "2019-01-24T11:23:49.532Z",
 		"bookType": 0,
-		"ratingCount": 105,
+		"ratingCount": 106,
 		"zipCode": "560072",
 		"modTS": "2020-09-05T15:30:37.203Z",
 		"inquiryPhone": "7760634720",
@@ -15022,7 +15022,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T17:20:19.097Z",
 		"bookType": 0,
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"zipCode": "560043",
 		"modTS": "2021-10-25T10:02:19.486Z",
 		"inquiryPhone": "9741014455",
@@ -19884,7 +19884,7 @@
 		"createdTS": "2018-04-21T12:42:17.568Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:22:18.907Z",
-		"ratingCount": 121,
+		"ratingCount": 122,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUPERSMASHERS/supersmashers0.jpeg"
@@ -20728,7 +20728,7 @@
 			"9880095731"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"address": "Landmark: Near Therige Bhavan; #26/27, Nisarga Orchards, Papareddypalya, Nagarbhavi 2nd Stage",
 		"active": true,
 		"id": "80c037d8-b091-47f7-95f7-d1c1d2085258",
@@ -21056,7 +21056,7 @@
 		"createdTS": "2017-01-07T17:23:44.190Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:37:40.468Z",
-		"ratingCount": 327,
+		"ratingCount": 328,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONACADEMY/1.png"
@@ -21154,7 +21154,7 @@
 		"description": "",
 		"createdTS": "2019-06-25T15:47:03.302Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560072",
 		"modTS": "2023-02-25T07:51:54.979Z",
 		"inquiryPhone": "7483077948",
@@ -21163,7 +21163,7 @@
 			"7483077948"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "31, Marilingappa Layout, Papareddipalya Circle, Bengaluru, Karnataka - 560072",
 		"active": true,
 		"id": "ad5ad81f-cf03-4530-a455-f3f5da457763",
@@ -22794,7 +22794,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 76,
+		"ratingCount": 78,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -22803,7 +22803,7 @@
 			"7406092866"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"address": "D9, N1 Road, Manyata Tech Park, Outer Ring Road, Nagwara",
 		"active": true,
 		"id": "63a7ba2e-737d-4ce3-a2f1-0c06e9641c30",
@@ -23306,7 +23306,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 357,
+		"ratingCount": 358,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -24148,7 +24148,7 @@
 		"createdTS": "2017-01-07T17:23:44.176Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:54:21.133Z",
-		"ratingCount": 185,
+		"ratingCount": 186,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ALTISARENA/altisarena1.jpg"
@@ -25146,7 +25146,7 @@
 		"createdTS": "2018-06-26T05:45:52.918Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-04T11:15:55.765Z",
-		"ratingCount": 91,
+		"ratingCount": 92,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KINGSCOURTBADMINTONACADEMY/KingsCourtBadmintonAcademy1641476699643.jpeg"
@@ -25426,7 +25426,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-04T18:11:19.891Z",
+		"modTS": "2023-03-05T04:56:03.325Z",
 		"ratingCount": 2,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
@@ -25442,7 +25442,7 @@
 		"members": false,
 		"address": "#12th Cross, Little Flower Hospital Road, Dead End, Near LM Nagara Lake, Near Aladhamara Bus Stop, Ramamurthy Nagar, Bangalore - 560016",
 		"active": true,
-		"search": "",
+		"search": "BAB , BAB Badminton , B. A. B. BADMINTON , b. a. b badminton , bab. , BAB club , bab court ",
 		"fullLink": "https://playo.co/venue?venueId=819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"country": "India",
 		"timings": "6 AM - 11 PM",
@@ -25681,7 +25681,7 @@
 		"createdTS": "2017-01-07T17:23:44.171Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:39:31.632Z",
-		"ratingCount": 233,
+		"ratingCount": 234,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASPORTS/nammasports0.png"
@@ -26729,7 +26729,7 @@
 		"createdTS": "2018-07-12T16:39:11.522Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:55:04.368Z",
-		"ratingCount": 188,
+		"ratingCount": 189,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PRAGATHIBADMINTONACADEMY/PragathiBadmintonAcademy1586172144046.png"
@@ -28529,7 +28529,7 @@
 		"description": "",
 		"createdTS": "2020-02-26T09:42:19.435Z",
 		"bookType": 0,
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"zipCode": "560016",
 		"modTS": "2021-12-17T07:36:32.925Z",
 		"inquiryPhone": "9980151415",
@@ -30792,7 +30792,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 337,
+		"ratingCount": 338,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -32879,7 +32879,7 @@
 		"createdTS": "2018-08-11T08:37:33.018Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-28T14:52:13.706Z",
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RALLYSHOTSSPORTSARENA/RallyShotsSportsArena1646059865234.jpeg"
@@ -33688,7 +33688,7 @@
 		"createdTS": "2018-04-24T05:31:16.009Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T08:17:11.163Z",
-		"ratingCount": 279,
+		"ratingCount": 280,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HIGHLINESPORTSINDOORBADMINTONACADEMY/highlinesportsindoorbadmintonacademy0.jpg"
@@ -34010,7 +34010,7 @@
 		"createdTS": "2018-07-10T09:57:40.464Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-19T07:41:40.562Z",
-		"ratingCount": 165,
+		"ratingCount": 166,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETSPLAYBADMINTONARENA/LetsPlayArenaRamamurthyNagar1646739068427.PNG"
@@ -34207,7 +34207,7 @@
 		"description": "",
 		"createdTS": "2019-02-17T16:44:14.836Z",
 		"bookType": 0,
-		"ratingCount": 52,
+		"ratingCount": 53,
 		"zipCode": "560098",
 		"modTS": "2021-12-18T17:39:04.995Z",
 		"inquiryPhone": "7676763377",
@@ -34216,7 +34216,7 @@
 			"7676763377"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "#20/12, 60ft Road, BHEL Layout, Near BBMP Office, Opposite Water Tank, Pattangere",
 		"active": true,
 		"id": "6b39f4d6-65bd-4a7e-aafb-d801a7416256",
@@ -34417,7 +34417,7 @@
 		"phone": [
 			"8050826304"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"name": "Yash Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.174Z",
@@ -34425,7 +34425,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -34494,7 +34494,7 @@
 		"description": "",
 		"createdTS": "2019-05-05T05:34:23.674Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560016",
 		"modTS": "2021-12-16T10:03:15.331Z",
 		"inquiryPhone": "8296089545",
@@ -34680,7 +34680,7 @@
 		"createdTS": "2017-06-12T11:36:42.745Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-03T08:18:10.268Z",
-		"ratingCount": 193,
+		"ratingCount": 194,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEBIGBOX/TheBigBox1639914674174.jpg"
@@ -36315,7 +36315,7 @@
 		"description": "",
 		"createdTS": "2020-09-17T07:08:03.067Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560043",
 		"modTS": "2021-12-21T14:06:14.293Z",
 		"inquiryPhone": "9900296390",
@@ -36467,7 +36467,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-13T10:58:14.907Z",
 		"bookType": 0,
-		"ratingCount": 52,
+		"ratingCount": 53,
 		"zipCode": "560056",
 		"modTS": "2022-11-29T08:03:31.509Z",
 		"inquiryPhone": "7676078196",
@@ -39678,7 +39678,7 @@
 		"phone": [
 			"8064565555"
 		],
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"name": "Skyfinch Sports Center - TC Palya Main Road",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.222Z",
@@ -39686,7 +39686,7 @@
 		"createdTS": "2017-01-07T17:23:44.222Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T09:23:19.736Z",
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYFINCHBADMINTONCENTER/skyfinchbadmintoncenter0.jpg"
@@ -43175,7 +43175,7 @@
 		"createdTS": "2018-07-13T13:13:54.449Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:42:18.995Z",
-		"ratingCount": 112,
+		"ratingCount": 113,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYLINESPORTSACADEMY/skylinesportsacademy0.jpg"
@@ -46526,7 +46526,7 @@
 		"description": "",
 		"createdTS": "2022-03-27T14:18:33.452Z",
 		"bookType": 0,
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"zipCode": "560036",
 		"modTS": "2023-01-15T14:27:28.391Z",
 		"inquiryPhone": "9844613174",
@@ -46535,7 +46535,7 @@
 			"9844613174"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"address": "11th Cross,Gayathri layout,Devasandra,Basavanapura road,KR Puram,Bangalore 560036",
 		"active": true,
 		"id": "f04795eb-cc82-4789-a08e-81636c4dea6d",
@@ -51352,14 +51352,14 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 0,
+		"avgRating": 4,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-03T17:16:23.281Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
 		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
@@ -51590,7 +51590,7 @@
 		"description": "",
 		"createdTS": "2022-06-28T17:26:55.895Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560049",
 		"modTS": "2023-01-25T16:46:16.726Z",
 		"inquiryPhone": "9032526301",
@@ -51599,7 +51599,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
 		"active": true,
 		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
@@ -54708,7 +54708,7 @@
 		"description": "",
 		"createdTS": "2021-06-20T15:14:15.772Z",
 		"bookType": 0,
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"zipCode": "560049",
 		"modTS": "2022-11-03T05:50:06.429Z",
 		"inquiryPhone": "6364834834",
@@ -60434,7 +60434,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 193,
+		"ratingCount": 194,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
@@ -60708,7 +60708,7 @@
 			"6363514121"
 		],
 		"sponsored": "",
-		"avgRating": 3.4,
+		"avgRating": 3.3,
 		"address": "Golden Fins, Whitefield Main Road, Kumbena Agrahara, Krishnarajapura, Bengaluru, Karnataka - 560067",
 		"active": true,
 		"id": "93f8ea62-f0c0-4de2-9bd5-a66820543740",
@@ -61098,7 +61098,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 409,
+		"ratingCount": 410,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
@@ -64855,7 +64855,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 163,
+		"ratingCount": 164,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
@@ -68152,7 +68152,7 @@
 		"createdTS": "2018-07-13T10:24:01.027Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-04T11:37:16.275Z",
-		"ratingCount": 40,
+		"ratingCount": 41,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TRIUMPHSPORTSARENA/Badminton3651603522111418.jpg"
@@ -68816,7 +68816,7 @@
 		"phone": [
 			"9663929996"
 		],
-		"avgRating": 3.5,
+		"avgRating": 3.6,
 		"name": "Namma Sports Village",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.017Z",
@@ -68824,7 +68824,7 @@
 		"createdTS": "2017-01-07T17:23:44.017Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-29T09:49:19.353Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASPORTSVILLAGE/NammaSportsVillage1669715304560.jpg"
