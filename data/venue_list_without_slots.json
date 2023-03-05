@@ -6379,7 +6379,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T05:10:01.147Z",
 		"bookType": 0,
-		"ratingCount": 116,
+		"ratingCount": 117,
 		"zipCode": "560094",
 		"modTS": "2022-01-19T07:45:18.168Z",
 		"inquiryPhone": "9880373773",
@@ -10258,7 +10258,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 260,
+		"ratingCount": 261,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -24296,7 +24296,7 @@
 		"createdTS": "2017-01-07T17:23:44.204Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-19T08:44:42.841Z",
-		"ratingCount": 498,
+		"ratingCount": 499,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYMANIA/playmania16.jpg"
@@ -25427,7 +25427,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-05T04:56:03.325Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -26729,7 +26729,7 @@
 		"createdTS": "2018-07-12T16:39:11.522Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:55:04.368Z",
-		"ratingCount": 189,
+		"ratingCount": 190,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PRAGATHIBADMINTONACADEMY/PragathiBadmintonAcademy1586172144046.png"
