@@ -5416,7 +5416,7 @@
 		"description": "",
 		"createdTS": "2019-10-07T08:15:10.938Z",
 		"bookType": 0,
-		"ratingCount": 32,
+		"ratingCount": 33,
 		"zipCode": "560017",
 		"modTS": "2022-11-07T12:06:15.045Z",
 		"inquiryPhone": "8884177421",
@@ -5425,7 +5425,7 @@
 			"8884177421"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "IndiQube Golf View, Golf View Homes, 3rd Cross Rd, Ammanamma Layout, Rustam Bagh Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "23f77c8b-52c1-4de5-8bcc-35ce0c1dcd64",
@@ -16676,7 +16676,7 @@
 		"createdTS": "2018-11-18T11:20:24.403Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T07:26:57.826Z",
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSSPORTS/whitefeatherssports1.jpg"
@@ -21464,7 +21464,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 285,
+		"ratingCount": 284,
 		"zipCode": "560068",
 		"modTS": "2023-03-01T08:40:41.907Z",
 		"inquiryPhone": "6364444441",
