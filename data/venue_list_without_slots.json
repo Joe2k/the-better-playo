@@ -3588,6 +3588,158 @@
 		]
 	},
 	{
+		"inquiryPhone": "9880170007",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "the-sports-habitat-footlock-patel’s-inn-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/yqH1",
+		"city": "Bengaluru",
+		"area": "Patel’s Inn",
+		"oldPlayoId": "58da62916d91cf4ef3a7d795",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "8f06af1f-a58f-49ee-978f-bd604d8633f2",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"Drinking water",
+			"First Aid",
+			"Shower",
+			"Change Room"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "",
+		"zipCode": "560032",
+		"phone": [
+			"8861093733"
+		],
+		"avgRating": 2.9,
+		"name": "The Sports Habitat - Footlock",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-03-28T13:18:09.163Z",
+		"coverImage": "",
+		"createdTS": "2017-03-28T13:18:09.163Z",
+		"inquiryType": -1,
+		"modTS": "2023-03-05T15:16:39.684Z",
+		"ratingCount": 49,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028354070.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028358940.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028364370.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028371021.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028377852.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028381641.jpeg"
+			}
+		],
+		"id": "8f06af1f-a58f-49ee-978f-bd604d8633f2",
+		"description": "",
+		"category": 2,
+		"s3Folder": "FOOTLOCKPATELSINN",
+		"state": "Karnataka",
+		"email": [
+			"thesportshabitat@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Patel Inn Resort, 2nd Block, No.1, 15th Cross Road, 2nd Block, Govindaraj Garden, RT Nagar, Bengaluru, Karnataka",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/LaH4",
+		"search": "patels inn , foot , footlock , tsh , aeraa ",
+		"fullLink": "https://playo.co/venue/?venueId=8f06af1f-a58f-49ee-978f-bd604d8633f2",
+		"country": "India",
+		"timings": "5 AM - 11 PM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP2"
+		],
+		"bookType": 0,
+		"lat": 13.021197458197644,
+		"lng": 77.59813583815607,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "8f06af1f-a58f-49ee-978f-bd604d8633f2",
+		"isSafeAndHygiene": true,
+		"activityCount": 1668,
+		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
+		"__v": 1,
+		"bnpl": false,
+		"distance": 5.534436353040456,
+		"activeKey": "the-sports-habitat-footlock-patel’s-inn-bengaluru",
+		"offers": [
+			{
+				"_id": "5db7f5b1c45768480b8bac07",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"countryCode": "+91",
+				"createdTS": "2019-10-29T08:17:53.467Z",
+				"offerContent": "8f06af1f-a58f-49ee-978f-bd604d8633f2",
+				"coupon": "",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/TSHFootlockInauguralOfferBookFootballatjust99perhourt9e5accover1678029955430.jpg",
+				"expiry": "2023-03-15T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP2,SP56",
+				"activeKey": "tsh-footlock-inaugural-offer-book-football-at-just-₹99-per-hour!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till March 15, 2023",
+						"content": "https://playo.co/venue/?venueId=8f06af1f-a58f-49ee-978f-bd604d8633f2",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "TSH Footlock - Inaugural Offer - Book Football at just ₹99 per hour!",
+				"id": "3481ec92-193c-4b82-be66-3923269048a6",
+				"offerName": "TSH Footlock - Inaugural Offer - Book Football at just ₹99 per hour!",
+				"shareLink": "https://z34v4.app.goo.gl/omGx",
+				"deferLink": "https://z34v4.app.goo.gl/fqEw",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395,
+				"terms": "\n- Offer is auto applied on adding slots to your cart. "
+			}
+		]
+	},
+	{
 		"oldPlayoId": "00edbde9-0640-4109-9986-3874f21be3d6",
 		"cityCode": 1,
 		"description": "",
@@ -4412,7 +4564,7 @@
 		"createdTS": "2017-04-16T08:11:38.952Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:31:36.147Z",
-		"ratingCount": 210,
+		"ratingCount": 211,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FREEHITZ/FreeHitz1586243802383.png"
@@ -10608,7 +10760,7 @@
 		"createdTS": "2017-12-13T11:04:51.227Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-20T08:40:38.553Z",
-		"ratingCount": 235,
+		"ratingCount": 236,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/4SSHUTTLESMASHSPORTSSTUDIO/4sshuttlesmashsportsstudio5.jpg"
@@ -11474,7 +11626,7 @@
 		"createdTS": "2018-05-24T11:47:24.440Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-11T16:15:42.609Z",
-		"ratingCount": 183,
+		"ratingCount": 184,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASHOSTATIONSOS/SmashOStationSOS1639900290696.jpg"
@@ -13357,7 +13509,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 280,
+		"ratingCount": 281,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -25492,7 +25644,49 @@
 		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
 		"distance": 9.872799518268788,
 		"activeKey": "bab-badminton-club-ramamurthy-nagar-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "5d8a06abc457686d875bb4c2",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"countryCode": "+91",
+				"createdTS": "2019-09-24T12:06:03.910Z",
+				"offerContent": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
+				"coupon": "",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/BABBadmintonClubExclusiveOfferBookyourBadmintoncourtatjust107perhourpdbfhmcover1678030914595.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "bab-badminton-club-exclusive-offer-book-your-badminton-court-starting-at-just-₹107-per-hour!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venue/?venueId=819465e3-c5df-4ef1-a765-2d9d4b302d7e",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "B.A.B Badminton Club Exclusive Offer - Book your Badminton court starting at just ₹107 per hour!",
+				"id": "cadd45e2-6dfa-42c4-88be-95135f787427",
+				"offerName": "B.A.B Badminton Club Exclusive Offer - Book your Badminton court starting at just ₹107 per hour!",
+				"shareLink": "https://z34v4.app.goo.gl/rto9",
+				"deferLink": "https://z34v4.app.goo.gl/iQCc",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395,
+				"terms": "- Offer valid only on non peak hours between 10 AM & 4 PM <br/>\n- Standard pricing of ₹140 per hour is applicable on all other slots\n"
+			}
+		]
 	},
 	{
 		"inquiryPhone": "7676669966",
@@ -30792,7 +30986,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 338,
+		"ratingCount": 339,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -33578,7 +33772,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:04:45.664Z",
-		"ratingCount": 64,
+		"ratingCount": 65,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -36048,7 +36242,49 @@
 		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
 		"distance": 11.246344000441235,
 		"activeKey": "rising-star-sports-arena-star-badminton-haralur-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "5d78f5e0c457681ca388a9ed",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"countryCode": "+91",
+				"createdTS": "2019-09-11T13:25:52.997Z",
+				"offerContent": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
+				"coupon": "PLAYON",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/RisingStarSportsArenaInauguralOfferFlat20offonallbookings2jocckcover1678030233241.jpg",
+				"expiry": "2023-04-30T00:00:00.000Z",
+				"multiCity": false,
+				"sports": "SP2,SP57,SP56",
+				"activeKey": "rising-star-sports-arena-inaugural-offer-flat-20-off-on-all-bookings!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "PLAYON",
+						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"validity": "Valid till April 30, 2023",
+						"content": "https://playo.co/venue/?venueId=4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Rising Star Sports Arena Inaugural Offer - Flat 20% off on all bookings!",
+				"id": "e1d47f97-3a03-434f-821e-4713c39aa8de",
+				"offerName": "Rising Star Sports Arena Inaugural Offer - Flat 20% off on all bookings!",
+				"shareLink": "https://z34v4.app.goo.gl/Jhgr",
+				"deferLink": "https://z34v4.app.goo.gl/s5Dq",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395,
+				"terms": ""
+			}
+		]
 	},
 	{
 		"inquiryPhone": "9513467949",
@@ -38099,7 +38335,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 76,
+		"ratingCount": 77,
 		"zipCode": "560037",
 		"modTS": "2023-03-03T18:11:46.654Z",
 		"inquiryPhone": "9920601966",
@@ -38265,7 +38501,7 @@
 		"createdTS": "2017-01-07T17:23:44.199Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-08T05:31:53.575Z",
-		"ratingCount": 327,
+		"ratingCount": 328,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ARATTBIGGAME/arattbiggamebadminton1627916662265.jpg"
@@ -43999,7 +44235,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 43,
+		"ratingCount": 44,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -48081,157 +48317,6 @@
 		]
 	},
 	{
-		"inquiryPhone": "8618868841",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "fiton-sports-gottigere-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/2jXN",
-		"city": "Bengaluru",
-		"area": "Gottigere",
-		"oldPlayoId": "5bcd75d06d91cf5241398dfa",
-		"functionData": [
-			{
-				"content": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-				"caption": "Book Now!",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 3,
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP2",
-			"SP0"
-		],
-		"priority": 0,
-		"amenities": [
-			"Parking",
-			"Restrooms",
-			"Power Backup",
-			"Lockers",
-			"Changing Rooms",
-			"Showers",
-			"Viewing Gallery"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/FITONSPORTS/FitonSportsmap1540191660098.png",
-		"zipCode": "560083",
-		"phone": [
-			"8618868841"
-		],
-		"avgRating": 4.2,
-		"name": "Fiton Sports",
-		"sponsoredExpiry": null,
-		"activatedOn": "2018-10-22T07:01:35.951Z",
-		"coverImage": "https://playo.gumlet.io/FITONSPORTS/FitonSports69.jpg",
-		"createdTS": "2018-10-22T07:01:35.951Z",
-		"inquiryType": -1,
-		"modTS": "2022-05-06T16:47:13.139Z",
-		"ratingCount": 72,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports13.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports71.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports72.png"
-			}
-		],
-		"id": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"description": "",
-		"category": 2,
-		"s3Folder": "FITONSPORTS",
-		"state": "Karnataka",
-		"email": [
-			"fitonsports@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "#10/5, Kembathalli Road, Opp Bayalu Anjaneya Temple, Gottigere",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/dz4z",
-		"search": "Swimming, Badminton, Gottigere, football",
-		"fullLink": "https://playo.co/venue/?venueId=62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"country": "India",
-		"timings": "Open 24x7",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"bookSports": [
-			"SP2",
-			"SP0"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.855017,
-		"lng": 77.582608,
-		"placeId": "",
-		"type": 0,
-		"venueId": "62196bb1-7a31-4be9-85d1-b020fdf30934",
-		"__v": 18,
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 8140,
-		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
-		"distance": 13.04295021100815,
-		"activeKey": "fiton-sports-gottigere-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
-	},
-	{
 		"oldPlayoId": "9c4054fe-8683-46cc-b8fa-b814e4ecd181",
 		"cityCode": 1,
 		"description": "",
@@ -48338,6 +48423,157 @@
 		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
 		"distance": 13.04295021100815,
 		"activeKey": "fitso-bannerghatta-road-fiton-gottigere-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
+	},
+	{
+		"inquiryPhone": "8618868841",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "fiton-sports-gottigere-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/2jXN",
+		"city": "Bengaluru",
+		"area": "Gottigere",
+		"oldPlayoId": "5bcd75d06d91cf5241398dfa",
+		"functionData": [
+			{
+				"content": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP2",
+			"SP0"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"Restrooms",
+			"Power Backup",
+			"Lockers",
+			"Changing Rooms",
+			"Showers",
+			"Viewing Gallery"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/FITONSPORTS/FitonSportsmap1540191660098.png",
+		"zipCode": "560083",
+		"phone": [
+			"8618868841"
+		],
+		"avgRating": 4.2,
+		"name": "Fiton Sports",
+		"sponsoredExpiry": null,
+		"activatedOn": "2018-10-22T07:01:35.951Z",
+		"coverImage": "https://playo.gumlet.io/FITONSPORTS/FitonSports69.jpg",
+		"createdTS": "2018-10-22T07:01:35.951Z",
+		"inquiryType": -1,
+		"modTS": "2022-05-06T16:47:13.139Z",
+		"ratingCount": 72,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports13.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports71.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports72.png"
+			}
+		],
+		"id": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"description": "",
+		"category": 2,
+		"s3Folder": "FITONSPORTS",
+		"state": "Karnataka",
+		"email": [
+			"fitonsports@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#10/5, Kembathalli Road, Opp Bayalu Anjaneya Temple, Gottigere",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/dz4z",
+		"search": "Swimming, Badminton, Gottigere, football",
+		"fullLink": "https://playo.co/venue/?venueId=62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"country": "India",
+		"timings": "Open 24x7",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP2",
+			"SP0"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.855017,
+		"lng": 77.582608,
+		"placeId": "",
+		"type": 0,
+		"venueId": "62196bb1-7a31-4be9-85d1-b020fdf30934",
+		"__v": 18,
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 8140,
+		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
+		"distance": 13.04295021100815,
+		"activeKey": "fiton-sports-gottigere-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -48965,7 +49201,7 @@
 		"description": "",
 		"createdTS": "2022-06-22T19:23:10.085Z",
 		"bookType": 0,
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"zipCode": "560064",
 		"modTS": "2022-08-31T08:23:10.887Z",
 		"inquiryPhone": "9740579762",
@@ -49787,7 +50023,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 602,
+		"ratingCount": 603,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -50221,7 +50457,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2023-02-22T11:41:16.693Z",
+		"modTS": "2023-03-05T15:54:12.681Z",
 		"shareLink": "https://z34v4.app.goo.gl/6c9Y",
 		"deferLink": "https://z34v4.app.goo.gl/gxgf",
 		"fullLink": "https://playo.co/venue/?venueId=ee2396f3-6e76-47cf-af37-04a4e88455df",
@@ -50242,7 +50478,7 @@
 		"lng": 77.55551749189787,
 		"search": "tough , x , football , xtough",
 		"sponsored": "Featured",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 7,
 		"state": "Karnataka",
 		"type": 0,
 		"venueId": "ee2396f3-6e76-47cf-af37-04a4e88455df",
@@ -50280,7 +50516,7 @@
 				"expiry": "2023-12-31T00:00:00.000Z",
 				"multiCity": false,
 				"sports": "SP2,SP56",
-				"activeKey": "toughx-sports-arena-exclusive-playo-offer-get-20-off-on-all-slots!-bengaluru",
+				"activeKey": "toughx-sports-arena-exclusive-playo-offer-get-20-off-on-all-bookings!-bengaluru",
 				"infoData": [
 					{
 						"coupon": "PLAYON",
@@ -50300,11 +50536,11 @@
 				},
 				"active": true,
 				"offerType": "venue",
-				"shareMsg": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all slots!",
+				"shareMsg": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all bookings!",
 				"id": "304b5add-4de1-473f-a70c-ec2a134f3b99",
-				"offerName": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all slots!",
-				"shareLink": "https://z34v4.app.goo.gl/9wXj",
-				"deferLink": "https://z34v4.app.goo.gl/mf1L",
+				"offerName": "ToughX Sports Arena Exclusive Playo Offer - Get 20% off on all bookings!",
+				"shareLink": "https://z34v4.app.goo.gl/3t9M",
+				"deferLink": "https://z34v4.app.goo.gl/e77v",
 				"cityLat": 12.9539974,
 				"cityLng": 77.6309395
 			}
@@ -60940,113 +61176,6 @@
 		"offers": []
 	},
 	{
-		"oldPlayoId": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
-		"cityCode": 1,
-		"description": "",
-		"createdTS": "2020-02-07T18:01:51.288Z",
-		"bookType": 0,
-		"ratingCount": 12,
-		"zipCode": "560107",
-		"modTS": "2023-02-09T15:10:58.892Z",
-		"inquiryPhone": "9731091599",
-		"inquiryType": -1,
-		"phone": [
-			"9731091599"
-		],
-		"sponsored": "",
-		"avgRating": 4.6,
-		"address": "Opposite Acharya University, #44, Hesaraghatta Main Road, Soldevanahalli, Bengaluru",
-		"active": true,
-		"id": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
-		"category": 2,
-		"city": "Bengaluru",
-		"search": "Aeraa , Sports , tsh , Aeraa , Sports , aeraa , Tsh , TSH , tsh , tSH , TSh , TsH",
-		"bookSports": [
-			"SP2",
-			"SP56"
-		],
-		"name": "The Sports Habitat - Acharya",
-		"area": "Soldevanahalli",
-		"sponsoredRadius": 4,
-		"country": "India",
-		"tags": [],
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"timings": "Open 24x7",
-		"sports": [
-			"SP2",
-			"SP56"
-		],
-		"members": false,
-		"state": "Karnataka",
-		"amenities": [
-			"Washroom",
-			"Change Room",
-			"Parking",
-			"Drinking Water",
-			"First Aid"
-		],
-		"keywords": [
-			{
-				"active": true,
-				"key": "the-sports-habitat-acharya-soldevanahalli-bengaluru"
-			}
-		],
-		"restricted": 0,
-		"notifyBooking": 0,
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"fullLink": "https://playo.co/venue?venueId=ea9c99d3-9912-4248-be8d-6daa93b9424b",
-		"type": 0,
-		"email": [
-			"thesportshabitat@gmail.com"
-		],
-		"s3Folder": "THESPORTSHABITAT8THMILE20200207180151288574",
-		"shareLink": "https://z34v4.app.goo.gl/Wewv",
-		"deferLink": "https://z34v4.app.goo.gl/rVuz",
-		"lat": 13.081228,
-		"lng": 77.482212,
-		"venueId": "ea9c99d3-9912-4248-be8d-6daa93b9424b",
-		"__v": 4,
-		"coverImage": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharyacovercover1668090540789.jpeg",
-		"googleMapLink": "",
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090517502.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090521493.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090524412.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090526963.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THESPORTSHABITAT8THMILE20200207180151288574/TheSportsHabitatAcharya1668090529828.jpeg"
-			}
-		],
-		"infoData": [],
-		"logoImg": "",
-		"mapImage": "",
-		"remarks": "",
-		"isSafeAndHygiene": true,
-		"activityCount": 206,
-		"activityCountLastSyncDate": "2023-03-04T18:30:03.636Z",
-		"bnpl": false,
-		"distance": 17.248183139662398,
-		"activeKey": "the-sports-habitat-acharya-soldevanahalli-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "7829240379",
 		"remarks": "",
 		"infoData": [],
@@ -64694,7 +64823,7 @@
 		"phone": [
 			"9591455366"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"name": "Flying Feathers Badminton Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-12-06T13:20:19.572Z",
@@ -64702,7 +64831,7 @@
 		"createdTS": "2017-12-06T13:20:19.572Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T08:27:50.092Z",
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub17.png"
