@@ -4677,7 +4677,7 @@
 		"createdTS": "2018-05-07T12:16:36.958Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T11:49:39.771Z",
-		"ratingCount": 152,
+		"ratingCount": 153,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SAIFOOTBALLACADEMY/EeshaBadmintonAcademy1640720192662.jpeg"
@@ -12460,7 +12460,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:19:14.117Z",
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -16676,7 +16676,7 @@
 		"createdTS": "2018-11-18T11:20:24.403Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T07:26:57.826Z",
-		"ratingCount": 114,
+		"ratingCount": 115,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSSPORTS/whitefeatherssports1.jpg"
@@ -25427,7 +25427,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-05T04:56:03.325Z",
-		"ratingCount": 2,
+		"ratingCount": 4,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -25543,7 +25543,7 @@
 		"createdTS": "2017-11-06T07:25:37.252Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T11:01:44.784Z",
-		"ratingCount": 32,
+		"ratingCount": 33,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GAMESQUARE/InfinityBadmintonArenaBellandur1658257375391.jpg"
@@ -35997,8 +35997,8 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-01-13T11:43:53.597Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-04T14:53:43.969Z",
-		"ratingCount": 2,
+		"modTS": "2023-03-05T06:20:48.015Z",
+		"ratingCount": 4,
 		"id": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 		"category": 2,
 		"s3Folder": "NEXTLEVELCRICKETACADEMY20230113114353597651",
@@ -36019,25 +36019,22 @@
 		"timings": "6 AM - 6 PM",
 		"addInfo": "Football: <br/>\n- Size of the ground: 100 ft x 60 ft <br/>\n- Can accommodate 6 a side or 7 a side play. <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": true,
-		"__v": 2,
+		"__v": 3,
 		"coverImage": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/NextLevelCricketAcademycovercover1673609758902.jpg",
 		"deferLink": "https://z34v4.app.goo.gl/VkY1",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677941181979.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997229749.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677941185460.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997232973.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677941188800.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997236269.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677941194309.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677941211471.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997241595.jpeg"
 			}
 		],
 		"infoData": [],
@@ -37045,7 +37042,7 @@
 		"phone": [
 			"8884001234"
 		],
-		"avgRating": 3,
+		"avgRating": 2.9,
 		"name": "Jiyo Sports",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-12-03T09:08:36.404Z",
@@ -37053,7 +37050,7 @@
 		"createdTS": "2018-12-03T09:08:36.404Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-24T10:34:55.935Z",
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JIYOSPORTS/jiyosports1.jpg"
@@ -52686,7 +52683,7 @@
 		"description": "",
 		"createdTS": "2021-02-12T12:48:30.083Z",
 		"bookType": 0,
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"zipCode": "560090",
 		"modTS": "2021-12-17T07:09:50.493Z",
 		"inquiryPhone": "7022187999",
@@ -54708,7 +54705,7 @@
 		"description": "",
 		"createdTS": "2021-06-20T15:14:15.772Z",
 		"bookType": 0,
-		"ratingCount": 55,
+		"ratingCount": 56,
 		"zipCode": "560049",
 		"modTS": "2022-11-03T05:50:06.429Z",
 		"inquiryPhone": "6364834834",
