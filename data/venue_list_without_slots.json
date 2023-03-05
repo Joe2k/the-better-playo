@@ -25579,7 +25579,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-05T04:56:03.325Z",
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -31409,7 +31409,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -34401,7 +34401,7 @@
 		"description": "",
 		"createdTS": "2019-02-17T16:44:14.836Z",
 		"bookType": 0,
-		"ratingCount": 53,
+		"ratingCount": 54,
 		"zipCode": "560098",
 		"modTS": "2021-12-18T17:39:04.995Z",
 		"inquiryPhone": "7676763377",
@@ -34410,7 +34410,7 @@
 			"7676763377"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"address": "#20/12, 60ft Road, BHEL Layout, Near BBMP Office, Opposite Water Tank, Pattangere",
 		"active": true,
 		"id": "6b39f4d6-65bd-4a7e-aafb-d801a7416256",
@@ -45072,7 +45072,7 @@
 		"description": "",
 		"createdTS": "2020-10-27T05:44:48.907Z",
 		"bookType": 0,
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"zipCode": "560083",
 		"modTS": "2023-03-01T08:40:28.505Z",
 		"inquiryPhone": "9538451451",
