@@ -2077,7 +2077,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -11101,7 +11101,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 333,
+		"ratingCount": 334,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -22946,7 +22946,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 78,
+		"ratingCount": 79,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -38336,7 +38336,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 77,
+		"ratingCount": 78,
 		"zipCode": "560037",
 		"modTS": "2023-03-03T18:11:46.654Z",
 		"inquiryPhone": "9920601966",
@@ -38560,7 +38560,7 @@
 		"description": "",
 		"createdTS": "2019-06-17T18:32:27.250Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560035",
 		"modTS": "2023-02-01T10:39:05.301Z",
 		"inquiryPhone": "9380283410",
@@ -38569,7 +38569,7 @@
 			"9380283410"
 		],
 		"sponsored": "",
-		"avgRating": 3.3,
+		"avgRating": 3.4,
 		"address": "No. 22, 23, Tulasi Layout, Kasavanahalli, Bellandur",
 		"active": true,
 		"id": "73cec470-5417-4ff9-87ee-70a573c51426",
@@ -45438,7 +45438,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 398,
+		"ratingCount": 399,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
