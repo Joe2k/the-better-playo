@@ -3629,7 +3629,7 @@
 		"phone": [
 			"8861093733"
 		],
-		"avgRating": 2.9,
+		"avgRating": 5,
 		"name": "The Sports Habitat - Footlock",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-03-28T13:18:09.163Z",
@@ -3637,7 +3637,7 @@
 		"createdTS": "2017-03-28T13:18:09.163Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-05T15:16:39.684Z",
-		"ratingCount": 49,
+		"ratingCount": 1,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FOOTLOCKPATELSINN/TheSportsHabitatFootlock1678028354070.jpeg"
@@ -10410,7 +10410,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 261,
+		"ratingCount": 262,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -46613,7 +46613,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -50024,7 +50024,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 603,
+		"ratingCount": 604,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
