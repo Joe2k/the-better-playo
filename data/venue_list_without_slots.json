@@ -9095,8 +9095,8 @@
 		"zipCode": "560078",
 		"activityCount": 1975,
 		"activityCountLastSyncDate": "2023-03-06T18:30:02.689Z",
-		"avgRating": 3.9,
-		"ratingCount": 25,
+		"avgRating": 4,
+		"ratingCount": 26,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T15:53:14.731Z",
@@ -9502,7 +9502,7 @@
 		"description": "",
 		"createdTS": "2020-02-01T08:27:34.053Z",
 		"bookType": 0,
-		"ratingCount": 50,
+		"ratingCount": 51,
 		"zipCode": "560032",
 		"modTS": "2022-11-29T08:44:34.177Z",
 		"inquiryPhone": "9611667891",
@@ -15174,7 +15174,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T17:20:19.097Z",
 		"bookType": 0,
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"zipCode": "560043",
 		"modTS": "2021-10-25T10:02:19.486Z",
 		"inquiryPhone": "9741014455",
@@ -27844,7 +27844,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"bookSports": [
 			"SP5"
 		],
@@ -34612,7 +34612,7 @@
 		"phone": [
 			"8050826304"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"name": "Yash Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.174Z",
@@ -34620,7 +34620,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
