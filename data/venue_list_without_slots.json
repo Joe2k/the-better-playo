@@ -2583,32 +2583,23 @@
 		"coverImage": "https://playo.gumlet.io/THEBULLRING/TheBullRingcovercover1597733522544.png",
 		"createdTS": "2017-01-07T17:23:44.185Z",
 		"inquiryType": -1,
-		"modTS": "2022-06-24T15:18:49.265Z",
+		"modTS": "2023-03-07T07:15:29.461Z",
 		"ratingCount": 115,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/THEBULLRING/3.png"
+				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1678173035740.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1646735809406.jpg"
+				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1678173040206.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1646735825662.jpg"
+				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1678173044698.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1646735841223.jpg"
+				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1678173051083.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/THEBULLRING/thebullring1.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/THEBULLRING/thebullring1587006265172.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/THEBULLRING/thebullring1587006302155.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/THEBULLRING/thebullringarena1639912910205.jpg"
+				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1678173055665.jpg"
 			}
 		],
 		"id": "f68c158c-6bf8-402f-898a-e3da4b1b1597",
@@ -2643,7 +2634,7 @@
 		"lng": 77.633822,
 		"type": 0,
 		"venueId": "f68c158c-6bf8-402f-898a-e3da4b1b1597",
-		"__v": 9,
+		"__v": 12,
 		"isSafeAndHygiene": true,
 		"activityCount": 2303,
 		"activityCountLastSyncDate": "2023-03-06T18:30:02.689Z",
@@ -3314,9 +3305,10 @@
 		"sports": [
 			"SP95",
 			"SP126",
-			"SP127"
+			"SP127",
+			"SP130"
 		],
-		"timings": "8AM - 6PM",
+		"timings": "8 AM - 6 PM",
 		"cityCode": 1,
 		"id": "81bd286d-77b5-4fc2-adf0-26bd159ab965",
 		"oldPlayoId": "81bd286d-77b5-4fc2-adf0-26bd159ab965",
@@ -3355,7 +3347,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-12-27T08:38:43.209Z",
+		"modTS": "2023-03-07T08:09:12.620Z",
 		"shareLink": "https://z34v4.app.goo.gl/61Wz",
 		"deferLink": "https://z34v4.app.goo.gl/gNe3",
 		"fullLink": "https://playo.co/venue/?venueId=81bd286d-77b5-4fc2-adf0-26bd159ab965",
@@ -3376,11 +3368,11 @@
 		"lng": 77.64410844836385,
 		"search": "",
 		"sponsored": "Featured",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 1,
 		"state": "Karnataka",
 		"type": 1,
 		"venueId": "81bd286d-77b5-4fc2-adf0-26bd159ab965",
-		"zipCode": "0",
+		"zipCode": "560038",
 		"isSafeAndHygiene": true,
 		"activityCount": 1,
 		"activityCountLastSyncDate": "2023-03-06T18:30:02.689Z",
@@ -3396,7 +3388,8 @@
 		"bookSports": [
 			"SP95",
 			"SP126",
-			"SP127"
+			"SP127",
+			"SP130"
 		],
 		"distance": 5.409012532321027,
 		"activeKey": "33intact-clinics-indiranagar-off-cmh-road-bengaluru",
@@ -18570,7 +18563,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 285,
+		"ratingCount": 286,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -18579,7 +18572,7 @@
 			"9916226111"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"address": "No 565, Malleshpalya Main Road, Bus Stop, No 50 Lakshmi Complex Opp to Vignan Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "f3b22c42-86c9-484b-9598-a8e042a21566",
@@ -23670,7 +23663,7 @@
 		"description": "",
 		"createdTS": "2019-08-05T17:59:15.867Z",
 		"bookType": 0,
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"zipCode": "560078",
 		"modTS": "2022-02-28T14:59:55.604Z",
 		"inquiryPhone": "7795635133",
@@ -63507,8 +63500,7 @@
 			}
 		],
 		"sports": [
-			"SP5",
-			"SP6"
+			"SP5"
 		],
 		"priority": 0,
 		"amenities": [
@@ -63532,7 +63524,7 @@
 		"coverImage": "https://playo.gumlet.io/WHITEFIELDSPORTSCENTRE/WhitefieldSportsCentrecovercover1591295667512.jpeg",
 		"createdTS": "2018-11-14T17:44:29.596Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-01T05:58:04.656Z",
+		"modTS": "2023-03-07T07:03:04.950Z",
 		"ratingCount": 51,
 		"images": [
 			{
@@ -63564,8 +63556,7 @@
 		"timings": "5 AM - 11 PM",
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bookSports": [
-			"SP5",
-			"SP6"
+			"SP5"
 		],
 		"bookType": 0,
 		"dateLimit": 30,
