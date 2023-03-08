@@ -26917,7 +26917,7 @@
 		"createdTS": "2018-07-12T16:39:11.522Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:55:04.368Z",
-		"ratingCount": 191,
+		"ratingCount": 192,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PRAGATHIBADMINTONACADEMY/PragathiBadmintonAcademy1586172144046.png"
@@ -43168,7 +43168,7 @@
 		"coverImage": "https://playo.gumlet.io/FLYHIGH/FlyHighBadmintonArenacovercover1660035494047.jpeg",
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-01T08:37:36.821Z",
+		"modTS": "2023-03-08T13:53:17.575Z",
 		"ratingCount": 40,
 		"images": [
 			{
@@ -43208,7 +43208,7 @@
 		"bookType": 0,
 		"lat": 12.862032009603668,
 		"lng": 77.5855879383549,
-		"sponsoredRadius": 3,
+		"sponsoredRadius": 5,
 		"type": 0,
 		"venueId": "0814127f-9b1a-4b48-a8d2-eb4b51423981",
 		"isSafeAndHygiene": true,
