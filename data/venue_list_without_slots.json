@@ -49195,7 +49195,7 @@
 		"description": "",
 		"createdTS": "2022-06-22T19:23:10.085Z",
 		"bookType": 0,
-		"ratingCount": 57,
+		"ratingCount": 58,
 		"zipCode": "560064",
 		"modTS": "2022-08-31T08:23:10.887Z",
 		"inquiryPhone": "9740579762",
@@ -50481,7 +50481,7 @@
 		"activityCount": 275,
 		"activityCountLastSyncDate": "2023-03-07T18:30:02.760Z",
 		"avgRating": 5,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"bnpl": false,
 		"bookSports": [
 			"SP2",
