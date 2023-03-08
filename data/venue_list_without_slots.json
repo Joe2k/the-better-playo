@@ -1917,14 +1917,14 @@
 		"phone": [
 			"9606973105"
 		],
-		"avgRating": 3.3,
+		"avgRating": 3.1,
 		"name": "Maracana Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-26T07:42:20.335Z",
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
 		"s3Folder": "MARACANASPORTSARENA20221103080210366511",
@@ -22939,7 +22939,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 80,
+		"ratingCount": 81,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -34975,7 +34975,7 @@
 		"createdTS": "2017-01-07T17:23:44.189Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-04T06:49:40.368Z",
-		"ratingCount": 375,
+		"ratingCount": 376,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH&SPRINT/SmashSprint1647445013185.jpg"
@@ -67112,14 +67112,14 @@
 		"phone": [
 			"9538655505"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.6,
 		"name": "Sportonix School of Badminton",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T09:42:01.927Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T09:43:18.810Z",
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"id": "0736d2b3-4dd9-4d9c-b281-f788851130a7",
 		"category": 2,
 		"s3Folder": "SPORTONIXSCHOOLOFBADMINTON20221205094201927030",
