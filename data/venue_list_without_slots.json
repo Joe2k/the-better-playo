@@ -21609,7 +21609,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 285,
+		"ratingCount": 286,
 		"zipCode": "560068",
 		"modTS": "2023-03-01T08:40:41.907Z",
 		"inquiryPhone": "6364444441",
@@ -27666,7 +27666,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 293,
+		"ratingCount": 294,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -30507,7 +30507,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -30516,7 +30516,7 @@
 			"7899165934"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "Site No. 11/3, 11/4, 11/5, Shivganga Layout, Near Mahadevapura, Outer Ring Road, Bangalore",
 		"active": true,
 		"id": "d6cbefba-e098-4f44-8836-19510c0fc1d7",
@@ -30980,7 +30980,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 343,
+		"ratingCount": 344,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -31403,7 +31403,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 109,
+		"ratingCount": 110,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -32609,7 +32609,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 238,
+		"ratingCount": 239,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -57499,7 +57499,7 @@
 			"9900093528"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"address": "Arena100 Sports and Recreation City, Electronic City, Bettadasanapura",
 		"active": true,
 		"id": "d224ade3-fc9f-4580-9ca0-9f8c41fa0b8c",
