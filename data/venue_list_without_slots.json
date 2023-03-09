@@ -17073,7 +17073,7 @@
 		"description": "",
 		"createdTS": "2021-02-01T14:36:00.849Z",
 		"bookType": 0,
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"zipCode": "560068",
 		"modTS": "2022-07-04T09:06:36.177Z",
 		"inquiryPhone": "9900775253",
@@ -17082,7 +17082,7 @@
 			"9986354494"
 		],
 		"sponsored": "",
-		"avgRating": 3.4,
+		"avgRating": 3.5,
 		"address": "104/1, 4th Main, Devarachikkanahalli Main Road, Kaveri Nagar, Hongasandra, Bengaluru, Karnataka 560068",
 		"active": true,
 		"id": "6620ccaa-6a0c-480f-ae0e-775801e67de8",
@@ -18421,7 +18421,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T13:54:17.262Z",
 		"bookType": 0,
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T07:12:07.228Z",
 		"inquiryPhone": "8861619999",
@@ -25572,7 +25572,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -30980,7 +30980,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 342,
+		"ratingCount": 343,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -50238,7 +50238,7 @@
 		"description": "",
 		"createdTS": "2021-10-04T06:59:25.200Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560035",
 		"modTS": "2023-03-09T14:00:47.372Z",
 		"inquiryPhone": "9880605106",
