@@ -26080,7 +26080,7 @@
 		"createdTS": "2017-02-10T09:35:39.965Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-09T07:48:23.165Z",
-		"ratingCount": 207,
+		"ratingCount": 208,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OVALNETBADMINTONACADEMY/OvalNetBadmintonAcademy6.JPG"
@@ -50233,6 +50233,120 @@
 		"offers": []
 	},
 	{
+		"oldPlayoId": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
+		"cityCode": 1,
+		"description": "",
+		"createdTS": "2021-10-04T06:59:25.200Z",
+		"bookType": 0,
+		"ratingCount": 9,
+		"zipCode": "560035",
+		"modTS": "2023-03-09T14:00:47.372Z",
+		"inquiryPhone": "9880605106",
+		"inquiryType": -1,
+		"phone": [
+			"9880605106"
+		],
+		"sponsored": "",
+		"avgRating": 5,
+		"address": "FitMentkids, Site No 39, near GRC Subhiksha, behind Nortedame Academy, Choodasandra, Bengaluru, Karnataka - 560035",
+		"active": true,
+		"id": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
+		"category": 2,
+		"city": "Bengaluru",
+		"search": "",
+		"isSafeAndHygiene": true,
+		"bookSports": [
+			"SP5"
+		],
+		"name": "FitMentKids Badminton Academy & Multi Studio",
+		"area": "Choodasandra",
+		"sponsoredRadius": 4,
+		"country": "India",
+		"tags": [],
+		"functionData": [
+			{
+				"content": "14fe3cf9-98fd-48ac-b17b-8e8b5abaca4a",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"timings": "6 AM - 10 PM",
+		"sports": [
+			"SP5"
+		],
+		"members": false,
+		"state": "Karnataka",
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"keywords": [
+			{
+				"active": true,
+				"key": "fitmentkids-badminton-academy-multi-studio-choodasandra-bengaluru"
+			}
+		],
+		"restricted": 0,
+		"notifyBooking": 0,
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"fullLink": "https://playo.co/venue?venueId=2e8aba12-a0ca-411e-b541-6d1e73a4da80",
+		"type": 0,
+		"email": [
+			"lejo441@gmail.com"
+		],
+		"s3Folder": "LOVEALLBADMINTONACADEMY20211004065925200135",
+		"shareLink": "https://z34v4.app.goo.gl/NF5Y",
+		"deferLink": "https://z34v4.app.goo.gl/mB9n",
+		"lat": 12.88524819767314,
+		"lng": 77.68140887598179,
+		"venueId": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
+		"__v": 4,
+		"coverImage": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/LoveallBadmintonAcademycovercover1633331050905.PNG",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370284051.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370291671.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370295601.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370299420.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370303700.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370311520.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370317961.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/LOVEALLBADMINTONACADEMY20211004065925200135/FitMentKidsBadmintonAcademyMultiStudio1678370321070.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"activityCount": 156,
+		"activityCountLastSyncDate": "2023-03-08T18:30:03.016Z",
+		"bnpl": false,
+		"distance": 13.45770546322082,
+		"activeKey": "fitmentkids-badminton-academy-multi-studio-choodasandra-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "2698fc0e-b34d-4dbc-be84-0a8edf4c7540",
 		"cityCode": 1,
 		"description": "",
@@ -50501,7 +50615,7 @@
 				"_id": "5ee24b03c45768426a174e64",
 				"city": "Bengaluru",
 				"cityCode": 1,
-				"terms": "- Flat 20% off on all slots! <br/>\n- No T&C's :D",
+				"terms": "- Flat 20% off on weekday slots! <br/>\n- Offer not applicable on weekends. ",
 				"countryCode": "+91",
 				"createdTS": "2020-06-11T15:17:23.920Z",
 				"offerContent": "ee2396f3-6e76-47cf-af37-04a4e88455df",
@@ -86406,90 +86520,6 @@
 		"offers": []
 	},
 	{
-		"inquiryPhone": "7760825069",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/H3VF",
-		"city": "Bengaluru",
-		"area": "Off Marthahalli-Sarjapur Road",
-		"oldPlayoId": "587124206d91cf3645ab07e5",
-		"functionData": [
-			{
-				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 2,
-				"caption": "Enquire Now!",
-				"type": 2
-			}
-		],
-		"sports": [
-			"SP27"
-		],
-		"priority": 0,
-		"amenities": [
-			"Cafe",
-			"Washroom"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"7760825069"
-		],
-		"avgRating": 3.8,
-		"name": "Bubble Strike Bengaluru",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.072Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": 0,
-		"modTS": "2022-11-16T07:27:52.826Z",
-		"ratingCount": 13,
-		"images": [],
-		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"category": 1,
-		"s3Folder": "BUBBLESTRIKEBENGALURU",
-		"state": "Karnataka",
-		"email": [
-			""
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/s7xB",
-		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
-		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"country": "India",
-		"timings": "6:00 AM - 10:00 PM",
-		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-03-08T18:30:03.016Z",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.939621,
-		"lng": 77.7055,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"distance": 12.546616529780627,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
@@ -86579,6 +86609,90 @@
 		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
 		"distance": 12.546616529780627,
 		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "7760825069",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
+		"area": "Off Marthahalli-Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab07e5",
+		"functionData": [
+			{
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP27"
+		],
+		"priority": 0,
+		"amenities": [
+			"Cafe",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"7760825069"
+		],
+		"avgRating": 3.8,
+		"name": "Bubble Strike Bengaluru",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.072Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.072Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
+		"ratingCount": 13,
+		"images": [],
+		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"category": 1,
+		"s3Folder": "BUBBLESTRIKEBENGALURU",
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
+		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
+		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"country": "India",
+		"timings": "6:00 AM - 10:00 PM",
+		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-03-08T18:30:03.016Z",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.939621,
+		"lng": 77.7055,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -88794,65 +88908,6 @@
 		"offers": []
 	},
 	{
-		"name": "Badminton Courts",
-		"area": "Whitefield",
-		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
-		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
-		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
-		"website": "palmmeadowsclub.com",
-		"email": "room@palmmeadowsclub.com",
-		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP5"
-		],
-		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
-		"cityCode": 1,
-		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"category": 1,
-		"inquiryPhone": null,
-		"s3Folder": "BADMINTONCOURTS",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "6–8PM",
-			"Tue": "6–8PM",
-			"Wed": "6–8PM",
-			"Thu": "6–8PM",
-			"Fri": "6–8PM",
-			"Sat": "Closed",
-			"Sun": "Closed"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "Badminton-Courts-Whitefield-bangalore",
-				"active": true
-			}
-		],
-		"images": [],
-		"rating": 0,
-		"shareLink": "https://playo.page.link/pkg39",
-		"deferLink": "https://playo.page.link/cMF9F",
-		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"amenities": [],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-03-08T18:30:03.016Z",
-		"avgRating": 0,
-		"ratingCount": 0,
-		"distance": 15.708227871680338,
-		"lat": 12.9639825,
-		"lng": 77.7391921,
-		"activeKey": "Badminton-Courts-Whitefield-bangalore",
-		"offers": []
-	},
-	{
 		"name": "Badminton Courts2",
 		"area": "Whitefield",
 		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
@@ -88914,6 +88969,65 @@
 		"lat": 12.9639825,
 		"lng": 77.7391921,
 		"activeKey": "Badminton-Courts2-Whitefield-bangalore",
+		"offers": []
+	},
+	{
+		"name": "Badminton Courts",
+		"area": "Whitefield",
+		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
+		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
+		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
+		"website": "palmmeadowsclub.com",
+		"email": "room@palmmeadowsclub.com",
+		"remarks": "",
+		"phone": [],
+		"functionData": [],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP5"
+		],
+		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
+		"cityCode": 1,
+		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"category": 1,
+		"inquiryPhone": null,
+		"s3Folder": "BADMINTONCOURTS",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "6–8PM",
+			"Tue": "6–8PM",
+			"Wed": "6–8PM",
+			"Thu": "6–8PM",
+			"Fri": "6–8PM",
+			"Sat": "Closed",
+			"Sun": "Closed"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "Badminton-Courts-Whitefield-bangalore",
+				"active": true
+			}
+		],
+		"images": [],
+		"rating": 0,
+		"shareLink": "https://playo.page.link/pkg39",
+		"deferLink": "https://playo.page.link/cMF9F",
+		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-03-08T18:30:03.016Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 15.708227871680338,
+		"lat": 12.9639825,
+		"lng": 77.7391921,
+		"activeKey": "Badminton-Courts-Whitefield-bangalore",
 		"offers": []
 	},
 	{
