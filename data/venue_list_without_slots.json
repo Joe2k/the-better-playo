@@ -13502,7 +13502,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 281,
+		"ratingCount": 282,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -19761,7 +19761,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -20531,7 +20531,7 @@
 		"description": "",
 		"createdTS": "2019-06-22T13:48:55.209Z",
 		"bookType": 0,
-		"ratingCount": 112,
+		"ratingCount": 113,
 		"zipCode": "560076",
 		"modTS": "2021-12-17T09:58:30.200Z",
 		"inquiryPhone": "8431370366",
@@ -26917,7 +26917,7 @@
 		"createdTS": "2018-07-12T16:39:11.522Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-04T07:55:04.368Z",
-		"ratingCount": 192,
+		"ratingCount": 193,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PRAGATHIBADMINTONACADEMY/PragathiBadmintonAcademy1586172144046.png"
@@ -51545,14 +51545,14 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "diamond-shuttlers-club-adharsh-sports-arena-halehalli-bengaluru"
+				"key": "diamond-shuttlers-club-adharsh-sports-arena-kithiganur-bengaluru"
 			}
 		],
 		"city": "Bengaluru",
 		"bookSports": [
 			"SP5"
 		],
-		"area": "Halehalli",
+		"area": "Kithiganur",
 		"oldPlayoId": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"functionData": [
 			{
@@ -51581,11 +51581,11 @@
 		],
 		"avgRating": 4,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 5,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-03T17:16:23.281Z",
+		"modTS": "2023-03-09T09:19:47.386Z",
 		"ratingCount": 1,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
@@ -51597,18 +51597,18 @@
 		],
 		"description": "",
 		"tags": [],
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "Green woods layout, Kashappa circle, Halehalli, Bidarahalli, Hobli, Bengaluru, Karnataka 560036",
 		"active": true,
-		"search": "diamond,shuttlers,adharsh",
+		"search": "diamond,shuttlers,adharsh , adarsh",
 		"fullLink": "https://playo.co/venue?venueId=a18875e4-6063-4199-999b-11b8209c3a7e",
 		"country": "India",
-		"timings": "5AM - 12AM",
+		"timings": "5 AM - 12 AM",
 		"addInfo": "Badminton: <br/>\n- Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible. <br/>\n- Sports equipment available for rent.",
 		"isSafeAndHygiene": true,
-		"shareLink": "https://z34v4.app.goo.gl/qXqH",
-		"deferLink": "https://z34v4.app.goo.gl/7ny9",
+		"shareLink": "https://z34v4.app.goo.gl/Rb2o",
+		"deferLink": "https://z34v4.app.goo.gl/zkKd",
 		"lat": 13.036709789378971,
 		"lng": 77.70054662627757,
 		"venueId": "a18875e4-6063-4199-999b-11b8209c3a7e",
@@ -51635,7 +51635,7 @@
 		"remarks": "",
 		"activityCountLastSyncDate": "2023-03-08T18:30:03.016Z",
 		"distance": 13.586195433602002,
-		"activeKey": "diamond-shuttlers-club-adharsh-sports-arena-halehalli-bengaluru",
+		"activeKey": "diamond-shuttlers-club-adharsh-sports-arena-kithiganur-bengaluru",
 		"offers": [
 			{
 				"_id": "64022f60b661670bfeec1de9",
