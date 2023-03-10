@@ -2077,7 +2077,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 106,
+		"ratingCount": 107,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -52557,7 +52557,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 161,
+		"ratingCount": 162,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -62432,7 +62432,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T12:16:51.007Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-10T02:55:24.325Z",
+		"modTS": "2023-03-10T04:42:34.506Z",
 		"ratingCount": 2,
 		"id": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"category": 2,
@@ -62460,21 +62460,21 @@
 		"lng": 77.757042,
 		"venueId": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
-		"__v": 6,
+		"__v": 7,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416151325.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/gametheorysportfit1678416151325.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416158253.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/gametheorysportfit1678416158253.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416164913.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/gametheorysportfit1678416164913.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416171507.jpeg"
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/gametheorysportfit1678416171507.jpeg"
 			}
 		],
 		"infoData": [],
