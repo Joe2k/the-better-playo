@@ -10433,13 +10433,13 @@
 		"venueId": "3c25e654-7f6a-43ae-ad14-0c4e517181ca",
 		"zipCode": "560022",
 		"__v": 1,
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"coverImage": "",
 		"createdTS": "2021-08-14T11:45:06.298Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 61,
+		"ratingCount": 62,
 		"bookSports": [
 			"SP5"
 		],
@@ -40896,7 +40896,7 @@
 		"createdTS": "2017-09-11T10:06:34.838Z",
 		"inquiryType": -1,
 		"modTS": "2021-11-21T04:06:57.902Z",
-		"ratingCount": 185,
+		"ratingCount": 186,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OLDVIVASBADMINTONACADEMY/OldVivasBadmintonAcademy1637467599916.jpg"
@@ -43697,7 +43697,7 @@
 		"createdTS": "2018-07-13T13:13:54.449Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:42:18.995Z",
-		"ratingCount": 115,
+		"ratingCount": 116,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYLINESPORTSACADEMY/skylinesportsacademy0.jpg"
@@ -57785,7 +57785,7 @@
 		"description": "",
 		"createdTS": "2021-10-25T02:35:06.208Z",
 		"bookType": 0,
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"zipCode": "560100",
 		"modTS": "2022-04-10T10:13:26.850Z",
 		"inquiryPhone": "7892479805",
@@ -62426,14 +62426,14 @@
 		"phone": [
 			"8197897462"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Game Theory - Sportfit",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T12:16:51.007Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-10T02:49:03.000Z",
-		"ratingCount": 0,
+		"modTS": "2023-03-10T02:55:24.325Z",
+		"ratingCount": 2,
 		"id": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"category": 2,
 		"s3Folder": "GAMETHEORYSPORTFIT20230201121651007823",
@@ -62460,7 +62460,7 @@
 		"lng": 77.757042,
 		"venueId": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
-		"__v": 5,
+		"__v": 6,
 		"coverImage": "",
 		"googleMapLink": "",
 		"images": [
