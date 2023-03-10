@@ -3111,7 +3111,7 @@
 		"description": "",
 		"createdTS": "2019-05-22T09:25:30.160Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560095",
 		"modTS": "2023-03-09T22:03:14.393Z",
 		"inquiryPhone": "7676372273",
@@ -7316,7 +7316,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 179,
+		"ratingCount": 180,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -8779,7 +8779,7 @@
 		"createdTS": "2018-12-25T06:00:28.144Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-06T16:16:14.591Z",
-		"ratingCount": 93,
+		"ratingCount": 94,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENLEG/goldenleg1.jpg"
@@ -39757,7 +39757,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 978,
+		"ratingCount": 979,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -57887,7 +57887,7 @@
 		"description": "",
 		"createdTS": "2020-11-20T07:50:28.031Z",
 		"bookType": 0,
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"zipCode": "560066",
 		"modTS": "2022-11-29T08:15:59.858Z",
 		"inquiryPhone": "8197445584",
@@ -57896,7 +57896,7 @@
 			"8197445584"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "2nd Cross, Narayanappa Layout, Opposite Lane to Prestige Whispering Winds Enclave, Borewell Road, Nallurhalli, Whitefield, Bangalore, KA",
 		"active": true,
 		"id": "7156cce6-30cb-4855-91b2-25674c113c4d",
@@ -62385,6 +62385,107 @@
 		]
 	},
 	{
+		"inquiryPhone": "8197897462",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "game-theory-sportfit-whitefield-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP5"
+		],
+		"area": "Whitefield",
+		"oldPlayoId": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
+		"functionData": [
+			{
+				"content": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
+				"caption": "Book Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"amenities": [
+			"Washroom",
+			"Change Room",
+			"Parking",
+			"Drinking Water",
+			"First Aid"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560066",
+		"phone": [
+			"8197897462"
+		],
+		"avgRating": 0,
+		"name": "Game Theory - Sportfit",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-02-01T12:16:51.007Z",
+		"inquiryType": -1,
+		"modTS": "2023-03-10T02:49:03.000Z",
+		"ratingCount": 0,
+		"id": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
+		"category": 2,
+		"s3Folder": "GAMETHEORYSPORTFIT20230201121651007823",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"saket@gametheory.in"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "30 Feet Main Rd, Whitefield, Hagadur, Immadihalli, Bengaluru, Karnataka",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=2f1276d1-5b15-4cba-bf27-bb8f635db685",
+		"country": "India",
+		"timings": "Open 24x7",
+		"addInfo": "Badminton: <br/>\n- Badminton indoor Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 5 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"isSafeAndHygiene": false,
+		"shareLink": "https://z34v4.app.goo.gl/HCgh",
+		"deferLink": "https://z34v4.app.goo.gl/UYgj",
+		"lat": 12.967652,
+		"lng": 77.757042,
+		"venueId": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
+		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
+		"__v": 5,
+		"coverImage": "",
+		"googleMapLink": "",
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416151325.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416158253.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416164913.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/GAMETHEORYSPORTFIT20230201121651007823/GameTheorySportfit1678416171507.jpeg"
+			}
+		],
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"remarks": "",
+		"distance": 17.627026663714556,
+		"activeKey": "game-theory-sportfit-whitefield-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "fdba9a8b-a907-470b-a6da-e34633ccce39",
 		"cityCode": 1,
 		"description": "",
@@ -64495,12 +64596,12 @@
 		]
 	},
 	{
-		"name": "True Bounce Tennis Academy - Whitefield",
+		"name": "True Bounce Football Academy - Whitefield",
 		"area": "Seegehalli",
 		"address": "#88/4, Hoskote-Whitefield Main Road, Near HP Petrol Bunk, Seegehalli, Kadugodi Post, Bengaluru, Karnataka",
-		"googleMapLink": "https://www.google.com/maps/place/Sports+Central/@12.9151325,77.6707588,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae13726fdd6a7f:0xe7b41b155ff81e79!8m2!3d12.9151273!4d77.6729475",
-		"googlePlusCode": "WM8F+35 Bengaluru, Karnataka",
-		"website": "",
+		"googleMapLink": "https://www.google.co.in/maps/place/Sportive+Badminton+Academy/@13.0356237,77.6630613,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10c7d4d5e725:0x15360efc7605f207!8m2!3d13.0356185!4d77.66525",
+		"googlePlusCode": "2MP8+64 Bengaluru, Karnataka",
+		"website": "sbablr.com",
 		"email": [
 			"murugantbta@gmail.com"
 		],
@@ -64513,7 +64614,7 @@
 				"priority": "0",
 				"displayType": 3,
 				"bookType": 0,
-				"content": "685f436f-2edd-41af-9af9-a352680c0cbc",
+				"content": "2504cc81-8618-4c34-acb6-7c70dbdd2424",
 				"caption": "Book Now!",
 				"type": 3
 			}
@@ -64521,15 +64622,15 @@
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP3"
+			"SP2"
 		],
-		"timings": "7 AM  - 5 PM",
+		"timings": "7 AM - 6 PM",
 		"cityCode": 1,
-		"id": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
-		"oldPlayoId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"id": "1135113a-d8ff-4755-98ad-c04fef00beef",
+		"oldPlayoId": "1135113a-d8ff-4755-98ad-c04fef00beef",
 		"category": 2,
 		"inquiryPhone": "9880263006",
-		"s3Folder": "TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC",
+		"s3Folder": "TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF",
 		"source": "uttam",
 		"everyDayTimings": {
 			"Mon": "5AM–11PM",
@@ -64544,37 +64645,19 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru"
+				"key": "true-bounce-football-academy-whitefield-seegehalli-bengaluru"
 			}
 		],
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031094554.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031101763.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031105174.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031109734.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031116574.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031120633.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/TRUEBOUNCETENNISACADEMY-SEEGEHALLI1FEC2376B7AC/TrueBounceTennisAcademyWhitefield1660031125784.jpg"
+				"url": "https://playo.gumlet.io/TRUEBOUNCEFOOTBALLACADEMY-SEEGEHALLIC04FEF00BEEF/TrueBounceFootballAcademySeegehalli1659353497191.PNG"
 			}
 		],
 		"rating": 0,
-		"modTS": "2022-08-09T07:45:37.568Z",
-		"shareLink": "https://z34v4.app.goo.gl/SrFj",
-		"deferLink": "https://z34v4.app.goo.gl/v6Aw",
-		"fullLink": "https://playo.co/venue/?venueId=5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"modTS": "2022-08-09T07:38:16.948Z",
+		"shareLink": "https://z34v4.app.goo.gl/Eh3K",
+		"deferLink": "https://z34v4.app.goo.gl/iXNK",
+		"fullLink": "https://playo.co/venue/?venueId=1135113a-d8ff-4755-98ad-c04fef00beef",
 		"amenities": [
 			"Parking",
 			"First Aid",
@@ -64583,7 +64666,7 @@
 			"Drinking Water"
 		],
 		"tags": [],
-		"addInfo": "Tennis: <br/>\n- Non Marking Shoes compulsory for Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"bookType": 0,
 		"description": "",
 		"inquiryType": -1,
@@ -64594,68 +64677,26 @@
 		"sponsoredRadius": 4,
 		"state": "Karnataka",
 		"type": 0,
-		"venueId": "5b3b0e6d-6faf-4a8c-b177-1fec2376b7ac",
+		"venueId": "1135113a-d8ff-4755-98ad-c04fef00beef",
 		"zipCode": "560067",
 		"members": false,
 		"isSafeAndHygiene": true,
-		"__v": 4,
+		"__v": 3,
 		"avgRating": 5,
 		"coverImage": "",
-		"createdTS": "2021-07-16T08:03:59.005Z",
+		"createdTS": "2021-07-16T08:00:52.103Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
 		"ratingCount": 1,
 		"bookSports": [
-			"SP3"
+			"SP2"
 		],
-		"activityCount": 17,
+		"activityCount": 2,
 		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
 		"distance": 18.587868338314955,
-		"activeKey": "true-bounce-tennis-academy-whitefield-seegehalli-bengaluru",
-		"offers": [
-			{
-				"_id": "61dbb403c4576876d8a4b8de",
-				"city": "Hyderabad",
-				"cityCode": 4,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2022-01-10T04:20:19.963Z",
-				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
-				"coupon": "",
-				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
-				"expiry": "2023-12-31T00:00:00.000Z",
-				"multiCity": true,
-				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
-				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till December 31, 2023",
-						"content": "https://playo.co/venues",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						78.458122,
-						17.397083
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Play more, Pay less: Upto 25% off",
-				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
-				"offerName": "2023 Fitness Resolution Offers!",
-				"shareLink": "https://z34v4.app.goo.gl/3PQm",
-				"deferLink": "https://z34v4.app.goo.gl/cHLq",
-				"cityLat": 17.397083,
-				"cityLng": 78.458122
-			}
-		]
+		"activeKey": "true-bounce-football-academy-whitefield-seegehalli-bengaluru",
+		"offers": []
 	},
 	{
 		"name": "True Bounce Tennis Academy - Whitefield",
