@@ -10433,7 +10433,7 @@
 		"venueId": "3c25e654-7f6a-43ae-ad14-0c4e517181ca",
 		"zipCode": "560022",
 		"__v": 1,
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"coverImage": "",
 		"createdTS": "2021-08-14T11:45:06.298Z",
 		"infoData": [],
@@ -11389,7 +11389,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 334,
+		"ratingCount": 335,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -23746,7 +23746,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 362,
+		"ratingCount": 363,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -37539,7 +37539,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -50647,7 +50647,7 @@
 		"description": "",
 		"createdTS": "2021-10-04T06:59:25.200Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560035",
 		"modTS": "2023-03-09T14:00:47.372Z",
 		"inquiryPhone": "9880605106",
@@ -50656,7 +50656,7 @@
 			"9880605106"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"address": "FitMentkids, Site No 39, near GRC Subhiksha, behind Nortedame Academy, Choodasandra, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
@@ -52104,11 +52104,11 @@
 		],
 		"avgRating": 4,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
-		"sponsoredRadius": 5,
+		"sponsoredRadius": 3,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-09T09:19:47.386Z",
+		"modTS": "2023-03-10T16:20:24.139Z",
 		"ratingCount": 1,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
@@ -53622,7 +53622,7 @@
 		"createdTS": "2023-02-14T10:10:53.439Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-25T12:22:25.060Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "95252667-4b1b-4720-a974-3a7734b8efa1",
 		"category": 2,
 		"s3Folder": "JPSPORTS20230214101053439846",
@@ -53696,7 +53696,7 @@
 			"9632044966"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4,
 		"address": "Site No. 95, 97, 98, Singapura , Vidyaranyapura Post",
 		"active": true,
 		"id": "e3ad504c-9cbf-4661-88dd-d4ff4c03ae3d",
@@ -57692,7 +57692,7 @@
 		"phone": [
 			"9353333126"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"name": "White Peacock Game Point Badminton Arena (Laurels Badminton Arena)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.009Z",
@@ -58002,8 +58002,8 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
-		"avgRating": 0,
-		"ratingCount": 0,
+		"avgRating": 5,
+		"ratingCount": 1,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
@@ -87155,6 +87155,90 @@
 		"offers": []
 	},
 	{
+		"inquiryPhone": "7760825069",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/H3VF",
+		"city": "Bengaluru",
+		"area": "Off Marthahalli-Sarjapur Road",
+		"oldPlayoId": "587124206d91cf3645ab07e5",
+		"functionData": [
+			{
+				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Enquire Now!",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP27"
+		],
+		"priority": 0,
+		"amenities": [
+			"Cafe",
+			"Washroom"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
+		"zipCode": "560103",
+		"phone": [
+			"7760825069"
+		],
+		"avgRating": 3.8,
+		"name": "Bubble Strike Bengaluru",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.072Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.072Z",
+		"inquiryType": 0,
+		"modTS": "2022-11-16T07:27:52.826Z",
+		"ratingCount": 13,
+		"images": [],
+		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"category": 1,
+		"s3Folder": "BUBBLESTRIKEBENGALURU",
+		"state": "Karnataka",
+		"email": [
+			""
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/s7xB",
+		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
+		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"country": "India",
+		"timings": "6:00 AM - 10:00 PM",
+		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
+		"bnpl": false,
+		"bookType": 0,
+		"lat": 12.939621,
+		"lng": 77.7055,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
+		"distance": 12.546616529780627,
+		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
+		"offers": []
+	},
+	{
 		"inquiryPhone": "8970921113",
 		"remarks": "",
 		"infoData": [],
@@ -87244,90 +87328,6 @@
 		"venueId": "239ff06f-29c8-4acf-a366-44978caca649",
 		"distance": 12.546616529780627,
 		"activeKey": "astro-arena-off-marthahalli-sarjapur-road-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "7760825069",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/H3VF",
-		"city": "Bengaluru",
-		"area": "Off Marthahalli-Sarjapur Road",
-		"oldPlayoId": "587124206d91cf3645ab07e5",
-		"functionData": [
-			{
-				"content": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-				"bookType": 0,
-				"priority": "0",
-				"displayType": 2,
-				"caption": "Enquire Now!",
-				"type": 2
-			}
-		],
-		"sports": [
-			"SP27"
-		],
-		"priority": 0,
-		"amenities": [
-			"Cafe",
-			"Washroom"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/ASTROBUBBLE/map.png",
-		"zipCode": "560103",
-		"phone": [
-			"7760825069"
-		],
-		"avgRating": 3.8,
-		"name": "Bubble Strike Bengaluru",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.072Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.072Z",
-		"inquiryType": 0,
-		"modTS": "2022-11-16T07:27:52.826Z",
-		"ratingCount": 13,
-		"images": [],
-		"id": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"description": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"category": 1,
-		"s3Folder": "BUBBLESTRIKEBENGALURU",
-		"state": "Karnataka",
-		"email": [
-			""
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/s7xB",
-		"search": "Fun Football|Bubble Strike Bengaluru|Off Marthahalli-Sarjapur Road, Opposite Prestige Tech Park, Panathur Road, Near Bellandur Railway Station|Off Marthahalli-Sarjapur Road|Bangalore|Cafe,Washroom|The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs|null",
-		"fullLink": "https://playo.co/venue/?venueId=bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"country": "India",
-		"timings": "6:00 AM - 10:00 PM",
-		"addInfo": "The hourly package includes a welcome drink, orientation, 1 hour of bubble football and photographs",
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
-		"bnpl": false,
-		"bookType": 0,
-		"lat": 12.939621,
-		"lng": 77.7055,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "bc2a0e6c-c5c1-478b-879b-f0566a3ded82",
-		"distance": 12.546616529780627,
-		"activeKey": "bubble-strike-bengaluru-off-marthahalli-sarjapur-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -87967,6 +87967,154 @@
 		"lat": 12.9729128,
 		"lng": 77.7233163,
 		"activeKey": "Volleyball-Court-Whitefield-bangalore",
+		"offers": []
+	},
+	{
+		"name": "Samprasiddhi Sports Estadio",
+		"area": "Thanisandra Main Road",
+		"address": "Thirumenahalli, Site No 14, Thanisandra Main Road, Bengaluru, Karnataka - 560064",
+		"googleMapLink": "https://www.google.co.in/maps/place/Nuance+Sports+Ground2/@12.8792212,77.7336573,15z/data=!4m8!1m2!2m1!1snuance+sports+ground!3m4!1s0x3bae12a97523edbf:0xe89af273414fe172!8m2!3d12.8906508!4d77.7422988",
+		"googlePlusCode": "VPRR+7W Bengaluru, Karnataka",
+		"website": "http://www.nuancesports.com/",
+		"email": [
+			"sanjeev@playo.co"
+		],
+		"remarks": "",
+		"phone": [
+			"8210211090"
+		],
+		"functionData": [
+			{
+				"content": "f2c1b509-1089-4c2a-8e43-17749fd231bf",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Inquire Now!",
+				"type": 2
+			}
+		],
+		"city": "Bengaluru",
+		"country": "India",
+		"sports": [
+			"SP0"
+		],
+		"timings": "6:00 AM - 9:30 PM",
+		"cityCode": 1,
+		"id": "f2c1b509-1089-4c2a-8e43-17749fd231bf",
+		"oldPlayoId": "f2c1b509-1089-4c2a-8e43-17749fd231bf",
+		"category": 1,
+		"inquiryPhone": "8210211090",
+		"s3Folder": "NUANCESPORTSGROUND2",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": null,
+			"Tue": null,
+			"Wed": null,
+			"Thu": null,
+			"Fri": null,
+			"Sat": null,
+			"Sun": null
+		},
+		"active": true,
+		"keywords": [
+			{
+				"active": true,
+				"key": "samprasiddhi-sports-estadio-thanisandra-main-road-bengaluru"
+			}
+		],
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464789292.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464793222.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464798862.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464802253.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464805952.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464810123.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464815283.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464820242.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464828484.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464835564.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464841585.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464845975.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464849503.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464852497.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464862844.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NUANCESPORTSGROUND2/SamprasiddhiSportsEstadio1678464874245.jpeg"
+			}
+		],
+		"rating": 0,
+		"shareLink": "https://z34v4.app.goo.gl/8m6q",
+		"deferLink": "https://z34v4.app.goo.gl/KtWq",
+		"fullLink": "https://playo.co/venue/?venueId=f2c1b509-1089-4c2a-8e43-17749fd231bf",
+		"amenities": [
+			"Floodlights",
+			"Stands",
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"tags": [],
+		"addInfo": "",
+		"bookType": 0,
+		"description": "",
+		"inquiryType": 2,
+		"lat": 13.091795069805832,
+		"lng": 77.6351714250086,
+		"modTS": "2023-03-10T16:15:55.993Z",
+		"search": "",
+		"sponsored": "",
+		"sponsoredRadius": 4,
+		"state": "Karnataka",
+		"type": 0,
+		"venueId": "f2c1b509-1089-4c2a-8e43-17749fd231bf",
+		"zipCode": "560064",
+		"members": false,
+		"isSafeAndHygiene": true,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
+		"avgRating": 5,
+		"ratingCount": 1,
+		"bnpl": false,
+		"__v": 1,
+		"coverImage": "",
+		"createdTS": "2023-03-10T16:15:06.703Z",
+		"infoData": [],
+		"logoImg": "",
+		"mapImage": "",
+		"distance": 14.084891736458292,
+		"activeKey": "samprasiddhi-sports-estadio-thanisandra-main-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -89543,6 +89691,65 @@
 		"offers": []
 	},
 	{
+		"name": "Badminton Courts",
+		"area": "Whitefield",
+		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
+		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
+		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
+		"website": "palmmeadowsclub.com",
+		"email": "room@palmmeadowsclub.com",
+		"remarks": "",
+		"phone": [],
+		"functionData": [],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP5"
+		],
+		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
+		"cityCode": 1,
+		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"category": 1,
+		"inquiryPhone": null,
+		"s3Folder": "BADMINTONCOURTS",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "6–8PM",
+			"Tue": "6–8PM",
+			"Wed": "6–8PM",
+			"Thu": "6–8PM",
+			"Fri": "6–8PM",
+			"Sat": "Closed",
+			"Sun": "Closed"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "Badminton-Courts-Whitefield-bangalore",
+				"active": true
+			}
+		],
+		"images": [],
+		"rating": 0,
+		"shareLink": "https://playo.page.link/pkg39",
+		"deferLink": "https://playo.page.link/cMF9F",
+		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 15.708227871680338,
+		"lat": 12.9639825,
+		"lng": 77.7391921,
+		"activeKey": "Badminton-Courts-Whitefield-bangalore",
+		"offers": []
+	},
+	{
 		"name": "Badminton Courts2",
 		"area": "Whitefield",
 		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
@@ -89604,65 +89811,6 @@
 		"lat": 12.9639825,
 		"lng": 77.7391921,
 		"activeKey": "Badminton-Courts2-Whitefield-bangalore",
-		"offers": []
-	},
-	{
-		"name": "Badminton Courts",
-		"area": "Whitefield",
-		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
-		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
-		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
-		"website": "palmmeadowsclub.com",
-		"email": "room@palmmeadowsclub.com",
-		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP5"
-		],
-		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
-		"cityCode": 1,
-		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"category": 1,
-		"inquiryPhone": null,
-		"s3Folder": "BADMINTONCOURTS",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "6–8PM",
-			"Tue": "6–8PM",
-			"Wed": "6–8PM",
-			"Thu": "6–8PM",
-			"Fri": "6–8PM",
-			"Sat": "Closed",
-			"Sun": "Closed"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "Badminton-Courts-Whitefield-bangalore",
-				"active": true
-			}
-		],
-		"images": [],
-		"rating": 0,
-		"shareLink": "https://playo.page.link/pkg39",
-		"deferLink": "https://playo.page.link/cMF9F",
-		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"amenities": [],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
-		"avgRating": 0,
-		"ratingCount": 0,
-		"distance": 15.708227871680338,
-		"lat": 12.9639825,
-		"lng": 77.7391921,
-		"activeKey": "Badminton-Courts-Whitefield-bangalore",
 		"offers": []
 	},
 	{
@@ -92544,7 +92692,7 @@
 				"key": "just-cricket-academy-rajanukunte-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/GwqS",
+		"shareLink": "https://z34v4.app.goo.gl/Y821",
 		"city": "Bengaluru",
 		"area": "Rajanukunte",
 		"oldPlayoId": "592e98eb6d91cf1551a44192",
@@ -92586,7 +92734,7 @@
 		"coverImage": "",
 		"createdTS": "2017-05-31T10:20:27.761Z",
 		"inquiryType": 2,
-		"modTS": "2023-02-22T09:11:58.513Z",
+		"modTS": "2023-03-10T16:16:04.643Z",
 		"ratingCount": 4,
 		"images": [
 			{
@@ -92625,7 +92773,7 @@
 		"members": false,
 		"address": "Itagalpura Main Rd, Rajanukunte, Karnataka - 560089",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/MyeB",
+		"deferLink": "https://z34v4.app.goo.gl/zqsM",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=ab19f83b-b65a-466c-8455-8d5344a57515",
 		"country": "India",
@@ -92644,6 +92792,157 @@
 		"__v": 1,
 		"distance": 22.906168349270324,
 		"activeKey": "just-cricket-academy-rajanukunte-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "8210211090",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "kini-cricket-ground-bidadi-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/BAo3",
+		"city": "Bengaluru",
+		"area": "Bidadi",
+		"oldPlayoId": "587124206d91cf3645ab07a5",
+		"functionData": [
+			{
+				"content": "21cb1f74-5dd4-49c9-a193-6514088cbacb",
+				"caption": "Enquire Now!",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP0",
+			"SP57",
+			"SP47"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Change Room",
+			"Shower",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/ENLIVEN/map.PNG",
+		"zipCode": "562130",
+		"phone": [
+			"8210211090"
+		],
+		"avgRating": 3.3,
+		"name": "Kini Cricket Ground",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.003Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.003Z",
+		"inquiryType": 0,
+		"modTS": "2023-03-10T16:33:06.387Z",
+		"ratingCount": 31,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465516344.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465521737.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465528836.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465534406.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465542076.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465545396.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465550806.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465554436.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465562056.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465567007.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465572188.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465578170.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465584617.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465593477.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465598059.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465603939.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465611909.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465619019.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465623490.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/ENLIVEN/KiniCricketGround1678465627378.jpg"
+			}
+		],
+		"id": "21cb1f74-5dd4-49c9-a193-6514088cbacb",
+		"description": "",
+		"category": 1,
+		"s3Folder": "ENLIVEN",
+		"state": "Karnataka",
+		"email": [
+			"sanjeev@playo.co"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Savanadurga - Manchnabele Road, Chikkanahalli, Ajo Way, Bengaluru, Karnataka - 562130",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/nSQB",
+		"search": "",
+		"fullLink": "https://playo.co/venue/?venueId=21cb1f74-5dd4-49c9-a193-6514088cbacb",
+		"country": "India",
+		"timings": "6 AM - 6 PM",
+		"addInfo": "",
+		"isSafeAndHygiene": true,
+		"bookType": 0,
+		"lat": 12.879984205558387,
+		"lng": 77.34895389998177,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "21cb1f74-5dd4-49c9-a193-6514088cbacb",
+		"activityCount": 5,
+		"activityCountLastSyncDate": "2023-03-09T18:30:03.199Z",
+		"bnpl": false,
+		"__v": 1,
+		"distance": 28.536760309840247,
+		"activeKey": "kini-cricket-ground-bidadi-bengaluru",
 		"offers": []
 	}
 ]
