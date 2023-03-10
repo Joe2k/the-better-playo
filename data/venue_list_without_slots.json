@@ -17116,7 +17116,7 @@
 		"createdTS": "2018-11-18T11:20:24.403Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T07:26:57.826Z",
-		"ratingCount": 116,
+		"ratingCount": 117,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSSPORTS/whitefeatherssports1.jpg"
@@ -39757,7 +39757,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 979,
+		"ratingCount": 980,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -52055,8 +52055,8 @@
 				"createdTS": "2023-03-03T17:33:20.715Z",
 				"offerContent": "a18875e4-6063-4199-999b-11b8209c3a7e",
 				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/DiamondShuttlersInauguralOfferFlat10offtusn4cover1677864732410.jpg",
-				"expiry": "2025-11-27T23:03:20.714Z",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/DiamondShuttlersInauguralOfferFlat10offkjjrdpcover1678436526108.png",
+				"expiry": "2025-11-27T00:00:00.000Z",
 				"multiCity": false,
 				"sports": "SP5",
 				"activeKey": "diamond-shuttlers-inaugural-offer-flat-10-off-bengaluru",
@@ -52064,7 +52064,7 @@
 					{
 						"coupon": "PLAYON",
 						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "",
+						"validity": "Valid till November 27, 2025",
 						"content": "https://playo.co/venue/?venueId=a18875e4-6063-4199-999b-11b8209c3a7e",
 						"action": "Avail Offer",
 						"type": "venue"
@@ -52082,8 +52082,10 @@
 				"shareMsg": "Diamond Shuttlers Inaugural Offer - Flat 10% off",
 				"id": "4cfb773e-06e5-46ae-8c30-b033cffb2bf8",
 				"offerName": "Diamond Shuttlers Inaugural Offer - Flat 10% off",
-				"shareLink": "https://z34v4.app.goo.gl/93CH",
-				"deferLink": "https://z34v4.app.goo.gl/5WxY"
+				"shareLink": "https://z34v4.app.goo.gl/FshK",
+				"deferLink": "https://z34v4.app.goo.gl/dmfX",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395
 			}
 		]
 	},
