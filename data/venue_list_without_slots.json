@@ -4535,7 +4535,7 @@
 		"description": "",
 		"createdTS": "2020-08-20T07:30:46.373Z",
 		"bookType": 0,
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"zipCode": "560032",
 		"modTS": "2022-11-21T07:06:56.501Z",
 		"inquiryPhone": "8073761989",
@@ -8779,7 +8779,7 @@
 		"createdTS": "2018-12-25T06:00:28.144Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-06T16:16:14.591Z",
-		"ratingCount": 94,
+		"ratingCount": 95,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENLEG/goldenleg1.jpg"
@@ -13001,7 +13001,7 @@
 		"description": "",
 		"createdTS": "2019-01-24T11:23:49.532Z",
 		"bookType": 0,
-		"ratingCount": 106,
+		"ratingCount": 107,
 		"zipCode": "560072",
 		"modTS": "2020-09-05T15:30:37.203Z",
 		"inquiryPhone": "7760634720",
@@ -20049,14 +20049,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -20722,7 +20722,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:09:05.576Z",
-		"ratingCount": 306,
+		"ratingCount": 307,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -20826,7 +20826,7 @@
 		"description": "",
 		"createdTS": "2019-06-22T13:48:55.209Z",
 		"bookType": 0,
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"zipCode": "560076",
 		"modTS": "2021-12-17T09:58:30.200Z",
 		"inquiryPhone": "8431370366",
@@ -26489,7 +26489,7 @@
 		"createdTS": "2017-02-10T09:35:39.965Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-09T07:48:23.165Z",
-		"ratingCount": 209,
+		"ratingCount": 210,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OVALNETBADMINTONACADEMY/OvalNetBadmintonAcademy6.JPG"
@@ -29126,7 +29126,7 @@
 		"description": "",
 		"createdTS": "2020-02-26T09:42:19.435Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560016",
 		"modTS": "2021-12-17T07:36:32.925Z",
 		"inquiryPhone": "9980151415",
@@ -43578,7 +43578,7 @@
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-08T13:53:17.575Z",
-		"ratingCount": 40,
+		"ratingCount": 42,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYHIGH/flyhighbadmintonarena1660032614321.jpeg"
@@ -46398,7 +46398,7 @@
 		"createdTS": "2018-05-29T13:10:32.406Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-21T11:50:24.480Z",
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LEVELUPBADMINTONACADEMY/LevelUpBadmintonAcademy0.jpg"
@@ -50424,7 +50424,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 607,
+		"ratingCount": 608,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -56626,7 +56626,7 @@
 		"description": "",
 		"createdTS": "2019-07-11T09:39:38.620Z",
 		"bookType": 0,
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"zipCode": "560066",
 		"modTS": "2022-03-25T12:53:59.261Z",
 		"inquiryPhone": "7338282567",
@@ -56635,7 +56635,7 @@
 			"7338282567"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"address": "256, Varthur Main Road, Near D Mart, Patel Narayansamy Layout, Whitefield, Bengaluru, Karnataka 560066",
 		"active": true,
 		"id": "b46e2fa1-cb2e-4d6b-ac7f-c747de140ecf",
@@ -56825,7 +56825,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 344,
+		"ratingCount": 345,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
