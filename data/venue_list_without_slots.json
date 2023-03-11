@@ -10242,7 +10242,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 226,
+		"ratingCount": 227,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -16063,7 +16063,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560016",
 		"modTS": "2023-02-07T15:51:33.335Z",
 		"inquiryPhone": "9686603952",
@@ -22337,7 +22337,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 420,
+		"ratingCount": 421,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -23234,7 +23234,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 81,
+		"ratingCount": 82,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -23343,7 +23343,7 @@
 				"key": "spr-nisarga-badminton-academy-reddys-farm-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/jfSk",
+		"shareLink": "https://z34v4.app.goo.gl/AcNr",
 		"city": "Bengaluru",
 		"area": "Reddy's Farm",
 		"oldPlayoId": "5b2619656d91cf0b9560c534",
@@ -23380,23 +23380,26 @@
 		"name": "SPR Nisarga Badminton Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-06-17T08:18:45.208Z",
-		"coverImage": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademycovercover1559415748190.jpg",
+		"coverImage": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademycovercover1678536756252.jpeg",
 		"createdTS": "2018-06-17T08:18:45.208Z",
 		"inquiryType": -1,
-		"modTS": "2020-10-20T18:09:40.506Z",
+		"modTS": "2023-03-11T12:12:44.326Z",
 		"ratingCount": 184,
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy0.jpg"
+				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy1678536634747.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy1.jpg"
+				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy1678536642757.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy3.jpg"
+				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy1678536651187.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy4.jpg"
+				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy1678536659707.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/SPRNISARGABADMINTONACADEMY/SPRNisargaBadmintonAcademy1678536665988.jpeg"
 			}
 		],
 		"id": "d28738dd-14e3-4e8b-a292-ddf7135f8c5c",
@@ -23414,7 +23417,7 @@
 		"members": false,
 		"address": "#04, Giridhama Layout, Gattigere, RR Nagar, Bengaluru, Karnataka",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/DCdv",
+		"deferLink": "https://z34v4.app.goo.gl/fY1r",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=d28738dd-14e3-4e8b-a292-ddf7135f8c5c",
 		"country": "India",
@@ -23431,10 +23434,11 @@
 		"type": 0,
 		"venueId": "d28738dd-14e3-4e8b-a292-ddf7135f8c5c",
 		"sponsoredRadius": 5,
-		"__v": 1,
+		"__v": 2,
 		"isSafeAndHygiene": true,
 		"activityCount": 10837,
 		"activityCountLastSyncDate": "2023-03-10T18:30:03.150Z",
+		"bnpl": false,
 		"distance": 9.55875695425212,
 		"activeKey": "spr-nisarga-badminton-academy-reddys-farm-bengaluru",
 		"offers": []
@@ -40458,7 +40462,7 @@
 		"description": "",
 		"createdTS": "2021-10-11T05:54:20.402Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560077",
 		"modTS": "2022-10-19T09:36:53.292Z",
 		"inquiryPhone": "9663851888",
@@ -40467,7 +40471,7 @@
 			"9663851888"
 		],
 		"sponsored": "",
-		"avgRating": 3.1,
+		"avgRating": 3.2,
 		"address": "#11/4, Hegemony Global School, Nagareshwara, Nagenahalli to K Narayanapura Main Road, Kothanur, K Narayanapura, Bangalore",
 		"active": true,
 		"id": "dab3fe83-8155-42ca-b631-443d9cc127dc",
@@ -52672,7 +52676,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 162,
+		"ratingCount": 163,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
