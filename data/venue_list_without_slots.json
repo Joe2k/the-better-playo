@@ -11535,7 +11535,7 @@
 		"createdTS": "2017-04-02T10:49:58.660Z",
 		"inquiryType": -1,
 		"modTS": "2020-08-04T06:10:30.469Z",
-		"ratingCount": 162,
+		"ratingCount": 163,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PREMIERBADMINTONACADEMYDRONACHARYACENTER/AnisSportsAcademy28.jpg"
@@ -20722,7 +20722,7 @@
 		"createdTS": "2018-11-28T19:00:35.627Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:09:05.576Z",
-		"ratingCount": 307,
+		"ratingCount": 308,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ELOHIMSHUTTLEARENA/ElohimShuttleArena1.jpeg"
@@ -23821,7 +23821,7 @@
 		"description": "",
 		"createdTS": "2022-04-25T05:03:38.694Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560097",
 		"modTS": "2023-02-01T08:00:38.335Z",
 		"inquiryPhone": "7660010620",
@@ -23830,7 +23830,7 @@
 			"7660010620"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"address": "2nd Floor, Vyasa International School, Sy.101/2, BEL North Gate, Vidyaranyapura, Bangalore – 560097",
 		"active": true,
 		"id": "a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
@@ -26768,7 +26768,7 @@
 		"phone": [
 			"9902091388"
 		],
-		"avgRating": 4.4,
+		"avgRating": 3.3,
 		"name": "Friendly Sports & Cultural Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.158Z",
@@ -26776,7 +26776,7 @@
 		"createdTS": "2017-01-07T17:23:44.158Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-27T13:00:37.294Z",
-		"ratingCount": 18,
+		"ratingCount": 27,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SWEAT2BFITINDIRANAGAR/FriendlySportsCulturalClub1640545279169.jpeg"
@@ -35095,7 +35095,7 @@
 		"description": "",
 		"createdTS": "2019-05-05T05:34:23.674Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560016",
 		"modTS": "2021-12-16T10:03:15.331Z",
 		"inquiryPhone": "8296089545",
@@ -35104,7 +35104,7 @@
 			"8296089545"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"address": "8th Main Road, MRB Farms, Nakashe Road, NRI Layout, Behind Manamaya Residency Complex, Bengaluru, Karnataka",
 		"active": true,
 		"id": "42faaf25-ea94-400c-a4f2-ed79ef4709b1",
@@ -36348,7 +36348,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 129,
+		"ratingCount": 130,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -45842,7 +45842,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 399,
+		"ratingCount": 400,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -47511,7 +47511,7 @@
 		"createdTS": "2018-10-30T09:52:35.246Z",
 		"inquiryType": -1,
 		"modTS": "2020-08-19T07:37:38.899Z",
-		"ratingCount": 26,
+		"ratingCount": 28,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VECTORBADMINTONCENTRE/VectorBadmintonCentre3.jpeg"
@@ -52676,7 +52676,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 163,
+		"ratingCount": 164,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -62518,14 +62518,14 @@
 		"phone": [
 			"8069031500"
 		],
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"name": "Lakshyan Academy of Sports",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-21T13:23:26.106Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
 		"s3Folder": "LAKSHYANACADEMYOFSPORTS20221109111107648729",
