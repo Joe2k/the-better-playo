@@ -4469,7 +4469,7 @@
 		"createdTS": "2018-03-18T12:29:02.088Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T05:57:39.969Z",
-		"ratingCount": 226,
+		"ratingCount": 227,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/INFINITESPORTSARENA/infinitesportsarena1.jpg"
@@ -19728,7 +19728,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 69,
+		"ratingCount": 70,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -25981,7 +25981,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -30916,7 +30916,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 59,
+		"ratingCount": 60,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -33018,7 +33018,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 239,
+		"ratingCount": 240,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -38330,7 +38330,7 @@
 		"createdTS": "2017-01-09T14:32:53.191Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T13:32:36.959Z",
-		"ratingCount": 296,
+		"ratingCount": 297,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VRISHIRACKETSANDSHUTTLES/vrishiracketsandshuttles0.jpg"
@@ -45477,7 +45477,7 @@
 		"bookType": 0,
 		"ratingCount": 21,
 		"zipCode": "560083",
-		"modTS": "2023-03-01T08:40:28.505Z",
+		"modTS": "2023-03-11T04:49:41.050Z",
 		"inquiryPhone": "9538451451",
 		"inquiryType": -1,
 		"phone": [
@@ -45497,7 +45497,6 @@
 			"SP2",
 			"SP56",
 			"SP57",
-			"SP66",
 			"SP7"
 		],
 		"name": "Play Smart Multi Sport Arena",
@@ -45526,7 +45525,6 @@
 			"SP2",
 			"SP56",
 			"SP57",
-			"SP66",
 			"SP7"
 		],
 		"members": false,
@@ -50426,7 +50424,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 606,
+		"ratingCount": 607,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -59355,7 +59353,7 @@
 		"createdTS": "2017-01-07T17:23:44.130Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:54.345Z",
-		"ratingCount": 231,
+		"ratingCount": 232,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUMUKHASPORTSARENA/MachaxiSumukhaSports1659277639642.jpg"
@@ -61885,7 +61883,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 410,
+		"ratingCount": 411,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
@@ -66946,7 +66944,7 @@
 		"description": "",
 		"createdTS": "2021-11-25T03:00:19.797Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560100",
 		"modTS": "2022-07-31T03:09:35.586Z",
 		"inquiryPhone": "7676217257",
