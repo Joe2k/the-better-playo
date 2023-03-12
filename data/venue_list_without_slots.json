@@ -20049,14 +20049,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 32,
+		"ratingCount": 33,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -32721,7 +32721,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 115,
+		"ratingCount": 116,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -50429,7 +50429,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 608,
+		"ratingCount": 609,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -52346,7 +52346,7 @@
 		"description": "",
 		"createdTS": "2022-06-28T17:26:55.895Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560049",
 		"modTS": "2023-01-25T16:46:16.726Z",
 		"inquiryPhone": "9032526301",
@@ -56631,7 +56631,7 @@
 		"description": "",
 		"createdTS": "2019-07-11T09:39:38.620Z",
 		"bookType": 0,
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"zipCode": "560066",
 		"modTS": "2022-03-25T12:53:59.261Z",
 		"inquiryPhone": "7338282567",
@@ -61181,7 +61181,7 @@
 		"createdTS": "2018-02-11T06:46:38.718Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-20T09:53:20.487Z",
-		"ratingCount": 277,
+		"ratingCount": 278,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSHUTTLERS/FeatherShuttlers1586172701791.png"
@@ -67446,7 +67446,7 @@
 		"createdTS": "2018-04-30T09:49:53.585Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:07:58.349Z",
-		"ratingCount": 182,
+		"ratingCount": 183,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENSPORTZONE/1.png"
