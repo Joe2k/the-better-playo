@@ -12893,14 +12893,14 @@
 		"phone": [
 			"9152625262"
 		],
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"name": "ActFit Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:19:14.117Z",
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -15606,7 +15606,7 @@
 		"createdTS": "2017-05-10T09:37:45.102Z",
 		"inquiryType": -1,
 		"modTS": "2020-11-12T05:16:27.431Z",
-		"ratingCount": 324,
+		"ratingCount": 325,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BATTLEDOREARENA/battledorearena12.jpeg"
@@ -20056,7 +20056,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 34,
+		"ratingCount": 35,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -21159,7 +21159,7 @@
 		"description": "",
 		"createdTS": "2019-10-12T17:55:22.790Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560072",
 		"modTS": "2022-04-16T15:11:36.601Z",
 		"inquiryPhone": "9880095731",
@@ -22434,7 +22434,7 @@
 		"bookType": 0,
 		"ratingCount": 177,
 		"zipCode": "560037",
-		"modTS": "2022-09-18T10:10:49.686Z",
+		"modTS": "2023-03-12T14:48:39.793Z",
 		"inquiryPhone": "9606751111",
 		"inquiryType": -1,
 		"phone": [
@@ -22493,7 +22493,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Shoes & Rackets NOT available on rent here. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"type": 0,
 		"email": [
 			"prashanth.perumal@gmail.com"
@@ -50429,7 +50429,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 610,
+		"ratingCount": 611,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -72327,7 +72327,7 @@
 		"description": "",
 		"createdTS": "2020-01-03T12:49:12.777Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "563101",
 		"modTS": "2023-02-04T14:54:50.242Z",
 		"inquiryPhone": "9148903114",
