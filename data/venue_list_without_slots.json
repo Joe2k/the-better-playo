@@ -18203,7 +18203,7 @@
 		"createdTS": "2018-08-28T16:10:53.870Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:18.649Z",
-		"ratingCount": 111,
+		"ratingCount": 112,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AJSPORTS/ajsports0.jpeg"
@@ -20056,7 +20056,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -21904,7 +21904,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 286,
+		"ratingCount": 288,
 		"zipCode": "560068",
 		"modTS": "2023-03-01T08:40:41.907Z",
 		"inquiryPhone": "6364444441",
@@ -28071,7 +28071,7 @@
 		"phone": [
 			"9845775309"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"name": "G Sports",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-08-29T17:36:35.862Z",
@@ -28079,7 +28079,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 295,
+		"ratingCount": 296,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -28314,7 +28314,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:27.431Z",
-		"ratingCount": 256,
+		"ratingCount": 257,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
@@ -36348,7 +36348,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 130,
+		"ratingCount": 131,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -47018,7 +47018,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -50429,7 +50429,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 609,
+		"ratingCount": 610,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -52105,14 +52105,14 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.7,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 3,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T16:20:24.139Z",
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
 		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
@@ -53842,7 +53842,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
@@ -53851,7 +53851,7 @@
 			"7090085007"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.2,
 		"address": "#74, Kodipalya Main Road, Near Ram Medicals, Kodipalya, Kengeri, Bangalore - 560060",
 		"active": true,
 		"id": "6f78edc6-8c04-414e-a756-6012c478d504",
