@@ -9790,7 +9790,7 @@
 		"description": "",
 		"createdTS": "2020-02-01T08:27:34.053Z",
 		"bookType": 0,
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"zipCode": "560032",
 		"modTS": "2022-11-29T08:44:34.177Z",
 		"inquiryPhone": "9611667891",
@@ -26768,7 +26768,7 @@
 		"phone": [
 			"9902091388"
 		],
-		"avgRating": 3,
+		"avgRating": 2.9,
 		"name": "Friendly Sports & Cultural Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.158Z",
@@ -26776,7 +26776,7 @@
 		"createdTS": "2017-01-07T17:23:44.158Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-27T13:00:37.294Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SWEAT2BFITINDIRANAGAR/FriendlySportsCulturalClub1640545279169.jpeg"
@@ -34611,7 +34611,7 @@
 		"createdTS": "2018-07-10T09:57:40.464Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-19T07:41:40.562Z",
-		"ratingCount": 167,
+		"ratingCount": 168,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETSPLAYBADMINTONARENA/LetsPlayArenaRamamurthyNagar1646739068427.PNG"
@@ -56138,7 +56138,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 52,
+		"ratingCount": 53,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -72477,7 +72477,7 @@
 		"description": "",
 		"createdTS": "2021-07-09T15:18:31.382Z",
 		"bookType": 0,
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"zipCode": "572103",
 		"modTS": "2022-08-10T14:05:01.506Z",
 		"inquiryPhone": "9110662425",
