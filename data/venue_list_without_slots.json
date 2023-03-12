@@ -35585,7 +35585,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 53,
+		"ratingCount": 54,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -35594,7 +35594,7 @@
 			"9449631007"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"address": "Yeshodamma Layout, 2nd Main, Near Yellamma Devi Temple",
 		"active": true,
 		"id": "2a5e4742-eaf6-4fb0-8764-5d9b8fe989f4",
@@ -39876,7 +39876,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 980,
+		"ratingCount": 981,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
