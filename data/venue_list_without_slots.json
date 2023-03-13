@@ -2953,9 +2953,9 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2023-03-09T20:00:39.312Z",
-		"shareLink": "https://z34v4.app.goo.gl/WqpZ",
-		"deferLink": "https://z34v4.app.goo.gl/L5u9",
+		"modTS": "2023-03-13T15:19:27.670Z",
+		"shareLink": "https://z34v4.app.goo.gl/cLGT",
+		"deferLink": "https://z34v4.app.goo.gl/fAcw",
 		"fullLink": "https://playo.co/venue/?venueId=7af03877-3bd0-4739-808a-5300b500894c",
 		"amenities": [
 			"Washroom",
@@ -2985,8 +2985,8 @@
 		"bookSports": [
 			"SP33"
 		],
-		"__v": 1,
-		"coverImage": "",
+		"__v": 2,
+		"coverImage": "https://playo.gumlet.io/DIGOBADMINTONACADEMY/BangaloreMountaineeringClubcovercover1678720693441.jpg",
 		"createdTS": "2023-03-07T15:59:30.859Z",
 		"infoData": [],
 		"logoImg": "",
@@ -28079,7 +28079,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 296,
+		"ratingCount": 298,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
