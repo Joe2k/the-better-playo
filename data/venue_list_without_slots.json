@@ -10434,7 +10434,7 @@
 		"venueId": "3c25e654-7f6a-43ae-ad14-0c4e517181ca",
 		"zipCode": "560022",
 		"__v": 1,
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"coverImage": "",
 		"createdTS": "2021-08-14T11:45:06.298Z",
 		"infoData": [],
@@ -17117,7 +17117,7 @@
 		"createdTS": "2018-11-18T11:20:24.403Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T07:26:57.826Z",
-		"ratingCount": 117,
+		"ratingCount": 118,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERSSPORTS/whitefeatherssports1.jpg"
@@ -20057,7 +20057,7 @@
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 35,
+		"ratingCount": 37,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -23822,7 +23822,7 @@
 		"description": "",
 		"createdTS": "2022-04-25T05:03:38.694Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560097",
 		"modTS": "2023-02-01T08:00:38.335Z",
 		"inquiryPhone": "7660010620",
@@ -28083,7 +28083,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 299,
+		"ratingCount": 300,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -34615,7 +34615,7 @@
 		"createdTS": "2018-07-10T09:57:40.464Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-19T07:41:40.562Z",
-		"ratingCount": 168,
+		"ratingCount": 169,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETSPLAYBADMINTONARENA/LetsPlayArenaRamamurthyNagar1646739068427.PNG"
@@ -55565,7 +55565,7 @@
 		"description": "",
 		"createdTS": "2021-06-20T15:14:15.772Z",
 		"bookType": 0,
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"zipCode": "560049",
 		"modTS": "2022-11-03T05:50:06.429Z",
 		"inquiryPhone": "6364834834",
@@ -55574,7 +55574,7 @@
 			"6364834834"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "37/4, Lecaprio Road, Near OM Residency Layout, Kodigehalli, K R Puram Bangalore 560049",
 		"active": true,
 		"id": "34d63da6-f0ea-4f2f-8877-eeb056f1c6bc",
@@ -62770,14 +62770,14 @@
 		"phone": [
 			"8197897462"
 		],
-		"avgRating": 5,
+		"avgRating": 4.2,
 		"name": "Game Theory - Sportfit",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T12:16:51.007Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T04:42:34.506Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"category": 2,
 		"s3Folder": "GAMETHEORYSPORTFIT20230201121651007823",
@@ -63574,7 +63574,7 @@
 		"description": "",
 		"createdTS": "2019-11-10T07:16:23.134Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560067",
 		"modTS": "2022-07-25T11:52:25.022Z",
 		"inquiryPhone": "8553631883",
