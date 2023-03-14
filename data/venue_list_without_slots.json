@@ -7316,7 +7316,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 181,
+		"ratingCount": 182,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -11381,7 +11381,7 @@
 		"phone": [
 			"9625411116"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"name": "Racket Club Of Bengaluru (RCB)",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-07-11T10:10:49.283Z",
@@ -11389,7 +11389,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 335,
+		"ratingCount": 336,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -31396,7 +31396,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 344,
+		"ratingCount": 345,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -52680,7 +52680,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 165,
+		"ratingCount": 166,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
