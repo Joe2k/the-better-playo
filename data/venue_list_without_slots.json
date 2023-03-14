@@ -7316,7 +7316,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 182,
+		"ratingCount": 183,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -9525,12 +9525,12 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "91-sporting-company-young-scholars-sports-arena-rt-nagar-bengaluru"
+				"key": "91-sporting-company-football-arena-rt-nagar-young-scholars-sports-arena-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/BXeu",
+		"shareLink": "https://z34v4.app.goo.gl/4ocd",
 		"city": "Bengaluru",
-		"area": "RT Nagar",
+		"area": "Young Scholars Sports Arena",
 		"oldPlayoId": "5927de4e6d91cf296983007f",
 		"functionData": [
 			{
@@ -9559,13 +9559,13 @@
 			"7353161616"
 		],
 		"avgRating": 4.5,
-		"name": "91 Sporting Company - Young Scholars Sports Arena",
+		"name": "91 Sporting Company Football Arena - RT Nagar",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-05-26T07:50:38.021Z",
 		"coverImage": "",
 		"createdTS": "2017-05-26T07:50:38.021Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-28T06:34:42.378Z",
+		"modTS": "2023-03-14T10:56:30.611Z",
 		"ratingCount": 138,
 		"images": [
 			{
@@ -9602,7 +9602,7 @@
 		"members": false,
 		"address": "S 28, V Nagenahalli Main Road (Near Church), Kanakanagar, RT Nagar Post",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/n3yP",
+		"deferLink": "https://z34v4.app.goo.gl/R6jT",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=dc33c119-2521-4507-84b0-308ebe3fc3e3",
 		"country": "India",
@@ -9623,7 +9623,7 @@
 		"__v": 2,
 		"bnpl": false,
 		"distance": 7.4673126517986175,
-		"activeKey": "91-sporting-company-young-scholars-sports-arena-rt-nagar-bengaluru",
+		"activeKey": "91-sporting-company-football-arena-rt-nagar-young-scholars-sports-arena-bengaluru",
 		"offers": []
 	},
 	{
@@ -9792,7 +9792,7 @@
 		"bookType": 0,
 		"ratingCount": 52,
 		"zipCode": "560032",
-		"modTS": "2022-11-29T08:44:34.177Z",
+		"modTS": "2023-03-14T10:57:18.501Z",
 		"inquiryPhone": "9611667891",
 		"inquiryType": -1,
 		"phone": [
@@ -9805,12 +9805,12 @@
 		"id": "f596daa9-5b6c-46c4-847c-b64767d5b3fc",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "",
+		"search": "VK Match Point , VK MatchPoint ",
 		"bookSports": [
 			"SP5"
 		],
-		"name": "VK Match Point - 91 Sporting Company - RT Nagar",
-		"area": "Scholars Sports Arena",
+		"name": "91 Sporting Company Badminton Arena - RT Nagar",
+		"area": "Young Scholars Sports Arena",
 		"sponsoredRadius": 5,
 		"country": "India",
 		"tags": [],
@@ -9839,7 +9839,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "vk-match-point-91-sporting-company-rt-nagar-scholars-sports-arena-bengaluru"
+				"key": "91-sporting-company-badminton-arena-rt-nagar-young-scholars-sports-arena-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -9851,8 +9851,8 @@
 			"info@91sportingco.in"
 		],
 		"s3Folder": "VKMATCHPOINTRTNAGAR20200201082734053724",
-		"shareLink": "https://z34v4.app.goo.gl/Aj9c",
-		"deferLink": "https://z34v4.app.goo.gl/fMY3",
+		"shareLink": "https://z34v4.app.goo.gl/3Fph",
+		"deferLink": "https://z34v4.app.goo.gl/oESr",
 		"__v": 7,
 		"coverImage": "",
 		"googleMapLink": "",
@@ -9880,8 +9880,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 6885,
 		"activityCountLastSyncDate": "2023-03-13T18:30:02.704Z",
+		"bnpl": false,
 		"distance": 7.49094833041759,
-		"activeKey": "vk-match-point-91-sporting-company-rt-nagar-scholars-sports-arena-bengaluru",
+		"activeKey": "91-sporting-company-badminton-arena-rt-nagar-young-scholars-sports-arena-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -37113,7 +37114,7 @@
 		"bookType": 0,
 		"ratingCount": 53,
 		"zipCode": "560056",
-		"modTS": "2022-11-29T08:03:31.509Z",
+		"modTS": "2023-03-14T10:57:40.221Z",
 		"inquiryPhone": "7676078196",
 		"inquiryType": -1,
 		"phone": [
@@ -37127,8 +37128,8 @@
 		"description": "",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "matchpoint",
-		"name": "VK Match Point - 91 Sporting Company - Ullal",
+		"search": "matchpoint , VK Match Point , VK MatchPoint ",
+		"name": "91 Sporting Company Badminton Arena - Ullal",
 		"area": "Jnana Ganga Nagar",
 		"country": "India",
 		"tags": [],
@@ -37159,7 +37160,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "vk-match-point-91-sporting-company-ullal-jnana-ganga-nagar-bengaluru"
+				"key": "91-sporting-company-badminton-arena-ullal-jnana-ganga-nagar-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -37173,7 +37174,7 @@
 		"s3Folder": "VKMATCHPOINT",
 		"__v": 9,
 		"coverImage": "https://playo.gumlet.io/VKMATCHPOINT/VKMatchPointUllalcovercover1586262283613.jpg",
-		"deferLink": "https://z34v4.app.goo.gl/NxbZ",
+		"deferLink": "https://z34v4.app.goo.gl/5ANN",
 		"googleMapLink": "",
 		"images": [
 			{
@@ -37196,7 +37197,7 @@
 		"logoImg": "",
 		"mapImage": "https://playo.imgix.net/VKMATCHPOINT/VKMatchPointmap1547377054496.jpg",
 		"remarks": "",
-		"shareLink": "https://z34v4.app.goo.gl/R2rg",
+		"shareLink": "https://z34v4.app.goo.gl/c3WZ",
 		"bookSports": [
 			"SP5",
 			"SP4"
@@ -37211,7 +37212,7 @@
 		"activityCountLastSyncDate": "2023-03-13T18:30:02.704Z",
 		"bnpl": false,
 		"distance": 11.311808977970813,
-		"activeKey": "vk-match-point-91-sporting-company-ullal-jnana-ganga-nagar-bengaluru",
+		"activeKey": "91-sporting-company-badminton-arena-ullal-jnana-ganga-nagar-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
