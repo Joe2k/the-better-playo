@@ -18614,7 +18614,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 92,
+		"ratingCount": 93,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -23818,7 +23818,7 @@
 		"description": "",
 		"createdTS": "2022-04-25T05:03:38.694Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 21,
 		"zipCode": "560097",
 		"modTS": "2023-02-01T08:00:38.335Z",
 		"inquiryPhone": "7660010620",
@@ -23827,7 +23827,7 @@
 			"7660010620"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"address": "2nd Floor, Vyasa International School, Sy.101/2, BEL North Gate, Vidyaranyapura, Bangalore – 560097",
 		"active": true,
 		"id": "a51fa0da-9177-42d7-95c8-d63cd0dc86fb",
@@ -33022,7 +33022,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 242,
+		"ratingCount": 243,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -56928,7 +56928,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 346,
+		"ratingCount": 347,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
