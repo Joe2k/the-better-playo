@@ -6344,7 +6344,7 @@
 		"phone": [
 			"9663290000"
 		],
-		"avgRating": 4.1,
+		"avgRating": 4,
 		"name": "The Banana Kick",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-02-27T06:09:25.529Z",
@@ -6352,7 +6352,7 @@
 		"createdTS": "2017-02-27T06:09:25.529Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-06T07:15:56.344Z",
-		"ratingCount": 35,
+		"ratingCount": 36,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEBANANAKICK/TheBananaKick1639912501940.jpg"
@@ -7316,7 +7316,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 183,
+		"ratingCount": 184,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -13794,7 +13794,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 282,
+		"ratingCount": 283,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -16358,7 +16358,7 @@
 		"createdTS": "2018-05-31T14:28:35.443Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:13:51.512Z",
-		"ratingCount": 267,
+		"ratingCount": 268,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOVABADMINTONACADEMYAREHALLI/NovaBadmintonAcademyArehalli1639984419582.webp"
@@ -56236,7 +56236,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -61986,7 +61986,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 411,
+		"ratingCount": 412,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
@@ -65843,7 +65843,7 @@
 		"createdTS": "2017-08-31T04:47:38.464Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T17:19:19.948Z",
-		"ratingCount": 164,
+		"ratingCount": 165,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUNSHINEBADMINTONECITY/sunshinebadmintonecity1.jpg"
