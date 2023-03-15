@@ -5117,7 +5117,7 @@
 		"createdTS": "2018-05-07T12:16:36.958Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T11:49:39.771Z",
-		"ratingCount": 154,
+		"ratingCount": 155,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SAIFOOTBALLACADEMY/EeshaBadmintonAcademy1640720192662.jpeg"
@@ -9525,12 +9525,12 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "91-sporting-company-football-arena-rt-nagar-young-scholars-sports-arena-bengaluru"
+				"key": "91-sporting-company-football-arena-scholars-sports-arena-rt-nagar-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/4ocd",
+		"shareLink": "https://z34v4.app.goo.gl/SVGh",
 		"city": "Bengaluru",
-		"area": "Young Scholars Sports Arena",
+		"area": "RT Nagar",
 		"oldPlayoId": "5927de4e6d91cf296983007f",
 		"functionData": [
 			{
@@ -9559,13 +9559,13 @@
 			"7353161616"
 		],
 		"avgRating": 4.5,
-		"name": "91 Sporting Company Football Arena - RT Nagar",
+		"name": "91 Sporting Company Football Arena - Scholars Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-05-26T07:50:38.021Z",
 		"coverImage": "",
 		"createdTS": "2017-05-26T07:50:38.021Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-14T10:56:30.611Z",
+		"modTS": "2023-03-15T08:37:55.088Z",
 		"ratingCount": 138,
 		"images": [
 			{
@@ -9602,7 +9602,7 @@
 		"members": false,
 		"address": "S 28, V Nagenahalli Main Road (Near Church), Kanakanagar, RT Nagar Post",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/R6jT",
+		"deferLink": "https://z34v4.app.goo.gl/15um",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=dc33c119-2521-4507-84b0-308ebe3fc3e3",
 		"country": "India",
@@ -9623,7 +9623,7 @@
 		"__v": 2,
 		"bnpl": false,
 		"distance": 7.4673126517986175,
-		"activeKey": "91-sporting-company-football-arena-rt-nagar-young-scholars-sports-arena-bengaluru",
+		"activeKey": "91-sporting-company-football-arena-scholars-sports-arena-rt-nagar-bengaluru",
 		"offers": []
 	},
 	{
@@ -9792,7 +9792,7 @@
 		"bookType": 0,
 		"ratingCount": 52,
 		"zipCode": "560032",
-		"modTS": "2023-03-14T10:57:18.501Z",
+		"modTS": "2023-03-15T08:37:38.013Z",
 		"inquiryPhone": "9611667891",
 		"inquiryType": -1,
 		"phone": [
@@ -9809,8 +9809,8 @@
 		"bookSports": [
 			"SP5"
 		],
-		"name": "91 Sporting Company Badminton Arena - RT Nagar",
-		"area": "Young Scholars Sports Arena",
+		"name": "91 Sporting Company Badminton Arena - Scholars Sports Arena",
+		"area": "RT Nagar",
 		"sponsoredRadius": 5,
 		"country": "India",
 		"tags": [],
@@ -9839,7 +9839,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "91-sporting-company-badminton-arena-rt-nagar-young-scholars-sports-arena-bengaluru"
+				"key": "91-sporting-company-badminton-arena-scholars-sports-arena-rt-nagar-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -9851,8 +9851,8 @@
 			"info@91sportingco.in"
 		],
 		"s3Folder": "VKMATCHPOINTRTNAGAR20200201082734053724",
-		"shareLink": "https://z34v4.app.goo.gl/3Fph",
-		"deferLink": "https://z34v4.app.goo.gl/oESr",
+		"shareLink": "https://z34v4.app.goo.gl/zjmg",
+		"deferLink": "https://z34v4.app.goo.gl/BHuX",
 		"__v": 7,
 		"coverImage": "",
 		"googleMapLink": "",
@@ -9882,7 +9882,7 @@
 		"activityCountLastSyncDate": "2023-03-14T18:30:00.607Z",
 		"bnpl": false,
 		"distance": 7.49094833041759,
-		"activeKey": "91-sporting-company-badminton-arena-rt-nagar-young-scholars-sports-arena-bengaluru",
+		"activeKey": "91-sporting-company-badminton-arena-scholars-sports-arena-rt-nagar-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -21907,7 +21907,7 @@
 		"bookType": 0,
 		"ratingCount": 292,
 		"zipCode": "560068",
-		"modTS": "2023-03-01T08:40:41.907Z",
+		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
 		"inquiryType": -1,
 		"phone": [
@@ -21979,7 +21979,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Badminton: <br/>\n- Badminton indoor Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 5 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>\n\n\nTable Tennis: <br/>\n- Non Marking Shoes compulsory for Table Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nIndoor Cricket: <br/>\n- A maximum of 14 members per booking per Indoor Cricket court is admissible.<br/>\n- Non Marking Shoes compulsory for Futsal & Indoor Cricket. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n<br/>\n<br/>\n\nThe Majesstine Sports offers state of the art international grade BWF approved Badminton courts.<br/>\n<br/><br/>\n- Courts to be only utilized for Friendly Games. For any Tournaments or Corporate Engagements please use the enquire option. <br/>\n- Exclusive Li-Ning store at venue. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- Teak Wooden Flooring with rubber pads and a three layer synthetic mat that provides extra cushioning.<br/>\n- Olympic LED lights, designed and executed by the same team as in Beijing Olympics. This lighting provides for an excellent uniform 318 LUX across every inch of the court.<br/>\n- Air circulation system with all round vents ensure constant fresh air circulation, while throwing out hot air. <br/>\n- Kids Play Area, Banquet Hall available on rent.<br/>\n- Juice Bar & Physiotherapy centre in-house.<br/>\n- 8 BWF approved international grade Hybrid Badminton Courts, 2 Synthetic Badminton Courts, 4 Table Tennis Courts, Indoor Football & Cricket, Temperature controlled Swimming Pool.<br/>\n- Gym, Restaurant & Spa available at venue. <br/>\n- International standard Dormitories for boarding are available.<br/>\n<br/><br/>",
+		"addInfo": "The Majesstine Sports is a Badminton High Performance Centre with many national athletes training at the centre, kindly follow the footwear rules. Players need to carry their Badminton Non Marking Shoes in a separate bag and wear shoes in the premise. Players walking into the centre wearing the shoes will not be allowed to play with it.<br/>\n<br/>\n<br/>\n\nBadminton: <br/>\n- Badminton Non Marking Shoes Mandatory. <br/>\n- Barefoot play is not allowed. <br/>\n- Players can play wearing socks.<br/>\n- Shoes to be carried and worn at the centre. <br/>\n- Dirty Shoes / shoes worn from outside the centre carrying dust & stones will not be allowed. Kindly help us preserve the quality of surface. <br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 5 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>\n\n\nTable Tennis: <br/>\n- Non Marking Shoes compulsory for Table Tennis. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per tennis court is admissible.<br/>\n<br/>\n<br/>\n\n\n\nIndoor Cricket: <br/>\n- A maximum of 14 members per booking per Indoor Cricket court is admissible.<br/>\n- Non Marking Shoes compulsory for Futsal & Indoor Cricket. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes @ ₹50 per hour.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n<br/>\n<br/>\n\nThe Majesstine Sports offers state of the art international grade BWF approved Badminton courts.<br/>\n<br/><br/>\n- Courts to be only utilized for Friendly Games. For any Tournaments or Corporate Engagements please use the enquire option. <br/>\n- Exclusive Li-Ning store at venue. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- Teak Wooden Flooring with rubber pads and a three layer synthetic mat that provides extra cushioning.<br/>\n- Olympic LED lights, designed and executed by the same team as in Beijing Olympics. This lighting provides for an excellent uniform 318 LUX across every inch of the court.<br/>\n- Air circulation system with all round vents ensure constant fresh air circulation, while throwing out hot air. <br/>\n- Kids Play Area, Banquet Hall available on rent.<br/>\n- Juice Bar & Physiotherapy centre in-house.<br/>\n- 8 BWF approved international grade Hybrid Badminton Courts, 2 Synthetic Badminton Courts, 4 Table Tennis Courts, Indoor Football & Cricket, Temperature controlled Swimming Pool.<br/>\n- Gym, Restaurant & Spa available at venue. <br/>\n- International standard Dormitories for boarding are available.<br/>\n<br/><br/>",
 		"fullLink": "https://playo.co/venue?venueId=28476bb1-378a-402f-92a5-89bea04fd0f3",
 		"type": 0,
 		"email": [
@@ -62771,14 +62771,14 @@
 		"phone": [
 			"8197897462"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.4,
 		"name": "Game Theory - Sportfit",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T12:16:51.007Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T04:42:34.506Z",
-		"ratingCount": 5,
+		"ratingCount": 7,
 		"id": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"category": 2,
 		"s3Folder": "GAMETHEORYSPORTFIT20230201121651007823",
