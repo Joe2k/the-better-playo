@@ -3983,49 +3983,7 @@
 		"bnpl": false,
 		"distance": 5.534436353040456,
 		"activeKey": "footlock-@-patels-inn-rt-nagar-bengaluru",
-		"offers": [
-			{
-				"_id": "5db7f5b1c45768480b8bac07",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"countryCode": "+91",
-				"createdTS": "2019-10-29T08:17:53.467Z",
-				"offerContent": "8f06af1f-a58f-49ee-978f-bd604d8633f2",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/TSHFootlockInauguralOfferBookFootballatjust99perhourt9e5accover1678029955430.jpg",
-				"expiry": "2023-03-15T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2",
-				"activeKey": "footlock-@-patels-inn-inaugural-offer-get-1-hour-of-football-free-on-all-your-bookings!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till March 15, 2023",
-						"content": "https://playo.co/venue/?venueId=8f06af1f-a58f-49ee-978f-bd604d8633f2",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Footlock @ Patel's Inn - Inaugural Offer - Get 1 Hour of Football Free on all your bookings!",
-				"id": "3481ec92-193c-4b82-be66-3923269048a6",
-				"offerName": "Footlock @ Patel's Inn - Inaugural Offer - Get 1 Hour of Football Free on all your bookings!",
-				"shareLink": "https://z34v4.app.goo.gl/ZJi4",
-				"deferLink": "https://z34v4.app.goo.gl/vwgN",
-				"cityLat": 12.9539974,
-				"cityLng": 77.6309395,
-				"terms": "\n- Offer is valid once per user and is only applicable on adding two hours to your cart. Any additional hours will be charged at standard club rates as per the rate card."
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "00edbde9-0640-4109-9986-3874f21be3d6",
