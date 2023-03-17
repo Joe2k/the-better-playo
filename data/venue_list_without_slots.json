@@ -14838,7 +14838,7 @@
 		"createdTS": "2018-05-08T12:43:40.961Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-06T09:41:15.079Z",
-		"ratingCount": 128,
+		"ratingCount": 129,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/DAZZLINGSMASH/DazzlingSmash5.jpeg"
@@ -15511,7 +15511,7 @@
 		"description": "",
 		"createdTS": "2019-04-16T17:20:19.097Z",
 		"bookType": 0,
-		"ratingCount": 111,
+		"ratingCount": 112,
 		"zipCode": "560043",
 		"modTS": "2021-10-25T10:02:19.486Z",
 		"inquiryPhone": "9741014455",
@@ -23799,7 +23799,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 363,
+		"ratingCount": 364,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -26037,7 +26037,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -31445,7 +31445,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 345,
+		"ratingCount": 346,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -39920,14 +39920,14 @@
 		"phone": [
 			"9845909363"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "My Sports Badminton Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-14T07:26:07.771Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-14T07:31:30.188Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "88323c7c-f6f5-40dc-9a09-2c8a1351c66e",
 		"category": 2,
 		"s3Folder": "MYSPORTSBADMINTONACADEMY20230314072607771420",
@@ -49758,7 +49758,7 @@
 		"description": "",
 		"createdTS": "2022-06-22T19:23:10.085Z",
 		"bookType": 0,
-		"ratingCount": 59,
+		"ratingCount": 60,
 		"zipCode": "560064",
 		"modTS": "2022-08-31T08:23:10.887Z",
 		"inquiryPhone": "9740579762",
@@ -50580,7 +50580,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 612,
+		"ratingCount": 613,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
