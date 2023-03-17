@@ -6777,7 +6777,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T05:10:01.147Z",
 		"bookType": 0,
-		"ratingCount": 117,
+		"ratingCount": 118,
 		"zipCode": "560094",
 		"modTS": "2022-01-19T07:45:18.168Z",
 		"inquiryPhone": "9880373773",
@@ -11253,7 +11253,7 @@
 		"description": "",
 		"createdTS": "2020-11-26T07:03:35.508Z",
 		"bookType": 0,
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"zipCode": "560085",
 		"modTS": "2022-06-07T09:05:05.640Z",
 		"inquiryPhone": "8095514666",
@@ -11438,7 +11438,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 336,
+		"ratingCount": 337,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -23799,7 +23799,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 364,
+		"ratingCount": 365,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -45205,7 +45205,7 @@
 		"description": "",
 		"createdTS": "2019-08-03T15:52:43.808Z",
 		"bookType": 0,
-		"ratingCount": 38,
+		"ratingCount": 39,
 		"zipCode": "560060",
 		"modTS": "2022-02-24T09:20:01.890Z",
 		"inquiryPhone": "8904484132",
@@ -52256,14 +52256,14 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 4.8,
+		"avgRating": 4.6,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 3,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T16:20:24.139Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
 		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
