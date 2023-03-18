@@ -5004,13 +5004,13 @@
 		"members": false,
 		"isSafeAndHygiene": true,
 		"__v": 2,
-		"avgRating": 4,
+		"avgRating": 3.8,
 		"coverImage": "",
 		"createdTS": "2021-02-12T05:47:15.003Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 16,
+		"ratingCount": 17,
 		"bookSports": [
 			"SP5",
 			"SP4"
@@ -8584,7 +8584,7 @@
 		"description": "",
 		"createdTS": "2019-07-08T17:49:32.722Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560070",
 		"modTS": "2022-11-28T19:42:38.214Z",
 		"inquiryPhone": "9148090314",
@@ -14549,101 +14549,6 @@
 		]
 	},
 	{
-		"inquiryPhone": "8951355887",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "que-corner-hennur-gardens-bangalore"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/6Dg2",
-		"city": "Bangalore",
-		"area": "Hennur Gardens",
-		"oldPlayoId": "587124206d91cf3645ab082f",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "2569df14-8a5e-4019-99bd-dd601a61fb40",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP38",
-			"SP77"
-		],
-		"priority": 0,
-		"amenities": [
-			"Washroom",
-			"Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/QUECORNER/QueCornermap.png",
-		"zipCode": "560043",
-		"phone": [
-			"8951355887"
-		],
-		"avgRating": 3.8,
-		"name": "Que Corner",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.160Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.160Z",
-		"inquiryType": -1,
-		"modTS": "2020-01-05T18:44:52.440Z",
-		"ratingCount": 17,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/QUECORNER/20160323_195049-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/QUECORNER/img-20160422-wa0005.jpg"
-			}
-		],
-		"id": "2569df14-8a5e-4019-99bd-dd601a61fb40",
-		"description": "",
-		"category": 2,
-		"s3Folder": "QUECORNER",
-		"state": "Karnataka",
-		"email": [
-			"rpransar@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "6th Cross Rd, Mallappa Layout, Hennur Gardens, Bengaluru, Karnataka",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/J3Lh",
-		"search": "Pool|Que Corner|6th Cross Rd, Mallappa Layout, Hennur Gardens, Bengaluru, Karnataka|Hennur Gardens|Bangalore|Snooker,Foosball|English Snooker TableFrench Snooker TablePool TableFoosball Table|null",
-		"fullLink": "https://playo.co/venue/?venueId=2569df14-8a5e-4019-99bd-dd601a61fb40",
-		"country": "India",
-		"timings": "Weekdays: 10 AM - 6 PM || Weekends: 10 AM - 2 PM",
-		"addInfo": "",
-		"bookSports": [
-			"SP38",
-			"SP77"
-		],
-		"bookType": 0,
-		"lat": 13.024455,
-		"lng": 77.651503,
-		"sponsoredRadius": 4,
-		"type": 0,
-		"venueId": "2569df14-8a5e-4019-99bd-dd601a61fb40",
-		"isSafeAndHygiene": false,
-		"activityCount": 13,
-		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
-		"distance": 8.527198680148674,
-		"activeKey": "que-corner-hennur-gardens-bangalore",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "0f83afa5-fe98-4512-aab0-6ef0cf114fb3",
 		"cityCode": 1,
 		"description": "",
@@ -16411,7 +16316,7 @@
 		"createdTS": "2018-05-31T14:28:35.443Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T07:13:51.512Z",
-		"ratingCount": 270,
+		"ratingCount": 271,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOVABADMINTONACADEMYAREHALLI/NovaBadmintonAcademyArehalli1639984419582.webp"
@@ -22947,6 +22852,108 @@
 		]
 	},
 	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 262,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2579,
+		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -23073,108 +23080,6 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 262,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2579,
-		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -23800,7 +23705,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 366,
+		"ratingCount": 367,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -28132,7 +28037,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 301,
+		"ratingCount": 302,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -56283,14 +56188,14 @@
 		"phone": [
 			"7204672409"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Badmintonium Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 57,
+		"ratingCount": 58,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
