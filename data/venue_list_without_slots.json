@@ -151,7 +151,7 @@
 		"createdTS": "2017-01-07T17:23:44.142Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-24T06:13:04.782Z",
-		"ratingCount": 98,
+		"ratingCount": 99,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TIENTO/tientosports6.jpg"
@@ -246,7 +246,7 @@
 		"phone": [
 			"8610940955"
 		],
-		"avgRating": 3.1,
+		"avgRating": 3.2,
 		"name": "Fusion - The Turf",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-11-10T19:07:07.399Z",
@@ -625,7 +625,7 @@
 		"activityCount": 309,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"avgRating": 3.8,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T12:29:43.524Z",
@@ -689,7 +689,7 @@
 		"description": "",
 		"createdTS": "2022-05-16T10:54:13.581Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "560009",
 		"modTS": "2022-05-18T08:51:45.180Z",
 		"inquiryPhone": "8310656201",
@@ -698,7 +698,7 @@
 			"8310656201"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "Cms jain college, Race Course Rd, Seshadripuram,Bengaluru",
 		"active": true,
 		"id": "4b7176b1-e94c-4124-82c1-8a9fea05f659",
@@ -881,7 +881,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:41:09.425Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -1332,7 +1332,7 @@
 		"createdTS": "2018-09-05T12:02:45.455Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-21T08:07:01.480Z",
-		"ratingCount": 23,
+		"ratingCount": 24,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RAYCENTERWILSONGARDEN/RayCenterWilsonGarden1639894020276.jpg"
@@ -1535,7 +1535,7 @@
 		"description": "",
 		"createdTS": "2021-10-22T09:28:48.497Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560004",
 		"modTS": "2022-12-16T15:53:11.267Z",
 		"inquiryPhone": "8951980195",
@@ -1544,7 +1544,7 @@
 			"9205105494"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"address": "Tenbroeck Academy, BP Wadia Road, Basavanagudi, Bengaluru, Karnataka - 560004",
 		"active": true,
 		"id": "1f46f02e-765d-4895-a25f-f3afcc3e8b52",
@@ -1692,7 +1692,7 @@
 		"createdTS": "2017-01-07T17:23:43.988Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T06:58:41.240Z",
-		"ratingCount": 77,
+		"ratingCount": 78,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FITNESSFIGHTCLUB/FreeKickSportsArenaFrazerTown1639209141273.jpeg"
@@ -1917,14 +1917,14 @@
 		"phone": [
 			"9606973105"
 		],
-		"avgRating": 3.1,
+		"avgRating": 3.2,
 		"name": "Maracana Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-26T07:42:20.335Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
 		"s3Folder": "MARACANASPORTSARENA20221103080210366511",
@@ -2584,7 +2584,7 @@
 		"createdTS": "2017-01-07T17:23:44.185Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-07T07:15:29.461Z",
-		"ratingCount": 115,
+		"ratingCount": 116,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEBULLRING/TheBullRingArena1678173035740.jpg"
@@ -2690,14 +2690,14 @@
 		"phone": [
 			"9741775025"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"name": "Tiger 5 Sports - Dairy Circle",
 		"sponsoredRadius": 2,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-20T18:09:06.382Z",
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
 		"s3Folder": "TIGER5SPORTSDAIRYCIRCLE20221220100139092493",
@@ -2964,8 +2964,8 @@
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": true,
-		"avgRating": 5,
-		"ratingCount": 2,
+		"avgRating": 4.7,
+		"ratingCount": 3,
 		"activityCount": 5,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"addInfo": "We are a small and dedicated team who specialize in harmonizing adventurous travelers with their dream vacations, both in India and beyond. We are passionate about trekking, wild places, and conservation and we are always happy to share our wilderness discoveries with others. As avid trekkers, bikers, cyclists and \"in for anything\" people, we use our unique knowledge and experience to design adventures that will exceed your wildest presumptions. <br/>\n<br/>\nPlease discover more of our treks above<br/>",
@@ -3037,7 +3037,7 @@
 		"phone": [
 			"9844100155"
 		],
-		"avgRating": 3.9,
+		"avgRating": 4.1,
 		"name": "Rajeshwari Cue Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.225Z",
@@ -3254,7 +3254,7 @@
 		"description": "",
 		"createdTS": "2019-06-17T03:18:19.777Z",
 		"bookType": 0,
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"zipCode": "560008",
 		"modTS": "2022-12-19T06:37:12.045Z",
 		"inquiryPhone": "8431203734",
@@ -3384,7 +3384,7 @@
 		"phone": [
 			"9916717744"
 		],
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"name": "Snooker Room",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.115Z",
@@ -3392,7 +3392,7 @@
 		"createdTS": "2017-01-07T17:23:44.115Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-06T08:00:09.908Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSINDIRANAGAR/SnookerRoom1652349575145.jpeg"
@@ -3672,7 +3672,7 @@
 		"activityCount": 3,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"avgRating": 5,
-		"ratingCount": 1,
+		"ratingCount": 2,
 		"__v": 5,
 		"coverImage": "",
 		"createdTS": "2022-09-14T11:47:26.045Z",
@@ -3991,7 +3991,7 @@
 		"description": "",
 		"createdTS": "2020-02-11T16:04:42.680Z",
 		"bookType": 0,
-		"ratingCount": 70,
+		"ratingCount": 71,
 		"zipCode": "560070",
 		"modTS": "2023-02-18T16:16:15.933Z",
 		"inquiryPhone": "8792324765",
@@ -4647,7 +4647,7 @@
 		"description": "",
 		"createdTS": "2021-02-22T11:00:02.792Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560071",
 		"modTS": "2023-02-17T08:22:03.054Z",
 		"inquiryPhone": "8088324859",
@@ -4656,7 +4656,7 @@
 			"8088324859"
 		],
 		"sponsored": "",
-		"avgRating": 3,
+		"avgRating": 3.2,
 		"address": "2052 & 54, 15th Main Road, 7th Cross Road, HAL 3rd Stage, Kodihalli, Bengaluru, Karnataka - 560071",
 		"active": true,
 		"id": "97383758-a563-4af8-a47f-7f6de57cd65d",
@@ -5719,7 +5719,7 @@
 		"createdTS": "2018-12-01T16:40:46.504Z",
 		"inquiryType": -1,
 		"modTS": "2021-08-29T15:07:47.671Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBMSPORTSACADEMY/TopSpinTableTennisAcademy1612597979662.jpg"
@@ -5814,7 +5814,7 @@
 		"description": "",
 		"createdTS": "2019-10-07T08:15:10.938Z",
 		"bookType": 0,
-		"ratingCount": 33,
+		"ratingCount": 34,
 		"zipCode": "560017",
 		"modTS": "2022-11-07T12:06:15.045Z",
 		"inquiryPhone": "8884177421",
@@ -7208,7 +7208,7 @@
 		"phone": [
 			"9886675181"
 		],
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"name": "Golden Ace Shooting Academy - JP Nagar",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-10-31T06:35:16.118Z",
@@ -7216,7 +7216,7 @@
 		"createdTS": "2018-10-31T06:35:16.118Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-21T09:12:24.026Z",
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GOLDENACESHOOTINGACADEMY8C87DB52F814/GoldenAceShootingAcademyJPNagar1658394725722.jpg"
@@ -8069,7 +8069,7 @@
 			"9148549085"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 4,
 		"address": "1st Floor, Kadirenahalli Cross (above RK Bar), Bangalore 560070",
 		"active": true,
 		"id": "dcf752b1-87e8-43de-9137-9e14a9ab7b83",
@@ -8433,7 +8433,7 @@
 		"description": "",
 		"createdTS": "2021-07-10T09:47:13.994Z",
 		"bookType": 0,
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"zipCode": "560076",
 		"modTS": "2022-07-23T15:05:38.506Z",
 		"inquiryPhone": "9930888120",
@@ -8952,7 +8952,7 @@
 		"description": "",
 		"createdTS": "2020-05-22T07:39:37.863Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560085",
 		"modTS": "2022-06-04T06:35:07.891Z",
 		"inquiryPhone": "8884533622",
@@ -9360,7 +9360,7 @@
 		"description": "",
 		"createdTS": "2022-05-17T12:06:06.424Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560078",
 		"modTS": "2022-11-28T15:46:36.078Z",
 		"inquiryPhone": "9606830581",
@@ -9369,7 +9369,7 @@
 			"9606830581"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "6, Sri Banashankari Arcade, Opposite GSI building, 1st Main Road, Teachers Colony",
 		"active": true,
 		"id": "3b1ee9ed-44b8-4d68-8bdb-a6ccfc371264",
@@ -10748,7 +10748,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 264,
+		"ratingCount": 265,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -11098,7 +11098,7 @@
 		"createdTS": "2017-12-13T11:04:51.227Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-20T08:40:38.553Z",
-		"ratingCount": 236,
+		"ratingCount": 237,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/4SSHUTTLESMASHSPORTSSTUDIO/4sshuttlesmashsportsstudio5.jpg"
@@ -11687,7 +11687,7 @@
 		"phone": [
 			"9905484818"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"name": "BreakPoint Pool & Snooker Lounge",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-05-24T11:48:25.915Z",
@@ -11695,7 +11695,7 @@
 		"createdTS": "2018-05-24T11:48:25.915Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T08:14:00.660Z",
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BREAKPOINTPOOL4B459E11C11A/BreakPointPoolSnookerLounge1658344145342.jpg"
@@ -14121,7 +14121,7 @@
 			"8509090157"
 		],
 		"sponsored": "",
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"address": "HAL Sports Club, Vinayaka Nagar, Vimanapura, Bengaluru, Karnataka",
 		"active": true,
 		"id": "458439fe-20c0-4713-a585-87df9cab9348",
@@ -14266,7 +14266,7 @@
 		"description": "",
 		"createdTS": "2020-09-25T03:07:47.222Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560075",
 		"modTS": "2022-06-15T16:26:46.431Z",
 		"inquiryPhone": "9880756004",
@@ -16410,7 +16410,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-18T06:42:16.945Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560093",
 		"modTS": "2023-01-22T11:11:05.082Z",
 		"inquiryPhone": "6363777194",
@@ -18265,7 +18265,7 @@
 		"createdTS": "2018-02-08T13:04:07.529Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T07:53:29.076Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CRICKETASSOCIATIONPERUR/TSquareArena1667374034811.jpeg"
@@ -21263,7 +21263,7 @@
 		"description": "",
 		"createdTS": "2021-09-08T08:43:37.516Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560016",
 		"modTS": "2022-07-26T09:09:57.670Z",
 		"inquiryPhone": "9980155559",
@@ -21272,7 +21272,7 @@
 			"9980155559"
 		],
 		"sponsored": "",
-		"avgRating": 2.7,
+		"avgRating": 2.8,
 		"address": "73, E Main Road, Vishweshwaraiah Layout, Akash Nagar, B Narayanapura, Mahadevapura, Bengaluru, Karnataka - 560016",
 		"active": true,
 		"id": "0cbef809-97d9-442a-90de-42b8d41ff11d",
@@ -22598,7 +22598,7 @@
 		"createdTS": "2017-12-17T16:07:25.164Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-17T03:13:54.454Z",
-		"ratingCount": 47,
+		"ratingCount": 48,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELLANDURCRICKETACADEMY/BellandurCricketAcademy1639924104734.jpg"
@@ -22959,7 +22959,7 @@
 		"description": "",
 		"createdTS": "2021-03-21T11:33:54.484Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"zipCode": "560076",
 		"modTS": "2023-02-20T08:55:19.136Z",
 		"inquiryPhone": "9742220232",
@@ -23088,7 +23088,7 @@
 		"description": "",
 		"createdTS": "2022-07-27T11:22:57.366Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "560037",
 		"modTS": "2022-08-02T06:52:38.978Z",
 		"inquiryPhone": "7349557139",
@@ -25516,7 +25516,7 @@
 		"createdTS": "2017-01-07T17:23:44.156Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-13T11:44:38.893Z",
-		"ratingCount": 59,
+		"ratingCount": 60,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena10.png"
@@ -26553,7 +26553,7 @@
 		"description": "",
 		"createdTS": "2020-08-25T14:15:42.120Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560093",
 		"modTS": "2022-06-09T14:03:39.134Z",
 		"inquiryPhone": "9945141557",
@@ -28687,7 +28687,7 @@
 		"createdTS": "2017-01-07T17:23:44.201Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-22T15:11:21.068Z",
-		"ratingCount": 91,
+		"ratingCount": 92,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ACHIEVEANDCHERISH/AchieveCherish1669125780020.jpeg"
@@ -31055,14 +31055,14 @@
 		"phone": [
 			"9581087823"
 		],
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"name": "VMK Tennis Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-10-10T07:02:18.503Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-29T09:52:24.988Z",
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"id": "207e7971-c6d7-4e88-8910-cb9f75b4200c",
 		"category": 2,
 		"s3Folder": "VMKTENNISACADEMY20221010070218503210",
@@ -31351,7 +31351,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 348,
+		"ratingCount": 349,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -33105,7 +33105,7 @@
 		"description": "",
 		"createdTS": "2021-02-14T07:49:16.548Z",
 		"bookType": 0,
-		"ratingCount": 28,
+		"ratingCount": 29,
 		"zipCode": "560037",
 		"modTS": "2022-05-12T05:18:33.305Z",
 		"inquiryPhone": "9902030369",
@@ -33732,7 +33732,7 @@
 		"createdTS": "2017-01-07T17:23:44.181Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-29T15:38:11.253Z",
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/J3BILLIARDS/J3Billiards0.jpg"
@@ -35803,7 +35803,7 @@
 		"description": "",
 		"createdTS": "2020-02-18T08:18:23.871Z",
 		"bookType": 0,
-		"ratingCount": 89,
+		"ratingCount": 90,
 		"zipCode": "560048",
 		"modTS": "2022-03-08T10:43:27.202Z",
 		"inquiryPhone": "9605838931",
@@ -37364,7 +37364,7 @@
 		"description": "",
 		"createdTS": "2019-12-31T12:30:49.379Z",
 		"bookType": 0,
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"zipCode": "560035",
 		"modTS": "2022-12-21T11:32:36.568Z",
 		"inquiryPhone": "8094078777",
@@ -37373,7 +37373,7 @@
 			"8094078777"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "SWYNG, Sarjapur - Marathahalli Road, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "8088c5a6-9ff0-4377-8c52-4fe43efccd22",
@@ -37502,7 +37502,7 @@
 		"createdTS": "2017-01-07T17:23:44.107Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-07T09:39:20.559Z",
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BELIVEIT/SuperSportsParkBellandur1666035600742.jpeg"
@@ -38437,7 +38437,7 @@
 		"phone": [
 			"9844327980"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"name": "Topspin Tennis",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-11-05T07:01:31.278Z",
@@ -38445,7 +38445,7 @@
 		"createdTS": "2018-11-05T07:01:31.278Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T12:34:56.148Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TOPSPINTENNIS/1.png"
@@ -38701,7 +38701,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 80,
+		"ratingCount": 81,
 		"zipCode": "560037",
 		"modTS": "2023-03-03T18:11:46.654Z",
 		"inquiryPhone": "9920601966",
@@ -40238,7 +40238,7 @@
 		"createdTS": "2017-01-07T17:23:43.997Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-22T07:20:22.784Z",
-		"ratingCount": 49,
+		"ratingCount": 50,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KALVEDI/Kalavedisportscenter177.png"
@@ -40886,7 +40886,7 @@
 		"description": "",
 		"createdTS": "2019-01-23T14:01:42.932Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560037",
 		"modTS": "2022-03-25T13:04:32.568Z",
 		"inquiryPhone": "9844556181",
@@ -41934,7 +41934,7 @@
 		"description": "",
 		"createdTS": "2019-05-31T12:11:34.473Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560062",
 		"modTS": "2023-03-01T08:38:55.543Z",
 		"inquiryPhone": "9731643999",
@@ -42425,7 +42425,7 @@
 		"description": "",
 		"createdTS": "2019-09-10T08:20:13.425Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560035",
 		"modTS": "2022-05-02T06:27:37.419Z",
 		"inquiryPhone": "8884970088",
@@ -42434,7 +42434,7 @@
 			"9972712272"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"address": "Hosa Road, Opposite Shell Petrol Pump, Owners Court Layout East Rd, Kasavanahalli, Karnataka 560035",
 		"active": true,
 		"id": "0ba7d84b-c1eb-416c-a0a5-bf17633bbede",
@@ -43351,7 +43351,7 @@
 		"createdTS": "2018-07-25T13:19:04.765Z",
 		"inquiryType": -1,
 		"modTS": "2020-04-02T11:56:18.908Z",
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KHADERCRICKETACADEMY/KhaderCricketAcademy185.png"
@@ -43735,7 +43735,7 @@
 		"description": "",
 		"createdTS": "2019-10-17T08:00:45.686Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "560048",
 		"modTS": "2022-03-03T11:17:38.545Z",
 		"inquiryPhone": "8144093216",
@@ -44400,7 +44400,7 @@
 		"description": "",
 		"createdTS": "2019-04-17T17:59:16.629Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560076",
 		"modTS": "2022-03-02T05:39:34.375Z",
 		"inquiryPhone": "8618556005",
@@ -44897,7 +44897,7 @@
 		"phone": [
 			"9686046391"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"name": "First Touch Tennis Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-10-01T08:30:41.879Z",
@@ -45419,7 +45419,7 @@
 		"createdTS": "2017-01-07T17:23:44.216Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-10T08:32:43.293Z",
-		"ratingCount": 102,
+		"ratingCount": 103,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/EKAMSPORTSARENA/EkamSportsAcademy1670661095521.jpeg"
@@ -46562,7 +46562,7 @@
 		"description": "",
 		"createdTS": "2020-02-14T14:45:28.668Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560083",
 		"modTS": "2020-12-01T11:17:05.751Z",
 		"inquiryPhone": "8296938308",
@@ -46571,7 +46571,7 @@
 			"8296938308"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "#26/4, Vaddarapalya Post, Opposite Arya Hamsa Apartment, JP Nagar 8th Phase, 80ft Road, Kembattahalli, Gottigere, Bangalore",
 		"active": true,
 		"id": "4dffc6bb-3941-4861-adf9-7ed7ace1ec62",
@@ -46743,7 +46743,7 @@
 		"createdTS": "2017-05-08T10:22:46.012Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-24T13:13:05.797Z",
-		"ratingCount": 100,
+		"ratingCount": 101,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VELOCT/veloct1.jpg"
@@ -47075,7 +47075,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -47985,7 +47985,7 @@
 		"createdTS": "2017-01-07T17:23:44.013Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T07:09:46.925Z",
-		"ratingCount": 28,
+		"ratingCount": 29,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SOLSPORTSACADEMYSARJAPURROAD/SolSportsTennisAcademySarjapurRoad1639845934668.jpg"
@@ -48271,7 +48271,7 @@
 		"createdTS": "2017-01-07T17:23:44.064Z",
 		"inquiryType": -1,
 		"modTS": "2021-04-07T04:41:57.405Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOAHJAYANTHI/Tiger5IndoorCricketArenaVajarahalli1614055965347.jpg"
@@ -48832,7 +48832,7 @@
 		"createdTS": "2018-10-22T07:01:35.951Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-06T16:47:13.139Z",
-		"ratingCount": 72,
+		"ratingCount": 73,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FITONSPORTS/fitonsports10.jpeg"
@@ -49820,7 +49820,7 @@
 		"phone": [
 			"7829240379"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"name": "Guru Sports Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-08-17T11:33:06.582Z",
@@ -50186,7 +50186,7 @@
 		"phone": [
 			"9980155559"
 		],
-		"avgRating": 5,
+		"avgRating": 4.5,
 		"name": "The Vrukksha School - Choodasandra",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-12-18T04:30:03.899Z",
@@ -50194,7 +50194,7 @@
 		"createdTS": "2017-12-18T04:30:03.899Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-02T09:37:10.305Z",
-		"ratingCount": 1,
+		"ratingCount": 2,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEVRUKKSHASCHOOL-CHOODASANDRA1DF5966BCE49/TheVrukkshaSchoolChoodasandra1659433018219.jpeg"
@@ -51138,7 +51138,7 @@
 			"9916420170"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.7,
 		"address": "T. John Campus, Gottigere, Bannerghatta Road, NICE Road Junction, Basavanapura, Doddakammanahalli, Bangalore-560083",
 		"active": true,
 		"id": "d2a850c2-88e1-402a-9a1b-530fa720aec4",
@@ -51279,7 +51279,7 @@
 		"createdTS": "2017-04-29T08:01:03.182Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-13T07:00:09.839Z",
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SIMBASPORTS/SimbaSports0.jpg"
@@ -51565,7 +51565,7 @@
 		"description": "",
 		"createdTS": "2021-03-23T12:04:01.824Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "560035",
 		"modTS": "2023-02-18T16:22:01.173Z",
 		"inquiryPhone": "6363669332",
@@ -51574,7 +51574,7 @@
 			"9438031999"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.7,
 		"address": "Sy No 41, Choodasandra, Bangalore - 560099  Land mark : near Amrita international vidyalayam",
 		"active": true,
 		"id": "b5d164ae-5b26-4dd7-bd19-44688d279721",
@@ -51902,7 +51902,7 @@
 		"createdTS": "2017-01-07T17:23:44.178Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-10T13:14:14.467Z",
-		"ratingCount": 42,
+		"ratingCount": 43,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMGREENM/NammaGreenSportsClub74.PNG"
@@ -53052,7 +53052,7 @@
 			"9738433530"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.9,
+		"avgRating": 5,
 		"address": "Gunjur Road, Opposite Karunalayam Hospital, Carmelaram, Chikkabellandur, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "2196b021-d91e-48b2-8edd-67d006e72ca9",
@@ -53362,7 +53362,7 @@
 		"description": "",
 		"createdTS": "2019-05-06T08:10:31.752Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560035",
 		"modTS": "2021-12-17T10:22:08.946Z",
 		"inquiryPhone": "9916830780",
@@ -53371,7 +53371,7 @@
 			"7353190839"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"address": "Sarjapur Main Rd, Chikkanayakanahalli, Doddakannelli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "8b4737d4-8cc0-4ba0-b6f3-a0d80e2c54cf",
@@ -55084,7 +55084,7 @@
 			"9886425600"
 		],
 		"sponsored": "",
-		"avgRating": 4,
+		"avgRating": 4.5,
 		"address": "Sports Square, Carmelram, Aradhana Kunj Road, Chikkabellandur, Near Carmelaram Railway Station, Marathahalli - Sarjapur Road, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "eee0e9db-a210-466f-b105-6661c7fd95c6",
@@ -55369,7 +55369,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"activityCount": 4974,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"bnpl": false,
@@ -55675,7 +55675,7 @@
 		"phone": [
 			"6363433255"
 		],
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"name": "Pure Stroke Tennis Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-02-17T06:38:43.902Z",
@@ -55683,7 +55683,7 @@
 		"createdTS": "2017-02-17T06:38:43.902Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-18T10:24:35.896Z",
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ULTIMATESPORTS/PureStrokeTennisAcademy1676143504110.jpeg"
@@ -55788,7 +55788,7 @@
 		"phone": [
 			"8861698019"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.1,
 		"name": "Karnataka Lions Cricket Academy - Valiant Sports Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-23T08:11:23.012Z",
@@ -55796,7 +55796,7 @@
 		"createdTS": "2018-04-23T08:11:23.012Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-19T15:51:04.899Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KARNATAKALIONSCRICKETACADEMY/KarnatakaLionsCricketAcademyValiantSportsClub1668872956982.jpeg"
@@ -56011,7 +56011,7 @@
 		"description": "",
 		"createdTS": "2020-10-28T05:51:42.373Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560090",
 		"modTS": "2021-12-19T13:53:24.708Z",
 		"inquiryPhone": "9008405240",
@@ -56547,7 +56547,7 @@
 		"description": "",
 		"createdTS": "2020-09-01T06:38:55.236Z",
 		"bookType": 0,
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"zipCode": "560097",
 		"modTS": "2020-11-18T05:45:17.478Z",
 		"inquiryPhone": "9886856926",
@@ -57005,7 +57005,7 @@
 		"createdTS": "2017-01-07T17:23:44.014Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-18T16:44:09.102Z",
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SOLSPORTSACADEMYELECTRONICCITY/SolSportsTennisAcademyElectronicCity1639845832049.jpg"
@@ -57232,14 +57232,14 @@
 		"phone": [
 			"8277760186"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.3,
 		"name": "Stellar 23 Box Cricket",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-16T15:26:29.075Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T10:38:59.886Z",
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"id": "585977a0-5041-4c6e-a676-0a5c91f0b9e6",
 		"category": 2,
 		"s3Folder": "STELLAR23BOXCRICKET20230216152629075637",
@@ -57581,7 +57581,7 @@
 		"description": "",
 		"createdTS": "2020-10-11T06:40:54.693Z",
 		"bookType": 0,
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"zipCode": "560090",
 		"modTS": "2022-03-18T12:09:39.743Z",
 		"inquiryPhone": "9164533888",
@@ -57761,7 +57761,7 @@
 		"createdTS": "2017-01-07T17:23:44.009Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-25T10:25:18.161Z",
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMACROSSFITCUNNINGHAMROAD/WhitePeacockGamePointBadmintonArena1649515437516.jpeg"
@@ -57822,7 +57822,7 @@
 		"description": "",
 		"createdTS": "2020-02-10T17:41:21.541Z",
 		"bookType": 0,
-		"ratingCount": 72,
+		"ratingCount": 73,
 		"zipCode": "5600064",
 		"modTS": "2021-12-19T06:44:01.666Z",
 		"inquiryPhone": "9632075709",
@@ -58063,8 +58063,8 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 0,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
-		"avgRating": 5,
-		"ratingCount": 1,
+		"avgRating": 4.5,
+		"ratingCount": 2,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
@@ -58335,7 +58335,7 @@
 		"createdTS": "2022-11-28T11:23:03.074Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T07:12:33.027Z",
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"id": "24eb3546-6fd4-4cc2-9806-1c0460750f27",
 		"category": 2,
 		"s3Folder": "YNCRICKETACADEMY20221128112303074063",
@@ -58497,7 +58497,7 @@
 		"description": "",
 		"createdTS": "2019-03-20T12:23:04.997Z",
 		"bookType": 0,
-		"ratingCount": 30,
+		"ratingCount": 31,
 		"zipCode": "560087",
 		"modTS": "2022-02-24T08:00:26.846Z",
 		"inquiryPhone": "9886929287",
@@ -59101,7 +59101,7 @@
 			"8951240183"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.6,
 		"address": "Near Suraksha car showroom, NH-7 Main Road, Konappana Agrahara Bus Stop, Electronic city phase 2, Bengaluru - 560100",
 		"active": true,
 		"id": "a24e7190-e818-418f-bb27-384391aec12d",
@@ -59578,7 +59578,7 @@
 		"description": "",
 		"createdTS": "2019-09-16T15:33:19.287Z",
 		"bookType": 0,
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"zipCode": "560064",
 		"modTS": "2022-11-16T09:40:17.026Z",
 		"inquiryPhone": "8884404456",
@@ -60575,7 +60575,7 @@
 		"createdTS": "2017-01-07T17:23:44.197Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-12T06:02:10.551Z",
-		"ratingCount": 129,
+		"ratingCount": 130,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/A1SPORTS/A1Sports1.png"
@@ -60712,14 +60712,14 @@
 		"phone": [
 			"9513130313"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Que Hub",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-18T07:50:07.843Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-18T07:56:26.994Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "320a4ea7-89eb-45c4-a63f-769251062ba6",
 		"category": 2,
 		"s3Folder": "QUEHUB20230118075007843963",
@@ -60924,7 +60924,7 @@
 		"createdTS": "2018-04-06T12:23:10.640Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-11T15:17:40.396Z",
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FOOTSOLSPORTSCLUB/FootsolSportsClub1642774674203.jpeg"
@@ -62232,7 +62232,7 @@
 		"description": "",
 		"createdTS": "2021-01-19T10:07:48.556Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560099",
 		"modTS": "2022-12-21T11:17:34.369Z",
 		"inquiryPhone": "8210211090",
@@ -62241,7 +62241,7 @@
 			"8217307917"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.5,
 		"address": "Chokkasandra, Bengaluru, Karnataka - 560099",
 		"active": true,
 		"id": "11c9ea77-af6c-4f16-9937-9813f3b02200",
@@ -62576,14 +62576,14 @@
 		"phone": [
 			"8069031500"
 		],
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"name": "Lakshyan Academy of Sports",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-21T13:23:26.106Z",
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
 		"s3Folder": "LAKSHYANACADEMYOFSPORTS20221109111107648729",
@@ -63145,7 +63145,7 @@
 		"description": "",
 		"createdTS": "2019-09-15T15:11:35.893Z",
 		"bookType": 0,
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"zipCode": "560109",
 		"modTS": "2021-12-17T10:26:59.779Z",
 		"inquiryPhone": "8494931616",
@@ -63852,7 +63852,7 @@
 		"description": "",
 		"createdTS": "2019-08-24T15:17:26.723Z",
 		"bookType": 0,
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"zipCode": "560064",
 		"modTS": "2020-10-05T09:14:09.252Z",
 		"inquiryPhone": "9353854764",
@@ -64153,7 +64153,7 @@
 		"description": "",
 		"createdTS": "2019-04-02T09:20:26.213Z",
 		"bookType": 0,
-		"ratingCount": 3,
+		"ratingCount": 4,
 		"zipCode": "560100",
 		"modTS": "2022-03-31T06:37:43.790Z",
 		"inquiryPhone": "8217771650",
@@ -64162,7 +64162,7 @@
 			"8217771650"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "Behind Moments Fitness Hub 1.0, Hulimangala Main Road, Near Neo Town, Electronic City Phase 1, Bangalore - 560100",
 		"active": true,
 		"id": "fa746cdd-22b8-4045-a49f-f84ba1384139",
@@ -64582,7 +64582,7 @@
 		"description": "",
 		"createdTS": "2019-08-24T15:01:03.027Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "562149",
 		"modTS": "2022-03-27T15:31:34.092Z",
 		"inquiryPhone": "9341636267",
@@ -64801,7 +64801,7 @@
 		"createdTS": "2017-12-18T04:30:56.763Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:24:21.919Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NOVATABLETENNISACADEMY3D551DADCB16/NovaTableTennisAcademy1658255043784.jpeg"
@@ -66859,7 +66859,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T22:14:44.809Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560100",
 		"modTS": "2022-02-15T10:40:05.922Z",
 		"inquiryPhone": "9633447333",
@@ -66868,7 +66868,7 @@
 			"9633447333"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "Survey no 161/3, Hilalige Road, Glass Factory Layout, near Gold Coin Club, Phase II, Electronic City, Bengaluru, Karnataka - 560100",
 		"active": true,
 		"id": "5fd0b178-835b-4c7f-bd97-2c3e7200332d",
@@ -67194,7 +67194,7 @@
 		"description": "",
 		"createdTS": "2020-09-30T02:29:02.305Z",
 		"bookType": 0,
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"zipCode": "560089",
 		"modTS": "2022-08-28T12:35:33.575Z",
 		"inquiryPhone": "8123300400",
@@ -67203,7 +67203,7 @@
 			"8123300400"
 		],
 		"sponsored": "",
-		"avgRating": 0,
+		"avgRating": 4,
 		"address": "#121, Mylappanahalli",
 		"active": true,
 		"id": "bd3a2051-8d73-431c-a2a7-b2730917cd41",
@@ -68870,7 +68870,7 @@
 		"createdTS": "2017-01-07T17:23:44.015Z",
 		"inquiryType": -1,
 		"modTS": "2021-10-28T18:11:28.451Z",
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSKORAMANGALA/TheGoldenPalmsHotelSpa1635444550827.jpg"
@@ -70530,7 +70530,7 @@
 		"description": "",
 		"createdTS": "2019-11-26T07:23:58.400Z",
 		"bookType": 0,
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"zipCode": "562110",
 		"modTS": "2021-12-16T09:47:55.377Z",
 		"inquiryPhone": "9620822088",
@@ -70539,7 +70539,7 @@
 			"9620822088"
 		],
 		"sponsored": "",
-		"avgRating": 5,
+		"avgRating": 4.7,
 		"address": "Sada Halli Village, Off Bangalore International Airport Road, Devanahalli Taluk, Bangalore North",
 		"active": true,
 		"id": "4343be50-031c-4e33-9e3c-192aa87b5300",
@@ -71789,7 +71789,7 @@
 		"activityCount": 9,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"avgRating": 5,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"bnpl": false,
 		"__v": 1,
 		"coverImage": "",
@@ -71895,7 +71895,7 @@
 		"createdTS": "2018-11-10T18:50:53.214Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-20T18:52:41.059Z",
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HILLSSPORTSDA0B81DCD8CD/HillsSportsBadmintonAcademy1658343133484.jpg"
@@ -71997,7 +71997,7 @@
 		"createdTS": "2018-02-27T10:23:29.360Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-09T12:19:12.845Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BIRDEE/Birdee4.jpg"
@@ -72168,14 +72168,14 @@
 		"phone": [
 			"9894771017"
 		],
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"name": "7 Eleven Badminton Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-12T12:47:43.905Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-12T12:48:51.597Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"id": "06d5685e-0abf-4a84-a8cc-bf7fa940ae25",
 		"category": 2,
 		"s3Folder": "7ELEVENBADMINTONACADEMY20230112124743905590",
@@ -72384,7 +72384,7 @@
 		"description": "",
 		"createdTS": "2020-01-03T12:49:12.777Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"zipCode": "563101",
 		"modTS": "2023-02-04T14:54:50.242Z",
 		"inquiryPhone": "9148903114",
@@ -72393,7 +72393,7 @@
 			"9148903114"
 		],
 		"sponsored": "Featured",
-		"avgRating": 5,
+		"avgRating": 4.8,
 		"address": "Chowdeswari Nagar, Opp Sri RV School, Near NH 75, Kolar - 563101",
 		"active": true,
 		"id": "80ea6aec-7196-48f7-93e1-4d0eb9cf4f3f",
@@ -72534,7 +72534,7 @@
 		"description": "",
 		"createdTS": "2021-07-09T15:18:31.382Z",
 		"bookType": 0,
-		"ratingCount": 38,
+		"ratingCount": 39,
 		"zipCode": "572103",
 		"modTS": "2022-08-10T14:05:01.506Z",
 		"inquiryPhone": "9110662425",
@@ -72721,7 +72721,7 @@
 		"description": "",
 		"createdTS": "2019-09-01T05:35:36.015Z",
 		"bookType": 0,
-		"ratingCount": 146,
+		"ratingCount": 147,
 		"zipCode": "572102",
 		"modTS": "2022-07-13T10:04:30.162Z",
 		"inquiryPhone": "9632779292",
@@ -72995,8 +72995,8 @@
 		"type": 0,
 		"venueId": "af8a570c-7714-4d8b-a501-4ec9a9d31a15",
 		"zipCode": "572216",
-		"avgRating": 5,
-		"ratingCount": 3,
+		"avgRating": 4.8,
+		"ratingCount": 4,
 		"activityCount": 12,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"__v": 1,
