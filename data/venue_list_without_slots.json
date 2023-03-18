@@ -7274,7 +7274,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 184,
+		"ratingCount": 185,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -17812,7 +17812,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T16:42:32.004Z",
 		"bookType": 0,
-		"ratingCount": 104,
+		"ratingCount": 105,
 		"zipCode": "560024",
 		"modTS": "2022-04-12T10:38:02.220Z",
 		"inquiryPhone": "7892071953",
@@ -29082,7 +29082,7 @@
 		"createdTS": "2017-01-07T17:23:44.122Z",
 		"inquiryType": -1,
 		"modTS": "2021-04-11T15:32:33.764Z",
-		"ratingCount": 81,
+		"ratingCount": 82,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETSPLAYBENGALURU/LetsPlayBengaluru7504b56f790d4dbdb08c740c86b631af.png"
@@ -48772,7 +48772,7 @@
 		"createdTS": "2017-04-24T07:46:20.800Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-21T04:19:31.542Z",
-		"ratingCount": 203,
+		"ratingCount": 204,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KARSPORTS/karsports5.jpg"
@@ -50581,7 +50581,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 616,
+		"ratingCount": 617,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -76637,8 +76637,8 @@
 		"tags": [],
 		"members": false,
 		"isSafeAndHygiene": false,
-		"avgRating": 1,
-		"ratingCount": 1,
+		"avgRating": 3,
+		"ratingCount": 2,
 		"activityCount": 27,
 		"activityCountLastSyncDate": "2023-03-17T18:30:03.644Z",
 		"distance": 5.28881343087956,
