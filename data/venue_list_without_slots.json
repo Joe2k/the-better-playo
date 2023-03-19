@@ -1535,7 +1535,7 @@
 		"description": "",
 		"createdTS": "2021-10-22T09:28:48.497Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560004",
 		"modTS": "2022-12-16T15:53:11.267Z",
 		"inquiryPhone": "8951980195",
@@ -1544,7 +1544,7 @@
 			"9205105494"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.2,
 		"address": "Tenbroeck Academy, BP Wadia Road, Basavanagudi, Bengaluru, Karnataka - 560004",
 		"active": true,
 		"id": "1f46f02e-765d-4895-a25f-f3afcc3e8b52",
@@ -2753,7 +2753,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 149,
+		"ratingCount": 150,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -7763,7 +7763,7 @@
 		"coverImage": "https://playo.gumlet.io/THETURFPARK/CooluluTurfParkKoramangalacovercover1645283607421.png",
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-15T11:51:16.997Z",
+		"modTS": "2023-03-19T09:05:00.935Z",
 		"ratingCount": 192,
 		"images": [
 			{
@@ -7803,7 +7803,12 @@
 			"Southoperations@turfpark.com"
 		],
 		"logoImg": "",
-		"tags": [],
+		"tags": [
+			{
+				"tagId": "Football & Box Cricket closed for renovations till the second week of April",
+				"expiry": "2025-12-31T00:00:00.000Z"
+			}
+		],
 		"googleMapLink": "",
 		"sponsored": "Featured",
 		"members": false,
@@ -10435,7 +10440,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"bookSports": [
 			"SP5"
 		],
@@ -10594,7 +10599,7 @@
 		"createdTS": "2023-03-16T19:03:11.321Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-16T19:43:29.819Z",
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"id": "911d302e-2071-4155-8bd2-fc358da5a65d",
 		"category": 2,
 		"s3Folder": "SAALSABADMINTONACADEMY20230316190311321398",
@@ -20222,7 +20227,7 @@
 		"createdTS": "2017-09-22T12:49:50.094Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:54:47.093Z",
-		"ratingCount": 179,
+		"ratingCount": 180,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KRIDAJAGATHUSPORTSACADEMY/kridajagathusportsacademy1608403133814.jpeg"
@@ -34444,7 +34449,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 214,
+		"ratingCount": 215,
 		"zipCode": "560068",
 		"modTS": "2023-03-08T05:37:25.990Z",
 		"inquiryPhone": "8095514666",
@@ -37446,7 +37451,7 @@
 		"description": "",
 		"createdTS": "2019-12-31T12:30:49.379Z",
 		"bookType": 0,
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"zipCode": "560035",
 		"modTS": "2022-12-21T11:32:36.568Z",
 		"inquiryPhone": "8094078777",
@@ -50789,7 +50794,7 @@
 		"description": "",
 		"createdTS": "2021-10-04T06:59:25.200Z",
 		"bookType": 0,
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"zipCode": "560035",
 		"modTS": "2023-03-09T14:00:47.372Z",
 		"inquiryPhone": "9880605106",
@@ -52244,14 +52249,14 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.4,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 3,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T16:20:24.139Z",
-		"ratingCount": 9,
+		"ratingCount": 10,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
 		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
@@ -54402,7 +54407,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 184,
+		"ratingCount": 185,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
