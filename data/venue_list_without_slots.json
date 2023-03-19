@@ -7274,7 +7274,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 186,
+		"ratingCount": 187,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -20655,7 +20655,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 329,
+		"ratingCount": 330,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -30459,7 +30459,7 @@
 			"8660933702"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"address": "No. 3 & 4, 1st Cross, Janapriya Layout, Nyanappana Halli, Begur Hobli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "d0ee62b4-11bc-4cb1-b7a3-917a765cc9c2",
@@ -34850,7 +34850,7 @@
 		"description": "",
 		"createdTS": "2019-02-17T16:44:14.836Z",
 		"bookType": 0,
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"zipCode": "560098",
 		"modTS": "2021-12-18T17:39:04.995Z",
 		"inquiryPhone": "7676763377",
@@ -34859,7 +34859,7 @@
 			"7676763377"
 		],
 		"sponsored": "",
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"address": "#20/12, 60ft Road, BHEL Layout, Near BBMP Office, Opposite Water Tank, Pattangere",
 		"active": true,
 		"id": "6b39f4d6-65bd-4a7e-aafb-d801a7416256",
@@ -45621,7 +45621,7 @@
 		"description": "",
 		"createdTS": "2020-10-27T05:44:48.907Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560083",
 		"modTS": "2023-03-11T04:49:41.050Z",
 		"inquiryPhone": "9538451451",
@@ -45630,7 +45630,7 @@
 			"9538451451"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4,
+		"avgRating": 4.1,
 		"address": "72/2, Vadrapalya, 2nd Block, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560083",
 		"active": true,
 		"id": "f293c673-1017-46bd-95fb-331a72c373cc",
@@ -50791,7 +50791,7 @@
 		"description": "",
 		"createdTS": "2021-10-04T06:59:25.200Z",
 		"bookType": 0,
-		"ratingCount": 16,
+		"ratingCount": 17,
 		"zipCode": "560035",
 		"modTS": "2023-03-09T14:00:47.372Z",
 		"inquiryPhone": "9880605106",
@@ -50800,7 +50800,7 @@
 			"9880605106"
 		],
 		"sponsored": "",
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"address": "FitMentkids, Site No 39, near GRC Subhiksha, behind Nortedame Academy, Choodasandra, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
@@ -52246,14 +52246,14 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.3,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 3,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T16:20:24.139Z",
-		"ratingCount": 6,
+		"ratingCount": 9,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
 		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
