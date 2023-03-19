@@ -881,7 +881,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:41:09.425Z",
-		"ratingCount": 32,
+		"ratingCount": 33,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -19375,7 +19375,7 @@
 		"createdTS": "2017-01-07T17:23:44.132Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T07:28:59.481Z",
-		"ratingCount": 87,
+		"ratingCount": 88,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BANGALOREINDOORCRICKETCLUB/BangaloreIndoorCricketClub1639639730382.jpg"
@@ -33673,7 +33673,7 @@
 		"createdTS": "2018-03-20T07:50:24.267Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T09:22:57.961Z",
-		"ratingCount": 139,
+		"ratingCount": 140,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATCHPOINTSPORTSARENA/MatchPointSportsArenaUttarahalli1639732957496.jpg"
@@ -36600,8 +36600,7 @@
 		"city": "Bengaluru",
 		"bookSports": [
 			"SP2",
-			"SP56",
-			"SP57"
+			"SP56"
 		],
 		"area": "Haralur",
 		"oldPlayoId": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
@@ -36617,8 +36616,7 @@
 		],
 		"sports": [
 			"SP2",
-			"SP56",
-			"SP57"
+			"SP56"
 		],
 		"amenities": [
 			"Parking",
@@ -36640,7 +36638,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-01-13T11:43:53.597Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-05T06:20:48.015Z",
+		"modTS": "2023-03-19T07:52:51.504Z",
 		"ratingCount": 4,
 		"id": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 		"category": 2,
@@ -45984,7 +45982,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 400,
+		"ratingCount": 401,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -50570,7 +50568,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 617,
+		"ratingCount": 618,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -52818,7 +52816,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 167,
+		"ratingCount": 168,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
