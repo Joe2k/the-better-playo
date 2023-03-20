@@ -27535,7 +27535,7 @@
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 61,
+		"ratingCount": 62,
 		"bookSports": [
 			"SP5"
 		],
@@ -36605,7 +36605,8 @@
 		"city": "Bengaluru",
 		"bookSports": [
 			"SP2",
-			"SP56"
+			"SP56",
+			"SP57"
 		],
 		"area": "Haralur",
 		"oldPlayoId": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
@@ -36621,7 +36622,8 @@
 		],
 		"sports": [
 			"SP2",
-			"SP56"
+			"SP56",
+			"SP57"
 		],
 		"amenities": [
 			"Parking",
@@ -36643,7 +36645,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-01-13T11:43:53.597Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-19T07:52:51.504Z",
+		"modTS": "2023-03-20T10:40:53.257Z",
 		"ratingCount": 4,
 		"id": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 		"category": 2,
@@ -58060,25 +58062,26 @@
 		"functionData": [
 			{
 				"content": "24597860-167d-4084-a1f8-15c9a18acfe6",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
 			},
 			{
 				"content": "24597860-167d-4084-a1f8-15c9a18acfe6",
+				"caption": "Inquire Now!",
 				"bookType": 0,
 				"priority": "1",
 				"displayType": 2,
-				"caption": "Inquire Now!",
 				"type": 2
 			}
 		],
 		"city": "Bengaluru",
 		"country": "India",
 		"sports": [
-			"SP0"
+			"SP0",
+			"SP2"
 		],
 		"timings": "8 AM - 6 PM",
 		"cityCode": 1,
@@ -58138,7 +58141,7 @@
 		"inquiryType": -1,
 		"lat": 12.90389736500654,
 		"lng": 77.7181110531145,
-		"modTS": "2023-03-10T15:45:46.009Z",
+		"modTS": "2023-03-20T10:55:02.367Z",
 		"search": "",
 		"sponsored": "",
 		"sponsoredRadius": 4,
@@ -58160,7 +58163,8 @@
 		"logoImg": "",
 		"mapImage": "",
 		"bookSports": [
-			"SP0"
+			"SP0",
+			"SP2"
 		],
 		"distance": 15.37406627528836,
 		"activeKey": "spt-sports-ground-mullur-bengaluru",
