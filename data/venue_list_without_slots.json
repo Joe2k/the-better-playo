@@ -4649,7 +4649,7 @@
 		"bookType": 0,
 		"ratingCount": 5,
 		"zipCode": "560071",
-		"modTS": "2023-02-17T08:22:03.054Z",
+		"modTS": "2023-03-20T07:00:37.851Z",
 		"inquiryPhone": "8088324859",
 		"inquiryType": -1,
 		"phone": [
@@ -4668,7 +4668,7 @@
 			"SP77",
 			"SP6"
 		],
-		"name": "YJ Snooker Lounge",
+		"name": "JSS Snooker Lounge",
 		"area": "Kodihalli",
 		"sponsoredRadius": 4,
 		"country": "India",
@@ -4698,7 +4698,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "yj-snooker-lounge-kodihalli-bengaluru"
+				"key": "jss-snooker-lounge-kodihalli-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -4707,13 +4707,13 @@
 		"fullLink": "https://playo.co/venue?venueId=97383758-a563-4af8-a47f-7f6de57cd65d",
 		"type": 1,
 		"email": [
-			"Yjsnookerlounge@gmail.com"
+			"jsssnookerlounge@gmail.com"
 		],
 		"s3Folder": "MITHRASPORTSACADEMY20210222110002792824",
-		"deferLink": "https://z34v4.app.goo.gl/DphJ",
+		"deferLink": "https://z34v4.app.goo.gl/aSgX",
 		"lat": 12.965943890276742,
 		"lng": 77.64953138202605,
-		"shareLink": "https://z34v4.app.goo.gl/jsnt",
+		"shareLink": "https://z34v4.app.goo.gl/7W3L",
 		"venueId": "97383758-a563-4af8-a47f-7f6de57cd65d",
 		"activityCount": 28,
 		"activityCountLastSyncDate": "2023-03-19T18:30:02.831Z",
@@ -4758,7 +4758,7 @@
 		"remarks": "",
 		"bnpl": false,
 		"distance": 5.992094119522412,
-		"activeKey": "yj-snooker-lounge-kodihalli-bengaluru",
+		"activeKey": "jss-snooker-lounge-kodihalli-bengaluru",
 		"offers": []
 	},
 	{
@@ -26032,7 +26032,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -52249,7 +52249,7 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 3,
 		"notifyBooking": 0,
