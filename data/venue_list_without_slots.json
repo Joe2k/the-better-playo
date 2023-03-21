@@ -2753,7 +2753,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 151,
+		"ratingCount": 152,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -20618,10 +20618,10 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "sportive-badminton-arena-hsr-layout-iti-layout-bengaluru"
+				"key": "game-theory-sportive-hsr-layout-iti-layout-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/BLoD",
+		"shareLink": "https://z34v4.app.goo.gl/LhMy",
 		"city": "Bengaluru",
 		"area": "ITI Layout",
 		"oldPlayoId": "5b59bacc6d91cf2839f78cd0",
@@ -20653,14 +20653,14 @@
 			"9900488008"
 		],
 		"avgRating": 4.4,
-		"name": "Sportive Badminton Arena - HSR Layout",
+		"name": "Game Theory Sportive HSR Layout",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-07-26T12:12:59.459Z",
 		"coverImage": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA/SportiveBadmintonArenaHSRlayout6.png",
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
-		"modTS": "2022-07-27T07:34:32.096Z",
-		"ratingCount": 330,
+		"modTS": "2023-03-21T10:41:29.783Z",
+		"ratingCount": 331,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -20693,7 +20693,7 @@
 		"members": false,
 		"address": "SBA, 27th Cross Rd, ITI Layout, Sector 7, HSR Layout, Bengaluru, Karnataka - 560102",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/nv2L",
+		"deferLink": "https://z34v4.app.goo.gl/DVZT",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=45442a95-0e5e-4de9-a49f-57c8f1d62d37",
 		"country": "India",
@@ -20712,8 +20712,9 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 40829,
 		"activityCountLastSyncDate": "2023-03-20T18:30:03.155Z",
+		"bnpl": false,
 		"distance": 9.312371066324747,
-		"activeKey": "sportive-badminton-arena-hsr-layout-iti-layout-bengaluru",
+		"activeKey": "game-theory-sportive-hsr-layout-iti-layout-bengaluru",
 		"offers": []
 	},
 	{
@@ -23177,7 +23178,7 @@
 		"description": "",
 		"createdTS": "2022-07-27T11:22:57.366Z",
 		"bookType": 0,
-		"ratingCount": 6,
+		"ratingCount": 7,
 		"zipCode": "560037",
 		"modTS": "2022-08-02T06:52:38.978Z",
 		"inquiryPhone": "7349557139",
@@ -23186,7 +23187,7 @@
 			"7349557139"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 4,
 		"address": "4, Kempapura Main Rd, Yemlur, Bellandur, Bangalore",
 		"active": true,
 		"id": "491d3cec-7e18-4a14-a737-260d84d5562a",
@@ -32768,7 +32769,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 117,
+		"ratingCount": 118,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -43954,7 +43955,7 @@
 		"phone": [
 			"7676777776"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"name": "Skyline Sports Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-07-13T13:13:54.449Z",
@@ -43962,7 +43963,7 @@
 		"createdTS": "2018-07-13T13:13:54.449Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T07:42:18.995Z",
-		"ratingCount": 116,
+		"ratingCount": 117,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SKYLINESPORTSACADEMY/skylinesportsacademy0.jpg"
@@ -62633,7 +62634,8 @@
 			"SP14",
 			"SP4",
 			"SP2",
-			"SP57"
+			"SP57",
+			"SP5"
 		],
 		"area": "Sarjapur Road",
 		"oldPlayoId": "52a84160-1596-4f06-8129-e93b5c9db88b",
@@ -62651,7 +62653,8 @@
 			"SP14",
 			"SP4",
 			"SP2",
-			"SP57"
+			"SP57",
+			"SP5"
 		],
 		"amenities": [
 			"Parking",
@@ -62673,7 +62676,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2022-11-09T11:11:07.648Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-21T09:30:21.150Z",
+		"modTS": "2023-03-21T10:35:26.385Z",
 		"ratingCount": 6,
 		"id": "52a84160-1596-4f06-8129-e93b5c9db88b",
 		"category": 2,
