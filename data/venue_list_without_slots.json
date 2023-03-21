@@ -1472,7 +1472,7 @@
 		"createdTS": "2018-11-04T02:37:55.531Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-29T08:36:04.438Z",
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RUSHARENA/TackleJayanagar1669710924721.jpg"
@@ -2753,7 +2753,7 @@
 		"description": "",
 		"createdTS": "2019-02-01T11:50:14.389Z",
 		"bookType": 0,
-		"ratingCount": 150,
+		"ratingCount": 151,
 		"zipCode": "560004",
 		"modTS": "2021-12-17T09:49:43.585Z",
 		"inquiryPhone": "9620483815",
@@ -8438,7 +8438,7 @@
 		"description": "",
 		"createdTS": "2021-07-10T09:47:13.994Z",
 		"bookType": 0,
-		"ratingCount": 40,
+		"ratingCount": 41,
 		"zipCode": "560076",
 		"modTS": "2022-07-23T15:05:38.506Z",
 		"inquiryPhone": "9930888120",
@@ -8447,7 +8447,7 @@
 			"9930888120"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"address": "#3, 2nd Cross, 3rd A main road, NS Palya, Dollar's colony, Behind Vega City Mall, BTM layout, Banerghatta road, Bengaluru - 560076",
 		"active": true,
 		"id": "d41c6b1b-4cca-45e6-bc52-687c860b9362",
@@ -18557,7 +18557,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 228,
+		"ratingCount": 229,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -21948,7 +21948,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 296,
+		"ratingCount": 297,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -56777,7 +56777,7 @@
 		"description": "",
 		"createdTS": "2019-07-11T09:39:38.620Z",
 		"bookType": 0,
-		"ratingCount": 46,
+		"ratingCount": 47,
 		"zipCode": "560066",
 		"modTS": "2022-03-25T12:53:59.261Z",
 		"inquiryPhone": "7338282567",
