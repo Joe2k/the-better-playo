@@ -2429,7 +2429,7 @@
 		"createdTS": "2018-12-05T05:00:34.548Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T06:54:55.397Z",
-		"ratingCount": 143,
+		"ratingCount": 144,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg"
@@ -13284,7 +13284,7 @@
 		"createdTS": "2017-11-13T14:05:38.282Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-05T18:40:19.417Z",
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch0.jpeg"
@@ -13484,7 +13484,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T06:51:53.067Z",
 		"bookType": 0,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"zipCode": "560043",
 		"modTS": "2021-12-17T07:52:42.883Z",
 		"inquiryPhone": "9980422274",
@@ -45121,7 +45121,7 @@
 		"phone": [
 			"7022000222"
 		],
-		"avgRating": 3.3,
+		"avgRating": 3.4,
 		"name": "Ray Center - JP Nagar",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.075Z",
@@ -45129,7 +45129,7 @@
 		"createdTS": "2017-01-07T17:23:44.075Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-22T10:37:27.309Z",
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RAYCENTER/2.png"
@@ -87005,6 +87005,170 @@
 		"lng": 77.7040783,
 		"activeKey": "Tulip-Swiming-Pool-Marathahalli-bangalore",
 		"offers": []
+	},
+	{
+		"inquiryPhone": "9916783090",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "savios-snooker-academy-marathahalli-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/vyi9",
+		"city": "Bengaluru",
+		"area": "Marathahalli",
+		"oldPlayoId": "587124206d91cf3645ab07e9",
+		"functionData": [
+			{
+				"content": "08f61ad0-3868-449e-8159-ff3e17295df8",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 2,
+				"caption": "Inquire Now",
+				"type": 2
+			}
+		],
+		"sports": [
+			"SP77",
+			"SP6"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"First Aid",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/VITALITYBY/Vitality by design-map.PNG",
+		"zipCode": "560037",
+		"phone": [
+			"9916783090"
+		],
+		"avgRating": 4.4,
+		"name": "Savio's Snooker Academy",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.079Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.079Z",
+		"inquiryType": -1,
+		"modTS": "2023-03-22T08:23:51.285Z",
+		"ratingCount": 16,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312441042.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312445932.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312449971.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312453462.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312460741.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312469551.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312480622.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312492481.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312497762.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/VITALITYBYDESIGN/SaviosSnookerAcademy1660312503871.jpg"
+			}
+		],
+		"id": "08f61ad0-3868-449e-8159-ff3e17295df8",
+		"description": "",
+		"category": 1,
+		"s3Folder": "VITALITYBYDESIGN",
+		"state": "Karnataka",
+		"email": [
+			"alexmesmersavio@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#104, Munnekolala Post, near Government School, Munnekolala, Marathahalli, Bengaluru, Karnataka - 560037",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/yfxJ",
+		"search": "",
+		"fullLink": "https://playo.co/venue/?venueId=08f61ad0-3868-449e-8159-ff3e17295df8",
+		"country": "India",
+		"timings": "11 AM - 11 PM",
+		"addInfo": "",
+		"bookType": 2,
+		"lat": 12.952862246508257,
+		"lng": 77.70625052944833,
+		"sponsoredRadius": 4,
+		"type": 0,
+		"venueId": "08f61ad0-3868-449e-8159-ff3e17295df8",
+		"isSafeAndHygiene": true,
+		"activityCount": 49,
+		"activityCountLastSyncDate": "2023-03-21T18:30:02.842Z",
+		"bookSports": [
+			"SP77",
+			"SP6"
+		],
+		"__v": 1,
+		"bnpl": false,
+		"distance": 12.290393289512606,
+		"activeKey": "savios-snooker-academy-marathahalli-bengaluru",
+		"offers": [
+			{
+				"_id": "61dbb403c4576876d8a4b8de",
+				"city": "Hyderabad",
+				"cityCode": 4,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2022-01-10T04:20:19.963Z",
+				"offerContent": "9d2548e1-7f94-41e4-bd06-8ded372f54f2",
+				"coupon": "",
+				"imageUrl": "https://d3qokvektr0ozw.cloudfront.net/OFFERS/Getsuuuperofferonthecartcheckouteqk2e5cover1641788351003.jpg",
+				"expiry": "2023-12-31T00:00:00.000Z",
+				"multiCity": true,
+				"sports": "SP5,SP56,SP2,SP45,SP4,SP3,SP0",
+				"activeKey": "play-more-pay-less:-upto-25-off-hyderabad",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "Valid till December 31, 2023",
+						"content": "https://playo.co/venues",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						78.458122,
+						17.397083
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "Play more, Pay less: Upto 25% off",
+				"id": "c21f1bff-3421-490c-b507-1c3043833fd8",
+				"offerName": "2023 Fitness Resolution Offers!",
+				"shareLink": "https://z34v4.app.goo.gl/3PQm",
+				"deferLink": "https://z34v4.app.goo.gl/cHLq",
+				"cityLat": 17.397083,
+				"cityLng": 78.458122
+			}
+		]
 	},
 	{
 		"name": "RBD Basketball Court",
