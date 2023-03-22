@@ -18902,7 +18902,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 291,
+		"ratingCount": 292,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -34256,7 +34256,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:04:45.664Z",
-		"ratingCount": 65,
+		"ratingCount": 66,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -36425,7 +36425,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 131,
+		"ratingCount": 132,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -47131,7 +47131,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 231,
+		"ratingCount": 233,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -51686,7 +51686,7 @@
 		"bookType": 0,
 		"ratingCount": 3,
 		"zipCode": "560035",
-		"modTS": "2023-02-18T16:22:01.173Z",
+		"modTS": "2023-03-22T05:49:48.684Z",
 		"inquiryPhone": "6363669332",
 		"inquiryType": -1,
 		"phone": [
@@ -51702,8 +51702,7 @@
 		"search": "",
 		"isSafeAndHygiene": true,
 		"bookSports": [
-			"SP57",
-			"SP0"
+			"SP57"
 		],
 		"name": "Red Toss Cricket",
 		"area": "Choodasandra",
@@ -51722,8 +51721,7 @@
 		],
 		"timings": "7 AM - 6 PM",
 		"sports": [
-			"SP57",
-			"SP0"
+			"SP57"
 		],
 		"members": false,
 		"state": "Karnataka",
@@ -51746,22 +51744,19 @@
 			"redtosscricket@gmail.com"
 		],
 		"s3Folder": "REDTOSSCRICKET20210323120401824565",
-		"__v": 1,
+		"__v": 2,
 		"coverImage": "",
 		"deferLink": "https://z34v4.app.goo.gl/8eub",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1616501016717.jpeg"
+				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1679464119566.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1616501024214.jpeg"
+				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1679464122712.jpg"
 			},
 			{
-				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1616501029377.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1616501035387.jpeg"
+				"url": "https://playo.gumlet.io/REDTOSSCRICKET20210323120401824565/RedTossCricket1679464125871.jpg"
 			}
 		],
 		"infoData": [],
@@ -54900,7 +54895,7 @@
 		"description": "",
 		"createdTS": "2019-11-13T12:00:29.048Z",
 		"bookType": 0,
-		"ratingCount": 34,
+		"ratingCount": 35,
 		"zipCode": "560016",
 		"modTS": "2022-09-29T13:53:10.413Z",
 		"inquiryPhone": "9900079594",
@@ -54909,7 +54904,7 @@
 			"9900079594"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"address": "6th Floor, Neil Rao Towers, Plot #117 & 118, Road #3, EPIP Phase - 1, Whitefield Road, Bangalore",
 		"active": true,
 		"id": "125e0d09-79d6-4cff-a35d-c80f716686ed",
@@ -56307,14 +56302,14 @@
 		"phone": [
 			"7204672409"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Badmintonium Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -61509,7 +61504,7 @@
 		"createdTS": "2018-03-22T17:22:07.142Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T11:26:42.668Z",
-		"ratingCount": 196,
+		"ratingCount": 197,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLANETSPORTS/PlanetSports1646738777673.PNG"
