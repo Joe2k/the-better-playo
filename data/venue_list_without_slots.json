@@ -1148,7 +1148,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 24,
+		"ratingCount": 25,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -2077,7 +2077,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 113,
+		"ratingCount": 114,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -2429,7 +2429,7 @@
 		"createdTS": "2018-12-05T05:00:34.548Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T06:54:55.397Z",
-		"ratingCount": 144,
+		"ratingCount": 145,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg"
@@ -23308,7 +23308,7 @@
 		"description": "",
 		"createdTS": "2020-01-31T12:40:32.810Z",
 		"bookType": 0,
-		"ratingCount": 83,
+		"ratingCount": 84,
 		"zipCode": "560045",
 		"modTS": "2022-11-08T16:52:05.417Z",
 		"inquiryPhone": "7406092866",
@@ -34479,7 +34479,7 @@
 		"description": "",
 		"createdTS": "2019-02-23T11:11:36.498Z",
 		"bookType": 0,
-		"ratingCount": 215,
+		"ratingCount": 216,
 		"zipCode": "560068",
 		"modTS": "2023-03-08T05:37:25.990Z",
 		"inquiryPhone": "8095514666",
@@ -62959,11 +62959,11 @@
 		],
 		"avgRating": 4.4,
 		"name": "Game Theory - Sportfit",
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 5,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T12:16:51.007Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-10T04:42:34.506Z",
+		"modTS": "2023-03-23T10:10:46.317Z",
 		"ratingCount": 7,
 		"id": "2f1276d1-5b15-4cba-bf27-bb8f635db685",
 		"category": 2,
@@ -62975,7 +62975,7 @@
 		],
 		"description": "",
 		"tags": [],
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "30 Feet Main Rd, Whitefield, Hagadur, Immadihalli, Bengaluru, Karnataka",
 		"active": true,
