@@ -873,7 +873,7 @@
 		"phone": [
 			"8296180556"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.6,
 		"name": "South United Football Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-12T09:50:24.658Z",
@@ -881,7 +881,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:41:09.425Z",
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -20093,14 +20093,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 42,
+		"ratingCount": 43,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -33099,7 +33099,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 244,
+		"ratingCount": 245,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -34248,7 +34248,7 @@
 		"phone": [
 			"8951820251"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"name": "Nakshatra Football Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.082Z",
@@ -34256,7 +34256,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:04:45.664Z",
-		"ratingCount": 66,
+		"ratingCount": 67,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -34787,7 +34787,7 @@
 		"description": "",
 		"createdTS": "2022-06-14T14:24:16.054Z",
 		"bookType": 0,
-		"ratingCount": 48,
+		"ratingCount": 49,
 		"zipCode": "560076",
 		"modTS": "2023-03-02T02:20:34.704Z",
 		"inquiryPhone": "9886073270",
@@ -52276,14 +52276,14 @@
 		"phone": [
 			"7975083636"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.6,
 		"name": "Diamond Shuttlers Club (Adharsh Sports Arena)",
 		"sponsoredRadius": 3,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-03T14:14:45.903Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-10T16:20:24.139Z",
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"id": "a18875e4-6063-4199-999b-11b8209c3a7e",
 		"category": 2,
 		"s3Folder": "DIAMONDSHUTTLERSCLUBADHARSHSPORTSARENA20230303141445903594",
