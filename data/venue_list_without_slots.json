@@ -38978,7 +38978,7 @@
 		"phone": [
 			"9845027878"
 		],
-		"avgRating": 4,
+		"avgRating": 3.9,
 		"name": "ARATT Big Game",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.199Z",
@@ -38986,7 +38986,7 @@
 		"createdTS": "2017-01-07T17:23:44.199Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-08T05:31:53.575Z",
-		"ratingCount": 329,
+		"ratingCount": 331,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ARATTBIGGAME/arattbiggamebadminton1627916662265.jpg"
@@ -57105,7 +57105,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 350,
+		"ratingCount": 351,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -64251,8 +64251,7 @@
 		],
 		"sports": [
 			"SP0",
-			"SP47",
-			"SP2"
+			"SP47"
 		],
 		"priority": 0,
 		"amenities": [
@@ -64276,7 +64275,7 @@
 		"coverImage": "",
 		"createdTS": "2018-11-12T17:48:11.022Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-21T11:49:07.630Z",
+		"modTS": "2023-03-23T08:52:35.788Z",
 		"ratingCount": 5,
 		"images": [
 			{
@@ -64318,8 +64317,7 @@
 		"addInfo": "",
 		"bookSports": [
 			"SP0",
-			"SP47",
-			"SP2"
+			"SP47"
 		],
 		"bookType": 0,
 		"lat": 12.917749453581031,
@@ -66948,7 +66946,6 @@
 		"country": "India",
 		"sports": [
 			"SP0",
-			"SP2",
 			"SP47"
 		],
 		"timings": "6:30 AM - 6:00 PM",
@@ -66996,7 +66993,7 @@
 			}
 		],
 		"rating": 0,
-		"modTS": "2023-01-23T10:43:58.149Z",
+		"modTS": "2023-03-23T08:51:53.881Z",
 		"shareLink": "https://z34v4.app.goo.gl/m9Sr",
 		"deferLink": "https://z34v4.app.goo.gl/uGpk",
 		"fullLink": "https://playo.co/venue/?venueId=adcbd89e-9ed6-4cfa-97c4-9257808ab3e7",
@@ -67036,7 +67033,6 @@
 		"mapImage": "",
 		"bookSports": [
 			"SP0",
-			"SP2",
 			"SP47"
 		],
 		"distance": 19.561906792870634,
