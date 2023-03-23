@@ -10599,7 +10599,7 @@
 		"createdTS": "2023-03-16T19:03:11.321Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-16T19:43:29.819Z",
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"id": "911d302e-2071-4155-8bd2-fc358da5a65d",
 		"category": 2,
 		"s3Folder": "SAALSABADMINTONACADEMY20230316190311321398",
@@ -18760,7 +18760,7 @@
 		"description": "",
 		"createdTS": "2019-07-17T13:54:17.262Z",
 		"bookType": 0,
-		"ratingCount": 101,
+		"ratingCount": 102,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T07:12:07.228Z",
 		"inquiryPhone": "8861619999",
@@ -28391,7 +28391,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:27.431Z",
-		"ratingCount": 258,
+		"ratingCount": 259,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
@@ -59627,7 +59627,7 @@
 		"phone": [
 			"7829006001"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"name": "Machaxi - Sumukha Sports",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.130Z",
@@ -59635,7 +59635,7 @@
 		"createdTS": "2017-01-07T17:23:44.130Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:54.345Z",
-		"ratingCount": 232,
+		"ratingCount": 233,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SUMUKHASPORTSARENA/MachaxiSumukhaSports1659277639642.jpg"
