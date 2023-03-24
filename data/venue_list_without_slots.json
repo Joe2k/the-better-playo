@@ -7274,7 +7274,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 190,
+		"ratingCount": 191,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -9933,7 +9933,7 @@
 		"description": "",
 		"createdTS": "2019-07-03T07:59:14.093Z",
 		"bookType": 0,
-		"ratingCount": 37,
+		"ratingCount": 38,
 		"zipCode": "560032",
 		"modTS": "2022-01-05T12:51:53.189Z",
 		"inquiryPhone": "9342320036",
@@ -9942,7 +9942,7 @@
 			"9342320036"
 		],
 		"sponsored": "",
-		"avgRating": 4.4,
+		"avgRating": 4.3,
 		"address": "15, (Cauvery Nagar) KHB Main Road opp 12th cross,near Railway crossing, R.T.Nagar Post",
 		"active": true,
 		"id": "f3f5b1bf-e982-4be8-99d1-d0fea15578e3",
@@ -22477,7 +22477,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T05:58:04.371Z",
 		"bookType": 0,
-		"ratingCount": 177,
+		"ratingCount": 178,
 		"zipCode": "560037",
 		"modTS": "2023-03-12T14:48:39.793Z",
 		"inquiryPhone": "9606751111",
@@ -28156,7 +28156,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 305,
+		"ratingCount": 306,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -35662,7 +35662,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 55,
+		"ratingCount": 56,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -50606,7 +50606,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 623,
+		"ratingCount": 624,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
