@@ -16065,7 +16065,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560016",
 		"modTS": "2023-02-07T15:51:33.335Z",
 		"inquiryPhone": "9686603952",
@@ -16074,7 +16074,7 @@
 			"9686603952"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"address": "Kempe Gowda Underpass Rd, East of NGEF Layout, Dooravani Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "aaa67452-39f7-460e-9229-8ff720c2f6ae",
@@ -18557,7 +18557,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 230,
+		"ratingCount": 231,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -46020,7 +46020,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 401,
+		"ratingCount": 402,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
