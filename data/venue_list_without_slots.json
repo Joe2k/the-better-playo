@@ -14308,6 +14308,102 @@
 		]
 	},
 	{
+		"inquiryPhone": "9742699989",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "feather-touch-sports-arena-jp-nagar-off-rose-garden-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/p2Wt",
+		"city": "Bengaluru",
+		"area": "Off Rose Garden Road",
+		"oldPlayoId": "587124206d91cf3645ab0853",
+		"functionData": [],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Washroom",
+			"Equipments",
+			"Parking",
+			"First-Aid"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/FEATHERTOUCH/map.png",
+		"zipCode": "560078",
+		"phone": [
+			"9742699989"
+		],
+		"avgRating": 3.5,
+		"name": "Feather Touch Sports Arena - JP Nagar",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.203Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.203Z",
+		"inquiryType": -1,
+		"modTS": "2023-03-25T06:10:34.234Z",
+		"ratingCount": 767,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/FEATHERTOUCH/FeatherTouchSportsArenaJPNagar12.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/FEATHERTOUCH/FeatherTouchSportsArenaJPNagar13.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/FEATHERTOUCH/ft1.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FEATHERTOUCH/ft2.jpg"
+			}
+		],
+		"id": "b9252d7d-18d7-48c7-b997-4d74afc37682",
+		"description": "",
+		"category": 2,
+		"s3Folder": "FEATHERTOUCH",
+		"state": "Karnataka",
+		"email": [
+			"feathertouchsports@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "#22/1A, 24th Main Road, BOB Colony, JP Nagar 7th Phase, Bengaluru, Karnataka",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/1b3P",
+		"search": "|Badminton|Feather Touch Sports Arena|#22/1A, 24th Main, JP Nagar 7th Phase|JP Nagar|Bangalore|Washroom, Equipments, Parking, First-Aid|Only non-marking shoes are allowed. On selecting Synth courts you will be playing on pure synthetic surface with a foam cushion underneath. On selecting Wooden courts you will be playing on Wooden base with a Synthetic top mat.|Most Popular",
+		"fullLink": "https://playo.co/venue/?venueId=b9252d7d-18d7-48c7-b997-4d74afc37682",
+		"country": "India",
+		"timings": "5:30 AM - 11:30 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.896533,
+		"lng": 77.585419,
+		"placeId": "",
+		"type": 0,
+		"venueId": "b9252d7d-18d7-48c7-b997-4d74afc37682",
+		"sponsoredRadius": 4,
+		"__v": 1,
+		"isSafeAndHygiene": true,
+		"activityCount": 20995,
+		"activityCountLastSyncDate": "2023-03-24T18:30:03.374Z",
+		"bnpl": false,
+		"distance": 8.415529674242189,
+		"activeKey": "feather-touch-sports-arena-jp-nagar-off-rose-garden-road-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "28a20530-76f8-4e95-bcd4-3e72f995ef6a",
 		"cityCode": 1,
 		"description": "",
@@ -22971,108 +23067,6 @@
 		]
 	},
 	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 262,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2593,
-		"activityCountLastSyncDate": "2023-03-24T18:30:03.374Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -23199,6 +23193,108 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 262,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2593,
+		"activityCountLastSyncDate": "2023-03-24T18:30:03.374Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -27727,7 +27823,7 @@
 		"bookType": 0,
 		"ratingCount": 11,
 		"zipCode": "560068",
-		"modTS": "2022-12-13T17:36:07.008Z",
+		"modTS": "2023-03-25T08:02:19.239Z",
 		"inquiryPhone": "9900591236",
 		"inquiryType": -1,
 		"phone": [
@@ -27746,7 +27842,8 @@
 			"SP7",
 			"SP4",
 			"SP6",
-			"SP77"
+			"SP77",
+			"SP5"
 		],
 		"name": "Milan Sports",
 		"area": "GB Palya",
@@ -27768,7 +27865,8 @@
 			"SP7",
 			"SP4",
 			"SP6",
-			"SP77"
+			"SP77",
+			"SP5"
 		],
 		"members": false,
 		"state": "Karnataka",
@@ -39350,8 +39448,7 @@
 			}
 		],
 		"sports": [
-			"SP5",
-			"SP7"
+			"SP5"
 		],
 		"priority": 0,
 		"amenities": [
@@ -39374,7 +39471,7 @@
 		"coverImage": "",
 		"createdTS": "2018-04-10T17:12:09.379Z",
 		"inquiryType": -1,
-		"modTS": "2022-05-04T11:02:02.817Z",
+		"modTS": "2023-03-25T06:10:22.453Z",
 		"ratingCount": 105,
 		"images": [
 			{
@@ -39418,8 +39515,7 @@
 		"timings": "5.30 AM - 11.30 PM",
 		"addInfo": "Badminton: <br/>\n- Hybrid Badminton Courts: Wooden base with an Anti-Slip Synthetic Mat on top.<br/>\n- Non Marking Shoes compulsory for Badminton. <br/>\n- Sports equipment available on rent: Rackets, Shoes<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Management is not responsible for loss of personal belongings & any injuries caused during the matches.<br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Shower before entering into the pool.<br/>",
 		"bookSports": [
-			"SP5",
-			"SP7"
+			"SP5"
 		],
 		"bookType": 0,
 		"dateLimit": 14,
@@ -39433,6 +39529,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 10922,
 		"activityCountLastSyncDate": "2023-03-24T18:30:03.373Z",
+		"bnpl": false,
 		"distance": 11.665080523769088,
 		"activeKey": "feather-touch-sports-arena-channasandra-uttarahalli-main-road-bengaluru",
 		"offers": [
@@ -44926,7 +45023,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-02-01T10:50:26.076Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-14T07:26:01.733Z",
+		"modTS": "2023-03-25T06:47:13.376Z",
 		"ratingCount": 3,
 		"id": "45326ca4-926a-4de1-a7ae-2e48e8f6faf2",
 		"category": 2,
@@ -51954,7 +52051,7 @@
 		"activityCount": 656,
 		"activityCountLastSyncDate": "2023-03-24T18:30:03.373Z",
 		"avgRating": 4.1,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"bookSports": [
 			"SP5",
 			"SP4",
@@ -56415,7 +56512,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -57107,7 +57204,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 353,
+		"ratingCount": 354,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -78627,78 +78724,6 @@
 		"lat": 12.9640851,
 		"lng": 77.6512858,
 		"activeKey": "NAL-Cricket-Ground-Kodihalli-bangalore",
-		"offers": []
-	},
-	{
-		"name": "Silver Strings",
-		"area": "Kodihalli",
-		"address": "Kodihalli, Bengaluru, Karnataka 560017",
-		"googleMapLink": "https://www.google.com/maps/place/Silver+Strings/@12.954804,77.6586985,12z/data=!4m8!1m2!2m1!1sSilver+Strings!3m4!1s0x3bae1407760f12fb:0x15f715ce50bda2f5!8m2!3d12.9615476!4d77.6525688",
-		"googlePlusCode": "XM63+J2 Bengaluru, Karnataka",
-		"website": "sssports.in",
-		"email": "mukesh@sssports.in",
-		"remarks": "",
-		"phone": [
-			"93437 80945"
-		],
-		"functionData": [
-			{
-				"content": "93437 80945",
-				"bookType": 0,
-				"popupText": "",
-				"priority": 0,
-				"displayType": 1,
-				"sportId": "",
-				"caption": "Call Venue!",
-				"type": 1
-			}
-		],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP4"
-		],
-		"timings": "",
-		"cityCode": 1,
-		"id": "f4630994-0a87-4430-8115-ab8123f4c257",
-		"oldPlayoId": "f4630994-0a87-4430-8115-ab8123f4c257",
-		"category": 1,
-		"inquiryPhone": "93437 80945",
-		"s3Folder": "SILVERSTRINGS",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": null,
-			"Tue": null,
-			"Wed": null,
-			"Thu": null,
-			"Fri": null,
-			"Sat": null,
-			"Sun": null
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "Silver-Strings-Kodihalli-bangalore",
-				"active": true
-			}
-		],
-		"images": [],
-		"rating": 0,
-		"shareLink": "https://playo.page.link/vqz4m",
-		"deferLink": "https://playo.page.link/RQbif",
-		"fullLink": "https://playo.co/venue/?venueId=f4630994-0a87-4430-8115-ab8123f4c257",
-		"amenities": [],
-		"tags": [],
-		"avgRating": 4,
-		"ratingCount": 1,
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 1,
-		"activityCountLastSyncDate": "2023-03-24T18:30:03.373Z",
-		"distance": 6.387263032268254,
-		"lat": 12.9615476,
-		"lng": 77.6525688,
-		"activeKey": "Silver-Strings-Kodihalli-bangalore",
 		"offers": []
 	},
 	{
