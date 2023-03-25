@@ -2690,14 +2690,14 @@
 		"phone": [
 			"9741775025"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"name": "Tiger 5 Sports - Dairy Circle",
 		"sponsoredRadius": 2,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-20T10:01:39.092Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-20T18:09:06.382Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"id": "7339d09a-aeb6-4b98-989e-6fdca17d7f61",
 		"category": 2,
 		"s3Folder": "TIGER5SPORTSDAIRYCIRCLE20221220100139092493",
@@ -7764,7 +7764,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-19T09:05:00.935Z",
-		"ratingCount": 193,
+		"ratingCount": 195,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -13894,7 +13894,7 @@
 		"description": "",
 		"createdTS": "2019-02-19T15:33:35.731Z",
 		"bookType": 0,
-		"ratingCount": 284,
+		"ratingCount": 285,
 		"zipCode": "560061",
 		"modTS": "2021-12-28T16:15:50.834Z",
 		"inquiryPhone": "9880770202",
@@ -13903,7 +13903,7 @@
 			"9880770202"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "LANDMARK: Near Bangalore International Public School; FULL ADDRESS: 255E/D/1, 4th Main, Ankappa layout, Uttarahalli, Subramanyapura Post",
 		"active": true,
 		"id": "ae068218-2f88-482d-bdf1-4e197811b9ba",
@@ -18998,7 +18998,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 292,
+		"ratingCount": 293,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -23619,7 +23619,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 104,
+		"ratingCount": 105,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
@@ -27240,7 +27240,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 22,
+		"ratingCount": 23,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -29305,7 +29305,7 @@
 		"description": "",
 		"createdTS": "2020-02-26T09:42:19.435Z",
 		"bookType": 0,
-		"ratingCount": 64,
+		"ratingCount": 65,
 		"zipCode": "560016",
 		"modTS": "2021-12-17T07:36:32.925Z",
 		"inquiryPhone": "9980151415",
@@ -29741,7 +29741,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 76,
+		"ratingCount": 77,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -48041,7 +48041,7 @@
 		"createdTS": "2017-11-02T07:13:37.523Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-18T04:25:56.077Z",
-		"ratingCount": 200,
+		"ratingCount": 201,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ATOMSPORTSARENA/1.png"
@@ -50703,7 +50703,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 624,
+		"ratingCount": 625,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -54111,7 +54111,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
@@ -54120,7 +54120,7 @@
 			"7090085007"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"address": "#74, Kodipalya Main Road, Near Ram Medicals, Kodipalya, Kengeri, Bangalore - 560060",
 		"active": true,
 		"id": "6f78edc6-8c04-414e-a756-6012c478d504",
