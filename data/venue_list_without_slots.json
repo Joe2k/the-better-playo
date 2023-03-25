@@ -21949,7 +21949,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 298,
+		"ratingCount": 299,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -34248,7 +34248,7 @@
 		"phone": [
 			"8951820251"
 		],
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"name": "Nakshatra Football Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.082Z",
@@ -34256,7 +34256,7 @@
 		"createdTS": "2017-01-07T17:23:44.082Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:04:45.664Z",
-		"ratingCount": 68,
+		"ratingCount": 69,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AUGUSTYOGAHSR/NakshatraFootballAcademy1668194047207.jpg"
@@ -51249,7 +51249,7 @@
 		"description": "",
 		"createdTS": "2021-07-27T11:22:02.595Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560083",
 		"modTS": "2023-01-12T16:01:11.473Z",
 		"inquiryPhone": "9916420170",
@@ -61460,7 +61460,7 @@
 		"createdTS": "2018-02-11T06:46:38.718Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-20T09:53:20.487Z",
-		"ratingCount": 278,
+		"ratingCount": 279,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSHUTTLERS/FeatherShuttlers1586172701791.png"
@@ -62167,7 +62167,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 414,
+		"ratingCount": 415,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
@@ -68258,10 +68258,10 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "mnc-sports-and-academy-bommasandra-bengaluru"
+				"key": "mnc-sports-academy-bommasandra-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/Ldsj",
+		"shareLink": "https://z34v4.app.goo.gl/fds4",
 		"city": "Bengaluru",
 		"area": "Bommasandra",
 		"oldPlayoId": "5b6a90256d91cf77c5c8ad0b",
@@ -68294,13 +68294,13 @@
 			"9845806735"
 		],
 		"avgRating": 3.7,
-		"name": "MNC Sports and Academy",
+		"name": "MNC Sports & Academy",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-08-08T06:39:33.209Z",
 		"coverImage": "",
 		"createdTS": "2018-08-08T06:39:33.209Z",
 		"inquiryType": -1,
-		"modTS": "2020-12-08T08:05:48.252Z",
+		"modTS": "2023-03-25T06:10:08.876Z",
 		"ratingCount": 19,
 		"images": [
 			{
@@ -68343,7 +68343,7 @@
 		"members": false,
 		"address": "MNC Sports and Academy, RK Township Club House, Bommasandra Industrial Area, Yarandahalli, Jigani Main Road, Bengaluru, Karnataka",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/gqky",
+		"deferLink": "https://z34v4.app.goo.gl/aGzV",
 		"search": "mnc",
 		"fullLink": "https://playo.co/venue/?venueId=ab94d919-cc56-4670-a123-467f6622ea3e",
 		"country": "India",
@@ -68363,8 +68363,9 @@
 		"venueId": "ab94d919-cc56-4670-a123-467f6622ea3e",
 		"activityCount": 113,
 		"activityCountLastSyncDate": "2023-03-24T18:30:03.373Z",
+		"bnpl": false,
 		"distance": 20.45958472865846,
-		"activeKey": "mnc-sports-and-academy-bommasandra-bengaluru",
+		"activeKey": "mnc-sports-academy-bommasandra-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -78626,6 +78627,78 @@
 		"lat": 12.9640851,
 		"lng": 77.6512858,
 		"activeKey": "NAL-Cricket-Ground-Kodihalli-bangalore",
+		"offers": []
+	},
+	{
+		"name": "Silver Strings",
+		"area": "Kodihalli",
+		"address": "Kodihalli, Bengaluru, Karnataka 560017",
+		"googleMapLink": "https://www.google.com/maps/place/Silver+Strings/@12.954804,77.6586985,12z/data=!4m8!1m2!2m1!1sSilver+Strings!3m4!1s0x3bae1407760f12fb:0x15f715ce50bda2f5!8m2!3d12.9615476!4d77.6525688",
+		"googlePlusCode": "XM63+J2 Bengaluru, Karnataka",
+		"website": "sssports.in",
+		"email": "mukesh@sssports.in",
+		"remarks": "",
+		"phone": [
+			"93437 80945"
+		],
+		"functionData": [
+			{
+				"content": "93437 80945",
+				"bookType": 0,
+				"popupText": "",
+				"priority": 0,
+				"displayType": 1,
+				"sportId": "",
+				"caption": "Call Venue!",
+				"type": 1
+			}
+		],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP4"
+		],
+		"timings": "",
+		"cityCode": 1,
+		"id": "f4630994-0a87-4430-8115-ab8123f4c257",
+		"oldPlayoId": "f4630994-0a87-4430-8115-ab8123f4c257",
+		"category": 1,
+		"inquiryPhone": "93437 80945",
+		"s3Folder": "SILVERSTRINGS",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": null,
+			"Tue": null,
+			"Wed": null,
+			"Thu": null,
+			"Fri": null,
+			"Sat": null,
+			"Sun": null
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "Silver-Strings-Kodihalli-bangalore",
+				"active": true
+			}
+		],
+		"images": [],
+		"rating": 0,
+		"shareLink": "https://playo.page.link/vqz4m",
+		"deferLink": "https://playo.page.link/RQbif",
+		"fullLink": "https://playo.co/venue/?venueId=f4630994-0a87-4430-8115-ab8123f4c257",
+		"amenities": [],
+		"tags": [],
+		"avgRating": 4,
+		"ratingCount": 1,
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 1,
+		"activityCountLastSyncDate": "2023-03-24T18:30:03.373Z",
+		"distance": 6.387263032268254,
+		"lat": 12.9615476,
+		"lng": 77.6525688,
+		"activeKey": "Silver-Strings-Kodihalli-bangalore",
 		"offers": []
 	},
 	{
