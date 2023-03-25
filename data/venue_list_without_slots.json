@@ -3738,7 +3738,7 @@
 		"description": "",
 		"createdTS": "2019-08-17T19:32:38.748Z",
 		"bookType": 0,
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"zipCode": "560028",
 		"modTS": "2022-04-30T14:42:34.767Z",
 		"inquiryPhone": "9880584455",
@@ -7756,7 +7756,7 @@
 		"phone": [
 			"9790513417"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.9,
 		"name": "Coolulu TurfPark - Koramangala",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-06-27T07:29:11.666Z",
@@ -7764,7 +7764,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-19T09:05:00.935Z",
-		"ratingCount": 192,
+		"ratingCount": 193,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -11145,7 +11145,7 @@
 		"createdTS": "2017-12-13T11:04:51.227Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-20T08:40:38.553Z",
-		"ratingCount": 238,
+		"ratingCount": 239,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/4SSHUTTLESMASHSPORTSSTUDIO/4sshuttlesmashsportsstudio5.jpg"
@@ -27823,7 +27823,7 @@
 		"bookType": 0,
 		"ratingCount": 11,
 		"zipCode": "560068",
-		"modTS": "2023-03-25T08:02:19.239Z",
+		"modTS": "2023-03-25T08:13:17.798Z",
 		"inquiryPhone": "9900591236",
 		"inquiryType": -1,
 		"phone": [
@@ -27840,10 +27840,10 @@
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP7",
+			"SP5",
 			"SP4",
 			"SP6",
-			"SP77",
-			"SP5"
+			"SP77"
 		],
 		"name": "Milan Sports",
 		"area": "GB Palya",
@@ -27863,10 +27863,10 @@
 		"timings": "6:30AM - 7:00PM",
 		"sports": [
 			"SP7",
+			"SP5",
 			"SP4",
 			"SP6",
-			"SP77",
-			"SP5"
+			"SP77"
 		],
 		"members": false,
 		"state": "Karnataka",
@@ -27883,7 +27883,7 @@
 		],
 		"restricted": 0,
 		"notifyBooking": 0,
-		"addInfo": "Swimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>",
+		"addInfo": "Swimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n<br/>\n<br/>\nBadminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>",
 		"fullLink": "https://playo.co/venue?venueId=33d466f1-d1ef-4502-8030-b297418c694f",
 		"type": 1,
 		"email": [
@@ -34053,17 +34053,17 @@
 				"key": "coolulu-turfpark-horamavu-samsidh-mount-litera-school-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/bDM3",
+		"shareLink": "https://z34v4.app.goo.gl/ZS6v",
 		"city": "Bengaluru",
 		"area": "Samsidh Mount Litera School",
 		"oldPlayoId": "5b893c566d91cf7fc65e19eb",
 		"functionData": [
 			{
 				"content": "9ae5cce0-07d1-4042-97bf-a7db204820d5",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
 			}
 		],
@@ -34086,13 +34086,13 @@
 			"9900176866"
 		],
 		"avgRating": 4.4,
-		"name": "Coolulu Turfpark - Horamavu",
+		"name": "Coolulu TurfPark - Horamavu",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-08-31T13:02:13.523Z",
 		"coverImage": "",
 		"createdTS": "2018-08-31T13:02:13.523Z",
 		"inquiryType": -1,
-		"modTS": "2022-09-27T15:29:28.033Z",
+		"modTS": "2023-03-25T08:39:27.444Z",
 		"ratingCount": 19,
 		"images": [
 			{
@@ -34117,7 +34117,7 @@
 		"s3Folder": "TURFPARKHORAMAVU",
 		"state": "Karnataka",
 		"email": [
-			"bhomeshkumarsharma@gmail.com"
+			"finance_blr@coolulu.in"
 		],
 		"logoImg": "",
 		"tags": [],
@@ -34126,7 +34126,7 @@
 		"members": false,
 		"address": "Samsidh Mount Litera School, 583/1, Kalkere Village, Horamavu Post, Dodda Kempaiah Layout, Bengaluru, Karnataka - 560043",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/PJY1",
+		"deferLink": "https://z34v4.app.goo.gl/JCqM",
 		"search": "",
 		"fullLink": "https://playo.co/venue/?venueId=9ae5cce0-07d1-4042-97bf-a7db204820d5",
 		"country": "India",
@@ -36523,7 +36523,7 @@
 		"createdTS": "2018-09-15T09:44:49.213Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-06T07:44:26.857Z",
-		"ratingCount": 132,
+		"ratingCount": 133,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYSAHAKARNAGAR/whitepeacockbadmintonacademysahakarnagar0.jpg"
@@ -38918,7 +38918,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 82,
+		"ratingCount": 83,
 		"zipCode": "560037",
 		"modTS": "2023-03-03T18:11:46.654Z",
 		"inquiryPhone": "9920601966",
