@@ -13084,7 +13084,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:19:14.117Z",
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
@@ -13473,7 +13473,7 @@
 		"createdTS": "2017-01-07T17:23:44.195Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:36:26.221Z",
-		"ratingCount": 39,
+		"ratingCount": 40,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTON/jnanasoudhabadmintonclub1616230278901.jpeg"
@@ -28341,7 +28341,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 307,
+		"ratingCount": 308,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -37071,7 +37071,7 @@
 		"description": "",
 		"createdTS": "2020-08-20T09:33:46.776Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560091",
 		"modTS": "2023-02-24T06:34:27.610Z",
 		"inquiryPhone": "8904247968",
@@ -57294,7 +57294,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 354,
+		"ratingCount": 355,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -61956,7 +61956,7 @@
 		"description": "",
 		"createdTS": "2022-03-02T18:56:39.241Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560100",
 		"modTS": "2023-02-11T11:30:26.381Z",
 		"inquiryPhone": "8921697378",
@@ -61965,7 +61965,7 @@
 			"8921697378"
 		],
 		"sponsored": "",
-		"avgRating": 4.9,
+		"avgRating": 4.7,
 		"address": "Gameloop Multisport Turf by Gameflix, Shanthi Pura, Electronic City Phase II, Shantipura, Bengaluru, Karnataka",
 		"active": true,
 		"id": "0636cc2d-7696-4357-bd86-a3de1c219b5c",
