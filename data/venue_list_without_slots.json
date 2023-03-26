@@ -6805,7 +6805,7 @@
 		"createdTS": "2017-01-07T17:23:44.043Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-08T17:30:01.318Z",
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FIGURINEFITNESSKALYANNAGAR/DrShyamPrasadMukherjeeKreedaSankeerna1649434684516.jpeg"
@@ -26245,7 +26245,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 17,
+		"ratingCount": 18,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -27908,7 +27908,7 @@
 		"description": "",
 		"createdTS": "2022-06-20T12:12:51.568Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 13,
 		"zipCode": "560068",
 		"modTS": "2023-03-25T08:13:17.798Z",
 		"inquiryPhone": "9900591236",
@@ -27917,7 +27917,7 @@
 			"9900591236"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 4.1,
 		"address": "1st cross, Lakshmi Layout Main Rd, Gowaramma layout, Garvebhavi Palya, Bengaluru, Karnataka",
 		"active": true,
 		"id": "33d466f1-d1ef-4502-8030-b297418c694f",
@@ -40236,7 +40236,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 986,
+		"ratingCount": 988,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -42728,7 +42728,7 @@
 		"description": "",
 		"createdTS": "2019-09-10T08:20:13.425Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560035",
 		"modTS": "2022-05-02T06:27:37.419Z",
 		"inquiryPhone": "8884970088",
