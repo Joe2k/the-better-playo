@@ -1148,7 +1148,7 @@
 		"description": "",
 		"createdTS": "2020-09-08T08:20:14.863Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560004",
 		"modTS": "2021-03-23T05:44:49.515Z",
 		"inquiryPhone": "9980061333",
@@ -1157,7 +1157,7 @@
 			"9980061333"
 		],
 		"sponsored": "",
-		"avgRating": 3.3,
+		"avgRating": 3.2,
 		"address": "Krumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka",
 		"active": true,
 		"id": "49df1a9a-0324-4e78-a6b2-805b52c72390",
@@ -28341,7 +28341,7 @@
 		"createdTS": "2018-08-29T17:36:35.862Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-26T07:08:36.744Z",
-		"ratingCount": 308,
+		"ratingCount": 309,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GSPORTS/gsports1586171295066.png"
@@ -39551,7 +39551,7 @@
 		"phone": [
 			"9902466116"
 		],
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"name": "Feather Touch Sports Arena - Channasandra",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-04-10T17:12:09.379Z",
@@ -39559,7 +39559,7 @@
 		"createdTS": "2018-04-10T17:12:09.379Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-25T06:10:22.453Z",
-		"ratingCount": 105,
+		"ratingCount": 106,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERTOUCHSPORTS/feathertouchsportsdrivein1596521472307.jpg"
@@ -45004,7 +45004,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 54,
+		"ratingCount": 55,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -50132,7 +50132,7 @@
 		"createdTS": "2017-08-17T11:33:06.582Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:16:22.007Z",
-		"ratingCount": 41,
+		"ratingCount": 42,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GURUSPORTSCLUB/gurusportsclub10.jpg"
