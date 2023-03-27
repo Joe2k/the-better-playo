@@ -7103,7 +7103,7 @@
 		"description": "",
 		"createdTS": "2019-03-24T15:00:09.040Z",
 		"bookType": 0,
-		"ratingCount": 188,
+		"ratingCount": 189,
 		"zipCode": "560040",
 		"modTS": "2021-12-19T12:56:14.827Z",
 		"inquiryPhone": "9108644442",
@@ -18740,7 +18740,7 @@
 		"createdTS": "2018-03-05T16:34:08.456Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-22T04:57:49.277Z",
-		"ratingCount": 231,
+		"ratingCount": 232,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ADENASPORTS/AdenaSports1661144251919.jpg"
@@ -26245,7 +26245,7 @@
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -27908,7 +27908,7 @@
 		"description": "",
 		"createdTS": "2022-06-20T12:12:51.568Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560068",
 		"modTS": "2023-03-25T08:13:17.798Z",
 		"inquiryPhone": "9900591236",
@@ -27917,7 +27917,7 @@
 			"9900591236"
 		],
 		"sponsored": "",
-		"avgRating": 4.1,
+		"avgRating": 4.2,
 		"address": "1st cross, Lakshmi Layout Main Rd, Gowaramma layout, Garvebhavi Palya, Bengaluru, Karnataka",
 		"active": true,
 		"id": "33d466f1-d1ef-4502-8030-b297418c694f",
@@ -29582,7 +29582,7 @@
 		"createdTS": "2017-09-01T11:01:03.935Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-01T08:40:01.486Z",
-		"ratingCount": 456,
+		"ratingCount": 457,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SHUTTLERSALLEY/shuttlersalley1629554958671.jpeg"
@@ -29828,7 +29828,7 @@
 		"description": "",
 		"createdTS": "2019-08-12T13:20:40.663Z",
 		"bookType": 0,
-		"ratingCount": 77,
+		"ratingCount": 78,
 		"zipCode": "560012",
 		"modTS": "2022-07-07T16:02:06.296Z",
 		"inquiryPhone": "9032526301",
@@ -36107,7 +36107,7 @@
 		"description": "",
 		"createdTS": "2020-02-18T08:18:23.871Z",
 		"bookType": 0,
-		"ratingCount": 92,
+		"ratingCount": 93,
 		"zipCode": "560048",
 		"modTS": "2022-03-08T10:43:27.202Z",
 		"inquiryPhone": "9605838931",
@@ -36116,7 +36116,7 @@
 			"9605838931"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"address": "#5/A , Star Complex , 1st Main Road, Singayanapalya",
 		"active": true,
 		"id": "112297f7-f08e-4fee-afcc-408fc5ceb925",
