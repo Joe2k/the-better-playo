@@ -7361,7 +7361,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 191,
+		"ratingCount": 192,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -22574,7 +22574,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 421,
+		"ratingCount": 422,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -52711,7 +52711,7 @@
 		"description": "",
 		"createdTS": "2022-06-28T17:26:55.895Z",
 		"bookType": 0,
-		"ratingCount": 14,
+		"ratingCount": 15,
 		"zipCode": "560049",
 		"modTS": "2023-01-25T16:46:16.726Z",
 		"inquiryPhone": "9032526301",
@@ -52720,7 +52720,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
 		"active": true,
 		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
@@ -53042,7 +53042,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 170,
+		"ratingCount": 171,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -54737,7 +54737,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 185,
+		"ratingCount": 186,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
@@ -64291,7 +64291,7 @@
 			"9353854764"
 		],
 		"sponsored": "",
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"address": "Opposite BMSIT College, Doddaballapur Road, Yelahanka, Bangalore",
 		"active": true,
 		"id": "e64e0b94-f7ff-466f-ad46-eac3f5f0579a",
