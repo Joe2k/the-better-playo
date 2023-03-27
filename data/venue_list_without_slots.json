@@ -8455,7 +8455,7 @@
 		"createdTS": "2017-07-17T17:28:26.496Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T10:28:12.455Z",
-		"ratingCount": 156,
+		"ratingCount": 157,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PREMIERBADMINTONACADEMYRAVEESHGOWDACENTER/RGRoyalSportsClub1639909678455.jpg"
@@ -20706,7 +20706,7 @@
 		"createdTS": "2017-01-07T17:23:44.157Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T06:51:04.651Z",
-		"ratingCount": 122,
+		"ratingCount": 123,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KICKON/img-20160201-wa0003.jpg"
@@ -30579,7 +30579,7 @@
 		"createdTS": "2018-06-20T15:48:40.151Z",
 		"inquiryType": -1,
 		"modTS": "2021-10-11T07:44:39.717Z",
-		"ratingCount": 114,
+		"ratingCount": 115,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/V3BADMINTONACADEMY/V3BadmintonAcademy6.jpg"
@@ -36277,7 +36277,7 @@
 		"description": "",
 		"createdTS": "2020-03-10T08:29:05.529Z",
 		"bookType": 0,
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"zipCode": "560035",
 		"modTS": "2023-01-02T09:44:22.684Z",
 		"inquiryPhone": "9844083397",
@@ -36286,7 +36286,7 @@
 			"9844083397"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 3.9,
 		"address": "#75, Amrita College Road, Off Sarjapur Road, Kasavanahalli, Bangalore",
 		"active": true,
 		"id": "ae00a0ae-8741-415a-8e99-792e72063c18",
@@ -46213,7 +46213,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 402,
+		"ratingCount": 403,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -56612,7 +56612,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -59785,7 +59785,7 @@
 		]
 	},
 	{
-		"inquiryPhone": "7829006001",
+		"inquiryPhone": "9123347676",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
@@ -59824,7 +59824,7 @@
 		"mapImage": "https://playo.imgix.net/SUMUKHASPORTSARENA/SumukhaSportsArenamap.png",
 		"zipCode": "560087",
 		"phone": [
-			"7829006001"
+			"9123347676"
 		],
 		"avgRating": 4.2,
 		"name": "Machaxi - Sumukha Sports",
@@ -59833,7 +59833,7 @@
 		"coverImage": "https://playo.gumlet.io/SUMUKHASPORTSARENA/SumukhaSportsArenacovercover1652639707993.jpg",
 		"createdTS": "2017-01-07T17:23:44.130Z",
 		"inquiryType": -1,
-		"modTS": "2023-02-09T14:46:54.345Z",
+		"modTS": "2023-03-27T11:53:44.510Z",
 		"ratingCount": 233,
 		"images": [
 			{
@@ -67432,7 +67432,7 @@
 		"description": "",
 		"createdTS": "2021-11-25T03:00:19.797Z",
 		"bookType": 0,
-		"ratingCount": 25,
+		"ratingCount": 26,
 		"zipCode": "560100",
 		"modTS": "2022-07-31T03:09:35.586Z",
 		"inquiryPhone": "7676217257",
@@ -67441,7 +67441,7 @@
 			"7676217257"
 		],
 		"sponsored": "Featured",
-		"avgRating": 3.6,
+		"avgRating": 3.5,
 		"address": "38/1, Hosur Road, Andapura, Off Huskur Road Electronics City Phase II, Anekal, Taluk, Bengaluru, Karnataka - 560100",
 		"active": true,
 		"id": "94870330-2071-4f34-813c-4eeb2592765a",
