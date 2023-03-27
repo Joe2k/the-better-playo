@@ -29736,7 +29736,7 @@
 		"createdTS": "2017-10-06T19:33:28.141Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-30T17:44:03.196Z",
-		"ratingCount": 538,
+		"ratingCount": 539,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VINNYSSPORTSARENA/VinnysSportsArena1.JPG"
@@ -38859,7 +38859,7 @@
 		"description": "",
 		"createdTS": "2020-03-12T12:38:59.995Z",
 		"bookType": 0,
-		"ratingCount": 58,
+		"ratingCount": 59,
 		"zipCode": "560108",
 		"modTS": "2023-03-01T08:43:14.478Z",
 		"inquiryPhone": "8095514666",
@@ -40145,7 +40145,7 @@
 		"createdTS": "2023-03-14T07:26:07.771Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-14T07:31:30.188Z",
-		"ratingCount": 5,
+		"ratingCount": 6,
 		"id": "88323c7c-f6f5-40dc-9a09-2c8a1351c66e",
 		"category": 2,
 		"s3Folder": "MYSPORTSBADMINTONACADEMY20230314072607771420",
@@ -46205,7 +46205,7 @@
 		"phone": [
 			"7676331188"
 		],
-		"avgRating": 3.9,
+		"avgRating": 4,
 		"name": "Greenfield Club",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-02-23T08:31:48.150Z",
@@ -46213,7 +46213,7 @@
 		"createdTS": "2017-02-23T08:31:48.150Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-16T10:14:16.721Z",
-		"ratingCount": 403,
+		"ratingCount": 404,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/GREENFIELDCLUB/1greenfieldclub3.jpg"
@@ -52711,7 +52711,7 @@
 		"description": "",
 		"createdTS": "2022-06-28T17:26:55.895Z",
 		"bookType": 0,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"zipCode": "560049",
 		"modTS": "2023-01-25T16:46:16.726Z",
 		"inquiryPhone": "9032526301",
@@ -52720,7 +52720,7 @@
 			"9032526301"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.6,
 		"address": "Elixir International School, Basavanapura, Krishnarajapura, Bengaluru, Karnataka 560049",
 		"active": true,
 		"id": "0e2967b9-9210-4059-ab10-d6f097f7421a",
@@ -65845,7 +65845,7 @@
 		"cityCode": 1,
 		"createdTS": "2019-01-05T11:49:00.544Z",
 		"bookType": 0,
-		"ratingCount": 41,
+		"ratingCount": 42,
 		"zipCode": "560099",
 		"modTS": "2021-12-17T09:12:08.818Z",
 		"inquiryPhone": "9513070099",
@@ -66375,7 +66375,7 @@
 		"createdTS": "2017-12-26T10:43:47.183Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T10:42:26.081Z",
-		"ratingCount": 63,
+		"ratingCount": 64,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RIOSPORTS/riosports11.png"
