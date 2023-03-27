@@ -14408,7 +14408,16 @@
 		"city": "Bengaluru",
 		"area": "Off Rose Garden Road",
 		"oldPlayoId": "587124206d91cf3645ab0853",
-		"functionData": [],
+		"functionData": [
+			{
+				"content": "b9252d7d-18d7-48c7-b997-4d74afc37682",
+				"bookType": 0,
+				"priority": "0",
+				"displayType": 3,
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
 		"sports": [
 			"SP5"
 		],
@@ -14433,7 +14442,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.203Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-25T06:10:34.234Z",
+		"modTS": "2023-03-27T09:32:18.674Z",
 		"ratingCount": 767,
 		"images": [
 			{
@@ -58230,7 +58239,7 @@
 		"description": "",
 		"createdTS": "2020-02-10T17:41:21.541Z",
 		"bookType": 0,
-		"ratingCount": 73,
+		"ratingCount": 74,
 		"zipCode": "5600064",
 		"modTS": "2021-12-19T06:44:01.666Z",
 		"inquiryPhone": "9632075709",
