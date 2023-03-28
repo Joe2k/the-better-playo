@@ -16257,7 +16257,7 @@
 		"description": "",
 		"createdTS": "2019-05-28T07:36:13.390Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560016",
 		"modTS": "2023-02-07T15:51:33.335Z",
 		"inquiryPhone": "9686603952",
@@ -16266,7 +16266,7 @@
 			"9686603952"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.5,
+		"avgRating": 4.6,
 		"address": "Kempe Gowda Underpass Rd, East of NGEF Layout, Dooravani Nagar, Bengaluru, Karnataka",
 		"active": true,
 		"id": "aaa67452-39f7-460e-9229-8ff720c2f6ae",
@@ -18853,7 +18853,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 94,
+		"ratingCount": 95,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -22141,7 +22141,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 301,
+		"ratingCount": 302,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -34560,7 +34560,7 @@
 		"createdTS": "2018-04-24T05:31:16.009Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T08:17:11.163Z",
-		"ratingCount": 281,
+		"ratingCount": 282,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HIGHLINESPORTSINDOORBADMINTONACADEMY/highlinesportsindoorbadmintonacademy0.jpg"
@@ -62364,7 +62364,7 @@
 		"createdTS": "2017-08-01T03:49:05.078Z",
 		"inquiryType": -1,
 		"modTS": "2022-06-15T06:27:37.787Z",
-		"ratingCount": 418,
+		"ratingCount": 419,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FEATHERSSMASHARENA/FeathersSmashArena1586781162276.PNG"
