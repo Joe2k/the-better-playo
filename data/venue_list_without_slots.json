@@ -10521,13 +10521,13 @@
 		"venueId": "3c25e654-7f6a-43ae-ad14-0c4e517181ca",
 		"zipCode": "560022",
 		"__v": 1,
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"coverImage": "",
 		"createdTS": "2021-08-14T11:45:06.298Z",
 		"infoData": [],
 		"logoImg": "",
 		"mapImage": "",
-		"ratingCount": 64,
+		"ratingCount": 65,
 		"bookSports": [
 			"SP5"
 		],
@@ -20285,14 +20285,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -23715,7 +23715,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 105,
+		"ratingCount": 106,
 		"zipCode": "560037",
 		"modTS": "2023-01-11T09:26:46.491Z",
 		"inquiryPhone": "8431096707",
@@ -32260,7 +32260,7 @@
 		"phone": [
 			"7406600944"
 		],
-		"avgRating": 3.8,
+		"avgRating": 3.7,
 		"name": "Sporthood TurfPark HSR",
 		"sponsoredExpiry": null,
 		"activatedOn": "2018-11-14T18:51:41.993Z",
@@ -32268,7 +32268,7 @@
 		"createdTS": "2018-11-14T18:51:41.993Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-10T08:09:16.257Z",
-		"ratingCount": 36,
+		"ratingCount": 37,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/TURFPARKHSR/TurfParkHSR6.JPG"
@@ -40245,7 +40245,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 988,
+		"ratingCount": 989,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -66119,7 +66119,7 @@
 		"createdTS": "2017-12-06T13:20:19.572Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T08:27:50.092Z",
-		"ratingCount": 101,
+		"ratingCount": 102,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGFEATHERSBADMINTONCLUB/FlyingFeathersBadmintonClub17.png"
