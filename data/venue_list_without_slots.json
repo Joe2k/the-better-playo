@@ -6104,7 +6104,7 @@
 		"description": "",
 		"createdTS": "2020-01-10T17:46:19.220Z",
 		"bookType": 0,
-		"ratingCount": 27,
+		"ratingCount": 28,
 		"zipCode": "560043",
 		"modTS": "2020-10-05T09:10:53.550Z",
 		"inquiryPhone": "7259563693",
@@ -23717,7 +23717,7 @@
 		"bookType": 0,
 		"ratingCount": 106,
 		"zipCode": "560037",
-		"modTS": "2023-01-11T09:26:46.491Z",
+		"modTS": "2023-03-29T10:57:58.787Z",
 		"inquiryPhone": "8431096707",
 		"inquiryType": -1,
 		"phone": [
@@ -23730,7 +23730,7 @@
 		"id": "79095eca-8f6d-4df2-9896-8467a459055f",
 		"category": 2,
 		"city": "Bengaluru",
-		"search": "Gametheory",
+		"search": "Ace,Acebadminton,GameTheory",
 		"bookSports": [
 			"SP5"
 		],
@@ -35366,7 +35366,7 @@
 		"description": "",
 		"createdTS": "2019-05-05T05:34:23.674Z",
 		"bookType": 0,
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"zipCode": "560016",
 		"modTS": "2021-12-16T10:03:15.331Z",
 		"inquiryPhone": "8296089545",
@@ -62007,7 +62007,7 @@
 		"bookType": 0,
 		"ratingCount": 15,
 		"zipCode": "560100",
-		"modTS": "2023-02-11T11:30:26.381Z",
+		"modTS": "2023-03-29T11:11:24.821Z",
 		"inquiryPhone": "8921697378",
 		"inquiryType": -1,
 		"phone": [
@@ -62024,7 +62024,6 @@
 		"isSafeAndHygiene": true,
 		"bookSports": [
 			"SP2",
-			"SP0",
 			"SP56"
 		],
 		"name": "Gameloop Multisport Turf by Gameflix",
@@ -62045,7 +62044,6 @@
 		"timings": "Open 24x7",
 		"sports": [
 			"SP2",
-			"SP0",
 			"SP56"
 		],
 		"members": false,
