@@ -13320,110 +13320,6 @@
 		]
 	},
 	{
-		"inquiryPhone": "9731091599",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "the-sports-habitat-yeshwanthpur-tumkur-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/EH15",
-		"city": "Bengaluru",
-		"area": "Tumkur Road",
-		"oldPlayoId": "5a09a6b26d91cf7a372bde62",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "f5f1965b-6718-4679-a115-990fbcedfb64",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP2",
-			"SP56"
-		],
-		"priority": 0,
-		"amenities": [
-			"Parking",
-			"Restroom",
-			"Showers",
-			"Change Room",
-			"First Aid",
-			"Drinking Water"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/FEVERPITCH/FeverPitchmap1510581917336.JPG",
-		"zipCode": "560022",
-		"phone": [
-			"9606900650"
-		],
-		"avgRating": 4.4,
-		"name": "The Sports Habitat - Yeshwanthpur",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-11-13T14:05:38.282Z",
-		"coverImage": "https://playo.gumlet.io/FEVERPITCH/TheSportsHabitatFeverPitchcovercover1575655815307.jpeg",
-		"createdTS": "2017-11-13T14:05:38.282Z",
-		"inquiryType": -1,
-		"modTS": "2022-12-05T18:40:19.417Z",
-		"ratingCount": 40,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch0.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch2.jpeg"
-			},
-			{
-				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch5.jpeg"
-			}
-		],
-		"id": "f5f1965b-6718-4679-a115-990fbcedfb64",
-		"description": "",
-		"category": 2,
-		"s3Folder": "FEVERPITCH",
-		"state": "Karnataka",
-		"email": [
-			"thesportshabitat@gmail.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "FeverPitch, 6/3, Tumkur Main Road, Near Goraguntepalya Metro Station, Yeshwanthpur Industrial Area Phase 1",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/x4si",
-		"search": "Fever , Pitch , tsv,  bullring , fever,  pitch , Aeraa , Sports , tsh , Aeraa , Sports , aeraa , Tsh , TSH , tsh , tSH , TSh , TsH",
-		"fullLink": "https://playo.co/venue/?venueId=f5f1965b-6718-4679-a115-990fbcedfb64",
-		"country": "India",
-		"timings": "5 AM - 2 AM",
-		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
-		"sponsoredRadius": 4,
-		"bookSports": [
-			"SP2",
-			"SP56"
-		],
-		"bookType": 0,
-		"lat": 13.026666,
-		"lng": 77.544233,
-		"type": 0,
-		"venueId": "f5f1965b-6718-4679-a115-990fbcedfb64",
-		"__v": 5,
-		"isSafeAndHygiene": true,
-		"activityCount": 5412,
-		"activityCountLastSyncDate": "2023-03-28T18:30:03.073Z",
-		"bnpl": false,
-		"distance": 8.211033955168364,
-		"activeKey": "the-sports-habitat-yeshwanthpur-tumkur-road-bengaluru",
-		"offers": []
-	},
-	{
 		"inquiryPhone": "9900581182",
 		"remarks": "",
 		"infoData": [],
@@ -23163,6 +23059,108 @@
 		]
 	},
 	{
+		"inquiryPhone": "9742220232",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
+		"city": "Bengaluru",
+		"area": "Bannerghatta Road",
+		"oldPlayoId": "587124206d91cf3645ab082b",
+		"functionData": [
+			{
+				"priority": "0",
+				"displayType": 3,
+				"bookType": 0,
+				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
+				"caption": "Book Now!",
+				"type": 3
+			}
+		],
+		"sports": [
+			"SP5"
+		],
+		"priority": 0,
+		"amenities": [
+			"Drinking Water",
+			"First-Aid",
+			"Change Room",
+			"Paid Parking"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
+		"zipCode": "560076",
+		"phone": [
+			"9742220232"
+		],
+		"avgRating": 2.5,
+		"name": "DHI Sports - Badminton",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-01-07T17:23:44.154Z",
+		"coverImage": "",
+		"createdTS": "2017-01-07T17:23:44.154Z",
+		"inquiryType": -1,
+		"modTS": "2023-01-06T15:27:01.197Z",
+		"ratingCount": 262,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
+			},
+			{
+				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
+			}
+		],
+		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"description": "",
+		"category": 2,
+		"s3Folder": "DHISPORTS",
+		"state": "Karnataka",
+		"email": [
+			"info@dhisports.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/3tsf",
+		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
+		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"country": "India",
+		"timings": "6 AM - 9 PM",
+		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
+		"__v": 5,
+		"bookSports": [
+			"SP5"
+		],
+		"bookType": 0,
+		"dateLimit": 14,
+		"lat": 12.8858751,
+		"lng": 77.5970203,
+		"placeId": "",
+		"type": 0,
+		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
+		"sponsoredRadius": 4,
+		"isSafeAndHygiene": true,
+		"activityCount": 2600,
+		"activityCountLastSyncDate": "2023-03-28T18:30:03.073Z",
+		"bnpl": false,
+		"distance": 9.54640916244224,
+		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
+		"offers": []
+	},
+	{
 		"oldPlayoId": "3b7d360d-a9b4-4e78-8bd4-8d26ca4961ca",
 		"cityCode": 1,
 		"description": "",
@@ -23289,108 +23287,6 @@
 		"bnpl": false,
 		"distance": 9.54640916244224,
 		"activeKey": "dhi-sports-center-bannerghatta-road-bengaluru",
-		"offers": []
-	},
-	{
-		"inquiryPhone": "9742220232",
-		"remarks": "",
-		"infoData": [],
-		"keywords": [
-			{
-				"active": true,
-				"key": "dhi-sports-badminton-bannerghatta-road-bengaluru"
-			}
-		],
-		"shareLink": "https://z34v4.app.goo.gl/pXsZ",
-		"city": "Bengaluru",
-		"area": "Bannerghatta Road",
-		"oldPlayoId": "587124206d91cf3645ab082b",
-		"functionData": [
-			{
-				"priority": "0",
-				"displayType": 3,
-				"bookType": 0,
-				"content": "5cfe1c0f-bb12-448a-a3e9-f7c0ab87a25c",
-				"caption": "Book Now!",
-				"type": 3
-			}
-		],
-		"sports": [
-			"SP5"
-		],
-		"priority": 0,
-		"amenities": [
-			"Drinking Water",
-			"First-Aid",
-			"Change Room",
-			"Paid Parking"
-		],
-		"website": "",
-		"cityCode": 1,
-		"mapImage": "https://playo.imgix.net/DHISPORTS/map.png",
-		"zipCode": "560076",
-		"phone": [
-			"9742220232"
-		],
-		"avgRating": 2.5,
-		"name": "DHI Sports - Badminton",
-		"sponsoredExpiry": null,
-		"activatedOn": "2017-01-07T17:23:44.154Z",
-		"coverImage": "",
-		"createdTS": "2017-01-07T17:23:44.154Z",
-		"inquiryType": -1,
-		"modTS": "2023-01-06T15:27:01.197Z",
-		"ratingCount": 262,
-		"images": [
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/dhisportscenter40.png"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9734-min.jpg"
-			},
-			{
-				"url": "https://playo.gumlet.io/DHISPORTS/img_9737-min.jpg"
-			}
-		],
-		"id": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"description": "",
-		"category": 2,
-		"s3Folder": "DHISPORTS",
-		"state": "Karnataka",
-		"email": [
-			"info@dhisports.com"
-		],
-		"logoImg": "",
-		"tags": [],
-		"googleMapLink": "",
-		"sponsored": "",
-		"members": false,
-		"address": "Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076",
-		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/3tsf",
-		"search": "|Badminton|Football|Tennis|Cricket|Table Tennis|DHI Sports Center|Innovation Park, Near Honeywell, Arekera,, Bannerghatta Rd, Bengaluru, Karnataka 560076|Bannerghatta Road|Bangalore|Parking,Drinking Water,First-Aid,Change Room|Non- marking shoes compulsory for synthetic badminton courts.Badminton Racquets and Non-marking shoes available for rent.|",
-		"fullLink": "https://playo.co/venue/?venueId=8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"country": "India",
-		"timings": "6 AM - 9 PM",
-		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Barefoot play is strictly prohibited. <br/>\n- Non marking shoes not available on rent. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
-		"__v": 5,
-		"bookSports": [
-			"SP5"
-		],
-		"bookType": 0,
-		"dateLimit": 14,
-		"lat": 12.8858751,
-		"lng": 77.5970203,
-		"placeId": "",
-		"type": 0,
-		"venueId": "8b99a3b6-1d60-422e-8cce-e0efbdf0067f",
-		"sponsoredRadius": 4,
-		"isSafeAndHygiene": true,
-		"activityCount": 2600,
-		"activityCountLastSyncDate": "2023-03-28T18:30:03.073Z",
-		"bnpl": false,
-		"distance": 9.54640916244224,
-		"activeKey": "dhi-sports-badminton-bannerghatta-road-bengaluru",
 		"offers": []
 	},
 	{
@@ -44913,7 +44809,7 @@
 		"createdTS": "2018-06-08T18:06:28.394Z",
 		"inquiryType": -1,
 		"modTS": "2021-09-30T12:07:16.032Z",
-		"ratingCount": 116,
+		"ratingCount": 117,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VIRINCHIBADMINTONARENA/VirinchiBadmintonArena1633003581275.jpeg"
@@ -54246,7 +54142,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
@@ -57343,7 +57239,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 356,
+		"ratingCount": 357,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -81577,6 +81473,101 @@
 		"lat": 12.9185688,
 		"lng": 77.6457921,
 		"activeKey": "Bhaichung-Bhutia-Football-Schools-HSR-Layout-bangalore",
+		"offers": []
+	},
+	{
+		"inquiryPhone": "9731091599",
+		"remarks": "",
+		"infoData": [],
+		"keywords": [
+			{
+				"active": true,
+				"key": "the-sports-habitat-yeshwanthpur-tumkur-road-bengaluru"
+			}
+		],
+		"shareLink": "https://z34v4.app.goo.gl/EH15",
+		"city": "Bengaluru",
+		"area": "Tumkur Road",
+		"oldPlayoId": "5a09a6b26d91cf7a372bde62",
+		"functionData": [],
+		"sports": [
+			"SP2",
+			"SP56"
+		],
+		"priority": 0,
+		"amenities": [
+			"Parking",
+			"Restroom",
+			"Showers",
+			"Change Room",
+			"First Aid",
+			"Drinking Water"
+		],
+		"website": "",
+		"cityCode": 1,
+		"mapImage": "https://playo.imgix.net/FEVERPITCH/FeverPitchmap1510581917336.JPG",
+		"zipCode": "560022",
+		"phone": [
+			"9606900650"
+		],
+		"avgRating": 4.4,
+		"name": "The Sports Habitat - Yeshwanthpur",
+		"sponsoredExpiry": null,
+		"activatedOn": "2017-11-13T14:05:38.282Z",
+		"coverImage": "https://playo.gumlet.io/FEVERPITCH/TheSportsHabitatFeverPitchcovercover1575655815307.jpeg",
+		"createdTS": "2017-11-13T14:05:38.282Z",
+		"inquiryType": -1,
+		"modTS": "2023-03-29T13:51:59.812Z",
+		"ratingCount": 40,
+		"images": [
+			{
+				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch0.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch2.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/FEVERPITCH/feverpitch5.jpeg"
+			}
+		],
+		"id": "f5f1965b-6718-4679-a115-990fbcedfb64",
+		"description": "",
+		"category": 1,
+		"s3Folder": "FEVERPITCH",
+		"state": "Karnataka",
+		"email": [
+			"thesportshabitat@gmail.com"
+		],
+		"logoImg": "",
+		"tags": [],
+		"googleMapLink": "",
+		"sponsored": "",
+		"members": false,
+		"address": "FeverPitch, 6/3, Tumkur Main Road, Near Goraguntepalya Metro Station, Yeshwanthpur Industrial Area Phase 1",
+		"active": true,
+		"deferLink": "https://z34v4.app.goo.gl/x4si",
+		"search": "Fever , Pitch , tsv,  bullring , fever,  pitch , Aeraa , Sports , tsh , Aeraa , Sports , aeraa , Tsh , TSH , tsh , tSH , TSh , TsH",
+		"fullLink": "https://playo.co/venue/?venueId=f5f1965b-6718-4679-a115-990fbcedfb64",
+		"country": "India",
+		"timings": "5 AM - 2 AM",
+		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
+		"sponsoredRadius": 4,
+		"bookSports": [
+			"SP2",
+			"SP56"
+		],
+		"bookType": 2,
+		"lat": 13.026666,
+		"lng": 77.544233,
+		"type": 0,
+		"venueId": "f5f1965b-6718-4679-a115-990fbcedfb64",
+		"__v": 5,
+		"isSafeAndHygiene": true,
+		"activityCount": 5412,
+		"activityCountLastSyncDate": "2023-03-28T18:30:03.073Z",
+		"bnpl": false,
+		"distance": 8.211033955168364,
+		"activeKey": "the-sports-habitat-yeshwanthpur-tumkur-road-bengaluru",
 		"offers": []
 	},
 	{
