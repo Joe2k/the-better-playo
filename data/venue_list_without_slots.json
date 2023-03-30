@@ -1537,7 +1537,7 @@
 		"bookType": 0,
 		"ratingCount": 11,
 		"zipCode": "560004",
-		"modTS": "2023-03-30T06:04:57.178Z",
+		"modTS": "2023-03-30T10:38:35.865Z",
 		"inquiryPhone": "8951980195",
 		"inquiryType": -1,
 		"phone": [
@@ -2077,7 +2077,7 @@
 		"createdTS": "2017-01-07T17:23:44.172Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-07T12:11:27.725Z",
-		"ratingCount": 120,
+		"ratingCount": 121,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/CITINEST/0badminton-1.jpg"
@@ -13088,7 +13088,7 @@
 		"createdTS": "2022-12-13T06:59:55.787Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-12T14:19:14.117Z",
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"id": "d7fa249e-5f78-4a2c-b3ee-8c79040c5e7f",
 		"category": 2,
 		"s3Folder": "ACTFITARENA20221213065955787343",
