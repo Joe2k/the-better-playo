@@ -2429,7 +2429,7 @@
 		"createdTS": "2018-12-05T05:00:34.548Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-20T06:54:55.397Z",
-		"ratingCount": 146,
+		"ratingCount": 147,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg"
@@ -7827,7 +7827,9 @@
 			}
 		],
 		"sports": [
-			"SP5"
+			"SP5",
+			"SP2",
+			"SP56"
 		],
 		"priority": 0,
 		"amenities": [
@@ -7850,7 +7852,7 @@
 		"coverImage": "https://playo.gumlet.io/THETURFPARK/CooluluTurfParkKoramangalacovercover1645283607421.png",
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-19T09:05:00.935Z",
+		"modTS": "2023-03-30T06:36:22.967Z",
 		"ratingCount": 195,
 		"images": [
 			{
@@ -7906,9 +7908,11 @@
 		"fullLink": "https://playo.co/venue/?venueId=54abb9e9-7d8c-42e0-a342-78b1710ac12c",
 		"country": "India",
 		"timings": "5 AM - 2 AM",
-		"addInfo": "Badminton: <br/>\n- Badminton Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n- Outside coaches aren’t allowed at the premises. <br/>\n<br/>\n<br/>\n\nSwimming:<br/>\n- Swimming attire is compulsory.<br/>\n- Swimming caps are mandatory.<br/>\n- Please shower before entering into the pool.<br/>\n- Access only on same day of payment. No carrying forward if client does not attend.<br/>\n- Swimsuit (Nylon or Lycra material) mandatory and cap in case of long hair.<br/>\n- No individual lanes will be given. Pool lanes will be shared by 5 people per lane. <br/>\n- Access is from start of hour. If client comes late time slot will not be extended.<br/>\n<br/>\n<br/>",
+		"addInfo": "Badminton: <br/>\n- Badminton Non-Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>\n\n\nFootball: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n- Outside coaches aren’t allowed at the premises. <br/>\n<br/>\n<br/>",
 		"bookSports": [
-			"SP5"
+			"SP5",
+			"SP2",
+			"SP56"
 		],
 		"bookType": 0,
 		"dateLimit": 14,
@@ -13186,20 +13190,20 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "michezo-@-feverpitch-tumkur-road-bengaluru"
+				"key": "michezo-@-feverpitch-yeshwanthpur-bengaluru"
 			}
 		],
-		"shareLink": "https://z34v4.app.goo.gl/4JDp",
+		"shareLink": "https://z34v4.app.goo.gl/Y5cn",
 		"city": "Bengaluru",
-		"area": "Tumkur Road",
+		"area": "Yeshwanthpur",
 		"oldPlayoId": "5a09a6b26d91cf7a372bde62",
 		"functionData": [
 			{
 				"content": "f0b41beb-8db0-47d0-add4-d0eb9fe7b2d9",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
 			}
 		],
@@ -13230,7 +13234,7 @@
 		"coverImage": "https://playo.gumlet.io/FEVERPITCH/TheSportsHabitatFeverPitchcovercover1575655815307.jpeg",
 		"createdTS": "2017-11-13T14:05:38.282Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-30T05:52:57.391Z",
+		"modTS": "2023-03-30T06:43:35.745Z",
 		"ratingCount": 40,
 		"images": [
 			{
@@ -13258,11 +13262,11 @@
 		"members": false,
 		"address": "FeverPitch, 6/3, Tumkur Main Road, Near Goraguntepalya Metro Station, Yeshwanthpur Industrial Area Phase 1",
 		"active": true,
-		"deferLink": "https://z34v4.app.goo.gl/Dmpo",
+		"deferLink": "https://z34v4.app.goo.gl/iDR2",
 		"search": "Fever , Pitch , tsv,  bullring , fever,  pitch , Aeraa , Sports , tsh , Aeraa , Sports , aeraa , Tsh , TSH , tsh , tSH , TSh , TsH",
 		"fullLink": "https://playo.co/venue/?venueId=f5f1965b-6718-4679-a115-990fbcedfb64",
 		"country": "India",
-		"timings": "Openn 24x7",
+		"timings": "Open 24x7",
 		"addInfo": "Football: <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"sponsoredRadius": 4,
 		"bookSports": [
@@ -13280,7 +13284,7 @@
 		"activityCountLastSyncDate": "2023-03-29T18:30:03.076Z",
 		"bnpl": false,
 		"distance": 8.206866715600974,
-		"activeKey": "michezo-@-feverpitch-tumkur-road-bengaluru",
+		"activeKey": "michezo-@-feverpitch-yeshwanthpur-bengaluru",
 		"offers": []
 	},
 	{
@@ -41200,7 +41204,7 @@
 		"bookType": 0,
 		"ratingCount": 15,
 		"zipCode": "560037",
-		"modTS": "2022-03-25T13:04:32.568Z",
+		"modTS": "2023-03-30T07:06:00.017Z",
 		"inquiryPhone": "9844556181",
 		"inquiryType": -1,
 		"phone": [
@@ -41215,7 +41219,6 @@
 		"city": "Bengaluru",
 		"search": "",
 		"bookSports": [
-			"SP2",
 			"SP56"
 		],
 		"name": "Soccer City - Marathahalli",
@@ -41235,7 +41238,6 @@
 		"placeId": "",
 		"timings": "Open 24x7",
 		"sports": [
-			"SP2",
 			"SP56"
 		],
 		"members": false,
@@ -41288,6 +41290,7 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 3178,
 		"activityCountLastSyncDate": "2023-03-29T18:30:03.076Z",
+		"bnpl": false,
 		"distance": 11.91662843124845,
 		"activeKey": "soccer-city-marathahalli-opposite-sri-chaitanya-techno-school-bengaluru",
 		"offers": [
@@ -55729,7 +55732,7 @@
 		"createdTS": "2023-03-29T18:57:15.499Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-29T19:02:07.294Z",
-		"ratingCount": 1,
+		"ratingCount": 2,
 		"id": "6983f1f5-403a-4242-9d6c-7c62c288fa27",
 		"category": 2,
 		"s3Folder": "BLUETANGSPORTSCLUB20230329185715499400",
@@ -58752,7 +58755,7 @@
 		"description": "",
 		"createdTS": "2020-11-20T07:50:28.031Z",
 		"bookType": 0,
-		"ratingCount": 41,
+		"ratingCount": 42,
 		"zipCode": "560066",
 		"modTS": "2022-11-29T08:15:59.858Z",
 		"inquiryPhone": "8197445584",
@@ -58761,7 +58764,7 @@
 			"8197445584"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"address": "2nd Cross, Narayanappa Layout, Opposite Lane to Prestige Whispering Winds Enclave, Borewell Road, Nallurhalli, Whitefield, Bangalore, KA",
 		"active": true,
 		"id": "7156cce6-30cb-4855-91b2-25674c113c4d",
