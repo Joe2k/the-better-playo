@@ -2155,7 +2155,7 @@
 		"description": "",
 		"createdTS": "2020-10-11T07:13:38.683Z",
 		"bookType": 0,
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"zipCode": "560041",
 		"modTS": "2021-12-17T09:40:30.879Z",
 		"inquiryPhone": "9900191423",
@@ -40197,7 +40197,49 @@
 		"activityCount": 35,
 		"distance": 11.81948980448876,
 		"activeKey": "my-sports-badminton-academy-jp-nagar-8th-phase-bengaluru",
-		"offers": []
+		"offers": [
+			{
+				"_id": "64254470b6616756ab0e0801",
+				"city": "Bengaluru",
+				"cityCode": 1,
+				"terms": "",
+				"countryCode": "+91",
+				"createdTS": "2023-03-30T08:12:32.560Z",
+				"offerContent": "88323c7c-f6f5-40dc-9a09-2c8a1351c66e",
+				"coupon": "",
+				"imageUrl": "https://playo.gumlet.io/OFFERS/MySportsBadmintonAcademyOfferBookyourbadmintoncourtatjust125perhourfrom10amto4pme8lfngcover1680163943170.png",
+				"expiry": "2025-12-24T13:43:39.116Z",
+				"multiCity": false,
+				"sports": "SP5",
+				"activeKey": "my-sports-badminton-academy-offer-book-your-badminton-courts-at-just-@125-per-hour-from-10-am-to-4-pm!!-bengaluru",
+				"infoData": [
+					{
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
+						"validity": "",
+						"content": "https://playo.co/venue/?venueId=88323c7c-f6f5-40dc-9a09-2c8a1351c66e",
+						"action": "Avail Offer",
+						"type": "venue"
+					}
+				],
+				"geoLocation": {
+					"type": "Point",
+					"coordinates": [
+						77.6309395,
+						12.9539974
+					]
+				},
+				"active": true,
+				"offerType": "venue",
+				"shareMsg": "My Sports Badminton Academy Offer - Book your Badminton courts at just @125 per hour from 10 AM to 4 PM!!",
+				"id": "bf73f510-b87c-47d8-b6cf-f41752ff0149",
+				"offerName": "My Sports Badminton Academy Offer - Book your Badminton courts at just @125 per hour from 10 AM to 4 PM!!",
+				"shareLink": "https://z34v4.app.goo.gl/utLh",
+				"deferLink": "https://z34v4.app.goo.gl/dteJ",
+				"cityLat": 12.9539974,
+				"cityLng": 77.6309395
+			}
+		]
 	},
 	{
 		"inquiryPhone": "7829240379",
