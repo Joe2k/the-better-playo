@@ -6864,7 +6864,7 @@
 		"description": "",
 		"createdTS": "2019-05-13T05:10:01.147Z",
 		"bookType": 0,
-		"ratingCount": 119,
+		"ratingCount": 120,
 		"zipCode": "560094",
 		"modTS": "2022-01-19T07:45:18.168Z",
 		"inquiryPhone": "9880373773",
@@ -45567,7 +45567,7 @@
 		]
 	},
 	{
-		"inquiryPhone": "9900023177",
+		"inquiryPhone": "9845627764",
 		"remarks": "",
 		"infoData": [],
 		"keywords": [
@@ -45609,7 +45609,7 @@
 		"mapImage": "https://playo.imgix.net/EKAMSPORTSARENA/EkamSportsArenamap.JPG",
 		"zipCode": "560037",
 		"phone": [
-			"9900023177"
+			"9845627764"
 		],
 		"avgRating": 3.3,
 		"name": "Ekam Sports Academy",
@@ -45618,7 +45618,7 @@
 		"coverImage": "",
 		"createdTS": "2017-01-07T17:23:44.216Z",
 		"inquiryType": -1,
-		"modTS": "2022-12-10T08:32:43.293Z",
+		"modTS": "2023-03-31T16:00:27.405Z",
 		"ratingCount": 104,
 		"images": [
 			{
@@ -50686,7 +50686,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 628,
+		"ratingCount": 630,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -64796,7 +64796,7 @@
 		"createdTS": "2018-11-14T17:44:29.596Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-07T07:03:04.950Z",
-		"ratingCount": 53,
+		"ratingCount": 54,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFIELDSPORTSCENTRE/1.png"
