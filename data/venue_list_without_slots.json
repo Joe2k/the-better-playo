@@ -43992,45 +43992,7 @@
 		"bnpl": false,
 		"distance": 12.236115313886064,
 		"activeKey": "flyhigh-badminton-arena-gottigere-bengaluru",
-		"offers": [
-			{
-				"_id": "63db924eb6616707314bc84d",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2023-02-02T10:37:02.899Z",
-				"offerContent": "0814127f-9b1a-4b48-a8d2-eb4b51423981",
-				"coupon": "",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FlyHighBadmintonArenaSpecialOfferBookyourbadmintoncourtatjust125perhourfrom10amto5pmwiru8cover1675334182885.png",
-				"expiry": "2023-03-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP5",
-				"activeKey": "flyhigh-badminton-arena-special-offer-book-your-badminton-court-at-just-₹125-per-hour-from10am-to-5pm!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "",
-						"howTo": "No coupon required for this offer",
-						"validity": "Valid till March 31, 2023",
-						"content": "https://playo.co/venue/?venueId=0814127f-9b1a-4b48-a8d2-eb4b51423981",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "FlyHigh Badminton Arena Special Offer - Book your badminton court at just ₹125 per hour from10am to 5pm!",
-				"id": "36cdad6e-b584-4618-a84e-896defcc69aa",
-				"offerName": "FlyHigh Badminton Arena Special Offer - Book your badminton court at just ₹125 per hour from10am to 5pm!"
-			}
-		]
+		"offers": []
 	},
 	{
 		"oldPlayoId": "fb5a3459-57fd-47f7-8afb-b57b56167d2d",
@@ -51677,45 +51639,6 @@
 				"deferLink": "https://z34v4.app.goo.gl/cHLq",
 				"cityLat": 17.397083,
 				"cityLng": 78.458122
-			},
-			{
-				"_id": "63e4a35eb66167f3618dd7ee",
-				"city": "Bengaluru",
-				"cityCode": 1,
-				"terms": "",
-				"countryCode": "+91",
-				"createdTS": "2023-02-09T07:40:14.119Z",
-				"offerContent": "064d481d-e4b7-4944-afb9-57675f76bc99",
-				"coupon": "PLAYON",
-				"imageUrl": "https://playo.gumlet.io/OFFERS/FortressArenaMorningSlotsOfferBookyourfootballandboxcricketgroundatflat20offertebhbcover1675928385712.png",
-				"expiry": "2023-03-31T00:00:00.000Z",
-				"multiCity": false,
-				"sports": "SP2,SP56",
-				"activeKey": "fortress-arena-morning-slots-offer-book-your-football-and-box-cricket-ground-at-flat-20-offer!-bengaluru",
-				"infoData": [
-					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till March 31, 2023",
-						"content": "https://playo.co/venue/?venueId=064d481d-e4b7-4944-afb9-57675f76bc99",
-						"action": "Avail Offer",
-						"type": "venue"
-					}
-				],
-				"geoLocation": {
-					"type": "Point",
-					"coordinates": [
-						77.6309395,
-						12.9539974
-					]
-				},
-				"active": true,
-				"offerType": "venue",
-				"shareMsg": "Fortress Arena Morning Slots Offer - Book your football and box cricket ground at flat 20% offer!",
-				"id": "e8fe45b1-b688-44a7-a337-c34ca7c5b431",
-				"offerName": "Fortress Arena Morning Slots Offer - Book your football and box cricket ground at flat 20% offer!",
-				"shareLink": "https://z34v4.app.goo.gl/XGgY",
-				"deferLink": "https://z34v4.app.goo.gl/NQkn"
 			}
 		]
 	},
