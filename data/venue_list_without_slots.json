@@ -1917,14 +1917,14 @@
 		"phone": [
 			"9606973105"
 		],
-		"avgRating": 3.2,
+		"avgRating": 3.3,
 		"name": "Maracana Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-11-03T08:02:10.366Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-26T07:42:20.335Z",
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"id": "dcb7beca-13e0-422c-9894-73e6f05cfdbb",
 		"category": 2,
 		"s3Folder": "MARACANASPORTSARENA20221103080210366511",
@@ -10678,14 +10678,14 @@
 		"phone": [
 			"8861404303"
 		],
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"name": "Saalsa Badminton Academy",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-16T19:03:11.321Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-16T19:43:29.819Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"id": "911d302e-2071-4155-8bd2-fc358da5a65d",
 		"category": 2,
 		"s3Folder": "SAALSABADMINTONACADEMY20230316190311321398",
@@ -10881,7 +10881,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 268,
+		"ratingCount": 269,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -37757,7 +37757,7 @@
 		"phone": [
 			"9621601165"
 		],
-		"avgRating": 4.2,
+		"avgRating": 4.1,
 		"name": "Super Sports Park - Bellandur",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.107Z",
@@ -47129,7 +47129,7 @@
 		"description": "",
 		"createdTS": "2020-02-27T08:16:15.924Z",
 		"bookType": 0,
-		"ratingCount": 11,
+		"ratingCount": 12,
 		"zipCode": "560103",
 		"modTS": "2022-08-19T11:10:30.121Z",
 		"inquiryPhone": "9036773531",
@@ -47138,7 +47138,7 @@
 			"9036773531"
 		],
 		"sponsored": "",
-		"avgRating": 2.5,
+		"avgRating": 2.3,
 		"address": "PK Sports, Bhoganahalli Main Road, opposite Felix apartments, Kaverappa Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka - 560103",
 		"active": true,
 		"id": "0e7247b3-5388-41a8-a64c-039ca22e03a3",
@@ -56673,7 +56673,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 64,
+		"ratingCount": 65,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
@@ -57365,7 +57365,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 361,
+		"ratingCount": 362,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
