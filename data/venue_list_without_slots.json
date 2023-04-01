@@ -625,7 +625,7 @@
 		"activityCount": 355,
 		"activityCountLastSyncDate": "2023-03-31T18:30:03.288Z",
 		"avgRating": 3.8,
-		"ratingCount": 13,
+		"ratingCount": 14,
 		"__v": 1,
 		"coverImage": "",
 		"createdTS": "2022-09-20T12:29:43.524Z",
@@ -10329,7 +10329,7 @@
 		"createdTS": "2018-07-15T17:56:46.344Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-28T15:36:12.134Z",
-		"ratingCount": 229,
+		"ratingCount": 230,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYINGBIRDIEBADMINTONARENA/flyingbirdiebadmintonarena1.jpg"
@@ -16510,7 +16510,7 @@
 		"bookType": 0,
 		"ratingCount": 15,
 		"zipCode": "560093",
-		"modTS": "2023-01-22T11:11:05.082Z",
+		"modTS": "2023-04-01T07:03:56.081Z",
 		"inquiryPhone": "6363777194",
 		"inquiryType": -1,
 		"phone": [
@@ -16528,7 +16528,7 @@
 		"bookSports": [
 			"SP3"
 		],
-		"name": "Trisha Vinod's Bouncing Balls Tennis Academy",
+		"name": "Trisha's Pro Tennis Academy",
 		"area": "Kaggadasapura",
 		"country": "India",
 		"tags": [],
@@ -16559,7 +16559,7 @@
 		"keywords": [
 			{
 				"active": true,
-				"key": "trisha-vinods-bouncing-balls-tennis-academy-kaggadasapura-bengaluru"
+				"key": "trishas-pro-tennis-academy-kaggadasapura-bengaluru"
 			}
 		],
 		"restricted": 0,
@@ -16574,8 +16574,8 @@
 		"lat": 12.981662849811947,
 		"lng": 77.67405641311338,
 		"venueId": "d5537a1f-9872-4529-b413-13891d4e0a4b",
-		"deferLink": "https://z34v4.app.goo.gl/XLKK",
-		"shareLink": "https://z34v4.app.goo.gl/dpVL",
+		"deferLink": "https://z34v4.app.goo.gl/sCjk",
+		"shareLink": "https://z34v4.app.goo.gl/pv13",
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NISHAMILLETSSWIMMINGACADEMYTURFPARK/TrishaVinodsBouncingBallsTennisAcademy1639917416161.jpg"
@@ -16597,7 +16597,7 @@
 		"activityCountLastSyncDate": "2023-03-31T18:30:03.288Z",
 		"bnpl": false,
 		"distance": 8.691597942637635,
-		"activeKey": "trisha-vinods-bouncing-balls-tennis-academy-kaggadasapura-bengaluru",
+		"activeKey": "trishas-pro-tennis-academy-kaggadasapura-bengaluru",
 		"offers": [
 			{
 				"_id": "61dbb403c4576876d8a4b8de",
@@ -22000,7 +22000,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 304,
+		"ratingCount": 305,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -32037,7 +32037,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 114,
+		"ratingCount": 115,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -32942,7 +32942,7 @@
 		"createdTS": "2018-09-15T10:11:54.373Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-17T07:28:25.605Z",
-		"ratingCount": 120,
+		"ratingCount": 121,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEPEACOCKBADMINTONACADEMYKUDULUHSREXTENSION/levelprobadmintonacademy4.jpg"
@@ -36066,7 +36066,7 @@
 		"description": "",
 		"createdTS": "2020-02-18T08:18:23.871Z",
 		"bookType": 0,
-		"ratingCount": 93,
+		"ratingCount": 94,
 		"zipCode": "560048",
 		"modTS": "2022-03-08T10:43:27.202Z",
 		"inquiryPhone": "9605838931",
@@ -52578,7 +52578,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 320,
+		"ratingCount": 321,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -52995,7 +52995,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 171,
+		"ratingCount": 172,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
