@@ -7361,7 +7361,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 199,
+		"ratingCount": 200,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -18712,7 +18712,7 @@
 		"description": "",
 		"createdTS": "2019-04-08T05:08:53.998Z",
 		"bookType": 0,
-		"ratingCount": 95,
+		"ratingCount": 96,
 		"zipCode": "560093",
 		"modTS": "2021-12-15T08:59:05.194Z",
 		"inquiryPhone": "9632388220",
@@ -19823,7 +19823,7 @@
 		"description": "",
 		"createdTS": "2022-06-08T04:30:55.028Z",
 		"bookType": 0,
-		"ratingCount": 78,
+		"ratingCount": 79,
 		"zipCode": "560037",
 		"modTS": "2022-06-19T10:16:14.512Z",
 		"inquiryPhone": "9731199867",
@@ -21690,7 +21690,7 @@
 		"description": "",
 		"createdTS": "2019-06-25T15:47:03.302Z",
 		"bookType": 0,
-		"ratingCount": 5,
+		"ratingCount": 7,
 		"zipCode": "560072",
 		"modTS": "2023-02-25T07:51:54.979Z",
 		"inquiryPhone": "7483077948",
@@ -21699,7 +21699,7 @@
 			"7483077948"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 3.7,
 		"address": "31, Marilingappa Layout, Papareddipalya Circle, Bengaluru, Karnataka - 560072",
 		"active": true,
 		"id": "ad5ad81f-cf03-4530-a455-f3f5da457763",
@@ -25984,7 +25984,7 @@
 		"createdTS": "2017-09-13T11:10:38.015Z",
 		"inquiryType": -1,
 		"modTS": "2022-02-13T11:40:40.753Z",
-		"ratingCount": 10,
+		"ratingCount": 11,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/OLTRAFFORD/KingsArena1643814236590.jpg"
@@ -31236,7 +31236,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -31709,7 +31709,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 352,
+		"ratingCount": 353,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -45061,7 +45061,7 @@
 		"createdTS": "2017-09-03T05:16:07.494Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-18T09:58:57.589Z",
-		"ratingCount": 56,
+		"ratingCount": 57,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HOTSHOTSBADMINTONCLUB/MachaxiBadmintonCentre1660816413481.jpeg"
@@ -52673,7 +52673,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 321,
+		"ratingCount": 322,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -58054,7 +58054,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T06:25:15.932Z",
-		"ratingCount": 160,
+		"ratingCount": 161,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
