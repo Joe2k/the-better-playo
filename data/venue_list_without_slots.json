@@ -881,7 +881,7 @@
 		"createdTS": "2017-01-12T09:50:24.658Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-27T08:41:09.425Z",
-		"ratingCount": 41,
+		"ratingCount": 42,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTSALLEY/SouthUnitedFootballClub1642749273793.JPG"
@@ -22000,7 +22000,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 305,
+		"ratingCount": 306,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -22433,7 +22433,7 @@
 		"createdTS": "2017-01-07T17:23:44.220Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-13T14:04:28.998Z",
-		"ratingCount": 422,
+		"ratingCount": 423,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NAMMASHUTTLE@2NDSECTOR/NammaShuttleHSRLayoutSector21668348246523.jpg"
@@ -28721,7 +28721,7 @@
 		"description": "",
 		"createdTS": "2021-03-05T06:08:16.249Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 21,
 		"zipCode": "560048",
 		"modTS": "2023-02-21T16:04:49.974Z",
 		"inquiryPhone": "9581665637",
@@ -28730,7 +28730,7 @@
 			"9581665637"
 		],
 		"sponsored": "",
-		"avgRating": 3.7,
+		"avgRating": 3.9,
 		"address": "Near Amrutha Bakery, B Narayanapura, Behind BBMP Park, Nearby Anjeneya Temple, Mahadevapura, Bangalore",
 		"active": true,
 		"id": "bc6fd65c-75d3-4789-9dd1-6b2c623e19b6",
