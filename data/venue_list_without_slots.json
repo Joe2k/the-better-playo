@@ -7853,7 +7853,7 @@
 		"createdTS": "2017-06-27T07:29:11.666Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-31T12:29:57.476Z",
-		"ratingCount": 197,
+		"ratingCount": 198,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THETURFPARK/theturfpark11.png"
@@ -17421,7 +17421,7 @@
 		"description": "",
 		"createdTS": "2021-02-01T14:36:00.849Z",
 		"bookType": 0,
-		"ratingCount": 41,
+		"ratingCount": 42,
 		"zipCode": "560068",
 		"modTS": "2022-07-04T09:06:36.177Z",
 		"inquiryPhone": "9900775253",
@@ -20711,7 +20711,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-21T10:41:29.783Z",
-		"ratingCount": 336,
+		"ratingCount": 337,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -21690,7 +21690,7 @@
 		"description": "",
 		"createdTS": "2019-06-25T15:47:03.302Z",
 		"bookType": 0,
-		"ratingCount": 7,
+		"ratingCount": 8,
 		"zipCode": "560072",
 		"modTS": "2023-02-25T07:51:54.979Z",
 		"inquiryPhone": "7483077948",
@@ -21699,7 +21699,7 @@
 			"7483077948"
 		],
 		"sponsored": "",
-		"avgRating": 3.7,
+		"avgRating": 3.4,
 		"address": "31, Marilingappa Layout, Papareddipalya Circle, Bengaluru, Karnataka - 560072",
 		"active": true,
 		"id": "ad5ad81f-cf03-4530-a455-f3f5da457763",
@@ -25208,7 +25208,7 @@
 		"description": "",
 		"createdTS": "2019-07-03T11:11:47.887Z",
 		"bookType": 0,
-		"ratingCount": 4,
+		"ratingCount": 5,
 		"zipCode": "560102",
 		"modTS": "2023-01-11T14:51:41.003Z",
 		"inquiryPhone": "9513078899",
@@ -37272,7 +37272,7 @@
 		"description": "",
 		"createdTS": "2020-09-17T07:08:03.067Z",
 		"bookType": 0,
-		"ratingCount": 26,
+		"ratingCount": 27,
 		"zipCode": "560043",
 		"modTS": "2021-12-21T14:06:14.293Z",
 		"inquiryPhone": "9900296390",
@@ -37281,7 +37281,7 @@
 			"9900296390"
 		],
 		"sponsored": "",
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"address": "No.78 & 79, 60 feet Double Road, opposite GC Tiles, NRI Layout, Bengaluru, Karnataka",
 		"active": true,
 		"id": "716453a9-0978-4c28-a717-71b5a9895b41",
