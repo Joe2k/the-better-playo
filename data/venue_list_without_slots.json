@@ -10881,7 +10881,7 @@
 		"createdTS": "2018-12-09T07:00:35.684Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-28T06:50:38.694Z",
-		"ratingCount": 269,
+		"ratingCount": 270,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEKASTURINAGAR/PlayZoneKasturinagar1646641189264.jpg"
@@ -26106,14 +26106,14 @@
 		"phone": [
 			"8951281415"
 		],
-		"avgRating": 5,
+		"avgRating": 4.9,
 		"name": "B.A.B Badminton Club",
 		"sponsoredRadius": 5,
 		"notifyBooking": 0,
 		"createdTS": "2022-10-27T03:43:00.502Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-06T07:45:05.040Z",
-		"ratingCount": 20,
+		"ratingCount": 21,
 		"id": "819465e3-c5df-4ef1-a765-2d9d4b302d7e",
 		"category": 2,
 		"s3Folder": "CASTLEWOODBADMINTONACADEMY20221027034300502026",
@@ -53090,7 +53090,7 @@
 		"description": "- Non Marking Shoes compulsory for Badminton. <br/>\n- Refreshments available.<br/>",
 		"createdTS": "2019-01-26T11:15:47.962Z",
 		"bookType": 0,
-		"ratingCount": 172,
+		"ratingCount": 173,
 		"zipCode": "560066",
 		"modTS": "2023-01-09T09:17:39.848Z",
 		"inquiryPhone": "9448060589",
@@ -54671,14 +54671,14 @@
 		"phone": [
 			"6361272126"
 		],
-		"avgRating": 0,
+		"avgRating": 5,
 		"name": "Ace Arena Sports Unlimited",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-22T19:10:54.813Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-25T20:35:12.706Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "52450769-5bca-4feb-9c23-b2607c321949",
 		"category": 2,
 		"s3Folder": "ACEARENASPORTSUNLIMITED20230322191054813100",
@@ -54785,7 +54785,7 @@
 		"createdTS": "2018-04-19T16:36:50.876Z",
 		"inquiryType": -1,
 		"modTS": "2022-11-02T11:09:24.809Z",
-		"ratingCount": 187,
+		"ratingCount": 188,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JSPORTS/JSports689cc09f07b74154a6146c35218639ea.png"
