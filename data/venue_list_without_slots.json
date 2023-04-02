@@ -20565,7 +20565,7 @@
 		"createdTS": "2017-01-07T17:23:44.157Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T06:51:04.651Z",
-		"ratingCount": 123,
+		"ratingCount": 124,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KICKON/img-20160201-wa0003.jpg"
@@ -51068,7 +51068,7 @@
 		"description": "",
 		"createdTS": "2021-10-04T06:59:25.200Z",
 		"bookType": 0,
-		"ratingCount": 18,
+		"ratingCount": 19,
 		"zipCode": "560035",
 		"modTS": "2023-03-09T14:00:47.372Z",
 		"inquiryPhone": "9880605106",
@@ -51077,7 +51077,7 @@
 			"9880605106"
 		],
 		"sponsored": "",
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"address": "FitMentkids, Site No 39, near GRC Subhiksha, behind Nortedame Academy, Choodasandra, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
