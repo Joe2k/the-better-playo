@@ -3560,7 +3560,7 @@
 		"description": "",
 		"createdTS": "2019-03-03T12:01:20.906Z",
 		"bookType": 0,
-		"ratingCount": 12,
+		"ratingCount": 13,
 		"zipCode": "560010",
 		"modTS": "2023-02-23T09:48:50.001Z",
 		"inquiryPhone": "8867591991",
@@ -5162,7 +5162,7 @@
 		"createdTS": "2018-05-07T12:16:36.958Z",
 		"inquiryType": -1,
 		"modTS": "2022-09-02T11:49:39.771Z",
-		"ratingCount": 156,
+		"ratingCount": 157,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SAIFOOTBALLACADEMY/EeshaBadmintonAcademy1640720192662.jpeg"
@@ -23875,7 +23875,7 @@
 		"createdTS": "2018-07-20T10:56:11.741Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T18:00:53.886Z",
-		"ratingCount": 372,
+		"ratingCount": 373,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYZONEBELLANDUR/playzonebellandur1.jpg"
@@ -57262,7 +57262,7 @@
 		"description": "",
 		"createdTS": "2019-07-11T09:39:38.620Z",
 		"bookType": 0,
-		"ratingCount": 48,
+		"ratingCount": 49,
 		"zipCode": "560066",
 		"modTS": "2022-03-25T12:53:59.261Z",
 		"inquiryPhone": "7338282567",
