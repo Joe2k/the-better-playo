@@ -18954,7 +18954,7 @@
 		"description": "",
 		"createdTS": "2019-03-07T17:29:48.080Z",
 		"bookType": 0,
-		"ratingCount": 299,
+		"ratingCount": 300,
 		"zipCode": "560075",
 		"modTS": "2021-10-08T12:50:29.499Z",
 		"inquiryPhone": "9916226111",
@@ -24088,7 +24088,7 @@
 		"description": "",
 		"createdTS": "2019-08-05T17:59:15.867Z",
 		"bookType": 0,
-		"ratingCount": 101,
+		"ratingCount": 102,
 		"zipCode": "560078",
 		"modTS": "2022-02-28T14:59:55.604Z",
 		"inquiryPhone": "7795635133",
@@ -28722,7 +28722,7 @@
 		"description": "",
 		"createdTS": "2021-03-05T06:08:16.249Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560048",
 		"modTS": "2023-02-21T16:04:49.974Z",
 		"inquiryPhone": "9581665637",
@@ -37619,7 +37619,7 @@
 		"createdTS": "2018-10-11T07:15:01.485Z",
 		"inquiryType": -1,
 		"modTS": "2020-12-29T05:31:22.029Z",
-		"ratingCount": 62,
+		"ratingCount": 63,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/WHITEFEATHERBADMINTONCENTRE/WhiteFeatherBadmintonCentreAECSLayout3.jpeg"
@@ -40333,7 +40333,7 @@
 		"createdTS": "2017-01-07T17:23:44.219Z",
 		"inquiryType": -1,
 		"modTS": "2020-09-03T18:37:22.184Z",
-		"ratingCount": 992,
+		"ratingCount": 993,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/ORCHIDSPORTSACADEMY/OrchidSportsAcademy3.jpg"
@@ -54411,7 +54411,7 @@
 		"description": "",
 		"createdTS": "2020-01-28T11:49:46.880Z",
 		"bookType": 0,
-		"ratingCount": 16,
+		"ratingCount": 18,
 		"zipCode": "560060",
 		"modTS": "2022-12-20T07:33:33.877Z",
 		"inquiryPhone": "7090085007",
