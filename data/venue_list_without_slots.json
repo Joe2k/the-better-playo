@@ -31710,7 +31710,7 @@
 		"createdTS": "2018-06-19T08:37:11.977Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-06T14:07:38.218Z",
-		"ratingCount": 353,
+		"ratingCount": 354,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKEVIEWSPORTSARENA/lakeviewsportsarena0.png"
@@ -35335,7 +35335,7 @@
 		"phone": [
 			"8050826304"
 		],
-		"avgRating": 4.4,
+		"avgRating": 4.5,
 		"name": "Yash Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-01-07T17:23:44.174Z",
@@ -35343,7 +35343,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 29,
+		"ratingCount": 30,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -35598,7 +35598,7 @@
 		"createdTS": "2017-06-12T11:36:42.745Z",
 		"inquiryType": -1,
 		"modTS": "2022-10-03T08:18:10.268Z",
-		"ratingCount": 194,
+		"ratingCount": 195,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/THEBIGBOX/TheBigBox1639914674174.jpg"
@@ -51003,7 +51003,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 632,
+		"ratingCount": 633,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -54827,14 +54827,14 @@
 		"phone": [
 			"6361272126"
 		],
-		"avgRating": 5,
+		"avgRating": 4.7,
 		"name": "Ace Arena Sports Unlimited",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-03-22T19:10:54.813Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-25T20:35:12.706Z",
-		"ratingCount": 2,
+		"ratingCount": 3,
 		"id": "52450769-5bca-4feb-9c23-b2607c321949",
 		"category": 2,
 		"s3Folder": "ACEARENASPORTSUNLIMITED20230322191054813100",
@@ -56926,7 +56926,7 @@
 		"createdTS": "2023-01-01T04:58:13.737Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-02T10:04:15.789Z",
-		"ratingCount": 65,
+		"ratingCount": 66,
 		"id": "2b413335-e49f-4241-9ebd-c2d95606b286",
 		"category": 2,
 		"s3Folder": "BADMINTONIUMACADEMY20230101045813737097",
