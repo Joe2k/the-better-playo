@@ -17423,7 +17423,7 @@
 		"bookType": 0,
 		"ratingCount": 42,
 		"zipCode": "560068",
-		"modTS": "2022-07-04T09:06:36.177Z",
+		"modTS": "2023-04-03T10:41:41.050Z",
 		"inquiryPhone": "9900775253",
 		"inquiryType": -1,
 		"phone": [
@@ -17539,6 +17539,7 @@
 		"venueId": "6620ccaa-6a0c-480f-ae0e-775801e67de8",
 		"activityCount": 8440,
 		"activityCountLastSyncDate": "2023-04-02T18:30:02.998Z",
+		"bnpl": false,
 		"distance": 8.780366156603868,
 		"activeKey": "dee-sports-academy-bommanahalli-hongasandra-bengaluru",
 		"offers": [
@@ -20565,7 +20566,7 @@
 		"createdTS": "2017-01-07T17:23:44.157Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T06:51:04.651Z",
-		"ratingCount": 124,
+		"ratingCount": 125,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KICKON/img-20160201-wa0003.jpg"
@@ -23574,7 +23575,7 @@
 		"description": "",
 		"createdTS": "2019-05-30T08:35:55.073Z",
 		"bookType": 0,
-		"ratingCount": 108,
+		"ratingCount": 109,
 		"zipCode": "560037",
 		"modTS": "2023-03-29T10:57:58.787Z",
 		"inquiryPhone": "8431096707",
@@ -35704,7 +35705,7 @@
 		"createdTS": "2017-01-07T17:23:44.189Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-04T06:49:40.368Z",
-		"ratingCount": 377,
+		"ratingCount": 378,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH&SPRINT/SmashSprint1647445013185.jpg"
@@ -47373,7 +47374,7 @@
 		"createdTS": "2017-05-15T06:39:44.910Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-14T13:39:04.859Z",
-		"ratingCount": 233,
+		"ratingCount": 234,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/NEWVIVASBADMINTONACADEMY/1.png"
@@ -48423,8 +48424,8 @@
 		"isSafeAndHygiene": true,
 		"activityCount": 5,
 		"activityCountLastSyncDate": "2023-04-02T18:30:02.998Z",
-		"avgRating": 4.7,
-		"ratingCount": 3,
+		"avgRating": 4.8,
+		"ratingCount": 4,
 		"addInfo": "Badminton: <br/>\n- Non Marking Shoes compulsory for Badminton. Shoes must be worn after entering the facility.<br/>\n- Sports equipment available on rent: Rackets, Shoes.<br/>\n- Socks are compulsory for rented shoes. Please carry your own. <br/>\n- Barefoot play is strictly prohibited. <br/>\n- A maximum of 4 members per booking per badminton court is admissible.<br/>\n<br/>\n<br/>",
 		"bnpl": false,
 		"bookType": 0,
@@ -54833,7 +54834,7 @@
 		"createdTS": "2023-03-22T19:10:54.813Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-25T20:35:12.706Z",
-		"ratingCount": 1,
+		"ratingCount": 2,
 		"id": "52450769-5bca-4feb-9c23-b2607c321949",
 		"category": 2,
 		"s3Folder": "ACEARENASPORTSUNLIMITED20230322191054813100",
@@ -55697,7 +55698,7 @@
 		"bookType": 0,
 		"ratingCount": 2,
 		"zipCode": "560035",
-		"modTS": "2022-05-06T17:46:22.891Z",
+		"modTS": "2023-04-03T10:17:55.397Z",
 		"inquiryPhone": "9886425600",
 		"inquiryType": -1,
 		"phone": [
@@ -55757,7 +55758,7 @@
 		"fullLink": "https://playo.co/venue?venueId=eee0e9db-a210-466f-b105-6661c7fd95c6",
 		"type": 0,
 		"email": [
-			"info@jsports.in"
+			"jaspersports@gmail.com"
 		],
 		"s3Folder": "SPORTSSQAURE20201027103408684071",
 		"__v": 1,
@@ -55797,6 +55798,7 @@
 		"venueId": "eee0e9db-a210-466f-b105-6661c7fd95c6",
 		"activityCount": 28,
 		"activityCountLastSyncDate": "2023-04-02T18:30:02.998Z",
+		"bnpl": false,
 		"distance": 14.284986437650453,
 		"activeKey": "sports-square-sarjapur-road-bengaluru",
 		"offers": [
