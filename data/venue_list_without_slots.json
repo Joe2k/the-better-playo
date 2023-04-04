@@ -37009,7 +37009,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-01-13T11:43:53.597Z",
 		"inquiryType": -1,
-		"modTS": "2023-04-04T06:40:52.599Z",
+		"modTS": "2023-04-04T12:01:42.887Z",
 		"ratingCount": 4,
 		"id": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 		"category": 2,
@@ -37028,25 +37028,31 @@
 		"search": "",
 		"fullLink": "https://playo.co/venue?venueId=4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 		"country": "India",
-		"timings": "6 AM - 6 PM",
+		"timings": "5 AM - 12 AM",
 		"addInfo": "Football: <br/>\n- Size of the ground: 100 ft x 60 ft <br/>\n- Can accommodate 6 a side or 7 a side play. <br/>\n- It is recommended but not compulsory to wear football studs while playing at the facility. <br/>\n- Metal studs are not allowed. <br/>\n<br/>\n<br/>",
 		"isSafeAndHygiene": true,
-		"__v": 3,
+		"__v": 5,
 		"coverImage": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/NextLevelCricketAcademycovercover1673609758902.jpg",
 		"deferLink": "https://z34v4.app.goo.gl/VkY1",
 		"googleMapLink": "",
 		"images": [
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997229749.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/risingstarsportsarenastarbadminton1677997229749.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997232973.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/risingstarsportsarenastarbadminton1677997232973.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997236269.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/risingstarsportsarenastarbadminton1677997236269.jpeg"
 			},
 			{
-				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/RisingStarSportsArenaStarBadminton1677997241595.jpeg"
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/risingstarsportsarenastarbadminton1677997241595.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/risingstarsportsarenastarbadminton1680608564952.jpeg"
+			},
+			{
+				"url": "https://playo.gumlet.io/NEXTLEVELCRICKETACADEMY20230113114353597651/risingstarsportsarenastarbadminton1680608568909.jpeg"
 			}
 		],
 		"infoData": [],
@@ -61343,7 +61349,7 @@
 		"createdTS": "2017-01-07T17:23:44.197Z",
 		"inquiryType": -1,
 		"modTS": "2020-10-12T06:02:10.551Z",
-		"ratingCount": 131,
+		"ratingCount": 132,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/A1SPORTS/A1Sports1.png"
