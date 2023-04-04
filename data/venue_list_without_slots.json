@@ -372,7 +372,7 @@
 			"Restroom"
 		],
 		"area": "Ashok Nagar",
-		"avgRating": 4.6,
+		"avgRating": 4.7,
 		"bookSports": [
 			"SP2"
 		],
@@ -440,7 +440,7 @@
 			"6361596985"
 		],
 		"placeId": "",
-		"ratingCount": 28,
+		"ratingCount": 29,
 		"remarks": "",
 		"restricted": 0,
 		"s3Folder": "IMPETUSBANGALOREFOOTBALLSTADIUM",
@@ -35121,7 +35121,7 @@
 		"description": "",
 		"createdTS": "2022-06-14T14:24:16.054Z",
 		"bookType": 0,
-		"ratingCount": 49,
+		"ratingCount": 50,
 		"zipCode": "560076",
 		"modTS": "2023-03-24T06:22:04.641Z",
 		"inquiryPhone": "9886073270",
@@ -44131,7 +44131,7 @@
 		"phone": [
 			"9148632405"
 		],
-		"avgRating": 4.8,
+		"avgRating": 4.7,
 		"name": "FlyHigh Badminton Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-08-29T16:29:49.897Z",
@@ -44139,7 +44139,7 @@
 		"createdTS": "2017-08-29T16:29:49.897Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-08T13:53:17.575Z",
-		"ratingCount": 44,
+		"ratingCount": 45,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/FLYHIGH/flyhighbadmintonarena1660032614321.jpeg"
@@ -49294,7 +49294,7 @@
 		"createdTS": "2017-04-24T07:46:20.800Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-21T04:19:31.542Z",
-		"ratingCount": 205,
+		"ratingCount": 206,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/KARSPORTS/karsports5.jpg"
@@ -57718,7 +57718,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 363,
+		"ratingCount": 364,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
