@@ -22001,7 +22001,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 306,
+		"ratingCount": 307,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -34721,7 +34721,7 @@
 		"bookType": 0,
 		"ratingCount": 223,
 		"zipCode": "560068",
-		"modTS": "2023-03-08T05:37:25.990Z",
+		"modTS": "2023-04-04T06:23:23.787Z",
 		"inquiryPhone": "8095514666",
 		"inquiryType": -1,
 		"phone": [
@@ -34741,8 +34741,7 @@
 			"SP56",
 			"SP45",
 			"SP27",
-			"SP1",
-			"SP7"
+			"SP1"
 		],
 		"name": "Score Bengaluru Sports Park",
 		"area": "Chikka Begur",
@@ -34775,8 +34774,7 @@
 			"SP56",
 			"SP45",
 			"SP27",
-			"SP1",
-			"SP7"
+			"SP1"
 		],
 		"members": false,
 		"state": "Karnataka",
@@ -36911,11 +36909,11 @@
 		],
 		"avgRating": 5,
 		"name": "Rising Star Sports Arena (Star Badminton)",
-		"sponsoredRadius": 4,
+		"sponsoredRadius": 5,
 		"notifyBooking": 0,
 		"createdTS": "2023-01-13T11:43:53.597Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-20T10:40:53.257Z",
+		"modTS": "2023-04-04T06:40:52.599Z",
 		"ratingCount": 4,
 		"id": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 		"category": 2,
@@ -36927,7 +36925,7 @@
 		],
 		"description": "",
 		"tags": [],
-		"sponsored": "",
+		"sponsored": "Featured",
 		"members": false,
 		"address": "Eastwood Township, Haralur, Karnataka - 560103",
 		"active": true,
@@ -63259,6 +63257,80 @@
 				"cityLng": 78.458122
 			}
 		]
+	},
+	{
+		"inquiryPhone": "8951820251",
+		"bnpl": false,
+		"keywords": [
+			{
+				"active": true,
+				"key": "nakshatra-sports-marigold-international-school-kumbalgodu-bengaluru"
+			}
+		],
+		"city": "Bengaluru",
+		"bookSports": [
+			"SP2",
+			"SP1",
+			"SP7",
+			"SP34"
+		],
+		"area": "Kumbalgodu",
+		"oldPlayoId": "2d001b38-a16a-4ae8-a213-3cfdafadb899",
+		"functionData": [],
+		"sports": [
+			"SP2",
+			"SP1",
+			"SP7",
+			"SP34"
+		],
+		"amenities": [
+			"Washroom",
+			" Parking",
+			" Drinking water",
+			" First Aid"
+		],
+		"type": 0,
+		"cityCode": 1,
+		"bookType": 0,
+		"zipCode": "560074",
+		"phone": [
+			"8951820251"
+		],
+		"avgRating": 0,
+		"name": "Nakshatra Sports - Marigold International School",
+		"sponsoredRadius": 4,
+		"notifyBooking": 0,
+		"createdTS": "2023-04-04T07:24:06.419Z",
+		"inquiryType": -1,
+		"modTS": "2023-04-04T07:24:06.419Z",
+		"ratingCount": 0,
+		"id": "2d001b38-a16a-4ae8-a213-3cfdafadb899",
+		"category": 2,
+		"s3Folder": "NAKSHATRASPORTSMARIGOLDINTERNATIONALSCHOOL20230404072406419307",
+		"restricted": 0,
+		"state": "Karnataka",
+		"email": [
+			"0501harsha@gmail.com"
+		],
+		"description": "",
+		"tags": [],
+		"sponsored": "",
+		"members": false,
+		"address": "Marigold International School, SH17, Kumbalgodu, Karnataka 560074",
+		"active": true,
+		"search": "",
+		"fullLink": "https://playo.co/venue?venueId=2d001b38-a16a-4ae8-a213-3cfdafadb899",
+		"country": "India",
+		"timings": "5AM - 11PM",
+		"addInfo": "",
+		"isSafeAndHygiene": true,
+		"shareLink": "https://z34v4.app.goo.gl/AX8S",
+		"deferLink": "https://z34v4.app.goo.gl/f2Hf",
+		"distance": 17.557064352268217,
+		"lat": 12.892083224544812,
+		"lng": 77.45484874162409,
+		"activeKey": "nakshatra-sports-marigold-international-school-kumbalgodu-bengaluru",
+		"offers": []
 	},
 	{
 		"inquiryPhone": "8069031500",
@@ -90657,6 +90729,65 @@
 		"offers": []
 	},
 	{
+		"name": "Badminton Courts",
+		"area": "Whitefield",
+		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
+		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
+		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
+		"website": "palmmeadowsclub.com",
+		"email": "room@palmmeadowsclub.com",
+		"remarks": "",
+		"phone": [],
+		"functionData": [],
+		"city": "Bangalore",
+		"country": "India",
+		"sports": [
+			"SP5"
+		],
+		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
+		"cityCode": 1,
+		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"category": 1,
+		"inquiryPhone": null,
+		"s3Folder": "BADMINTONCOURTS",
+		"source": "uttam",
+		"everyDayTimings": {
+			"Mon": "6–8PM",
+			"Tue": "6–8PM",
+			"Wed": "6–8PM",
+			"Thu": "6–8PM",
+			"Fri": "6–8PM",
+			"Sat": "Closed",
+			"Sun": "Closed"
+		},
+		"active": true,
+		"keywords": [
+			{
+				"key": "Badminton-Courts-Whitefield-bangalore",
+				"active": true
+			}
+		],
+		"images": [],
+		"rating": 0,
+		"shareLink": "https://playo.page.link/pkg39",
+		"deferLink": "https://playo.page.link/cMF9F",
+		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
+		"amenities": [],
+		"tags": [],
+		"members": false,
+		"isSafeAndHygiene": false,
+		"activityCount": 0,
+		"activityCountLastSyncDate": "2023-04-03T18:30:02.757Z",
+		"avgRating": 0,
+		"ratingCount": 0,
+		"distance": 15.708227871680338,
+		"lat": 12.9639825,
+		"lng": 77.7391921,
+		"activeKey": "Badminton-Courts-Whitefield-bangalore",
+		"offers": []
+	},
+	{
 		"name": "Badminton Courts2",
 		"area": "Whitefield",
 		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
@@ -90718,65 +90849,6 @@
 		"lat": 12.9639825,
 		"lng": 77.7391921,
 		"activeKey": "Badminton-Courts2-Whitefield-bangalore",
-		"offers": []
-	},
-	{
-		"name": "Badminton Courts",
-		"area": "Whitefield",
-		"address": "M2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
-		"googleMapLink": "https://www.google.co.in/maps/place/Badminton+Courts/@12.9639877,77.7370034,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1205e13b9d53:0x7197fe7e704b1e42!8m2!3d12.9639825!4d77.7391921",
-		"googlePlusCode": "XP7Q+HM Bengaluru, Karnataka",
-		"website": "palmmeadowsclub.com",
-		"email": "room@palmmeadowsclub.com",
-		"remarks": "",
-		"phone": [],
-		"functionData": [],
-		"city": "Bangalore",
-		"country": "India",
-		"sports": [
-			"SP5"
-		],
-		"timings": "Mon-Fri:6–8PM Sat-Sun:Closed ",
-		"cityCode": 1,
-		"id": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"oldPlayoId": "ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"category": 1,
-		"inquiryPhone": null,
-		"s3Folder": "BADMINTONCOURTS",
-		"source": "uttam",
-		"everyDayTimings": {
-			"Mon": "6–8PM",
-			"Tue": "6–8PM",
-			"Wed": "6–8PM",
-			"Thu": "6–8PM",
-			"Fri": "6–8PM",
-			"Sat": "Closed",
-			"Sun": "Closed"
-		},
-		"active": true,
-		"keywords": [
-			{
-				"key": "Badminton-Courts-Whitefield-bangalore",
-				"active": true
-			}
-		],
-		"images": [],
-		"rating": 0,
-		"shareLink": "https://playo.page.link/pkg39",
-		"deferLink": "https://playo.page.link/cMF9F",
-		"fullLink": "https://playo.co/venue/?venueId=ceef3bb9-9a93-4574-9eaf-3192ac555222",
-		"amenities": [],
-		"tags": [],
-		"members": false,
-		"isSafeAndHygiene": false,
-		"activityCount": 0,
-		"activityCountLastSyncDate": "2023-04-03T18:30:02.757Z",
-		"avgRating": 0,
-		"ratingCount": 0,
-		"distance": 15.708227871680338,
-		"lat": 12.9639825,
-		"lng": 77.7391921,
-		"activeKey": "Badminton-Courts-Whitefield-bangalore",
 		"offers": []
 	},
 	{
