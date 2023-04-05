@@ -7459,7 +7459,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 201,
+		"ratingCount": 202,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -18250,7 +18250,7 @@
 		"createdTS": "2017-01-07T17:23:44.137Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-14T12:37:07.666Z",
-		"ratingCount": 149,
+		"ratingCount": 150,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/YESHWANTHPURFEATHERSACADEMY/NewFeathersBadmintonAcademy1647679337208.jpeg"
@@ -20810,7 +20810,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-21T10:41:29.783Z",
-		"ratingCount": 337,
+		"ratingCount": 338,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -28734,7 +28734,7 @@
 		"phone": [
 			"9880941111"
 		],
-		"avgRating": 4.3,
+		"avgRating": 4.2,
 		"name": "Machaxi - Ahalya Sports Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-11-08T14:32:44.423Z",
@@ -28742,7 +28742,7 @@
 		"createdTS": "2017-11-08T14:32:44.423Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-09T14:46:27.431Z",
-		"ratingCount": 265,
+		"ratingCount": 266,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/AHALYASPORTSARENA/ahalyasportsarena14.jpg"
