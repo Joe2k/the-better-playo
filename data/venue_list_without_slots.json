@@ -47539,7 +47539,7 @@
 		"description": "",
 		"createdTS": "2019-09-12T16:38:20.962Z",
 		"bookType": 0,
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"zipCode": "560035",
 		"modTS": "2022-05-17T12:11:57.577Z",
 		"inquiryPhone": "9790513417",
@@ -47548,7 +47548,7 @@
 			"9790513417"
 		],
 		"sponsored": "Featured",
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"address": "Gear Innovative International School, 175, GEAR Road, Off Outer Ring Road, Bengaluru, Karnataka",
 		"active": true,
 		"id": "a600a4b2-95f1-4928-a484-779c53d45de6",
@@ -51326,7 +51326,7 @@
 		"description": "",
 		"createdTS": "2021-10-04T06:59:25.200Z",
 		"bookType": 0,
-		"ratingCount": 19,
+		"ratingCount": 20,
 		"zipCode": "560035",
 		"modTS": "2023-03-09T14:00:47.372Z",
 		"inquiryPhone": "9880605106",
@@ -51335,7 +51335,7 @@
 			"9880605106"
 		],
 		"sponsored": "",
-		"avgRating": 4.7,
+		"avgRating": 4.8,
 		"address": "FitMentkids, Site No 39, near GRC Subhiksha, behind Nortedame Academy, Choodasandra, Bengaluru, Karnataka - 560035",
 		"active": true,
 		"id": "2e8aba12-a0ca-411e-b541-6d1e73a4da80",
@@ -51890,7 +51890,7 @@
 		"phone": [
 			"8861225445"
 		],
-		"avgRating": 4.5,
+		"avgRating": 4.4,
 		"name": "Fortress Arena",
 		"sponsoredExpiry": null,
 		"activatedOn": "2017-04-29T08:01:03.182Z",
@@ -51898,7 +51898,7 @@
 		"createdTS": "2017-04-29T08:01:03.182Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-13T07:00:09.839Z",
-		"ratingCount": 97,
+		"ratingCount": 98,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SIMBASPORTS/SimbaSports0.jpg"
