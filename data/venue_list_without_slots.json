@@ -27979,7 +27979,7 @@
 		"description": "",
 		"createdTS": "2022-06-20T12:12:51.568Z",
 		"bookType": 0,
-		"ratingCount": 15,
+		"ratingCount": 16,
 		"zipCode": "560068",
 		"modTS": "2023-03-25T08:13:17.798Z",
 		"inquiryPhone": "9900591236",
@@ -27988,7 +27988,7 @@
 			"9900591236"
 		],
 		"sponsored": "",
-		"avgRating": 4.2,
+		"avgRating": 4.3,
 		"address": "1st cross, Lakshmi Layout Main Rd, Gowaramma layout, Garvebhavi Palya, Bengaluru, Karnataka",
 		"active": true,
 		"id": "33d466f1-d1ef-4502-8030-b297418c694f",
@@ -35439,7 +35439,7 @@
 		"createdTS": "2017-01-07T17:23:44.174Z",
 		"inquiryType": -1,
 		"modTS": "2022-08-24T08:09:24.146Z",
-		"ratingCount": 31,
+		"ratingCount": 32,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/JUMPNSMASH/YashSportsArena1661328517238.jpeg"
@@ -37163,7 +37163,7 @@
 		"createdTS": "2018-04-07T13:13:05.216Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-04T07:05:40.918Z",
-		"ratingCount": 51,
+		"ratingCount": 52,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/STARBADMINTONPREMIUMCLASSCOURTS/StarBadmintonAcademy1658827316673.jpg"
@@ -39007,7 +39007,7 @@
 		"description": "",
 		"createdTS": "2020-03-12T12:38:59.995Z",
 		"bookType": 0,
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"zipCode": "560108",
 		"modTS": "2023-03-01T08:43:14.478Z",
 		"inquiryPhone": "8095514666",
