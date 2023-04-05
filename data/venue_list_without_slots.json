@@ -10753,10 +10753,10 @@
 		"functionData": [
 			{
 				"content": "911d302e-2071-4155-8bd2-fc358da5a65d",
+				"caption": "Book Now!",
 				"bookType": 0,
 				"priority": "0",
 				"displayType": 3,
-				"caption": "Book Now!",
 				"type": 3
 			}
 		],
@@ -10782,7 +10782,7 @@
 		"notifyBooking": 0,
 		"createdTS": "2023-03-16T19:03:11.321Z",
 		"inquiryType": -1,
-		"modTS": "2023-03-16T19:43:29.819Z",
+		"modTS": "2023-04-05T16:53:25.246Z",
 		"ratingCount": 11,
 		"id": "911d302e-2071-4155-8bd2-fc358da5a65d",
 		"category": 2,
@@ -10806,8 +10806,8 @@
 		"isSafeAndHygiene": true,
 		"shareLink": "https://z34v4.app.goo.gl/ysjd",
 		"deferLink": "https://z34v4.app.goo.gl/jVZ1",
-		"lat": 13.038500508696325,
-		"lng": 77.61237707539385,
+		"lat": 13.038409852987018,
+		"lng": 77.6128507454611,
 		"venueId": "911d302e-2071-4155-8bd2-fc358da5a65d",
 		"__v": 1,
 		"coverImage": "",
@@ -10826,7 +10826,7 @@
 		"remarks": "",
 		"activityCountLastSyncDate": "2023-04-04T18:30:02.996Z",
 		"activityCount": 32,
-		"distance": 7.692847791736398,
+		"distance": 7.696132858685134,
 		"activeKey": "saalsa-badminton-academy-veerannapalya-bengaluru",
 		"offers": []
 	},
@@ -22099,7 +22099,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 310,
+		"ratingCount": 311,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -32231,7 +32231,7 @@
 		"createdTS": "2018-11-10T20:26:26.499Z",
 		"inquiryType": -1,
 		"modTS": "2022-07-19T19:00:47.778Z",
-		"ratingCount": 116,
+		"ratingCount": 117,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/VPLAYSPORTS401A2656FE52/VPlaySports1658257177770.jpg"
@@ -37079,7 +37079,7 @@
 				"offerContent": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 				"coupon": "PLAYON",
 				"imageUrl": "https://playo.gumlet.io/OFFERS/RisingStarSportsArenaInauguralOfferFlat20offonallbookings2jocckcover1678030233241.jpg",
-				"expiry": "2023-04-30T00:00:00.000Z",
+				"expiry": "2023-12-31T00:00:00.000Z",
 				"multiCity": false,
 				"sports": "SP2,SP57,SP56",
 				"activeKey": "rising-star-sports-arena-inaugural-offer-flat-20-off-on-all-bookings!-bengaluru",
@@ -37087,7 +37087,7 @@
 					{
 						"coupon": "PLAYON",
 						"howTo": "Just apply the coupon code while checkout to avail this offer",
-						"validity": "Valid till April 30, 2023",
+						"validity": "Valid till December 31, 2023",
 						"content": "https://playo.co/venue/?venueId=4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 						"action": "Avail Offer",
 						"type": "venue"
@@ -57720,7 +57720,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 366,
+		"ratingCount": 367,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
