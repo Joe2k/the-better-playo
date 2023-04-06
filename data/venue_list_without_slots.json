@@ -16952,7 +16952,7 @@
 		"description": "",
 		"createdTS": "2020-01-04T06:39:08.674Z",
 		"bookType": 0,
-		"ratingCount": 8,
+		"ratingCount": 9,
 		"zipCode": "560072",
 		"modTS": "2022-04-30T09:29:11.323Z",
 		"inquiryPhone": "8088259214",
@@ -16961,7 +16961,7 @@
 			"8088259214"
 		],
 		"sponsored": "",
-		"avgRating": 4.9,
+		"avgRating": 4.8,
 		"address": "Landmark - Bharatiya Samskruti Vidyapitha, No.23, 3rd Block, Malagala, Nagarabhavi 2nd Stage, Bengaluru",
 		"active": true,
 		"id": "47f88ffc-f1c9-4d8b-8683-cb2b3ca743e6",
@@ -34704,7 +34704,7 @@
 		"createdTS": "2018-04-24T05:31:16.009Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T08:17:11.163Z",
-		"ratingCount": 284,
+		"ratingCount": 285,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HIGHLINESPORTSINDOORBADMINTONACADEMY/highlinesportsindoorbadmintonacademy0.jpg"
@@ -57720,7 +57720,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 369,
+		"ratingCount": 370,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
@@ -63302,82 +63302,6 @@
 				"cityLng": 78.458122
 			}
 		]
-	},
-	{
-		"inquiryPhone": "8951820251",
-		"bnpl": false,
-		"keywords": [
-			{
-				"active": true,
-				"key": "nakshatra-sports-marigold-international-school-kumbalgodu-bengaluru"
-			}
-		],
-		"city": "Bengaluru",
-		"bookSports": [
-			"SP2",
-			"SP1",
-			"SP7",
-			"SP34"
-		],
-		"area": "Kumbalgodu",
-		"oldPlayoId": "2d001b38-a16a-4ae8-a213-3cfdafadb899",
-		"functionData": [],
-		"sports": [
-			"SP2",
-			"SP1",
-			"SP7",
-			"SP34"
-		],
-		"amenities": [
-			"Washroom",
-			" Parking",
-			" Drinking water",
-			" First Aid"
-		],
-		"type": 0,
-		"cityCode": 1,
-		"bookType": 0,
-		"zipCode": "560074",
-		"phone": [
-			"8951820251"
-		],
-		"avgRating": 0,
-		"name": "Nakshatra Sports - Marigold International School",
-		"sponsoredRadius": 4,
-		"notifyBooking": 0,
-		"createdTS": "2023-04-04T07:24:06.419Z",
-		"inquiryType": -1,
-		"modTS": "2023-04-04T07:24:06.419Z",
-		"ratingCount": 0,
-		"id": "2d001b38-a16a-4ae8-a213-3cfdafadb899",
-		"category": 2,
-		"s3Folder": "NAKSHATRASPORTSMARIGOLDINTERNATIONALSCHOOL20230404072406419307",
-		"restricted": 0,
-		"state": "Karnataka",
-		"email": [
-			"0501harsha@gmail.com"
-		],
-		"description": "",
-		"tags": [],
-		"sponsored": "",
-		"members": false,
-		"address": "Marigold International School, SH17, Kumbalgodu, Karnataka 560074",
-		"active": true,
-		"search": "",
-		"fullLink": "https://playo.co/venue?venueId=2d001b38-a16a-4ae8-a213-3cfdafadb899",
-		"country": "India",
-		"timings": "5AM - 11PM",
-		"addInfo": "",
-		"isSafeAndHygiene": true,
-		"shareLink": "https://z34v4.app.goo.gl/AX8S",
-		"deferLink": "https://z34v4.app.goo.gl/f2Hf",
-		"activityCountLastSyncDate": "2023-04-05T18:30:03.319Z",
-		"activityCount": 1,
-		"distance": 17.557064352268217,
-		"lat": 12.892083224544812,
-		"lng": 77.45484874162409,
-		"activeKey": "nakshatra-sports-marigold-international-school-kumbalgodu-bengaluru",
-		"offers": []
 	},
 	{
 		"inquiryPhone": "8069031500",
