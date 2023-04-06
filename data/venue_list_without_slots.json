@@ -27294,7 +27294,7 @@
 		"createdTS": "2018-04-09T09:46:50.176Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T11:52:10.103Z",
-		"ratingCount": 23,
+		"ratingCount": 25,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LETZPLAY/LetzPlayAshokaSportsArenaNagarbhavi1673778365991.jpeg"
@@ -37077,7 +37077,7 @@
 				"countryCode": "+91",
 				"createdTS": "2019-09-11T13:25:52.997Z",
 				"offerContent": "4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
-				"coupon": "PLAYON",
+				"coupon": "",
 				"imageUrl": "https://playo.gumlet.io/OFFERS/RisingStarSportsArenaInauguralOfferFlat20offonallbookings2jocckcover1678030233241.jpg",
 				"expiry": "2023-12-31T00:00:00.000Z",
 				"multiCity": false,
@@ -37085,8 +37085,8 @@
 				"activeKey": "rising-star-sports-arena-inaugural-offer-flat-20-off-on-all-bookings!-bengaluru",
 				"infoData": [
 					{
-						"coupon": "PLAYON",
-						"howTo": "Just apply the coupon code while checkout to avail this offer",
+						"coupon": "",
+						"howTo": "No coupon required for this offer",
 						"validity": "Valid till December 31, 2023",
 						"content": "https://playo.co/venue/?venueId=4f82c02f-0b4b-4bfb-a7da-07d2b2192698",
 						"action": "Avail Offer",
@@ -37109,7 +37109,7 @@
 				"deferLink": "https://z34v4.app.goo.gl/s5Dq",
 				"cityLat": 12.9539974,
 				"cityLng": 77.6309395,
-				"terms": ""
+				"terms": "- The offer gets auto applied on selecting the slots."
 			}
 		]
 	},
@@ -51105,7 +51105,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 634,
+		"ratingCount": 635,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -57720,7 +57720,7 @@
 		"createdTS": "2018-09-19T15:21:02.257Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-07T15:51:52.374Z",
-		"ratingCount": 368,
+		"ratingCount": 369,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAY9BADMINTONACADEMYOFFITNESSSPORTS/1.png"
