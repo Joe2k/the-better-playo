@@ -7459,7 +7459,7 @@
 		"description": "",
 		"createdTS": "2021-12-17T11:01:15.490Z",
 		"bookType": 0,
-		"ratingCount": 202,
+		"ratingCount": 203,
 		"zipCode": "560093",
 		"modTS": "2022-05-28T06:50:09.477Z",
 		"inquiryPhone": "7676766570",
@@ -11670,7 +11670,7 @@
 		"createdTS": "2018-07-11T10:10:49.283Z",
 		"inquiryType": -1,
 		"modTS": "2021-12-19T05:55:41.060Z",
-		"ratingCount": 343,
+		"ratingCount": 344,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/RACKETCLUBOFBENGALURU/racketclubofbengaluru0.jpeg"
@@ -20810,7 +20810,7 @@
 		"createdTS": "2018-07-26T12:12:59.459Z",
 		"inquiryType": -1,
 		"modTS": "2023-03-21T10:41:29.783Z",
-		"ratingCount": 339,
+		"ratingCount": 340,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SPORTIVEBADMINTONARENA-HSRLAYOUT57C8F1D62D37/SportiveBadmintonArenaHSRLayout1658907232298.jpg"
@@ -25785,7 +25785,7 @@
 		"createdTS": "2017-01-07T17:23:44.156Z",
 		"inquiryType": -1,
 		"modTS": "2023-01-13T11:44:38.893Z",
-		"ratingCount": 60,
+		"ratingCount": 61,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/HAWKSPORTSARENA/HawkSportsArena10.png"
@@ -35998,7 +35998,7 @@
 		"description": "",
 		"createdTS": "2019-03-02T16:11:27.501Z",
 		"bookType": 0,
-		"ratingCount": 56,
+		"ratingCount": 58,
 		"zipCode": "560068",
 		"modTS": "2020-11-24T09:42:52.561Z",
 		"inquiryPhone": "9449631007",
@@ -36007,7 +36007,7 @@
 			"9449631007"
 		],
 		"sponsored": "",
-		"avgRating": 3.9,
+		"avgRating": 3.8,
 		"address": "Yeshodamma Layout, 2nd Main, Near Yellamma Devi Temple",
 		"active": true,
 		"id": "2a5e4742-eaf6-4fb0-8764-5d9b8fe989f4",
@@ -42721,7 +42721,7 @@
 		"description": "",
 		"createdTS": "2020-01-24T10:56:39.029Z",
 		"bookType": 0,
-		"ratingCount": 21,
+		"ratingCount": 22,
 		"zipCode": "560035",
 		"modTS": "2022-03-16T15:28:13.691Z",
 		"inquiryPhone": "7624898999",
@@ -42730,7 +42730,7 @@
 			"7624898999"
 		],
 		"sponsored": "",
-		"avgRating": 4.6,
+		"avgRating": 4.5,
 		"address": "4th Left Cross, Owners Ct E Rd, Junnasandra, Karnataka 560035",
 		"active": true,
 		"id": "a687a3c4-11ed-4500-bf9e-ea38e59d79d3",
@@ -51105,7 +51105,7 @@
 		"createdTS": "2017-02-17T11:34:45.657Z",
 		"inquiryType": -1,
 		"modTS": "2022-03-08T10:57:54.469Z",
-		"ratingCount": 636,
+		"ratingCount": 637,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/PLAYTMSPORTSARENA/PlayTMSportsArena1646737038266.PNG"
@@ -52931,7 +52931,7 @@
 		"createdTS": "2017-01-07T17:23:44.198Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T06:36:55.361Z",
-		"ratingCount": 324,
+		"ratingCount": 325,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/IBLITZHOODI/iBlitzSportsClubHoodi1675838052630.jpeg"
@@ -55288,14 +55288,14 @@
 		"phone": [
 			"9483966121"
 		],
-		"avgRating": 0,
+		"avgRating": 4,
 		"name": "The Baller Dome",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2023-02-08T05:46:24.490Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-08T05:47:27.971Z",
-		"ratingCount": 0,
+		"ratingCount": 1,
 		"id": "41a822e3-320d-4a15-abf6-8a25e62d9183",
 		"category": 2,
 		"s3Folder": "THEBALLERDOME20230208054624490304",
@@ -58313,7 +58313,7 @@
 		"createdTS": "2017-01-07T17:23:44.209Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-03T06:25:15.932Z",
-		"ratingCount": 162,
+		"ratingCount": 163,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/SMASH/smashboxxsportsclub1624969497451.jpeg"
