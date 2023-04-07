@@ -7201,7 +7201,7 @@
 		"description": "",
 		"createdTS": "2019-03-24T15:00:09.040Z",
 		"bookType": 0,
-		"ratingCount": 190,
+		"ratingCount": 191,
 		"zipCode": "560040",
 		"modTS": "2021-12-19T12:56:14.827Z",
 		"inquiryPhone": "9108644442",
@@ -20243,14 +20243,14 @@
 		"phone": [
 			"9880999219"
 		],
-		"avgRating": 4.7,
+		"avgRating": 4.6,
 		"name": "Sky Sports Arena",
 		"sponsoredRadius": 4,
 		"notifyBooking": 0,
 		"createdTS": "2022-12-05T05:55:08.980Z",
 		"inquiryType": -1,
 		"modTS": "2023-02-23T18:34:30.003Z",
-		"ratingCount": 46,
+		"ratingCount": 48,
 		"id": "aabe19ff-249b-437b-961f-40ce9c41df18",
 		"category": 2,
 		"s3Folder": "SKYSPORTSARENA20221205055508980700",
@@ -22099,7 +22099,7 @@
 		"description": "",
 		"createdTS": "2019-02-09T15:43:55.782Z",
 		"bookType": 0,
-		"ratingCount": 313,
+		"ratingCount": 314,
 		"zipCode": "560068",
 		"modTS": "2023-03-15T08:40:28.425Z",
 		"inquiryPhone": "6364444441",
@@ -23024,7 +23024,7 @@
 		"createdTS": "2017-06-10T13:16:53.639Z",
 		"inquiryType": -1,
 		"modTS": "2022-12-07T06:12:46.247Z",
-		"ratingCount": 132,
+		"ratingCount": 133,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/MATRIXSPORTS/matrixsports0.jpg"
@@ -30723,7 +30723,7 @@
 		"createdTS": "2018-06-20T15:48:40.151Z",
 		"inquiryType": -1,
 		"modTS": "2021-10-11T07:44:39.717Z",
-		"ratingCount": 115,
+		"ratingCount": 116,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/V3BADMINTONACADEMY/V3BadmintonAcademy6.jpg"
@@ -31335,7 +31335,7 @@
 		"description": "",
 		"createdTS": "2021-04-05T06:10:16.689Z",
 		"bookType": 0,
-		"ratingCount": 65,
+		"ratingCount": 66,
 		"zipCode": "560048",
 		"modTS": "2022-12-03T12:57:33.206Z",
 		"inquiryPhone": "7899165934",
@@ -31929,7 +31929,7 @@
 		"createdTS": "2018-09-15T08:12:22.485Z",
 		"inquiryType": -1,
 		"modTS": "2022-04-30T10:53:38.892Z",
-		"ratingCount": 45,
+		"ratingCount": 46,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/BALEWADISTADIUM/invaalid1613500773525.jpeg"
@@ -33437,7 +33437,7 @@
 		"createdTS": "2017-11-14T16:12:52.302Z",
 		"inquiryType": -1,
 		"modTS": "2022-05-09T14:09:34.257Z",
-		"ratingCount": 246,
+		"ratingCount": 247,
 		"images": [
 			{
 				"url": "https://playo.gumlet.io/LAKESIDESPORTSCENTRE/LakesideSportsCentrecc59c3f7d6dc4e00be5b50706c60325b.PNG"
@@ -39162,7 +39162,7 @@
 		"description": "",
 		"createdTS": "2020-01-21T18:02:18.296Z",
 		"bookType": 0,
-		"ratingCount": 88,
+		"ratingCount": 90,
 		"zipCode": "560037",
 		"modTS": "2023-03-03T18:11:46.654Z",
 		"inquiryPhone": "9920601966",
