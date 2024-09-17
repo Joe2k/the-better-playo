@@ -23,8 +23,8 @@ const mainFunction = async () => {
 	while (true) {
 		const resp = await axios.post(VENUE_LIST_URL, {
 			page,
-			lat: 12.9716,
-			lng: 77.5946,
+			lat: 13.005767,
+			lng: 77.685732,
 			sportId: [],
 		});
 
